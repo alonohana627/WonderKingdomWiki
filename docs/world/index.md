@@ -8,6 +8,8 @@ The world map is Veligor.
 
 ### Kaldemor {#kaldemor}
 
+Lore: [Kaldemor](../lore/towns/kaldemor.md)
+
 | Map | Kind | Level |
 |---|---|---|
 | [Kaldemor](../maps/kaldemor.md) | Town | - |
@@ -37,6 +39,8 @@ Regional mastery, earned by making discoveries here:
 - **Roadwise** (2 discoveries): Skill: [Roadwise](../skills/passives.md#roadwise)
 
 ### Selsior {#selsior}
+
+Lore: [Selsior](../lore/towns/selsior.md)
 
 | Map | Kind | Level |
 |---|---|---|
