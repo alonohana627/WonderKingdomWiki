@@ -945,6 +945,8 @@ class Wiki:
         b = ["# World\n", "The world map is Veligor.\n", "## Regions\n"]
         for rid, r in self.regions.items():
             b.append(f"### {r['name']} {{#{anchor(rid)}}}\n")
+            if lore_town(rid):
+                b.append(f"Lore: [{r['name']}](../{lore_town(rid)})\n")
             b.append(table(["Map", "Kind", "Level"], [
                 [self.map(m), self.maps[m]["purpose"].title(), self.maps[m].get("difficulty", "-")] for m in r["maps"] if m in self.maps]))
             if r.get("mastery"):
@@ -1198,8 +1200,11 @@ class Wiki:
     def write_nav(self):
         order = ["Items", "Skills", "Jobs", "Monsters", "Bosses", "NPCs", "Quests", "Shops", "World", "Maps",
                  "Professions", "Runs", "Game Systems"]
-        lines = [NAV_MARKER, "nav:", "  - Home: index.md", "  - Lore:", "      - lore/index.md"]
-        lines += [f"      - {p.relative_to(DOCS).as_posix()}" for p in sorted((DOCS / "lore").glob("*.md")) if p.name != "index.md"]
+        lines = [NAV_MARKER, "nav:", "  - Home: index.md", "  - Lore:"]
+        lines += [f"      - {p}" for p in lore_order() if "/" not in p.removeprefix("lore/")]
+        for folder in sorted(d for d in (DOCS / "lore").iterdir() if d.is_dir()):
+            lines.append(f"      - {folder.name.replace('-', ' ').title()}:")
+            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")]
         for section in order:
             pages = self.nav[section]
             if isinstance(pages, str):
@@ -1211,6 +1216,27 @@ class Wiki:
         text = yml.read_text(encoding="utf-8")
         head = text.split(NAV_MARKER)[0].rstrip() + "\n\n"
         yml.write_text(head + "\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+
+
+def lore_order() -> list[str]:
+    """Lore pages in the order lore/index.md (and the pages it links) link to them; unlinked pages last."""
+    pages = {p.relative_to(DOCS).as_posix() for p in (DOCS / "lore").rglob("*.md")}
+    order, queue = [], ["lore/index.md"]
+    while queue:
+        page = queue.pop(0)
+        if page in order or page not in pages:
+            continue
+        order.append(page)
+        text = (DOCS / page).read_text(encoding="utf-8")
+        for target in re.findall(r"\]\(([^)#:]+\.md)", text):
+            queue.append(((DOCS / page).parent / target).resolve().relative_to(DOCS.resolve()).as_posix())
+    return order + sorted(pages - set(order))
+
+
+def lore_town(region_id: str) -> str | None:
+    """The lore page for a game region, from docs/lore/towns/, if there is one."""
+    page = DOCS / "lore" / "towns" / f"{region_id.replace('_', '-')}.md"
+    return f"lore/towns/{page.name}" if page.exists() else None
 
 
 def main():

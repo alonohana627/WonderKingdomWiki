@@ -51,6 +51,25 @@ nav:
   - Home: index.md
   - Lore:
       - lore/index.md
+      - lore/history.md
+      - lore/veligor.md
+      - lore/world-tree.md
+      - lore/expedition.md
+      - lore/age-of-disturbance.md
+      - lore/present-day.md
+      - lore/player.md
+      - lore/central-narrative.md
+      - lore/principles.md
+      - lore/timeline.md
+      - Towns:
+          - lore/towns/urbanograd.md
+          - lore/towns/selsior.md
+          - lore/towns/kaldemor.md
+          - lore/towns/midbarium.md
+          - lore/towns/fairy-forest.md
+          - lore/towns/bain-harbour.md
+          - lore/towns/goa-harbour.md
+          - lore/towns/cavelor.md
   - Items: items/index.md
   - Skills:
       - skills/index.md
