@@ -1,0 +1,25 @@
+Merrin is nineteen and the youngest timber cutter on Haldor's crews, the cutters who fell the trees where the forest runs down to the Forest Shore and float the logs round to the Inlet Quay. She is fast, proud and competitive. She keeps a running tally of who on the crews has felled the most trees, notched with a knife on the handle of her axe and copied, when the handle fills, onto the inside of her door. She is not at the top of it yet. She is closer every month.
+
+### The raft-woman's daughter
+
+Merrin was born on the Forest Shore. Her mother, Catriona, steered the log rafts round the point to the quay at slack tide, and Merrin rode on the logs with her as soon as she could hold on. Catriona died of a winter chill when Merrin was twelve. Merrin went to the crews the next spring, carrying water and sharpening axes as Haldor himself had once done, and swung her first axe at fifteen. She lives in a small timber house among the crew houses, alone, and likes it that way.
+
+### The tally
+
+Merrin's tally began long before her axe. The first line in it, she would tell you, is a race she ran against Kenna when they were both nine, at low tide along the Forest Shore, from the raft landing out to the end of the point and back. Kenna was ahead at the turn. Merrin came back over the weed-covered rocks instead of the sand, because it was shorter, and won by a stride. Kenna, who slipped on the rocks trying to follow, has called it cheating for ten years. Merrin has pointed out for ten years that nobody made any rules. They have been rivals ever since, at everything, and now Kenna is one of Torva's hunters, which means she is often standing at the edge of the trees, watching Merrin's crew work, and that is the best and worst arrangement either of them could have imagined.
+
+### Haldor and the crew
+
+Merrin admires Haldor more than anyone on the shore, though she teases him about the way he lays a hand on every tree and thanks it before it comes down. She does it herself now, quickly, when she thinks nobody is looking. She wants a crew of her own to lead, and she has asked Haldor for one more than once. He told her that she will get one, and that she is not ready yet. She only heard the first half.
+
+The second half is the reason she is restless. Since Haldor pulled the crews back to the forest edge this year, the wood there has been poorer every month, and the tally has slowed for everyone. Merrin can see the tall, slow-grown trees in the deep forest from the edge, and she knows that Tamsin, the boatwright, would give almost anything for one of them for the Gap Runner. She has started to think that the cutter who brings that tree out of the forest would get a crew of her own the next day.
+
+She works alongside Osric, the woodsman, who knows the forest better than anyone and will not go into the deep woods for any reason. Merrin used to think him only superstitious. Lately she has caught herself watching him watch the trees, and she has not liked it.
+
+### What she fears
+
+Merrin fears being the youngest forever: always promising, never trusted. She fears, too, the silence in the deep forest that Osric will not talk about, though she tells herself she does not.
+
+### Hooks
+
+A quest might guard Merrin into the deep forest after the tree Tamsin wants, stop her from going in alone, or set her and Kenna a contest that settles the race at last.

@@ -1,0 +1,498 @@
+npcs:
+  # ---------------------------------------------------------------- Wardens' House
+  - id: first_warden_iska
+    name: Iska
+    title: First Warden
+    role: ruler
+    office: goa-harbour.first_warden
+    place: Wardens' House
+    age: adult
+    personality: Quick, sure and hard to rattle; she reads people the way she reads the tide and rarely wastes a word.
+    story: The other sea wardens chose her as First Warden because no pilot alive knows the inlet better. Every summer she skippers Goa Harbour's boat in the race around Veligor, and she has lost to Bain Harbour's crew by a single length more times than she likes to admit.
+
+  - id: warden_varro
+    name: Varro
+    title: Eldest of the Sea Wardens
+    role: council
+    place: Wardens' House
+    age: elder
+    personality: Gruff, patient and slow to praise; he still walks the quay at dawn to watch the water before anyone else is up.
+    story: Varro taught Iska to pilot when she was barely tall enough to see over a gunwale. His knees no longer let him take ships through the gap, but the wardens still bring him every hard question about the tides.
+
+  - id: warden_nessa
+    name: Nessa
+    title: Sea Warden
+    role: council
+    place: Wardens' House
+    age: adult
+    personality: Sharp-tongued, funny and fiercely competitive; she argues every point at the Wardens' table and then buys the first round.
+    story: Nessa was the other name spoken when the wardens chose their First Warden, and she backed Iska herself in the end. She wants the wardens to train more young pilots before the rougher seas of recent years catch them short-handed.
+
+  - id: warden_kor
+    name: Kor
+    title: Sea Warden
+    role: worker
+    place: Inlet Quay
+    age: young
+    personality: Cheerful and a little reckless; he whistles while he pilots and swears the tide likes him.
+    story: Kor became a full warden only last spring and already takes more ships through the gap than anyone. He secretly hopes Iska will pick him for the race crew this summer.
+
+  - id: corrie_pilot
+    name: Corrie
+    title: Apprentice Pilot
+    role: worker
+    place: Inlet Quay
+    age: young
+    personality: Careful, earnest and anxious to get everything right; she writes notes on the back of her hand.
+    story: Corrie is Kor's apprentice and learns more from his mistakes than his advice. Last month she saw something large and dark pass beneath a ship in the gap, and nobody has believed her yet.
+
+  - id: ailsa_tidebook
+    name: Ailsa
+    title: Keeper of the Tide Book
+    role: scholar
+    place: Wardens' House
+    age: elder
+    personality: Precise, dry and quietly delighted by patterns; she can recite a tide from forty years ago.
+    story: Ailsa keeps the great Tide Book, where the wardens have written down every tide since the first camp on the shore. Lately the new pages do not match the old ones as well as they should, and she is trying to work out why before she says so out loud.
+
+  - id: halvard_clerk
+    name: Halvard
+    title: Clerk of the Wardens' House
+    role: official
+    place: Wardens' House
+    age: adult
+    personality: Fussy, orderly and kind underneath; he cannot leave a crooked ledger alone.
+    story: Halvard records every ship that comes through the gap and every pilot who brings it in. He came from a farming valley inland and still gets seasick standing on the quay.
+
+  # ---------------------------------------------------------------- Watch
+  - id: ruan_cliffwatch
+    name: Ruan
+    title: Captain of the Cliff Watch
+    role: guard
+    place: Cliff Stairs
+    age: adult
+    personality: Steady, broad-shouldered and few-worded; he trusts a good rope more than a good speech.
+    story: Ruan leads the small watch that guards the cliff stairs and the paths down from the forest. Since the Disturbance began, creatures have started climbing the cliffs at night, and he wants more lanterns on the high landings.
+
+  - id: moira_watch
+    name: Moira
+    title: Cliff Watch Guard
+    role: guard
+    place: Cliff Stairs
+    age: young
+    personality: Bold, restless and always the first to volunteer; she climbs the stairs two at a time for fun.
+    story: Moira joined the watch to see a monster up close and has now seen far more than she wanted. She would still rather be out with the hunters on the wild coast.
+
+  - id: dougal_quaywatch
+    name: Dougal
+    title: Night Watchman of the Quay
+    role: guard
+    place: Inlet Quay
+    age: elder
+    personality: Sleepy-looking but sharp-eared; he tells terrible jokes to keep himself awake.
+    story: Dougal has walked the quay at night for thirty years, counting lanterns and boats. He has started finding wet, clawed tracks on the lowest steps some mornings and has told only Ruan.
+
+  # ---------------------------------------------------------------- Fishers' Coves
+  - id: sorcha_fisher
+    name: Sorcha
+    title: Cove Fisher
+    role: worker
+    place: Fishers' Coves
+    age: adult
+    personality: Loud, warm and practical; she runs her boat and her family the same way, with a lot of shouting and a lot of love.
+    story: Sorcha fishes the coves with her husband Calder and has the best catch of any boat in the town. She has stopped taking her children out past the point since the sea turned rougher.
+
+  - id: calder_fisher
+    name: Calder
+    title: Cove Fisher
+    role: worker
+    place: Fishers' Coves
+    age: adult
+    personality: Quiet, patient and endlessly mending something; he hums old camp songs while he works.
+    story: Calder is the calm half of the best boat in the coves. He wants to build a bigger boat one day and race it around Veligor himself.
+
+  - id: eilidh_child
+    name: Eilidh
+    title: Fisher's Daughter
+    role: child
+    place: Fishers' Coves
+    age: child
+    personality: Bossy, clever and impossible to fool; she keeps her little brother in line.
+    story: Eilidh can already gut a fish faster than most grown-ups. She wants to be a sea warden and practises reading the tide from the cove rocks every evening.
+
+  - id: ronan_child
+    name: Ronan
+    title: Fisher's Son
+    role: child
+    place: Fishers' Coves
+    age: child
+    personality: Dreamy, curious and always wandering off; he collects shells, feathers and anything that glows.
+    story: Ronan found a strange smooth stone in a tide pool that he keeps hidden in his pocket. He wants to go with the adventurers to the sea caves, which nobody will allow.
+
+  - id: agna_netmender
+    name: Agna
+    title: Net-Mender
+    role: craftsman
+    place: Fishers' Coves
+    age: elder
+    personality: Blunt, wry and tireless; she has an opinion about everyone's knots.
+    story: Agna has mended the coves' nets for fifty years and remembers when the sea was calm enough to fish at night. Lately she finds nets torn by something with teeth far bigger than any fish she knows.
+
+  - id: brodie_fishmonger
+    name: Brodie
+    title: Fishmonger
+    role: merchant
+    menu: true
+    place: Lantern Market
+    age: adult
+    sells: Fresh fish, smoked fish and salted fish for the road
+    personality: Booming, cheerful and a born haggler; he names every fish he sells.
+    story: Brodie buys from the coves and sells at the Lantern Market, and his smoked fish goes out on ships all over Veligor. He owes Sorcha a favour he keeps forgetting to repay.
+
+  # ---------------------------------------------------------------- Forest Shore
+  - id: haldor_timber
+    name: Haldor
+    title: Head of the Timber Crews
+    role: worker
+    place: Forest Shore
+    age: adult
+    personality: Big, careful and soft-spoken; he thanks every tree before it falls.
+    story: Haldor leads the crews that cut timber where the forest meets the shore and float it round to the quay. He has had to pull his crews back from the deeper woods twice this year because of monsters.
+
+  - id: merrin_timber
+    name: Merrin
+    title: Timber Cutter
+    role: worker
+    place: Forest Shore
+    age: young
+    personality: Fast, proud and competitive; she keeps a running tally of who has felled the most.
+    story: Merrin is the youngest cutter on Haldor's crew and wants to prove she can run a crew of her own. She and Kenna have been rivals since they were children.
+
+  - id: osric_woodsman
+    name: Osric
+    title: Woodsman
+    role: worker
+    place: Forest Shore
+    age: adult
+    personality: Uneasy, watchful and superstitious; he will not work past sunset for any wage.
+    story: Osric was cutting alone deep in the forest last autumn when every bird went silent at once. He has not been back there, and he will not say what he saw.
+
+  # ---------------------------------------------------------------- Lantern Market
+  - id: greer_furs
+    name: Greer
+    title: Fur Trader
+    role: merchant
+    menu: true
+    place: Lantern Market
+    age: adult
+    sells: Furs, pelts, fur-lined cloaks and hoods
+    personality: Shrewd, stylish and charming; she always knows who is selling cheap and who is buying dear.
+    story: Greer buys pelts from the hunters and the highland trappers and ships them all over the island. Fewer trappers come down from the hills each year, and her prices are climbing.
+
+  - id: morag_wool
+    name: Morag
+    title: Wool Trader
+    role: merchant
+    menu: true
+    place: Lantern Market
+    age: elder
+    sells: Highland wool, knitted jumpers, blankets and sea-mittens
+    personality: Motherly, nosy and generous; she feeds everyone who stops at her stall.
+    story: Morag has traded highland wool at the Lantern Market for forty years and knits through every conversation. She worries about her drover Teague every time he takes the hill road.
+
+  - id: teague_drover
+    name: Teague
+    title: Highland Drover
+    role: worker
+    place: Lantern Market
+    age: adult
+    personality: Easygoing, weathered and full of stories that grow with each telling.
+    story: Teague brings wool and pelts down from the highlands by the hill road to the coast. Monsters on that road cost him half a flock last spring, and he is looking for brave company for the next trip.
+
+  - id: gunna_lanterns
+    name: Gunna
+    title: Master Lantern-Maker
+    role: craftsman
+    place: Lantern Market
+    age: elder
+    sells: Quay lanterns, hand lanterns and storm lanterns
+    personality: Calm, mysterious and gently teasing; she answers questions with questions.
+    story: Gunna makes the forest-crafted lanterns that light Goa Harbour's quays at night, using a craft handed down from the Magicians of the first camp. She is looking for an apprentice worthy of her oldest secrets.
+
+  - id: tarran_lanterns
+    name: Tarran
+    title: Lantern-Maker's Apprentice
+    role: craftsman
+    place: Lantern Market
+    age: young
+    personality: Eager, clumsy and full of ideas; half of his lanterns are brilliant and half of them do not light.
+    story: Tarran is Gunna's apprentice and is sure she is keeping the best part of the craft from him. He wants to make a lantern bright enough to drive monsters off the cliff landings.
+
+  - id: dunmor_lamplighter
+    name: Dunmor
+    title: Lamplighter of the Quays
+    role: service
+    place: Inlet Quay
+    age: adult
+    personality: Gentle, unhurried and content; he knows every lantern on the quay by its flicker.
+    story: Dunmor lights and tends the quay lanterns each evening and is married to Iska. He is the one person who can make the First Warden sit down and eat.
+
+  - id: gwenna_outfitter
+    name: Gwenna
+    title: Outfitter
+    role: merchant
+    menu: true
+    place: Lantern Market
+    age: adult
+    sells: Rope, grappling hooks, torches, waxed cloaks and travel food
+    personality: Brisk, honest and unsentimental; she will tell you exactly why your plan will get you killed.
+    story: Gwenna outfits the adventurers who come to hunt on the wild coast. She was one herself until a bad fall in the sea caves, and she keeps a list of everyone who has gone in and not come back.
+
+  - id: bethoc_innkeeper
+    name: Bethoc
+    title: Keeper of the Gap Inn
+    role: service
+    place: Lantern Market
+    age: adult
+    sells: Hot stew, ale and rooms for the night
+    personality: Warm, quick-witted and unshockable; she has heard every sailor's story twice.
+    story: Bethoc runs the Gap Inn, where sailors, hunters and travellers end up sooner or later. She keeps a board of monster sightings on the wall, and the hunters check it every morning.
+
+  # ---------------------------------------------------------------- Cliff Stairs
+  - id: gorm_stairs
+    name: Gorm
+    title: Master of the Stairs
+    role: craftsman
+    place: Cliff Stairs
+    age: adult
+    personality: Stubborn, proud and secretly sentimental; he talks about stone the way others talk about family.
+    story: Gorm leads the builders who carve and mend the stairways and rope bridges that climb the cliffs. He wants to cut a new stair down to the far cove before the summer race, and he is behind.
+
+  - id: kestra_bridges
+    name: Kestra
+    title: Rope-Bridge Builder
+    role: craftsman
+    place: Cliff Stairs
+    age: young
+    personality: Fearless, light-footed and impatient with anyone who looks down.
+    story: Kestra strings the rope bridges between the cliff houses and can cross any of them blindfold. Something has been chewing the ropes on the highest bridge, and she means to catch it.
+
+  - id: ulric_stonecarver
+    name: Ulric
+    title: Stonecarver
+    role: craftsman
+    place: Cliff Stairs
+    age: elder
+    personality: Slow, thoughtful and kind; he carves a little animal into every step he cuts.
+    story: Ulric taught Gorm everything about stone and still carves the hardest steps himself. He hopes someone will notice that his little carvings, read from top to bottom, tell the story of the first camp.
+
+  - id: hamish_lift
+    name: Hamish
+    title: Rope-Lift Keeper
+    role: service
+    place: Cliff Stairs
+    age: adult
+    personality: Chatty, jolly and nosy; he knows everyone's business because everyone rides his lift.
+    story: Hamish works the rope lift that hauls goods and tired legs from the quay to the top of the cliffs. He dreams of building a second lift, if only Gorm would stop calling lifts lazy.
+
+  - id: grizel_elder
+    name: Ysmay
+    title: Retired Sea Warden
+    role: resident
+    place: Cliff Stairs
+    age: elder
+    personality: Sharp as a hook and twice as stubborn; she watches the inlet from her window and criticises every pilot.
+    story: Ysmay was a sea warden for forty years and is Iska's mother. She never wanted to be First Warden herself and is fiercely proud that her daughter is.
+
+  # ---------------------------------------------------------------- Hunters and adventurers
+  - id: torva_hunter
+    name: Torva
+    title: Hunter of the Wild Coast
+    role: adventurer
+    place: Forest Shore
+    age: adult
+    personality: Cool, scarred and dryly funny; she never boasts and never misses.
+    story: Torva leads the hunters who keep the monsters of the wild coast away from the town's paths and timber crews. Each year there are more of them and they come closer, and she wants to know why.
+
+  - id: caddoc_trapper
+    name: Caddoc
+    title: Trapper
+    role: adventurer
+    place: Forest Shore
+    age: adult
+    personality: Grumbling, cautious and clever with his hands; he complains constantly and never quits.
+    story: Caddoc sets traps along the shore for the creatures that come out of the forest at night. Something keeps springing his biggest traps without being caught, and it is starting to bother him.
+
+  - id: kenna_hunter
+    name: Kenna
+    title: Young Hunter
+    role: adventurer
+    place: Forest Shore
+    age: young
+    personality: Restless, proud and quick to anger, but fiercely loyal to her friends.
+    story: Kenna is Torva's newest hunter and wants to bring down something big enough to be talked about at the Gap Inn. She still has not forgiven Merrin for a race they ran when they were nine.
+
+  - id: lachlan_adventurer
+    name: Lachlan
+    title: Adventurer
+    role: adventurer
+    place: Lantern Market
+    age: young
+    personality: Bright, boastful and generous; he makes friends in minutes and plans in seconds.
+    story: Lachlan grew up in the coves and wants to be the first to map the sea caves under the cliffs. He keeps asking Gwenna for her old maps, and she keeps saying no.
+
+  - id: esk_adventurer
+    name: Esk
+    title: Sellsword of the Wild Coast
+    role: adventurer
+    place: Inlet Quay
+    age: adult
+    personality: Quiet, wary and courteous; she pays her debts and keeps her past to herself.
+    story: Esk came to Goa Harbour on a trading ship a few years ago and stayed to hunt monsters for whoever pays. She sails with fishing boats that go far out, and she has seen things in the deep water that she will only describe to Corrie.
+
+  # ---------------------------------------------------------------- Race crew
+  - id: tamsin_boatwright
+    name: Tamsin
+    title: Boatwright
+    role: craftsman
+    place: Inlet Quay
+    age: adult
+    personality: Fierce, inventive and never satisfied; she rebuilds the race boat every winter whether it needs it or not.
+    story: Tamsin builds and keeps Goa Harbour's race boat, the Gap Runner, and has sworn this is the summer it finally beats Bain Harbour. She wants timber from the deep forest, which is exactly where Haldor will not send his crews.
+
+  - id: jory_crew
+    name: Jory
+    title: Race Crew
+    role: worker
+    place: Inlet Quay
+    age: young
+    personality: Loud, loyal and tireless; he would row around Veligor alone if Iska asked him to.
+    story: Jory crewed the Gap Runner for the first time last summer and talks about nothing else. He works the quay the rest of the year, hauling timber and wool onto ships.
+
+  # ---------------------------------------------------------------- Healers, scholars, performers
+  - id: elspeth_healer
+    name: Elspeth
+    title: Healer
+    role: healer
+    place: Forest Shore
+    age: elder
+    sells: Sea-herb salves, poultices and tonics
+    personality: Serene, firm and quietly funny; she scolds her patients and then tucks them in.
+    story: Elspeth keeps the sea-herb remedies that the Magicians of the first camp brought to the shore. Since the hunters started bringing in so many wounds, she can barely gather herbs fast enough.
+
+  - id: brigid_herbs
+    name: Brigid
+    title: Herb Gatherer
+    role: healer
+    place: Forest Shore
+    age: young
+    personality: Shy, gentle and observant; she notices everything and says very little.
+    story: Brigid gathers sea-herbs on the rocks for Elspeth at low tide. Some of the herb beds she has picked all her life have started to wither, and she is afraid to tell Elspeth.
+
+  - id: cormac_singer
+    name: Cormac
+    title: Shanty Singer
+    role: performer
+    place: Lantern Market
+    age: elder
+    personality: Theatrical, sentimental and a shameless flatterer; he cries at his own songs.
+    story: Cormac sings the old songs of the shared camp, where Savage hunters and Magicians first fished the inlet together. He swears he knows a verse about the gap that nobody else remembers, and that it is important.
+
+  - id: mhairi_fiddler
+    name: Mhairi
+    title: Fiddler
+    role: performer
+    place: Lantern Market
+    age: young
+    personality: Mischievous, bright and tireless; she plays faster when people try to stop dancing.
+    story: Mhairi plays at the Gap Inn and at the summer race send-off. She is writing a song about the race and needs Goa Harbour to win so she can finish it.
+
+  # ---------------------------------------------------------------- Children
+  - id: arlo_child
+    name: Arlo
+    title: Son of the First Warden
+    role: child
+    place: Inlet Quay
+    age: child
+    personality: Serious, curious and stubborn; he asks why until the grown-ups give up.
+    story: Arlo is Iska and Dunmor's son and wants to be a sea warden like his mother and grandmother. He sneaks onto the quay at dawn to watch Varro read the water.
+
+  - id: fionn_child
+    name: Fionn
+    title: Stair Runner
+    role: child
+    place: Cliff Stairs
+    age: child
+    personality: Quick, cheeky and fearless; he knows every shortcut on the cliffs.
+    story: Fionn runs messages up and down the cliff stairs for a copper a trip. He follows the hunters to the edge of the forest whenever he can and thinks nobody has noticed.
+
+relationships:
+  # The First Warden and her family
+  - [first_warden_iska, dunmor_lamplighter, wife, husband]
+  - [first_warden_iska, arlo_child, mother, son]
+  - [dunmor_lamplighter, arlo_child, father, son]
+  - [grizel_elder, first_warden_iska, mother, daughter]
+  - [grizel_elder, arlo_child, grandmother, grandson]
+  # The wardens
+  - [warden_varro, first_warden_iska, mentor, pupil]
+  - [warden_nessa, first_warden_iska, friendly rival, friend and fellow warden]
+  - [warden_varro, warden_nessa, old teacher, former pupil]
+  - [warden_kor, corrie_pilot, mentor, apprentice]
+  - [warden_varro, arlo_child, patient teacher, eager shadow]
+  - [grizel_elder, warden_varro, old friend, old friend]
+  - [ailsa_tidebook, warden_varro, old colleague, old colleague]
+  - [halvard_clerk, first_warden_iska, clerk, employer]
+  - [halvard_clerk, ailsa_tidebook, friend, friend]
+  - [warden_kor, first_warden_iska, hopeful crewman, First Warden]
+  # The watch
+  - [ruan_cliffwatch, moira_watch, captain, guard]
+  - [ruan_cliffwatch, dougal_quaywatch, friend, friend]
+  - [ruan_cliffwatch, first_warden_iska, trusted captain, First Warden]
+  - [moira_watch, torva_hunter, admirer, friend]
+  # The coves
+  - [sorcha_fisher, calder_fisher, wife, husband]
+  - [sorcha_fisher, eilidh_child, mother, daughter]
+  - [sorcha_fisher, ronan_child, mother, son]
+  - [calder_fisher, eilidh_child, father, daughter]
+  - [calder_fisher, ronan_child, father, son]
+  - [eilidh_child, ronan_child, sister, brother]
+  - [agna_netmender, sorcha_fisher, mother, daughter]
+  - [brodie_fishmonger, sorcha_fisher, buyer, supplier]
+  - [ronan_child, lachlan_adventurer, admirer, hero]
+  - [eilidh_child, arlo_child, best friend, best friend]
+  - [calder_fisher, tamsin_boatwright, friend, friend]
+  # Forest Shore
+  - [haldor_timber, merrin_timber, crew head, cutter]
+  - [haldor_timber, osric_woodsman, crew head, woodsman]
+  - [merrin_timber, kenna_hunter, rival, rival]
+  - [haldor_timber, tamsin_boatwright, stubborn supplier, demanding customer]
+  - [torva_hunter, caddoc_trapper, hunting partner, hunting partner]
+  - [torva_hunter, kenna_hunter, mentor, apprentice]
+  - [osric_woodsman, elspeth_healer, son, mother]
+  - [elspeth_healer, brigid_herbs, teacher, apprentice]
+  - [elspeth_healer, torva_hunter, healer, patient]
+  - [caddoc_trapper, greer_furs, supplier, buyer]
+  # Lantern Market
+  - [greer_furs, morag_wool, friendly competitor, friendly competitor]
+  - [morag_wool, teague_drover, employer, drover]
+  - [gunna_lanterns, tarran_lanterns, master, apprentice]
+  - [gunna_lanterns, dunmor_lamplighter, lantern-maker, lamplighter]
+  - [gwenna_outfitter, lachlan_adventurer, reluctant advisor, pestering customer]
+  - [gwenna_outfitter, esk_adventurer, friend, friend]
+  - [bethoc_innkeeper, cormac_singer, landlady, regular]
+  - [bethoc_innkeeper, mhairi_fiddler, employer, fiddler]
+  - [cormac_singer, mhairi_fiddler, old mentor, pupil]
+  - [bethoc_innkeeper, brodie_fishmonger, sweetheart, sweetheart]
+  - [teague_drover, esk_adventurer, hopeful employer, possible guard]
+  # Cliff Stairs
+  - [ulric_stonecarver, gorm_stairs, mentor, pupil]
+  - [gorm_stairs, kestra_bridges, master builder, builder]
+  - [gorm_stairs, hamish_lift, friendly rival, friendly rival]
+  - [hamish_lift, fionn_child, uncle, nephew]
+  - [kestra_bridges, tarran_lanterns, sweetheart, sweetheart]
+  - [fionn_child, torva_hunter, secret follower, unfooled watcher]
+  # The race
+  - [first_warden_iska, tamsin_boatwright, skipper, boatwright]
+  - [first_warden_iska, jory_crew, skipper, crewman]
+  - [tamsin_boatwright, jory_crew, boss, helper]
+  - [esk_adventurer, corrie_pilot, friend, friend]

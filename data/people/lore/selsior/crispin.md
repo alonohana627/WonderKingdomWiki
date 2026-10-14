@@ -1,0 +1,25 @@
+Crispin is forty-two, the house playwright of the Gilded Stage, and he has not finished a sentence out loud since about the age of twelve. He starts them, certainly. He starts them beautifully. Then a better line occurs to him halfway through, and he stops to write it down on whatever is nearest: a playbill, a napkin, his own cuff. Theatre Row is used to it. Half the actors on the Row have, at some point, been handed a scrap of paper in the middle of a conversation and told, "No, wait, that's it, that's the one."
+
+### A life backstage
+
+He grew up in the wings. His father painted scenery for the theatres of the Row, and Crispin spent his childhood sitting on paint pots, watching rehearsals and learning, long before he could spell, that a good line lands on the third beat and a bad one never lands at all. His father is dead now, but Crispin still keeps one of his brushes in the jar on his desk.
+
+He has written for the Gilded Stage for fifteen years, under Lavinia, its owner and once its greatest actress. His comedies fill the house. The Baker's Wager has been revived so many times that the city's bakers quote it at each other across the Crown Market. But Crispin has always wanted to write something large, and Lavinia, who wants one last triumph before she hands the theatre on, has finally given him the chance. She has bet everything on it. She tells him so roughly once a day, in case he forgets.
+
+### The play
+
+The play is about the Balrog War, the whole of it: the First Burning, the truce, the Last Stand at the Tree and the weaving of the seal. Crispin has the first four acts. He does not have an ending, and he cannot write the fifth act until he knows what the thing at the centre of the story actually is.
+
+This is where Thomasin comes in. The historian of the Balrog War is Crispin's adviser and, despite everything, his friend. He goes to her in the Scholars' Quarter with questions, and she gives him the four peoples' accounts side by side and refuses to say which is right. A horned giant, a wound in the world, the Burning, a line in a chronicle: Crispin wants one of them, and Thomasin will not give it to him. He finds this very unhelpful, and says so, and she says that is precisely the point. He suspects she is right, which is worse.
+
+He has drafted five endings so far. In one the Balrog speaks. In another it never appears on stage at all, and the audience only sees the light of it on the actors' faces. He likes that one best and is frightened of it, because Lavinia will hate it.
+
+### The family business
+
+Crispin's wife is Rosamund, the most famous actress in Selsior, and their daughter Marigold has been on stage since she could walk. Rosamund is determined to play the Magician who wove the seal, which Crispin had always imagined as a quiet part, and which is getting less quiet with every draft. She will not share the stage with Percival, who wants the Savage warrior who held the Balrog at the Tree, and Crispin cannot see how to write the Last Stand without the two of them in it. Marigold, meanwhile, wants a part, any part, and has hinted that she knows where he keeps his discarded endings. Crispin loves all three of the people making his life impossible, and he writes better when he is anxious, so in a sense they are helping.
+
+### What he fears
+
+Crispin is afraid of getting it wrong. Lately, with monsters on the roads and Thomasin lecturing more often than she likes, the Balrog is not quite a legend in Selsior any more, and he has started to wonder whether a play about it should end with an answer or with a question.
+
+A quest might begin with a missing draft of the fifth act, or with Crispin needing someone to travel out and ask what the other towns tell their children about the Balrog.

@@ -1,0 +1,23 @@
+Gilbert is forty-four, the candlemaker of the old quarters, and he hums. He hums while he dips wicks, while he pours wax, while he climbs the ladder to his roof, and above all while he works among his hives, where the hum he makes and the hum the bees make are so close in pitch that the neighbours below cannot always tell which is which. He is mild, methodical and very fond of bees. Ask him about candles and he will tell you politely what you need to know. Ask him about bees and you may as well sit down.
+
+### The rooftop
+
+His shop is a narrow, sweet-smelling room on a crooked lane in the old quarters, with a dipping frame by the window, racks of candles hung up by their wicks like sleeping bats, and a counter where he sells lamp oil and wax seals as well. Above it, up a ladder and through a hatch, is the part of his life he actually cares about: a flat stretch of roof, fenced with a low rail, where nine hives stand in a row among pots of lavender, thyme and borage. From up there he can see across the jumbled roofs and skywalks of the old quarters to the palace towers, and on a clear morning he says he can watch his bees fly out over half the city and come back with all of it in their legs.
+
+He learned candlemaking from his mother, who sold tallow dips from a tray and has been dead these many years, and he learned bees from nobody at all. At fifteen he caught a swarm that had settled on a washing line, in a basket, with his bare hands, because no one else would go near it, and he has kept bees ever since. Beeswax made from his own hives is the whole of his pride. It burns clean and slow and smells faintly of summer, and it is why the better households of the city buy their candles from a crooked lane rather than a grand street.
+
+### Customers and friends
+
+His steadiest customer is Baldwin, the lamplighter, who has bought oil and wicks from him for years. Gilbert measures them out humming, and Baldwin waits without hurrying him, and neither of them finds this strange. Lately Baldwin has been buying more oil than the city pays for, to burn extra lamps by the gate. Gilbert has noticed. He has quietly started charging him less for it, and Baldwin has quietly noticed that.
+
+### The bees
+
+This year his bees have turned short-tempered. They have always been gentle, gentle enough that he works them in his shirtsleeves with no veil, and he has been stung more times since spring than in the ten years before it. They come off the hives at nothing, at a shadow, at the sound of a door, and they come back from their flights restless, as though they have been somewhere that upset them. He has moved the hives, changed the flowers, smoked them more and smoked them less. Nothing helps.
+
+He is not the only one. Other beekeepers on the city roofs say the same, and he has heard that the wild bees in the palace gardens have turned mean as well. Baldwin has mentioned that the night moths behave oddly too. Gilbert does not know what any of it means. He has a feeling, which he does not like, that the bees are answering something, the way a hive answers a storm long before anyone sees the clouds.
+
+### What he wants and fears
+
+Gilbert wants his bees calm again and his rooftop full of the old, contented hum. What he fears is going up the ladder one morning and finding the hives empty, the bees gone somewhere he cannot follow.
+
+A quest might begin with Gilbert needing someone to take a frame of comb to a beekeeper outside the city and bring back word of how the bees are there, or with a swarm of his own that leaves the roof and settles, of all places, on the Great Bell.

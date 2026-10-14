@@ -1,0 +1,27 @@
+Bram keeps the potion stall at the far end of Kaldemor Market, under a striped awning gone pale with steam, behind a row of bottles that glow red, orange, white and blue when the sun catches them. He is fifty-one, friendly to every customer and stubborn with everyone else, and he can talk about cauldrons for an hour without drawing breath. He admits he is wrong about once a year, usually in winter, and never about cauldrons.
+
+Nearly every newcomer to Kaldemor meets him in their first week. Mayor Tobin sends them down to the Market to learn where to shop, and Bram greets each one as if Tobin had sent them personally, which he has. "Tell the mayor Bram says hello," he says, and sends them out to the fields with a few red potions and a warning not to drink anything blue on an empty stomach.
+
+### Brewing
+
+Bram learned to brew from the old potion seller who kept the stall before him, and he has kept it himself for more than twenty years. He sells red potions and orange, white and blue, warrior potions for strength and speed potions for the road, and scrolls to bring a traveller home in a hurry. This year he has sold more of all of them than ever before; the young warriors heading out to the fields come back with more bites, and go out again sooner.
+
+He teaches brewing to anyone with the hands for it. A brew, he likes to say, is only a pot with a better reason. Two marjoram flowers and a mushroom spore make a red potion; lavender and the caps of orange mushrooms make an orange one. His spores come from Wilf, who gathers them in the woods, and Bram has been quietly anxious since Wilf came back from visiting his sister and said the Shrooms had grown too bold to gather alone.
+
+### Bess
+
+His older sister Bess is the town's healer, and she has never once let him forget it. She tells him his potions are only herbs in a hurry. He tells her that her teas are only potions that gave up. They have been having this argument since before most of the Market was born, and both of them would be lost without it. Bess binds the cuts and snail nips that come back from the fields, Bram sells the potions that send people out to get them, and each privately thinks the other is doing the more important work. When a bad bite comes in, they stop arguing and work side by side, and that is how the Market knows it is serious.
+
+### Rosa
+
+Nine years ago, Bram's dearest friend in the Market was Rosa the baker. He ate at her table every week, tasted every new loaf, and argued with her about ovens and cauldrons as happily as he argued with his sister. Then, on the morning of the harvest fair, he "improved" a batch of her mushroom bread with a spore tincture of his own, certain it would make the loaves rise higher. They rose, and came out greenish and bitter, in front of the whole fair. Rosa told him to keep himself out of her kitchen. Bram said he had been right in principle.
+
+He has missed her bread and her company every week since, and has never said so to anyone, least of all Rosa. He hears how she is doing from Wilf, who supplies them both, and from little Fen, who carries Rosa's flour and cannot keep a thing to herself. He knows, though he will not admit it, that he was the stubborn one. This is the one thing in nine years he has not been able to admit, even in winter.
+
+### What he wants and fears
+
+Bram wants a steady supply of spores, a cauldron that does not crack, and an apprentice with real hands. What he wants most he will not name. He fears that the woods are closing to gatherers, and that the day will come when his potions are not enough for what comes back from the fields.
+
+### Hooks
+
+If a traveller ever brings Bram word from the terrace oven, he will pretend to be surprised for exactly as long as it takes to set down his ladle. Another quest could send a brewer's apprentice into the woods with Wilf, to bring back the spores both Bram and Rosa depend on.

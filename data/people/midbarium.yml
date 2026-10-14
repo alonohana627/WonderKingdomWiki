@@ -1,0 +1,318 @@
+npcs:
+  # ---------------------------------------------------------------- Great Hall
+  - id: old_one_hask
+    name: Hask
+    title: The Old One
+    role: ruler
+    office: midbarium.old_one
+    place: Great Hall
+    age: adult
+    family: Uskari
+    personality: Quiet, patient and hard to rattle; Hask listens to a whole loud council without a word, then speaks once and plainly.
+    story: Hask was born an Uskari and led the family as its chieftain until Old One Varra of the Brenna died and the four families chose Hask to follow her. Hask gave up the Uskari chieftainship that same night, as custom asks, and is one of the youngest Old Ones the Brenna songs name. Hask's private worry is that the canyon patrols are stretched thinner every season, and that the families are too proud to say so in council.
+
+  - id: ulm_kragvar
+    name: Ulm
+    title: Keeper of the Council Fire
+    role: official
+    place: Great Hall
+    age: elder
+    family: Kragvar
+    personality: Gruff, slow-moving and fiercely proud of his duty; he talks to the fire more kindly than to most people.
+    story: Ulm has tended the fire in the great hall for forty years and has never once let it burn low. He knows every Kragvar song about the fighters who stayed beneath the World Tree, and lately he wonders aloud whether anyone down there still remembers the Kragvar.
+
+  - id: thrun_brenna
+    name: Thrun
+    title: Drummer of the Gatherings
+    role: performer
+    place: Great Hall
+    age: elder
+    family: Brenna
+    personality: Loud, warm and impossible to embarrass; Thrun laughs from the belly and drums the same way.
+    story: Thrun beats the great drum that calls the four families to every choosing and every feast. Thrun drummed for the choosing of Old One Hask and swears it was the finest night of drumming in a generation, though the drum's old hide has since split and needs replacing with the skin of a beast few hunters would dare to track.
+
+  # ---------------------------------------------------------------- Kragvar
+  - id: dorrek_kragvar
+    name: Dorrek
+    title: Chieftain of the Kragvar
+    role: ruler
+    office: midbarium.chief_kragvar
+    place: Kragvar Quarter
+    age: adult
+    family: Kragvar
+    personality: Blunt, broad-shouldered and stubborn as granite, but scrupulously fair once he has made up his mind.
+    story: Dorrek was chosen chieftain when his uncle died in a rockfall, and he still climbs the highest scaffold himself before he lets any mason on it. He argued long in council for a Kragvar Old One, lost to the families' choice of Hask, and has stood by that decision without a word of complaint ever since.
+
+  - id: gorra_kragvar
+    name: Gorra
+    title: Cistern Keeper
+    role: worker
+    place: Terraces
+    age: adult
+    family: Kragvar
+    personality: Brisk, practical and always counting; Gorra measures water the way merchants measure coin.
+    story: Gorra keeps the stone cisterns that water the terraces and knows to the bucket how long the town can last in a dry year. One of the oldest cisterns has started losing water through a crack nobody can find, and she would quietly reward anyone who could track it down.
+
+  - id: brakka_kragvar
+    name: Brakka
+    title: Apprentice Mason
+    role: craftsman
+    place: Kragvar Quarter
+    age: young
+    family: Kragvar
+    personality: Eager, restless and quick with a chisel; Brakka would rather carve something new than mend something old.
+    story: Brakka is Dorrek's daughter and is learning the mason's trade from Vosk. She dreams of carving a new stairway down the cliff to the valley floor, the first new route in a hundred years, and has already sketched it on every flat stone she can find.
+
+  - id: korrin_kragvar
+    name: Korrin
+    title: Chieftain's Son
+    role: child
+    place: Terraces
+    age: child
+    family: Kragvar
+    personality: Bold, scabby-kneed and always climbing something he was told not to climb.
+    story: Korrin is Dorrek's youngest and spends his days scrambling between the terraces with his friend Kesh. He wants to join the Uskari on the trail watch when he grows up, which his Kragvar family finds very funny and slightly insulting.
+
+  - id: vosk_kragvar
+    name: Vosk
+    title: Master of Bridges
+    role: craftsman
+    place: Kragvar Quarter
+    age: elder
+    family: Kragvar
+    personality: Careful, dry-humoured and suspicious of anything that sways; he trusts a knot only after he has tied it himself.
+    story: Vosk keeps every rope-and-plank bridge in Midbarium sound and has taught three generations of Kragvar how to splice a cable. Twice this season he has found ropes on the far canyon bridge gnawed half through in the night, and he does not know what is doing it.
+
+  # ---------------------------------------------------------------- Tolmach
+  - id: sennu_tolmach
+    name: Sennu
+    title: Chieftain of the Tolmach
+    role: ruler
+    office: midbarium.chief_tolmach
+    place: Tolmach Camps
+    age: adult
+    family: Tolmach
+    personality: Weathered, wry and unhurried; Sennu has a herder's patience and a herder's habit of counting heads twice.
+    story: Sennu leads the Tolmach from a hide tent like any other herder, and moves the camps with the seasons as the family always has. This year Sennu has kept the herds closer to town than ever before because of the monsters in the low valleys, and the high pastures are starting to suffer for it.
+
+  - id: mabbu_tolmach
+    name: Mabbu
+    title: Elder of the Camps
+    role: resident
+    place: Tolmach Camps
+    age: elder
+    family: Tolmach
+    personality: Sharp-tongued, sharp-eyed and endlessly hospitable; she will scold a guest and feed them in the same breath.
+    story: Mabbu is mother to Sennu and Harra and has walked every herding path in the highlands at least a hundred times. Her knees no longer let her follow the herds, so she keeps the home camp and remembers, out loud, every spring that ran in every dry year.
+
+  - id: harra_tolmach
+    name: Harra
+    title: Wool and Cheese Seller
+    role: merchant
+    menu: true
+    place: Trading Post
+    age: adult
+    family: Tolmach
+    sells: Wool, hides, goat cheese and travel rations
+    personality: Shrewd, cheerful and loud enough to be heard across the Trading Post; Harra never lets a customer leave without a taste of cheese.
+    story: Harra brings the Tolmach herds' wool, hides and cheese to market and drives a famously hard bargain with lowland traders. She worries that fewer traders make the climb each year now that the canyon roads are dangerous.
+
+  - id: yarrek_tolmach
+    name: Yarrek
+    title: Goat Herder
+    role: worker
+    place: Tolmach Camps
+    age: adult
+    family: Tolmach
+    personality: Gentle, slow to speak and devoted to his goats, each of which he knows by name.
+    story: Yarrek leads the family's goats between the high pastures and the camps. Last month three of his goats came back from the valley wild-eyed and biting, and he keeps them penned apart, hoping they will calm.
+
+  - id: kesh_tolmach
+    name: Kesh
+    title: Young Goatherd
+    role: child
+    place: Tolmach Camps
+    age: child
+    family: Tolmach
+    personality: Chatty, curious and fearless; Kesh asks every traveler where they came from and what the road was like.
+    story: Kesh is Harra and Yarrek's son and is trusted with the kids of the herd, though not yet with the grown goats. He and Korrin have a secret lookout above the terraces where they watch for monsters and, so far, mostly see eagles.
+
+  - id: ennek_tolmach
+    name: Ennek
+    title: Canyon Guide
+    role: service
+    place: Trading Post
+    age: young
+    family: Tolmach
+    personality: Easygoing and confident, with a herder's eye for weather and a habit of whistling on dangerous ledges.
+    story: Ennek is Sennu's son and leads traders and travelers up the old Tolmach paths, as his family has since the founding. A spring on the south path that has run for as long as anyone remembers has gone dry this summer, and Ennek has not yet told his mother.
+
+  # ---------------------------------------------------------------- Uskari
+  - id: tavi_uskari
+    name: Tavi
+    title: Chieftain of the Uskari
+    role: ruler
+    office: midbarium.chief_uskari
+    place: Uskari Rim
+    age: adult
+    family: Uskari
+    personality: Restless, direct and competitive; Tavi would rather walk the trail than talk about it, and hates losing at anything.
+    story: Tavi left the rim as a young adventurer and spent a season training with the swordsmen of the capital before coming home to hunt. When Hask was chosen Old One, the Uskari chose Tavi to lead them, and Tavi has since doubled the trail patrols and still walks the worst stretch personally.
+
+  - id: zirra_uskari
+    name: Zirra
+    title: Bowyer
+    role: merchant
+    place: Uskari Rim
+    age: elder
+    family: Uskari
+    sells: Bows, arrows, climbing ropes and hunting knives
+    personality: Precise, sardonic and impossible to flatter; Zirra judges people by how they hold a bow.
+    story: Zirra is the Old One's older sister and makes the bows the Uskari hunt and patrol with. She teases Hask mercilessly in private and defends Hask fiercely to anyone else.
+
+  - id: skarra_uskari
+    name: Skarra
+    title: Captain of the Trail Watch
+    role: guard
+    place: Uskari Rim
+    age: adult
+    family: Uskari
+    personality: Stern, watchful and dryly funny once the patrol is safely home.
+    story: Skarra commands the Uskari patrols that guard the highland trails and see travelers from camp to camp. She marks every monster sighting on a hide map in her tent, and the marks have been creeping closer to town each season.
+
+  - id: bekk_uskari
+    name: Bekk
+    title: Trail Watch Scout
+    role: guard
+    place: Uskari Rim
+    age: young
+    family: Uskari
+    personality: Cocky, quick and kind to children, who follow him around in a small admiring crowd.
+    story: Bekk is Skarra's son and the fastest climber on the rim. He wants to prove himself by tracking a beast that has been raiding the high pastures, and his mother has forbidden him to try it alone.
+
+  - id: ketta_uskari
+    name: Ketta
+    title: Returned Adventurer
+    role: adventurer
+    place: Uskari Rim
+    age: young
+    family: Uskari
+    personality: Bright and talkative about everything except one subject, which makes her go suddenly quiet.
+    story: Ketta left home to adventure across Veligor, like many young Uskari, and came back last spring with a new scar and a pack full of stories. She will happily tell any of them except what she saw in a deep canyon cave on her way home.
+
+  # ---------------------------------------------------------------- Brenna
+  - id: odda_brenna
+    name: Odda
+    title: Chieftain of the Brenna
+    role: ruler
+    office: midbarium.chief_brenna
+    place: Brenna House
+    age: elder
+    family: Brenna
+    personality: Warm, shrewd and endlessly calm; Odda can settle a quarrel between two chieftains with one well-chosen story.
+    story: Odda leads the Brenna, who host every choosing, and she hosted the one that named Hask after Old One Varra died. She keeps up an old friendship in Fairy Forest from her envoy days and still writes letters there each spring.
+
+  - id: lessa_brenna
+    name: Lessa
+    title: Bonesetter
+    role: healer
+    place: Brenna House
+    age: adult
+    family: Brenna
+    sells: Herbal salves, splints and highland remedies
+    personality: Calm in a crisis and fussy everywhere else; Lessa will set a broken leg without blinking and then complain about the mud on your boots.
+    story: Lessa is Odda and Thrun's daughter and the best bonesetter in the highlands. She has treated more monster bites this year than in her first ten years of healing together, and she is running short of the highland herbs that grow only on the far slopes.
+
+  - id: neffa_brenna
+    name: Neffa
+    title: Song Learner
+    role: child
+    place: Brenna House
+    age: child
+    family: Brenna
+    personality: Solemn, serious and proud; Neffa practises the long songs under her breath all day long.
+    story: Neffa is Lessa's daughter and is learning the long song of the Old Ones from Ahvi. Her great wish is to recite the whole song at a gathering without a single mistake before she turns twelve.
+
+  - id: ahvi_brenna
+    name: Ahvi
+    title: Song-Keeper
+    role: scholar
+    place: Brenna House
+    age: elder
+    family: Brenna
+    personality: Soft-voiced, exact and gently stubborn; Ahvi corrects anyone who gets a chieftain's name wrong, however important they are.
+    story: Ahvi keeps the long songs that name every chieftain and Old One back to the Age of Division, and was the sister of the late Old One Varra. Lately she has been troubled by an old verse about beasts growing wild before the Burning came, and she cannot decide whether to sing it at the next gathering.
+
+  # ---------------------------------------------------------------- No family
+  - id: corwell
+    name: Corwell
+    title: Keeper of the Trading Post
+    role: merchant
+    menu: true
+    place: Trading Post
+    age: adult
+    family: none
+    sells: Lowland goods, lamp oil, salt, tools and travel supplies
+    personality: Talkative, round and comfortable, with a lowlander's love of a good chair and a highlander's love of a good bargain.
+    story: Corwell came up the canyon with a trade caravan twenty years ago, was given water and a place by a Tolmach fire, and never went home. He runs the Trading Post where lowland goods meet highland ones, and he quietly worries about the caravans that now arrive later and later, or not at all.
+
+  - id: imre
+    name: Imre
+    title: Stargazer
+    role: scholar
+    place: Terraces
+    age: adult
+    family: none
+    personality: Dreamy, absent-minded and delighted by everything; Imre forgets meals but never forgets a star.
+    story: Imre came to Midbarium to study its famous night skies and stayed for the stars and the hospitality. Imre spends nights on the highest terrace charting the heavens and swapping star stories with the Brenna, and hopes one day to be invited to recite at a gathering.
+
+relationships:
+  # Kragvar
+  - [dorrek_kragvar, gorra_kragvar, husband, wife]
+  - [dorrek_kragvar, brakka_kragvar, father, daughter]
+  - [dorrek_kragvar, korrin_kragvar, father, son]
+  - [gorra_kragvar, brakka_kragvar, mother, daughter]
+  - [gorra_kragvar, korrin_kragvar, mother, son]
+  - [ulm_kragvar, dorrek_kragvar, father, son]
+  - [ulm_kragvar, korrin_kragvar, grandfather, grandson]
+  - [vosk_kragvar, brakka_kragvar, mentor, apprentice]
+  - [vosk_kragvar, dorrek_kragvar, cousin, cousin]
+  # Tolmach
+  - [mabbu_tolmach, sennu_tolmach, mother, daughter]
+  - [mabbu_tolmach, harra_tolmach, mother, daughter]
+  - [sennu_tolmach, harra_tolmach, sister, sister]
+  - [sennu_tolmach, ennek_tolmach, mother, son]
+  - [yarrek_tolmach, harra_tolmach, husband, wife]
+  - [yarrek_tolmach, kesh_tolmach, father, son]
+  - [harra_tolmach, kesh_tolmach, mother, son]
+  - [ennek_tolmach, kesh_tolmach, cousin, cousin]
+  # Uskari
+  - [old_one_hask, zirra_uskari, younger brother, older sister]
+  - [old_one_hask, tavi_uskari, former chieftain, successor]
+  - [tavi_uskari, skarra_uskari, friendly rival, friendly rival]
+  - [skarra_uskari, bekk_uskari, mother, son]
+  - [zirra_uskari, ketta_uskari, teacher, former pupil]
+  - [tavi_uskari, ketta_uskari, chieftain, worried-over hunter]
+  # Brenna
+  - [thrun_brenna, odda_brenna, husband, wife]
+  - [odda_brenna, lessa_brenna, mother, daughter]
+  - [thrun_brenna, lessa_brenna, father, daughter]
+  - [lessa_brenna, neffa_brenna, mother, daughter]
+  - [odda_brenna, neffa_brenna, grandmother, granddaughter]
+  - [ahvi_brenna, neffa_brenna, teacher, pupil]
+  - [ahvi_brenna, odda_brenna, cousin, cousin]
+  # Across the families
+  - [old_one_hask, ulm_kragvar, the Old One he serves, keeper of the fire and trusted counsel]
+  - [dorrek_kragvar, old_one_hask, blunt but loyal critic, respected chieftain]
+  - [odda_brenna, old_one_hask, host of the choosing and adviser, friend]
+  - [sennu_tolmach, tavi_uskari, uneasy ally on the trails, uneasy ally on the trails]
+  - [korrin_kragvar, kesh_tolmach, best friend, best friend]
+  - [bekk_uskari, korrin_kragvar, hero, admirer]
+  - [ennek_tolmach, ketta_uskari, sweetheart, sweetheart]
+  - [lessa_brenna, mabbu_tolmach, healer, grumbling patient]
+  - [vosk_kragvar, thrun_brenna, old friend, old friend]
+  - [gorra_kragvar, yarrek_tolmach, water-sharing neighbour, water-sharing neighbour]
+  - [corwell, harra_tolmach, friendly rival trader, friendly rival trader]
+  - [corwell, ennek_tolmach, employer, guide for hire]
+  - [imre, ahvi_brenna, friend, friend]
+  - [imre, corwell, lodger, landlord]

@@ -1,0 +1,25 @@
+Varn is thirty-seven, Scout of the Outer Tunnels, and the person in Cavelor who knows best what lies between the city and the surface. He is wiry, wry and hard to rattle. He stands with his back to the wall in every room, even the Oath Hall, even at supper. He speaks in short sentences. People who ask him long questions get short answers, and people who ask him short questions sometimes get no answer at all, only a look that suggests the question was obvious.
+
+### The outer tunnels
+
+Cavelor lies deep beneath the World Tree, and the way up to the surface runs through the Upper Stair and then a long maze of outer tunnels, root-passages and old caverns. For most of Cavelor's history those tunnels were quiet: damp, dark, occasionally dangerous from falling rock, but empty. The guardians mapped them once, centuries ago, and then mostly forgot about them, because nobody had any reason to go that way.
+
+That changed with the expedition, and changed again eleven years ago, when the first monsters reached the outer tunnels. Varn had been mapping them for four years by then, mostly because he liked being alone in the dark with a lantern and a stick of charcoal. Since then, mapping them has become one of the most important jobs in Cavelor. Varn walks them alone or in pairs, marks which passages are safe, which have collapsed, and which have been claimed by something with claws. His maps hang in the guardroom at the head of the Deep Watch, and Marrun's messengers will not climb without checking them first.
+
+He reports to Brask, Captain of the Deep Watch, and the two of them understand each other perfectly. Brask counts everything twice. Varn walks everything twice. Neither of them talks more than he must. Gorran the smith mends Varn's armour when he comes back with it scored, and lately he comes back with it scored more often than not.
+
+### The tracks
+
+Wild creatures have grown bold and vicious in the outer tunnels since the seal weakened. That much Varn expected. What he did not expect, this spring, was tracks. He found them in passages that, by the oldest maps in the Archive, have been empty for centuries: side tunnels that lead nowhere, dead ends sealed by old rockfalls, places where no one has walked since the founding. Something has been walking there now. More than one something. He does not know where the tracks come from or where they lead, and he will not guess aloud.
+
+He wants to follow them. He cannot do it alone, and Brask cannot spare Wardens from the doubled watch on the lowest passages. So Varn is looking for someone brave enough to come with him, and steady enough not to talk the whole way.
+
+### Doran
+
+Varn's rival, by common agreement, is Doran, Gorran's son, who came back from the surface last autumn talking about the sky. Doran thinks Varn is jealous that Marrun sent Doran up instead of him. Varn has never said whether that is true. What he does say, often, is that a map is worth more than a story, and that Doran tells too many stories. Doran says a map is just a story with lines. They race each other up the Upper Stair whenever they both happen to be at the bottom of it. Varn usually wins. He never mentions it. That annoys Doran far more than gloating would.
+
+Varn has no family left in Cavelor; his parents, both Wardens, died some years ago. He says the tunnels are company enough. Nobody quite believes him.
+
+### Hooks
+
+A quest might follow Varn's tracks into the forgotten passages and find out what made them. Or it might help him clear a collapsed tunnel on the messengers' route before the next letter has to go up to the crown.

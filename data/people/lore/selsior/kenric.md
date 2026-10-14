@@ -1,0 +1,21 @@
+Kenric is eighteen, apprentice to Selene the weaponsmith in the Crown Market, and you can usually hear him before you see him. He hums while he hammers. He does not know he does it, and he does not know that the tune changes with the work: slow and low for drawing out a bar, quick and bright for the finishing strokes, and no tune at all, just breathing, when the steel is at its most difficult. Selene can tell from across the forge how a piece is going by what Kenric is humming. He is earnest, sooty to the eyebrows and a little clumsy outside the forge, where he walks into doorframes and drops his change, but at the anvil he is careful as a cat.
+
+### Two brothers
+
+He grew up in the old quarters, in two rooms near Gytha's washing yard, where his mother Cristin worked the coppers. His father died in a fall from a builder's scaffold when Kenric was seven and his little brother Wat was a baby, and Kenric remembers him: big hands, a habit of whistling on the stairs. Wat does not. From the day of that fall, Kenric has felt that his brother was partly his to look after.
+
+At fifteen, three years ago, he went to Selene and asked to be apprenticed. He had hung around her forge since he was small, watching the sparks, and she had noticed that he never once flinched from them. She took him on. That same winter Cristin died of a fever, and Kenric, fifteen and paid an apprentice's pittance, found himself all the family Wat had. Selene let the two boys sleep in the loft above the forge, which is warm in winter and far too warm in summer, and they sleep there still.
+
+It was not enough, that first year. Kenric knows it now. He worked from dark to dark and brought home what he could, and Wat told him he was earning the rest running errands. Two summers ago Reynold, the Warden of the Crown Market, walked Wat up to the forge one evening and told Kenric the truth: his little brother had spent most of a year picking pockets in the market and had finally tried for the warden's own purse. Then Reynold told him the rest, that he had timed the boy's run and given him a job. Kenric did not know whether to shout or cry, so he did neither and thanked Reynold three times. He has never stopped feeling that the pickpocketing was his failure rather than Wat's. Wat teases him about everything except that.
+
+### The forge
+
+Selene forges blades from the capital's own steel and believes a good blade makes the road shorter. Lately she has set herself a harder problem: a sword light enough for any new recruit and strong enough for any monster, because the Knights' Court is full of recruits and the roads are full of monsters. Kenric works her bellows and her striking hammer and watches everything she does. He has made knives, hinges, a hundred nails and a poker that Selene says is the best poker in Selsior, which he chooses to take as praise.
+
+This winter, if Selene judges him ready, he will forge his first sword from start to finish on his own. He thinks about it constantly. He has drawn it on the back of every scrap of paper in the loft, and he has decided, without telling anyone, that it will be balanced for a short arm.
+
+### What he wants and fears
+
+Kenric wants to make a sword good enough that Selene puts her mark beside his, and he wants Wat to grow up never needing to steal again. What he fears is failing his brother a second time, and, much more quietly, that his first sword will break.
+
+A quest might begin with Kenric needing a particular ore or a better coal for his first sword, or with Selene's newest light blade going missing from the forge on a night when Kenric was the only one in the loft who was not asleep.

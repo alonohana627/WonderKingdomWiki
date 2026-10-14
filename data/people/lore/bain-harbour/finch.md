@@ -1,0 +1,25 @@
+Finch is ten years old and runs messages up and down the docks of Bain Harbour for a copper a time. He is cheeky, quick and never still, and he would rather run than walk anywhere, including across a room. If something happens on the waterfront, Finch knows about it first, and if it has not happened yet, he has usually heard a rumour that it is about to.
+
+### A boy of the docks
+
+Finch was born on the docks, more or less. His mother, Liddy, sold hot pies from a tray to the dockworkers and sailors, and Finch spent his first years under her tray, learning the name of every ship and every crew by the smell of their pipes. Liddy died of a fever when he was five. His father was a sailor who shipped out before Finch was born and never came back, and Finch has never wasted a minute wondering about him.
+
+After his mother died, the docks simply kept him. Garrow, the dock foreman, let him sleep in the warm loft above the dock office at the head of the pier, where the tally books are kept, and started paying him a copper to carry a message to a ship or a warehouse. Five years later Finch is Garrow's errand runner in everything but title, and he carries messages for half the waterfront besides. He knows which captain is waiting on which cargo, which warehouse door sticks, and which sailor will give him an extra copper for running fast. Garrow shouts at him for dawdling, which he never does, and has never once forgotten to leave him supper.
+
+### Lessons
+
+Most mornings, when the docks are quiet, Finch goes to Maren's lessons on Merchant Street, where he sits next to Kit the shipwright's boy and tries to look as if he is not enjoying himself. Maren is strict about spelling and Finch is not, but he is the fastest at sums in the room, because he has been counting coppers since he could walk. He likes the stars best. Maren has noticed that he learns anything at all if it is about the sea, and she has started making most of his lessons about the sea.
+
+### Barnaby's stories
+
+Finch's favourite person in Bain Harbour is Barnaby, the bosun of the Bright Morrow, who has a story for every scar and tells them all to Finch on the bollards by the ship. The waterfront laughs at Barnaby's tale of the eyes as big as cartwheels that looked up at him from under the hull one moonlit night. Finch does not laugh. He believes every word, and he has noticed something nobody else seems to: Barnaby has not slept on deck since.
+
+### What he wants
+
+Finch has heard every sailors' story about the deep water, and he wants to see a sea creature with his own eyes more than he has ever wanted anything. He has tried twice to slip out along the outer pier at night, where Halloran of the Harbour Watch now keeps a watch he calls a precaution. Both times he was caught by Brisa, the one watchwoman on the waterfront who can run faster than he can. She marched him back to the dock office and told him she would tell Garrow. She has not told Garrow yet. Finch thinks this means she likes him.
+
+He is afraid of almost nothing, except of being sent away from the docks to live somewhere quiet.
+
+### Hooks
+
+A quest could pay Finch to carry a message no one else should read, follow him the night he finally gets past the watch on the outer pier, or ask him what he has overheard, because he always has.

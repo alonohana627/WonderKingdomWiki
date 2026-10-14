@@ -6,7 +6,7 @@ Fifty years ago, Wonder Kingdom sent an expedition into the World Tree. The Tree
 
 The explorers first climbed up through the Tree's vast inner passages. They found astonishing magical places: strange plants, extraordinary creatures and natural structures of dizzying complexity.
 
-There they met the [Children of the Tree](towns/fairy-forest.md#the-children-of-the-tree), a magical people who had lived cut off from the rest of the world. After the expedition, the Children gradually moved to Fairy Forest and became part of the wider kingdom.
+There they met the [Children of the Tree](towns/fairy-forest.md#the-children-arrive), a magical people who had lived cut off from the rest of the world. After the expedition, the Children gradually moved to Fairy Forest and became part of the wider kingdom.
 
 ## The Discovery of Cavelor
 

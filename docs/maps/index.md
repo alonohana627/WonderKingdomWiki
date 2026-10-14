@@ -10,15 +10,15 @@
 | [Kaldemor Field](../maps/kaldemor_field.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1 | [Snail](../monsters/snail.md), [Blue Snail](../monsters/blue_snail.md), [Red Snail](../monsters/red_snail.md) |
 | [Kaldemor Hills](../maps/kaldemor_hills.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1 | [Red Snail](../monsters/red_snail.md), [Pig](../monsters/pig.md) |
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 2 | [Shroom](../monsters/shroom.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
-| [Kaldemor Reach](../maps/royal_road_1.md) | [The Royal Road](../world/index.md#royal-road) | Road | 3 | [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md) |
-| [The Crossing](../maps/royal_road_2.md) | [The Royal Road](../world/index.md#royal-road) | Road | 4 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
-| [Greenwood Clearing](../maps/greenwood_clearing.md) | [The Royal Road](../world/index.md#royal-road) | Hunting | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md), [Horny Mushroom](../monsters/horny_mushroom.md), [Axe Stump](../monsters/axe_stump.md) |
-| [Selsior Approach](../maps/royal_road_3.md) | [The Royal Road](../world/index.md#royal-road) | Road | 5 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
-| [Selsior Gate](../maps/selsior_gate.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Selsior](../maps/selsior.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 3 | - |
 | [The Hanging Course](../maps/gauntlet_course.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
 | [The Last Stand](../maps/gauntlet_holdout.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
+| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 3 | - |
 | [The Training Yard](../maps/gauntlet_yard.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
+| [Kaldemor Reach](../maps/royal_road_1.md) | [The Royal Road](../world/index.md#royal-road) | Road | 3 | [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md) |
+| [The Crossing](../maps/royal_road_2.md) | [The Royal Road](../world/index.md#royal-road) | Road | 4 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
+| [Selsior Approach](../maps/royal_road_3.md) | [The Royal Road](../world/index.md#royal-road) | Road | 5 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
+| [Greenwood Clearing](../maps/greenwood_clearing.md) | [The Royal Road](../world/index.md#royal-road) | Hunting | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md), [Horny Mushroom](../monsters/horny_mushroom.md), [Axe Stump](../monsters/axe_stump.md) |
+| [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
+| [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
+| [Selsior](../maps/selsior.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
+| [Selsior Gate](../maps/selsior_gate.md) | [Selsior](../world/index.md#selsior) | Town | - | - |

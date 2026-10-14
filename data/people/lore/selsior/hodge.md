@@ -1,0 +1,25 @@
+Hodge is ten years old and has never in his life used a door when a wall would do. He lives in a crooked house off a courtyard in the old quarters, where his mother Gytha runs the washing yard, and he knows the rooftops above it better than most people know their own street. If a thing holds still, Hodge will climb it. If it does not hold still, he will wait until it does.
+
+### The old quarters from above
+
+The old quarters grew without a plan, and from street level they are a maze of winding lanes, narrow passages and hidden courtyards. From above they are something else: a second city of ridges, chimney stacks, gutters and the skywalks that cross over the streets, and Hodge has made it his own. He knows which tiles are loose, which skywalks sway, which chimneys are warm in winter and which roofs belong to people who will shout. He can cross half the old quarters without touching the cobbles, and he is quite proud of the fact that his mother has never once caught him at it, even if she has heard plenty about it.
+
+He is sneaky, adventurous and fiercely loyal. His two best friends are Mab, the pie seller's daughter, who practises cartwheels by the Great Bell and wants to be the most famous performer in Selsior, and Wat, the errand boy, who used to pick pockets in the Crown Market and still knows every alley shortcut in the city. Between the three of them there is no corner of Selsior they cannot reach. Mab handles the crowds, Wat handles the ground and Hodge handles everything above it. When one of them is in trouble, the other two turn up, usually from an unexpected direction.
+
+### Home
+
+Gytha is tough, sharp-tongued and quick to laugh, and she is raising Hodge with help from her family. Hodge's father is gone. Gytha does not talk about him, and Hodge has learned not to ask. His grandmother Winifred tells stories on her doorstep every evening, and Hodge grew up on them, as half the children of the old quarters did. He likes the ones about the Last Stand at the Tree best, the Savage warriors holding the line, and he has noticed that Winifred tells that one a little differently every time and never says which version is true.
+
+What Gytha wants for her son is a trade: something with tools in it, something that keeps him in the city and brings him home every night. What Hodge wants is the Royal Guard.
+
+### The broom handle
+
+Gytha has forbidden it, flatly and more than once. So Hodge trains in secret. Most dawns, while the washing yard is still dark, he crosses the rooftops to a ridge where he can see down into the practice yard of the Knights' Court, and he copies the recruits at their drills, cut for cut, with an old broom handle. He has watched Drill Sergeant Bertrand bellow at the same recruits so often that he can bellow the corrections along with him, quietly, so nobody hears. He thinks he is getting good. He is not wrong, exactly, but he has never held a real sword, and he has no idea how heavy one is.
+
+He has also noticed, from his ridge, a cloaked stranger who trains in a corner of the Court at dawn with one of the Swordmasters. Hodge has decided this stranger must be someone very important in disguise, and he is determined to find out who.
+
+### What he wants and fears
+
+Hodge wants to be a guard, to wear the Guard's colours down the middle of the street instead of across the roofs above it. What he fears is disappointing his mother, and, more privately, that she is right.
+
+A quest might begin with Hodge spotting something on the rooftops of the old quarters that nobody on the ground has seen, or with the broom handle finally being found.

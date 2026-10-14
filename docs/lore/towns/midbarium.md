@@ -52,5 +52,29 @@ Hospitality is sacred in the highlands, where a traveler turned away might not s
 
 For all its rugged looks, Midbarium is not hostile, primitive or grim, and it holds nothing against outsiders. Today it is a peaceful, welcoming town whose people are proud of both their ancestral traditions and their place in Wonder Kingdom.
 
+## Leadership Today
+
+The Old One is [Hask](../people/midbarium/old_one_hask.md), born an Uskari. He led the Uskari as their chieftain for nine years, and six years ago, after Old One Varra of the Brenna died in her sleep, the four families gathered in the great hall and chose him through a long night of argument, drumming and song. He gave up his chieftainship that night, and the Uskari chose a new chieftain before dawn. Varra had been Old One for twenty-five years, and the Old One before her was a Tolmach, so no family has held the title twice in a row.
+
+The four chieftains today are:
+
+| Family | Chieftain | Since |
+|---|---|---|
+| Kragvar | [Dorrek](../people/midbarium/dorrek_kragvar.md) | 11 years, after his uncle Baruk died in a rockfall on the old north stair |
+| Tolmach | [Sennu](../people/midbarium/sennu_tolmach.md) | 13 years, after old Bekku died |
+| Uskari | [Tavi](../people/midbarium/tavi_uskari.md) | 6 years, chosen the night Hask became Old One |
+| Brenna | [Odda](../people/midbarium/odda_brenna.md) | 20 years |
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Ulm](../people/midbarium/ulm_kragvar.md) | Keeper of the Council Fire |
+| [Ahvi](../people/midbarium/ahvi_brenna.md) | Song-Keeper, who remembers every chieftain and Old One |
+| [Skarra](../people/midbarium/skarra_uskari.md) | Captain of the Trail Watch |
+
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Midbarium](../people/midbarium/index.md).
+
 !!! abstract "Design notes"
     The geography and look are inspired by MapleStory's Perion. Midbarium is rural and mountainous, ruled by the chieftains of four families and the Old One, with a dry highland and desert feel. It should draw on highland, canyon and steppe cultures, not on Middle Eastern or Arabian desert cultures. Still open: who the current chieftains and Old One are, and how a family decides between rivals when it chooses a chieftain.

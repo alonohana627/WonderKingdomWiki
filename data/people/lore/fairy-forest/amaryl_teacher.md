@@ -1,0 +1,25 @@
+Amaryl teaches Growing at the Grove School: the coaxing of living wood, the slow, patient craft by which the Magicians shape a tree into a home without ever cutting it. It is the craft behind every branch-bridge and tree house in the forest, and Amaryl has no patience at all for anyone who tries to hurry it. She is brisk, warm and demanding. She praises rarely, and her students know that when she does, she means it every time.
+
+### Calyra's student
+
+Amaryl was born on the Lantern Paths and came to the Grove School as a girl. She was fourteen when a young teacher named Calyra arrived to teach listening, and Amaryl, who wanted to grow things and thought listening was a waste of a morning, was not an easy pupil. Calyra let her complain until she ran out of complaints, then sent her to sit beside a young oak for a week and tell her what it wanted. By the end of the week Amaryl could tell her. She has never forgotten it, and neither, she suspects, has Calyra.
+
+She learned the craft of Growing itself from old Teacher Ostra, who held the post before her and who died long ago, and she has taught it herself for thirty years. But it is Calyra she still thinks of as her teacher. Now that Calyra is Eldest, Amaryl is sometimes called to the Heart Tree to speak to the Grove Council about the school, and she still calls her "teacher" there by mistake. The councillors smile. Calyra never corrects her.
+
+Amaryl is sixty-three. She never married, and she lives alone in a small tree home she coaxed from a young beech when she was thirty; it is still growing, and so, she says, is she.
+
+### The classroom
+
+Her lessons are held outdoors, in a grove of young trees beside the school that every class of students has helped to shape. Amaryl expects her students to come early, work hard and never force a branch. A student who snaps living wood to save time is sent to sit with that tree until they understand what they did, which is the lesson Calyra once gave her.
+
+She and Sorrel, who teaches listening, have worked side by side for many years. She thinks his lessons are too quiet; he thinks hers are too loud; both of them send their best students to the other.
+
+### Siora
+
+Among her students this year is Siora, a shy girl whose gift is real but slow to wake, and who practises long after everyone else has gone home. Siora's spells fizzle more often than they work, and she is afraid of being sent home before her gift comes. Amaryl has watched her closely. She thinks slow gifts are like slow-growing trees, the ones whose wood is strongest, and she has no intention of letting Siora go anywhere. She has not said so, because she does not give praise she has not seen earned, and she is waiting for the day Siora earns it.
+
+### What she wants and fears
+
+Amaryl wants the craft to outlive her, done properly, by people who understand that a tree is a neighbour and not a material. She fears that the forest's young people, growing up with monsters on the roads, will start to value fast magic over slow, and that Growing will become a quaint old skill nobody has time for.
+
+A quest might ask a traveller to help Amaryl find a stubborn seedling for her lessons, to carry word between her and Calyra when the school needs something from the Council, or to help Siora practise without anyone, especially Siora, realising that Amaryl arranged it.

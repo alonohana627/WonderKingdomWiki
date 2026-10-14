@@ -1,0 +1,23 @@
+Edgar Penhallow still says please to doors. He does it under his breath, especially to the heavy ones, and he has been in Urbanograd long enough now to be embarrassed by it and not long enough to stop. He is nineteen, polite, earnest and very tidy, a guild apprentice from Selsior with ink on his cuffs and a satchel that holds four full notebooks and a fifth he started last week. He is, everyone on Workshops Row agrees, slowly loosening up. Last week he was seen without a collar.
+
+### The guild boy
+
+Edgar was born in Selsior, in a narrow house near the Crown Market, the second son of a family that has belonged to the Cordwainers' Guild, the capital's guild of shoe- and bootmakers, for as long as anyone has kept count. His parents and elder brother are still there, cutting leather to the guild's patterns, and they are proud of him in a careful, guild-approved way. At twelve Edgar was apprenticed in the guild hall, where he learned to cut, stitch and last a shoe exactly as it had been done for generations, and to ask permission before trying anything else.
+
+This spring the guild sent him to Urbanograd for a season. Selsior's guilds, which once wanted the Walkers brought home, now send their apprentices to see what the city's workshops have come up with, and Edgar's masters wanted a report: what the bootmakers of Urbanograd do differently, and whether any of it is respectable enough to copy. Edgar arrived with a clean notebook and very firm ideas about what he would find.
+
+### Four notebooks
+
+He has filled four notebooks since. The first is careful and full of measurements. The second is mostly drawings of Rivet's rope-and-pulley lift, which he cannot stop looking at. The third contains a list of every color of Dyna's coats he has no name for, a diagram of how Jinx keeps five balls in the air, and a page of notes on the Open Table headed "Who is in charge?" with nothing written under it. The fourth is about boots, because of Cobble.
+
+Cobble makes the soft-soled boots the rooftop runners swear by, and Edgar has never seen anything like them: no guild pattern, no stamp, just a sole that grips a wet slate and an upper that will outlive its owner. Edgar wants, more than he has wanted anything, to learn how they are made. He has asked Cobble to take him on as an apprentice for the rest of the season. Cobble looked at his hands, said they were the wrong sort, and went back to work. Edgar has asked twice more since, very politely, and now sweeps the doorstep of Cobble's shop every morning in case it helps. Cobble has not said no a fourth time, which Edgar has decided to treat as progress.
+
+### Rivet
+
+Rivet, who built the lift, is the first friend Edgar made in the city, and the most unexpected. Rivet is cocky where he is careful, loud where he is polite, and builds things without asking anyone's leave. Edgar admires all of it. He follows Rivet about asking how things work, and Rivet pretends to be annoyed and answers every question. Lately Rivet has started letting him hold the tools, and once, on a windy evening at the top of the lift, told him he would make a decent builder if he stopped apologizing to the ropes.
+
+### What he has not written home
+
+Edgar's season ends when the summer does, and then he is due back at the guild hall with his report. He has begun to suspect he does not want to go. He has not written home about it. His letters to his parents are cheerful, detailed and entirely about boots, and every one of them leaves out the only thing he actually wants to say. He fears disappointing them, and fears even more becoming someone who never found out what he might have made.
+
+A quest might carry Edgar's letter home, or the honest one he has not yet sent, help him prove his hands to Cobble, or fetch good leather through the dangerous roads for a pair of boots he wants to make himself.

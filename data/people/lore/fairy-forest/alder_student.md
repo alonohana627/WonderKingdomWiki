@@ -1,0 +1,29 @@
+Alder is a student at the Grove School, a long way from home, and he would like it known that the forest has a serious shortage of sea. He is sixteen, easygoing and funny, and he hides his homesickness behind jokes about it: that the trees are only waves that forgot to come down, that the Lantern Paths would be much improved by a tide, that he has not seen a proper horizon since autumn and is beginning to forget which way is flat. The other students laugh. Alder laughs too. He means every word.
+
+### From the harbour
+
+Alder grew up in Goa Harbour, among the cliffs and forests of its wild coast, in a family of fishers who still work the boats there and write to him whenever a carter is heading inland. He grew up on the quays and the cliff stairs, mending nets and watching the pilots take ships through the inlet, and he assumed he would do the same. Then, the year he turned fifteen, the lanterns on his family's quay began to brighten whenever he was angry and dim whenever he was sad, and the old people of the harbour, who know a little about magic, said he had the gift and ought to go where it could be taught.
+
+The Grove School teaches anyone with the gift, from any town in the kingdom. So last autumn Alder packed a bag and set out for Fairy Forest with a party of carters. It is his first year.
+
+### The road
+
+The road was more dangerous than he expected. Everyone had told him so, and he had nodded and not believed them. On the third night, in the woods two days short of the forest, something came out of the dark at the carts. The hired guards drove it off. Alder never saw it clearly, only its size and the noise it made and the way the horses screamed, and he spent the rest of the journey sitting very upright with his back to a crate, not sleeping. He has told this story at the school as a joke. It is not a joke to him, and every time he thinks about the end of term and the long walk home, his stomach turns over.
+
+### Siora
+
+His closest friend at the school is Siora, a shy girl whose gift is slow to wake and whose spells fizzle more often than they work. She practises long after everyone else has gone home, and Alder, who has nowhere much to go, has fallen into the habit of staying with her, sitting on a root and making jokes until she laughs and the spell comes out a little better. He thinks she is far braver than he is, because she keeps trying in front of people. She thinks he is the only person at the school who never makes her feel slow. Neither has said so.
+
+### Kestrel
+
+Alder's hero is Kestrel, the wandering Magician who clears monsters from the roads between towns. He first heard of her at the Dewdrop Tea House, in a traveller's story, and when he learned she stopped at the Forest Edge between journeys he started walking out there on free afternoons in the hope of seeing her. When she is there, he follows her about asking questions: which roads are worst, what lives on them, how she knew where to stand. She answers with a great deal more patience than her reputation suggests. To Alder, she is proof that the roads can be walked by someone who is not afraid of them, and he would very much like to be that person. He does not know that Kestrel has been thinking of offering to walk him home at the end of term.
+
+### School
+
+Alder's lessons go well enough. He likes Growing, though Amaryl frightens him a little, and he finds Sorrel's listening lessons surprisingly easy, because, he says, the wind in the high branches at night sounds exactly like surf, and he has been listening to surf all his life.
+
+### What he wants and fears
+
+Alder wants to go home at the end of term, see the sea, and come back in autumn without anyone noticing he was afraid. He fears the road, and fears even more that he will let his fear show in front of Siora or Kestrel.
+
+A quest might ask a traveller to escort Alder home to Goa Harbour at the end of term, to help him carry a letter or a lantern from the forest to his family, or to find out what came out of the dark at the carts on the night he will not talk about.

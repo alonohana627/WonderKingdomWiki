@@ -33,6 +33,7 @@ theme:
 
 not_in_nav: |
   /items/*.md
+  /lore/people/*/*.md
 
 plugins:
   - search
@@ -60,6 +61,16 @@ nav:
       - lore/present-day.md
       - lore/principles.md
       - lore/timeline.md
+      - People:
+          - lore/people/index.md
+          - lore/people/selsior/index.md
+          - lore/people/kaldemor/index.md
+          - lore/people/midbarium/index.md
+          - lore/people/fairy-forest/index.md
+          - lore/people/urbanograd/index.md
+          - lore/people/cavelor/index.md
+          - lore/people/bain-harbour/index.md
+          - lore/people/goa-harbour/index.md
       - Towns:
           - lore/towns/urbanograd.md
           - lore/towns/selsior.md
@@ -179,18 +190,18 @@ nav:
       - maps/kaldemor_field.md
       - maps/kaldemor_hills.md
       - maps/kaldemor_woods.md
-      - maps/royal_road_1.md
-      - maps/royal_road_2.md
-      - maps/greenwood_clearing.md
-      - maps/royal_road_3.md
-      - maps/selsior_gate.md
-      - maps/selsior.md
-      - maps/selsior_market.md
-      - maps/selsior_court.md
-      - maps/snail_kings_hollow.md
       - maps/gauntlet_course.md
       - maps/gauntlet_holdout.md
+      - maps/snail_kings_hollow.md
       - maps/gauntlet_yard.md
+      - maps/royal_road_1.md
+      - maps/royal_road_2.md
+      - maps/royal_road_3.md
+      - maps/greenwood_clearing.md
+      - maps/selsior_market.md
+      - maps/selsior_court.md
+      - maps/selsior.md
+      - maps/selsior_gate.md
   - Professions:
       - professions/index.md
       - professions/gathering.md

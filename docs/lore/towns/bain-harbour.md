@@ -32,5 +32,23 @@ Bain Harbour is **not Selsior's port, nor Kaldemor's**. It is a town in its own 
 
 It lies on the opposite side of the island from [Goa Harbour](goa-harbour.md). The two ports are very different, but they are friends, not rivals, and they hold a friendly boat race between them every summer that goes all the way around Veligor.
 
+## Leadership Today
+
+[Quenna](../people/bain-harbour/harbour_master_quenna.md) has been Harbour Master for eight years. She went to sea as a deck girl at twelve and was master of her own ship, the Kittiwake, by twenty-seven. The harbour council of captains, shipwrights and merchants chose her from among themselves, and most of them say it was the easiest choice they ever made and the noisiest they have lived with since. She chairs the council from the Harbour Hall and has skippered the town's race boat for fourteen summers.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Dunstan](../people/bain-harbour/dunstan.md) | Master Shipwright, who builds the race boats |
+| [Annis](../people/bain-harbour/captain_annis.md) | The oldest captain on the harbour council |
+| [Halloran](../people/bain-harbour/halloran.md) | Captain of the Harbour Watch |
+| [Ottilie](../people/bain-harbour/ottilie.md) | Clerk of the Harbour Hall |
+| [Ambrose](../people/bain-harbour/ambrose_chartmaker.md) | Chartmaker, and Quenna's husband |
+| [Ysolde](../people/bain-harbour/ysolde.md) | Lighthouse keeper |
+
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Bain Harbour](../people/bain-harbour/index.md).
+
 !!! abstract "Design notes"
     New with this page: the fishing cove origin, Old Bain, the harbour council, the summer race around Veligor, and sea creatures stirred up by the Disturbance. Still open: which coast Bain Harbour is on.

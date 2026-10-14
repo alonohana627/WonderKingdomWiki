@@ -54,5 +54,23 @@ Urbanograd is a full and proud part of Wonder Kingdom. Its people respect the ki
 
 Urbanograd shows that the kingdom's founding promise reaches further than peace between the original four peoples. Wonder Kingdom also welcomes communities that invent entirely new ways of living.
 
+## Leadership Today
+
+Urbanograd still has no lord. Each year the Open Table chooses a **Caller** to convene it and keep order, and the Caller rules no one. This year's Caller, for the first time, is [Rook](../people/urbanograd/rook_tallow.md), a chandler from Workshops Row whose great-grandparent was one of the Walkers. The Table chose Rook this spring because Rook hates making speeches and loves listening to them. Rook has also written to Queen Aveline every fortnight for nine years.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Dimity 'Inkpot' Ash](../people/urbanograd/dimity_ash.md) | Scribe of the Open Table |
+| [Quint](../people/urbanograd/quint_holloway.md) | Keeper of the Charter Scroll |
+| [Brindle](../people/urbanograd/brindle.md) | Captain of the Gate Watch |
+| [Dina Finch](../people/urbanograd/orla_finch.md) | Director of the troupe that performs Juna's play |
+| [Pip Marrow](../people/urbanograd/pip_marrow.md) | Juna Marrow's great-granddaughter |
+| [Lux](../people/urbanograd/lux_lune.md) | Keeper of the Lanterns |
+
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Urbanograd](../people/urbanograd/index.md).
+
 !!! abstract "Design notes"
     The atmosphere is inspired by MapleStory's Kerning City. Juna Marrow, the Walkers, Old Grad, the Open Charter and the Open Table are new with this page. Still open: where on Veligor Urbanograd lies, and what the city looks like beyond its fortress core.

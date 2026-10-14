@@ -1,0 +1,166 @@
+npcs:
+  - id: keeper_marrun
+    name: Marrun
+    title: Keeper of the Oath
+    role: ruler
+    office: cavelor.oath_keeper
+    place: Oath Hall
+    age: elder
+    personality: Grave, patient and slow to speak, but his rare laughs fill the whole hall. He listens to everyone, from the oldest Warden to the smallest child, before he decides anything.
+    story: Marrun leads Cavelor and the Wardens of the Seal, and has walked the Deep Watch himself for longer than most of his people have been alive. For fifty years he has watched the seal weaken in the ledgers, and he spends more and more of his days writing to the surface, trying to make the kingdom understand how worried Cavelor is.
+
+  - id: warden_brask
+    name: Brask
+    title: Captain of the Deep Watch
+    role: guard
+    place: Deep Watch
+    age: adult
+    personality: Blunt, steady and tireless, with no patience for excuses and endless patience for a frightened recruit. Counts everything twice.
+    story: Brask draws up the turns of the Deep Watch, so that every adult in Cavelor takes a shift and no passage is ever left unwalked. Lately he has doubled the Wardens on the lowest passages, and he will not say aloud what he hears down there on quiet nights.
+
+  - id: warden_thera
+    name: Thera
+    title: Warden of the Seal
+    role: guard
+    place: Deep Watch
+    age: young
+    personality: Quiet, sharp-eyed and fiercely proud of her duty. She takes the Oath more seriously than anyone her age, and hates to be told to rest.
+    story: Thera stands the deepest watch she is allowed and reports every flicker in the seal's glow to the Archive, even the ones that turn out to be nothing. She has begun keeping a private notebook of small changes no one else has noticed, and she is not yet sure whom to show it.
+
+  - id: oswin_ledgerward
+    name: Oswin
+    title: Master of the Ledgers
+    role: scholar
+    place: Archive
+    age: elder
+    personality: Precise, dry and secretly sentimental. He can find any tremor in centuries of ledgers, but never his own spectacles.
+    story: Oswin keeps the great ledgers that go back to the founding, where every tremor and every change in the seal's glow is written down. He knows the page where the record changed fifty years ago by heart, and he has filled more ledgers since then than in all the years before.
+
+  - id: kell_inkhand
+    name: Kell
+    title: Apprentice Archivist
+    role: scholar
+    place: Archive
+    age: young
+    personality: Eager, talkative and full of questions, with ink on every finger. He thinks out loud and apologises for it constantly.
+    story: Kell copies the old ledgers so that no record can be lost to damp or fire, and he loves the four peoples' stories about the Balrog that are tucked into their margins. He wishes someone would finally tell him which of the stories is true, and is beginning to suspect nobody knows.
+
+  - id: halvara_rootkeeper
+    name: Halvara
+    title: Head of the Root Gardens
+    role: worker
+    place: Root Gardens
+    age: adult
+    personality: Warm, practical and always a little muddy. She talks to her mushrooms and feeds anyone who looks tired.
+    story: Halvara tends the pale mushroom beds and the root-fruit vines that keep all of Cavelor fed. Some of the deepest beds have been growing strangely these last few years, and she has asked the Archive to note it down, just in case it matters.
+
+  - id: corvan_stores
+    name: Corvan
+    title: Keeper of the Stores
+    role: merchant
+    menu: true
+    place: Upper Stair
+    age: adult
+    sells: Dried mushrooms, root-fruit, lamp oil and lantern glass
+    personality: Cheerful, chatty and a born haggler, though in Cavelor he mostly haggles for fun. Remembers what every family likes.
+    story: Corvan runs the stores at the top of the Upper Stair, where goods from the surface now arrive in small, precious loads. He has developed a great love of surface honey and keeps a jar hidden for special occasions.
+
+  - id: ysra_mender
+    name: Ysra
+    title: Healer of the Halls
+    role: healer
+    place: Oath Hall
+    age: adult
+    personality: Calm, gentle and immovable once she has made up her mind. She hums old Oath songs while she works.
+    story: Ysra tends to Wardens coming off the Deep Watch with scrapes, burns and the bone-weariness of long shifts. More of them come to her than they used to, and she worries that the watch is wearing her people down faster than they will admit.
+
+  - id: gorran_anvil
+    name: Gorran
+    title: Smith of Cavelor
+    role: craftsman
+    place: Upper Stair
+    age: elder
+    personality: Gruff, loud and soft-hearted, with a laugh like a hammer on stone. Believes any problem can be fixed if you heat it enough.
+    story: Gorran forges the Wardens' blades, lanterns and armour in his forge by the Upper Stair, where the old vents carry the smoke up through the rock. He has been asked to make more weapons each year since the monsters reached the outer tunnels, and he does not like what that means.
+
+  - id: doran_sunward
+    name: Doran
+    title: Warden Back from the Surface
+    role: adventurer
+    place: Upper Stair
+    age: young
+    personality: Bright, restless and impossible to keep quiet about the sky. He squints at every lantern now and calls it "almost as good as noon".
+    story: Doran went up with one of Marrun's messengers last year and saw the sun, the sea of grass and the towns of the surface for the first time. He loves all of it, and he feels guilty about how much he wants to go back while the seal grows weaker below.
+
+  - id: varn_tunnelscout
+    name: Varn
+    title: Scout of the Outer Tunnels
+    role: adventurer
+    place: Deep Watch
+    age: adult
+    personality: Wiry, wry and hard to rattle, with a scout's habit of standing with his back to the wall. Speaks in short sentences.
+    story: Varn maps the outer tunnels between Cavelor and the surface, where wild creatures have grown bold and vicious since the seal weakened. He has found tracks in passages that were empty for centuries and is looking for someone brave enough to help him follow them.
+
+  - id: annick_songkeeper
+    name: Annick
+    title: Singer of the Oath
+    role: performer
+    place: Oath Hall
+    age: adult
+    personality: Lively, teasing and generous with her voice. She can turn the gloomiest Warden's shift change into a sing-along.
+    story: Annick keeps the old songs of the first guardians and teaches them to every child in Cavelor. Since Doran's return she has been trying to write a new song about the sun, and none of her verses feel right yet.
+
+  - id: grisel_oldwarden
+    name: Grisel
+    title: Retired Warden
+    role: resident
+    place: Upper Stair
+    age: elder
+    personality: Sharp-tongued, nosy and wickedly funny, with a memory for every scandal in Cavelor. Still sits facing the deep passages out of habit.
+    story: Grisel walked the Deep Watch for sixty years and was on shift the night the expedition first came down the stair. She tells the story to anyone who will listen, but always stops before the part where the seal changed.
+
+  - id: ottel
+    name: Ottel
+    title: Child of the Root Gardens
+    role: child
+    place: Root Gardens
+    age: child
+    personality: Curious, stubborn and fearless in the way of children who have never been told no for long. Collects interesting stones.
+    story: Ottel has never seen the sun and refuses to believe it is really as big as Doran says. He is saving his best stone to give to it.
+
+  - id: rhenna
+    name: Rhenna
+    title: Child of the Oath Hall
+    role: child
+    place: Oath Hall
+    age: child
+    personality: Shy, thoughtful and serious beyond her years. She already knows the whole Oath by heart.
+    story: Rhenna has never been to the surface and is a little afraid of an endless sky with no roof. She practises standing very straight so she will be ready to take her first turn as a Warden when she is grown.
+
+relationships:
+  - [keeper_marrun, warden_brask, keeper, captain of the watch]
+  - [keeper_marrun, oswin_ledgerward, oldest friend, oldest friend]
+  - [keeper_marrun, grisel_oldwarden, former watch partner, former watch partner]
+  - [keeper_marrun, doran_sunward, keeper who sent him to the surface, trusted young messenger]
+  - [warden_brask, halvara_rootkeeper, husband, wife]
+  - [warden_brask, ottel, father, son]
+  - [halvara_rootkeeper, ottel, mother, son]
+  - [warden_brask, warden_thera, captain, most dependable Warden]
+  - [warden_brask, gorran_anvil, friend, friend]
+  - [warden_brask, varn_tunnelscout, commander, scout]
+  - [gorran_anvil, warden_thera, father, daughter]
+  - [gorran_anvil, doran_sunward, father, son]
+  - [warden_thera, doran_sunward, sister, brother]
+  - [oswin_ledgerward, kell_inkhand, grandfather, grandson]
+  - [oswin_ledgerward, warden_thera, archivist who reads her reports, Warden who reports to him]
+  - [kell_inkhand, doran_sunward, best friend, best friend]
+  - [halvara_rootkeeper, corvan_stores, supplier, buyer]
+  - [corvan_stores, annick_songkeeper, sweetheart, sweetheart]
+  - [ysra_mender, rhenna, mother, daughter]
+  - [ysra_mender, warden_brask, healer who scolds him, patient who ignores her]
+  - [annick_songkeeper, rhenna, teacher, pupil]
+  - [annick_songkeeper, doran_sunward, songwriter, source of sun stories]
+  - [ottel, rhenna, playmate, playmate]
+  - [ottel, doran_sunward, doubter, storyteller]
+  - [varn_tunnelscout, doran_sunward, rival, rival]
+  - [grisel_oldwarden, kell_inkhand, storyteller, listener]

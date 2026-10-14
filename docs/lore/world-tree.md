@@ -6,7 +6,7 @@ At the heart of Veligor stands the World Tree, one of the island's great landmar
 
 High in the Tree lie great chambers, ancient branches, strange magical plants and whole ecosystems found nowhere else, home to wondrous magical creatures.
 
-This was the home of the [Children of the Tree](towns/fairy-forest.md#the-children-of-the-tree). The people of the surface knew almost nothing of them until the [expedition](expedition.md) fifty years ago. Since then, many of the Children have moved to Fairy Forest.
+This was the home of the [Children of the Tree](towns/fairy-forest.md#the-children-arrive). The people of the surface knew almost nothing of them until the [expedition](expedition.md) fifty years ago. Since then, many of the Children have moved to Fairy Forest.
 
 ## The Lower World Tree
 

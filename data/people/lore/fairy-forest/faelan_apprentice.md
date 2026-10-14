@@ -1,0 +1,27 @@
+Faelan is apprentice to Ondine, Keeper of the Lanterns, and he has broken more lantern glass than any apprentice she has ever taken. He knows this because she has told him, more than once, and because Vesper, her daughter, keeps a tally of it chalked on the back of the workshop door. He is twenty-one, dreamy and clumsy with his hands, and he hums while he works, which is when most of the breakages happen. He also has the best eye for colour anyone in the lantern workshop can remember, and that is why, after five years and a great deal of broken glass, he is still there.
+
+### The workshop
+
+Faelan grew up on the Lantern Paths, where every bridge and stair is lit by the lantern-makers' work, and as a child he used to lie on his back under the bridges at dusk and watch the lights come on one by one. He had a small gift and a large imagination, and at sixteen he talked his way into Ondine's workshop by describing, in great detail, a lantern he wanted to make one day. Ondine, who is exacting and proud and secretly sentimental, said the idea was impossible and took him on the same afternoon.
+
+Five years later, he can cut, set and seal glass, mix glow-oil and hang a lantern so it does not swing in a storm, all of it slowly and with frequent accidents. What he can do that nobody else in the workshop can is choose colours. He can look at a stretch of path and know exactly which shade of amber will make it feel safe, which green will make a bridge feel like a branch, which pale gold will let a tired traveller see the next step without being dazzled. Ondine has started asking his opinion about the glass for the outer paths, where she has been making the lanterns brighter every year. Faelan has noticed that, and noticed that she does not like to talk about why.
+
+Vesper, who sells the workshop's lanterns, has none of her mother's patience with him. She tells him exactly what each broken pane cost and then, when no one is looking, sells the pieces he got right at the best prices in the shop.
+
+### Linnet
+
+Faelan's sweetheart is Linnet, the young Keeper of Living Homes along the Lantern Paths. They met about two years ago, when he was hanging a lantern from the branch of a tree home she was mending, dropped it, and showered her hair with coloured glass. Linnet, who is patient, practical and a little too serious for her age, picked the pieces out one by one and then made him apologise to the tree. He did, out loud and at length, and she laughed, and he has been coming to find her ever since. Far too often, according to her master.
+
+Oriel, Master Treewright and Linnet's master, disapproves of Faelan on principle, because he is clumsy, hums and has never grown anything. Faelan knows this and has decided to be cheerful about it. He has also caught Oriel, more than once, almost smiling at one of his jokes, and is quietly counting those too.
+
+### The lantern
+
+Faelan is saving up to make a lantern of his own design as a gift for Linnet. It is not the impossible lantern he described to Ondine at sixteen; it is better. He wants it to throw light the way sunlight comes through leaves, so that wherever Linnet hangs it, the walls of a room look as if they were standing in a young grove at noon. It needs glass in eleven shades of green and gold, some of which he will have to buy from the glass-grinders of the Lantern Paths, and some of which do not exist yet and he will have to mix himself. He keeps the coins in a jar under his workbench. He has broken the jar twice.
+
+He has not told Linnet. He has not told Ondine either, though he suspects she knows, because lately the off-cuts of good green glass have been ending up on his bench instead of in the scrap bin.
+
+### What he wants and fears
+
+Faelan wants to finish the lantern without breaking it, and to see Linnet's face when she lights it. He fears that he will always be the clumsy apprentice, and that Linnet, who is so careful with everything she touches, will one day decide she wants someone just as careful.
+
+A quest might ask a traveller to fetch a rare coloured sand or mineral for Faelan's glass, to help him keep the gift a secret from Linnet until it is finished, or to replace a pane he broke on the outer paths before Ondine notices it is out.

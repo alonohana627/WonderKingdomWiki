@@ -1,0 +1,23 @@
+Dorrek is broad-shouldered, blunt and as stubborn as the granite his family cuts, and the Kragvar would not have him any other way. He is forty-five, the son of Ulm, keeper of the council fire, and he grew up among masons and their songs: songs about the first terraces, the great hall's beams and the Kragvar fighters who never came home from the Balrog War but stayed beneath the World Tree to keep watch.
+
+### The rockfall
+
+Dorrek did not expect to lead. Eleven years ago, his uncle Baruk, Ulm's younger brother and then chieftain of the Kragvar, was inspecting the old north cliff stair when a rockfall swept the landing away beneath him. The family gathered around its fire the next night and chose Dorrek, who had dug for his uncle until his hands bled. He has never forgotten it. To this day he climbs the highest scaffold himself before he lets any mason on it, and he will not hear arguments about whether that is wise for a chieftain. A chieftain leads from the front, he says, and the front is wherever the stone is loosest.
+
+### The family
+
+Dorrek is married to Gorra, who keeps the stone cisterns that water the terraces and knows to the bucket how long the town could last in a dry year. He thinks she is the cleverest person in Midbarium, and he tells her so roughly once a decade. Their daughter Brakka is learning the mason's trade from Dorrek's cousin Vosk, master of bridges, and she has sketched her dream of a new stairway down the cliff on every flat stone in the quarter. Dorrek pretends to find the plan foolish and secretly has a copy of it under his bed. Their youngest, Korrin, wants to join the Uskari on the trail watch when he grows up, which the whole Kragvar family finds very funny and slightly insulting. Dorrek laughs with them, and then quietly asks the Uskari how young they take recruits.
+
+His father Ulm tends the council fire in the great hall and has never let it burn low. Dorrek visits him there most evenings, and the two of them say very little, which suits them both.
+
+### The council
+
+Six years ago, when Old One Varra of the Brenna died and the families met to choose who would follow her, Dorrek argued long in council for a Kragvar Old One. He believed it was the Kragvar's turn, and he believed the town's walls and bridges needed a voice at the head of the hall. The families chose Hask of the Uskari instead. Dorrek lost, said so plainly, and has stood by that decision without a word of complaint ever since. He is Hask's bluntest critic in council and one of his most loyal supporters outside it, and he sees no contradiction in that. He respects Hask as a fair and steady Old One; he simply thinks Hask could stand to talk more and listen less.
+
+Dorrek is scrupulously fair once he has made up his mind, which can take a while. He settles disputes in the Kragvar Quarter by hearing both sides out on the scaffold, where nobody can storm off.
+
+### What he fears
+
+Lately his worries have a shape. Vosk has found ropes on the far canyon bridge gnawed half through in the night, twice this season. Gorra has a cistern losing water through a crack nobody can find. The stone itself seems uneasy, and Dorrek, who trusts stone more than people, does not like that at all. He fears a second rockfall, a bridge failing with a caravan on it, or something in the canyons that has learned what rope is for.
+
+A quest could send someone to sit up on the far bridge at night to see what gnaws it, or to help Dorrek inspect the north stair where his uncle fell.

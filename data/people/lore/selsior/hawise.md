@@ -1,0 +1,23 @@
+Hawise is thirty-three, the dyer of the Riverside, and she is stained to the elbows in a colour that changes with the day of the week. On Mondays it is woad blue, on Wednesdays the yellow of weld, on Fridays the rust of madder; and on Tuesdays, for reasons she will explain to anyone at great length, it is purple. She is bright, impulsive and talks about colours the way other people talk about friends. She will tell you that madder is moody and must be coaxed, that weld is cheerful but unreliable, that a good black is the most difficult friend a dyer can have, and that she is still waiting to meet the colour she has always wanted.
+
+### The vats on the bank
+
+Her dye yard sits on the riverbank a little upstream of the great mill: a row of vats steaming over low fires, poles hung with dripping cloth, and baskets of roots, bark, lichen and petals drying on every flat surface. She came to it at fourteen as the apprentice of the old dyer who worked the yard before her, a stooped, silent woman with permanently blue fingernails who taught her that a colour is half recipe and half patience, and that Hawise had none of the second. The old dyer died when Hawise was twenty-two and left her the yard, the vats and a box of recipes written in a code Hawise took two years to crack. She has run the yard alone ever since, with a girl or two to stir.
+
+She dyes for the tailors of the old quarters, the theatres of the Row, and, through Isabeau the cloth merchant, for a good part of the city. Isabeau sells highland wool and fine cloth to tailors, theatres and the palace itself, and she can tell good wool by its smell. She is elegant, sharp-eyed and impossible to cheat, and Hawise, who is none of those things, adores her. Isabeau sends cloth down to the yard with notes in her elegant hand, and Hawise sends it back with the notes answered in purple.
+
+### Hereward and the purple river
+
+Her husband is Hereward, the miller, who runs the great water mill that grinds flour for half the city. He is steady, dusty and slow to anger, and he measures his words like flour, and they have been married nine years. He met her the first Tuesday she let a purple vat drain into the race, and he walked along the bank, slowly, to tell her that his wheel was turning purple. She told him it suited it. He thought about that for a long time and then asked her to supper.
+
+He still complains that the river runs purple on Tuesdays, and it does, for about an hour, all the way past the mill. He says it frightens the fish and stains the flour sacks. Hawise says the fish have never looked better. It is their oldest joke and they both enjoy it far more than they let on. What Hereward does not joke about is the mill wheel, which needs rebuilding before winter and which he cannot afford alone. Hawise has been quietly putting by every coin the yard spares, and she has not told him, because she knows he would refuse it.
+
+### The new colour
+
+Isabeau is planning a festival of colours in the market square, and she needs a dyer who can make a colour no one has seen. Hawise intends to be that dyer. She has tried crushed beetle wings, river weed, dried mussel shell, the bark of a tree from the edge of the Greenwood, and a lichen a carter swore came from the highlands. She has made seven new browns and one green so ugly that Hereward asked her to bury it. She has not yet made anything no one has seen, and the festival is coming.
+
+### What she wants and fears
+
+Hawise wants her colour, and she wants to see it hung across the Crown Market with all of Selsior looking up at it. What she fears is that every colour has already been found, and that she will spend her life making slightly better versions of other people's.
+
+A quest might begin with Hawise needing a rare dyestuff that grows somewhere dangerous outside the city, or with a vat that turns a colour overnight that she did not put in it, and that no one on the bank can name.

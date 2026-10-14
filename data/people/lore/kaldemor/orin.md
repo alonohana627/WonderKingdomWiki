@@ -1,0 +1,31 @@
+"Good day," says Orin from his bench in the Park, a little louder than he needs to. "Sit a while, if your legs allow." He is seventy-eight, slow, warm and a little deaf, and he has a story for whoever sits down. It will probably be one you have heard before, if you have sat on that bench before, and he will enjoy it more than he did last time. His wife Wren, knitting beside him, will tell him when he is shouting.
+
+### Forty winters
+
+Orin was born in Kaldemor to a family of woodcutters, and he took up the axe at eighteen, as his father had and his grandfather before him. For forty winters he felled trees in the woods past the hills, west of the town, where the oaks and birches grow tall: timber for the carpenters, for the beams of new cottages, for barns and carts and fence posts, and firewood for every hearth in Kaldemor. He worked from the first frost to the last, because a tree felled in winter is drier and truer, and in summer he split and stacked and sharpened.
+
+He knew those woods better than anyone in town. He knew which trees were sound and which were hollow, which would fall clean and which would twist, and he still cannot look at a tree without judging how it would fall. He judges the trees in the Park, the trees along the Royal Road, and, on bad days, the great treehouse itself, though only in a whisper.
+
+He put the axe down twenty years ago, at fifty-eight, when his back told him to. Now he counts the trees from his bench instead. He says the treehouse was a sapling when his grandfather was a boy. Everyone in Kaldemor knows it is far older than that, and nobody has the heart to argue.
+
+### Wren, Hob and Nell
+
+Orin married Wren fifty-three years ago, in the Park, under the clock tower, which he points out has kept time for them ever since. He says he chose her because she was the only girl in Kaldemor who laughed at his stories. She says she was laughing at something else. In more than fifty years she has never once tired of his stories, though she has tired, frequently, of their volume.
+
+Their only son Hob is the miller. Hob was the only woodcutter's child in Kaldemor who never wanted to swing an axe, and Orin was disappointed for about a week. Since then he has been proud, and he tells everyone that his son "fells wheat instead of trees". He has told it a thousand times. Hob still laughs. Orin's granddaughter Nell lies in the square counting clouds; Orin counts trees, and he thinks they understand each other perfectly. She has shown him the last page of her tally book. He told her he could not read it without his glasses, which was true, and kind.
+
+His oldest friend is Ned the cobbler. They have been friends since they were boys, and they still argue about who won a race they ran as boys. Neither of them remembers the race itself, where it was or what it was to, but each of them is perfectly certain he won it.
+
+### These days
+
+Orin sits in the Park every afternoon, because Wren says the Park is nicest in the afternoon, and he has learned that Wren is right about most things. He greets everyone who passes. He was the first on the bench to notice when the clock stopped this spring, and he asked Wren whether she had heard it, rather loudly, for nine days running.
+
+He worries about the woods. He hears, from the young warriors who pass his bench, that the Shrooms are bolder than ever and that something big has settled in a hollow past the trees. He knew every hollow in those woods once. He would like to know which one.
+
+### What he wants and fears
+
+Orin wants one more walk in the woods past the hills, to see the old trees he left standing on purpose. He fears, though he jokes about it, the day his legs will not get him as far as the bench. Wren will not let him talk about that, so he talks about trees.
+
+### Hooks
+
+Orin marked a great old oak in the woods, forty years ago, as the finest tree he ever left standing, and cut his sign into its bark. A traveller who brings him word of it, or a twig from it, would make him very happy, and might find that the hollow everyone fears lies very near.

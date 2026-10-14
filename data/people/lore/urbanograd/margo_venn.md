@@ -1,0 +1,25 @@
+Margo Venn's workshop is easy to find on Workshops Row: it is the one with the smoke stains around the door, the scorch marks on the lintel and, on a good day, a faint smell of burnt hair. Margo, called Sparks by everyone who has stood too close to one of her inventions, is thirty-eight, brilliant, scatterbrained and slightly singed. Her eyebrows have grown back so many times that she no longer worries about them.
+
+### Learning to make sparks
+
+Margo was born in Urbanograd and spent most of her childhood underfoot in the shop of her aunt, Odile Venn, a clockmender with a cramped shop at the top of a staircase that led to three different places. Odile taught her to take things apart, and, more slowly, to put them back together. By twelve Margo had built a music box that played backwards; by fifteen, a kettle that whistled a different note for every temperature. Odile died when Margo was twenty-three and left her a bench full of tools, and Margo opened her own workshop on the Row soon afterwards. She has blown its door off twice in fifteen years.
+
+Margo explains every invention three ways before she lets anyone touch it: once with drawings, once with her hands, and once by shouting, usually while the invention is already doing something unexpected. Spring-traps, sparking lamps and odd gadgets fill her shelves, and she sells enough of them to keep buying parts for the next idea.
+
+### The spark lamp
+
+Her great project this year is a lamp that throws sparks, bright and loud enough, she hopes, to frighten off the monsters that make the roads so dangerous now. It works beautifully in the workshop. Whether it works on a real monster outside the walls, she has no idea, and she needs someone brave enough to test it.
+
+Zinnia Calloway, called Zip, has volunteered with alarming enthusiasm. Zip has never refused a dare and came home from her first adventure with a broken arm and a great story, and Margo is torn between gratitude and the uneasy feeling that she is handing an untested invention to the least careful person in the city.
+
+### Bolt and Rivet
+
+Bolt is Margo's apprentice. He does most of the sweeping, all of the testing and a great deal of apologizing to machines. Margo thinks he has good hands and better instincts, and does not tell him so often enough. She has no idea that he secretly admires some of Rivet's ideas, though if she found out she would be more hurt than she would admit.
+
+Rivet built the rope-and-pulley lift that hauls crates up to the Rooftops, and is Margo's rival in everything. Rivet builds things that work; Margo builds things that sparkle, and then, eventually, work. They argue across the Row about gears, ropes, springs and the proper use of lamp oil, and each would be lost without the other. When Rivet's lift jammed last winter, Margo was the first one up the ropes to help, complaining the whole way.
+
+### What she wants
+
+Margo wants the spark lamp to work outside the walls, and she would quite like to invent the smokeless stove Mags keeps demanding, if only to stop Mags shouting about it in the street. What Margo fears is that one of her inventions will hurt someone who trusted it.
+
+A quest might test the spark lamp on a real monster beside Zip, gather rare parts from beyond the walls, or settle one of Margo and Rivet's arguments with a fair trial.

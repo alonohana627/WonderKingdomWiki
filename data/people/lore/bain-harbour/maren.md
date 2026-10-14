@@ -1,0 +1,27 @@
+Maren is the harbour schoolteacher, and she teaches the children of Bain Harbour their letters, their sums and the names of the stars. She is thirty-five, patient, bright and strict about spelling, and she can make a lesson out of anything that washes up on the beach. A crab shell is a lesson in counting legs. A piece of driftwood is a lesson in where the current runs. A message in a bottle, which has happened twice, was a whole week of lessons.
+
+### The front room
+
+Bain Harbour has no schoolhouse. Maren teaches in the front room of her narrow house on Merchant Street, which holds about twenty children if some of them sit on upturned crates and nobody minds their elbows. There are lessons every morning, and the children come when they can: the fishermen's children before the boats come in, the shipwrights' children when the yard can spare them, and the dock children whenever the docks are quiet. Maren has learned to teach a room in which half the pupils have just arrived and the other half are about to leave.
+
+Among her pupils are Kit, the shipwright's son, who can spell "gunwale" but not "necessary"; Finch, the errand runner, who is the fastest at sums in the room because he has been counting coppers all his life; and Ossie, the lighthouse boy, who walks in all the way from the lighthouse and asks one question at a time, each of which takes the rest of the morning to answer. She loves all three of them and would not say so to any of them.
+
+### Where she comes from
+
+Maren grew up on Merchant Street. Her mother, Elowen, kept the books for the merchants there and taught Maren to read from bills of lading before she could hold a pen properly. At eighteen Maren went to Selsior and spent three years in the Scholars' Quarter, where she learned more than she had known there was to learn and decided she would rather teach it than keep it. She came home at twenty-one, and she has taught the harbour children for thirteen years. Elowen died ten years ago. Maren still teaches from her mother's old desk.
+
+### The schoolhouse
+
+What Maren wants most is a proper schoolhouse, with a roof that does not leak on the slates, a room big enough for every child in the harbour, and windows that look out at the sea, because so many of her lessons begin out there. She has asked the harbour council for one every year. The council is made of captains, shipwrights and merchants, and every one of them agrees the harbour needs a school and then asks whether it might wait until after the race, or after the harvest, or after the second pier Garrow keeps shouting about. Maren has started bringing her pupils' best work to the council meetings to make her case. Last time she brought Kit's spelling, which may have been a mistake.
+
+### The things on the beach
+
+Lately the beach has been teaching lessons Maren does not know how to give. The children bring her things that have washed up: a piece of driftwood scored with long straight grooves, a fish of a kind no one at the Fish Market could name, a shell larger than her hand that none of her books describe. She keeps them on a shelf in the front room with a careful label on each, and she has stopped making lessons out of them. The children have noticed. Ossie has asked her, one question at a time, what they are, and she has had to say she does not know, which is the hardest thing a teacher can say.
+
+### What she fears
+
+Maren is afraid that one morning one of her pupils will not come in, and that she will have to find out why from the sea.
+
+### Hooks
+
+A quest could help Maren make the council's case for a schoolhouse in a way they cannot put off, find out what the strange things on her shelf are, or bring back one of her pupils who has gone looking for the answer himself.

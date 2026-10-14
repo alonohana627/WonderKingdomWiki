@@ -1,0 +1,25 @@
+Ermengarde is seventy, the bookbinder of the Scholars' Quarter, and she smells of glue and old leather from a street away. She mends and binds the Academy's books in a tiny shop beside the great library, so close that her brother Benedict, the Head Librarian, can hear her laughing at her own jokes through the wall. She is placid, careful and fond of terrible puns. Bring her a book with a broken back and she will look at it sorrowfully, say, "Spineless, I see," and then mend it so well that it outlives you.
+
+### The shop through the wall
+
+She and Benedict were born in the Scholars' Quarter, three years apart, he the elder, the children of a laundress who washed for the Academy's masters. Their parents are long dead. Benedict went to the library as a boy to fetch and shelve; Ermengarde went next door at thirteen, to old Master Quentin, the bookbinder whose shop leaned against the library wall, and asked if he needed someone to sweep. He needed someone to stir the glue pot, which is worse. She stirred it for three years before he let her sew a single signature, and she has said ever since that it taught her everything important about bookbinding, mainly that it is mostly waiting.
+
+Quentin left her the shop when he died, forty years ago. It is one room and a loft, with a sewing frame, a press as old as the Academy, racks of leather and boards, and a back door that opens straight into the library's mending room, so that the damaged books can come to her without crossing a street. Every damaged book in the library goes through her hands, and every one comes back with a pun about it that Benedict pretends not to hear. She never married. She says she has been bound to her work so long that she would not know how to come unstitched.
+
+### Benedict and the missing volume
+
+She and her brother have worked side by side, through a wall, for most of their lives. He is fussy where she is placid; he frets over a bent corner while she shrugs and fixes it. She knows better than anyone how much the missing volume of the Aristocrat war chronicles weighs on him, eighteen years after he read its first pages at a desk by the window and came back to find it gone. She has helped him search the shelves every year, with his list. Once, years ago, she told him that books go where they are needed, and he did not speak to her for a week, so she has not said it again, though she still believes it.
+
+### Ranulf
+
+The larger binding work of the Academy, the great ledgers and the presentation volumes, went for many years to Ranulf, who kept a bindery in the Quarter, and he was a friend of hers and Benedict's both. When he died two winters ago and his bindery was sold to pay what he owed, Ermengarde went to the sale and bought his finishing tools, his brass rolls and stamps and his good bone folder, so that strangers would not have them. She keeps them in a cloth on the shelf in her loft for his children, Mariota and Tobe, if either of them ever wants them. Neither has asked yet. She has not offered. She thinks it should be their idea.
+
+### The letter
+
+Thirty-three years ago Ermengarde took apart the binding of an old book to resew it, and found, folded small and sewn into the spine where it did not belong, a letter. She read it. Then she folded it again, sewed it back exactly where she had found it, bound the book up better than before, and sent it back to its shelf. She has never told anyone what it said, not Benedict, not anyone, and she has never told anyone which book it was in. People who know the story ask her about it often. She smiles placidly and says it was a matter of some delicacy, and that she would not want to give anything away, which is, she points out, a bookbinder's whole job.
+
+### What she wants and fears
+
+Ermengarde wants to see her brother's missing volume back on its shelf, mostly for his sake. What she fears is the day someone takes that old book off its shelf to rebind it after she is gone, and finds the letter, and does not understand it, or worse, does.
+
+A quest might begin with Ermengarde needing a rare leather or a particular glue from another town to mend a book that must not leave her shop, or with the old book she rebound thirty-three years ago being borrowed from the library, for the first time in decades, by someone she does not know.

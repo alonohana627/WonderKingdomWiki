@@ -1,0 +1,29 @@
+Rosa calls everyone "dear", and she means it. She is forty-five, warm, round-armed and floury to the elbow, and she bakes in the terrace oven at the top of the Market steps, where half the town comes up before noon and the other half after. She is a born feeder: nobody leaves her bakery without something warm in their hands, and her friends get the heel of the loaf, which she says is the best part and saves for them alone.
+
+### The oven
+
+The oven is older than Rosa, older than her mother, and very nearly as old as the clock tower. Her grandmother Ada built it with her own hands, brick by brick, the year the whole town raised the tower in the Park, when she was a young woman newly come to Kaldemor with nothing but a starter dough in a crock. Ada used to say that a bakery without a warm oven is only a shop, and she made sure hers never went cold. It has not gone cold since. Rosa's mother kept it lit for thirty years after Ada, and when her mother died sixteen years ago, Rosa took the long paddle down from its hooks and has kept it lit alone ever since. On winter nights she banks the embers before bed and gets up twice to look at them.
+
+She rarely tells that story. A baker's oven is public, she says, but its history is family, and Rosa is private about the things that matter most to her. A customer may hear about the weather, the price of flour and the latest from Lia; only a friend hears about Ada.
+
+### Her bread
+
+Rosa bakes round loaves, long loaves, buns, and, above all, her famous mushroom bread, which the whole town swears by and the mayor eats every day. It needs good flour, which Hob's windmills grind for her before anyone else's; mushroom spores, which Wilf gathers in the woods; and a pinch of ground blue snail shell, which is the part she will not explain. Wilf recently went away to visit his sister, and Rosa had to ask a young adventurer to bring her spores from the Shrooms and shells from the blue snails in the meadow. Now Wilf is back, and says the Shrooms have grown too bold for him to gather alone, and Rosa has begun to worry, quietly, about where next month's spores will come from.
+
+Every autumn, when Quenna the Harbour Master comes up from Bain Harbour for the harvest fair, she and Mayor Tobin settle the year's prices over Rosa's bread. Rosa makes them a special loaf and pretends not to listen to the haggling.
+
+Little Fen carries her flour up from the mills twice a week, and Rosa pays her in warm buns and sometimes the heel. Rosa has no children of her own and has never married, and she would tell you, if you asked, that Fen is payment enough.
+
+### Bram
+
+Nine years ago, Rosa and Bram the potion seller were the closest friends in the Market. He ate at her table every week, argued with her about cauldrons and ovens, and tasted every new loaf before anyone else. Then, the morning of the harvest fair, he "improved" a batch of her mushroom bread with a spore tincture of his own, sure it would make the loaves rise higher. They rose, all right, and came out greenish and bitter, in front of the whole fair. Rosa told him he could keep his tinctures out of her oven and himself out of her kitchen. He said he had been right in principle. Neither of them has said much of anything to the other since.
+
+She has never mended it, and she wishes she had. She still sets aside the heel of the loaf on Bram's old day, out of habit, and gives it to the birds. She will not say what she has missed most. If she ever does decide to send word, it will be something small and plain, and she will trust only a friend to carry it.
+
+### What she wants and fears
+
+Rosa wants the oven warm, the town fed, and her old friend back at her table, though she would admit only the first two. She fears the day the oven goes cold, and she fears, a little more than she shows, that the woods are becoming too dangerous for the spores her bread depends on.
+
+### Hooks
+
+A traveller who earns Rosa's trust may be asked to carry a message to the far end of the Market: only that the oven is warm. Another quest could follow the spores themselves, out into woods where Wilf no longer dares to go alone.

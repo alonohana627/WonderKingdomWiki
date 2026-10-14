@@ -1,0 +1,382 @@
+npcs:
+  # ------------------------------------------------------------ Heart Tree
+  - id: eldest_calyra
+    name: Calyra
+    title: Eldest of the Grove
+    role: ruler
+    office: fairy-forest.eldest
+    place: Heart Tree
+    age: elder
+    personality: Patient and dry-humoured, she lets everyone finish speaking before she answers, and her answers are short. She still corrects students' spellwork out of habit.
+    story: Calyra taught at the Grove School for forty years before the forest's teachers and elders chose her from among themselves to be Eldest, and she now leads the Grove Council from the Heart Tree. Her quiet worry is the seal scholars, who sleep too little and find too little. An old friend among the Brenna of Midbarium still visits her each spring.
+
+  - id: thessaly_councillor
+    name: Thessaly
+    title: Grove Councillor
+    role: council
+    place: Heart Tree
+    age: elder
+    personality: Proud, precise and quick to object, but the first to admit when she has been out-argued. She keeps a ledger of every promise the Council makes.
+    story: Thessaly was the other name spoken most often when the elders chose their Eldest, and she lost to Calyra by a handful of voices. She took it graciously and has been Calyra's sharpest critic and most reliable ally ever since.
+
+  - id: ilwen_steward
+    name: Ilwen
+    title: Steward of the Heart Tree
+    role: official
+    place: Heart Tree
+    age: adult
+    personality: Calm, tidy and endlessly polite, with a habit of answering questions with the exact page and shelf where the answer can be found.
+    story: Ilwen keeps the Council's records, its meeting days and its guest list, and greets every visitor who climbs the Heart Tree's stair. He would like, just once, to take a holiday, but cannot think who would water the Council chamber's vines.
+
+  - id: isaura_records
+    name: Isaura
+    title: Keeper of the Old Records
+    role: scholar
+    place: Heart Tree
+    age: elder
+    personality: Stern, careful and secretive by duty rather than nature. She is gentler with her granddaughter than with anyone else.
+    story: Isaura guards the oldest Magician records, including what little remains about how the great seal was made, and leads the scholars studying it. Fifty years of reading have taught her a great deal about the seal and nothing yet about how to strengthen it. She has begun to suspect that some of the oldest pages were never written down at all.
+
+  - id: caelum_scholar
+    name: Caelum
+    title: Seal Scholar
+    role: scholar
+    place: Heart Tree
+    age: adult
+    personality: Brilliant, restless and short on sleep, he talks quickly and forgets to eat. He hates admitting he is stuck.
+    story: Caelum has spent his whole working life comparing the old records with reports of how the monsters are changing, hoping the pattern will point to the seal's weak places. Every theory he has built so far has fallen apart, and he keeps a drawer of them labelled "wrong".
+
+  - id: wynne_copyist
+    name: Wynne
+    title: Copyist of the Old Records
+    role: scholar
+    place: Heart Tree
+    age: young
+    personality: Quiet, observant and stubborn. She notices what others skip and says so only when she is sure.
+    story: Wynne copies crumbling records onto fresh paper so the originals can rest. While copying she found a gap in the numbering of one old seal record, as though several pages were removed long ago, and she has not yet decided whom to tell.
+
+  # ------------------------------------------------------------ Grove School
+  - id: sorrel_teacher
+    name: Sorrel
+    title: Teacher of Listening
+    role: scholar
+    place: Grove School
+    age: adult
+    personality: Soft-spoken and unhurried, he believes most mistakes come from talking too much. His lessons are mostly silence, and his students love him anyway.
+    story: Sorrel teaches the first and oldest Magician lesson, how to listen to trees, wind and creatures before trying any magic at all. Lately he says the forest sounds uneasy at its edges, and he cannot explain what he means.
+
+  - id: amaryl_teacher
+    name: Amaryl
+    title: Teacher of Growing
+    role: scholar
+    place: Grove School
+    age: elder
+    personality: Brisk, warm and demanding, with no patience for shortcuts. She praises rarely and means it every time.
+    story: Amaryl teaches the coaxing of living wood, the craft behind the forest's tree homes. She was once Calyra's student, and still sometimes calls her "teacher" in Council by mistake.
+
+  - id: aurel_teacher
+    name: Aurel
+    title: Junior Teacher
+    role: scholar
+    place: Grove School
+    age: young
+    personality: Eager, nervous and over-prepared, he writes out every lesson word for word and then forgets the notes.
+    story: Aurel finished his own schooling only three years ago and now teaches the youngest students. He wants badly to prove he belongs at the front of the room.
+
+  - id: galen_wandseller
+    name: Galen
+    title: Staff and Wand Seller
+    role: merchant
+    menu: true
+    place: Grove School
+    age: adult
+    sells: Staves, wands, spell scrolls and practice robes
+    personality: Cheerful, talkative and a born salesman who never sells a student something too strong for them, however much they beg.
+    story: Galen keeps the little shop at the foot of the school stair and fits every new student with a first staff. He worries about his younger brother Aurel, and drops by his classroom far more often than he needs to.
+
+  - id: liri_student
+    name: Liri
+    title: Grove School Student
+    role: child
+    place: Grove School
+    age: child
+    personality: Bright, bold and impatient, she wants to learn the exciting spells first and the listening never.
+    story: Liri was born in the forest and has been at the Grove School for one year. She has a plan to sneak out to the Forest Edge and see a real monster, and has told only her best friend.
+
+  - id: siora_student
+    name: Siora
+    title: Grove School Student
+    role: child
+    place: Grove School
+    age: child
+    personality: Shy, thoughtful and hard on herself, she practises long after everyone else has gone home.
+    story: Siora's gift is real but slow to wake, and her spells fizzle more often than they work. She is afraid of being sent home before it does.
+
+  - id: alder_student
+    name: Alder
+    title: Grove School Student
+    role: resident
+    place: Grove School
+    age: young
+    personality: Easygoing and funny, he hides his homesickness behind jokes about the forest having no sea.
+    story: Alder came from a harbour town to study at the Grove School, which teaches anyone with the gift. The road here was more dangerous than he expected, and he dreads the journey home at the end of term.
+
+  # ------------------------------------------------------------ Herb Gardens
+  - id: hesper_herbalist
+    name: Hesper
+    title: Mistress of the Herb Gardens
+    role: healer
+    place: Herb Gardens
+    age: elder
+    personality: Blunt, kind and always smelling faintly of mint. She treats grown adults exactly the way she treats children with scraped knees.
+    story: Hesper has tended the forest's healing gardens for most of her life and taught half its herbalists. More hurt travellers come to her each year from the roads, and she has started keeping a list of what attacked them.
+
+  - id: celandine_herbalist
+    name: Celandine
+    title: Herbalist
+    role: merchant
+    menu: true
+    place: Herb Gardens
+    age: adult
+    sells: Healing salves, herb teas and potions
+    personality: Gentle, orderly and a little anxious, she labels everything twice.
+    story: Celandine runs the remedy stall by the garden gate and makes most of what she sells. She wants to find a plant that grows only near the Forest Edge, but her husband begs her not to go.
+
+  - id: merrow_gardener
+    name: Merrow
+    title: Gardener
+    role: worker
+    place: Herb Gardens
+    age: adult
+    personality: Big-hearted, slow-talking and fiercely protective of his beds of seedlings.
+    story: Merrow does the digging, weeding and watering that keeps the gardens alive. He is proud of his wife's remedies and quietly afraid of the Forest Edge, where she keeps wanting to go.
+
+  - id: briony_councillor
+    name: Briony
+    title: Grove Councillor
+    role: council
+    place: Herb Gardens
+    age: elder
+    personality: Merry, gossipy and wiser than she lets on. She prefers to settle disagreements over tea rather than in the Council chamber.
+    story: Briony taught herb-lore at the Grove School for decades and still spends more time in the gardens than at the Heart Tree. She is Thessaly's younger sister, and the only person who can make her laugh during a Council meeting.
+
+  # ------------------------------------------------------------ Lantern Paths
+  - id: ondine_lanterns
+    name: Ondine
+    title: Keeper of the Lanterns
+    role: craftsman
+    place: Lantern Paths
+    age: elder
+    personality: Exacting, proud and secretly sentimental. She can tell which of her lanterns is dimming from across the forest.
+    story: Ondine leads the lantern-makers who light every path, bridge and stair in the forest. She has made the lanterns along the outer paths brighter each year as the woods beyond grow less friendly, and does not like what that says.
+
+  - id: faelan_apprentice
+    name: Faelan
+    title: Lantern-maker's Apprentice
+    role: craftsman
+    place: Lantern Paths
+    age: young
+    personality: Dreamy and clumsy with his hands, but with a real eye for colour. He hums while he works.
+    story: Faelan has broken more lantern glass than any apprentice Ondine has ever taken. He is saving up to make a lantern of his own design as a gift for Linnet.
+
+  - id: vesper_lanternseller
+    name: Vesper
+    title: Lantern Seller
+    role: merchant
+    menu: true
+    place: Lantern Paths
+    age: adult
+    sells: Lanterns, glow-oil and travelling lights
+    personality: Sharp, practical and quick with a bargain, she has none of her mother's patience and all of her skill.
+    story: Vesper sells her mother's lanterns and her own, and her travelling lights have become popular with anyone who must use the roads after dark. She and Ondine argue about the shop's prices every single day.
+
+  - id: tansy_teahouse
+    name: Tansy
+    title: Keeper of the Dewdrop Tea House
+    role: service
+    place: Lantern Paths
+    age: adult
+    sells: Dew tea, honey cakes and a bed for the night
+    personality: Warm, busy and impossible to surprise, she remembers every guest's favourite cake.
+    story: Tansy runs the tea house where students, travellers and scholars all end up sooner or later. She is raising her daughter Liri alone and suspects the girl is planning something.
+
+  - id: lyra_singer
+    name: Lyra
+    title: Singer of the Old Songs
+    role: performer
+    place: Lantern Paths
+    age: adult
+    personality: Bright, theatrical and generous, she will sing for anyone who asks and many who do not.
+    story: Lyra sings the forest's old songs on the Lantern Paths each evening, including the ones about the Balrog War. She learned most of them from her grandfather and is collecting the verses nobody else remembers.
+
+  - id: aspen_elder
+    name: Aspen
+    title: Retired Treewright
+    role: resident
+    place: Lantern Paths
+    age: elder
+    personality: Talkative, nostalgic and stubborn about everything except his granddaughter.
+    story: Aspen was a young man when the expedition came back with news of the Children of the Tree, and he tells the story of that day to anyone who sits still long enough. He swears the forest was quieter before the Age of Disturbance, and he is probably right.
+
+  - id: linnet_treewright
+    name: Linnet
+    title: Keeper of Living Homes
+    role: craftsman
+    place: Lantern Paths
+    age: young
+    personality: Patient, practical and a little too serious for her age. She talks to the trees she tends as if they were old neighbours.
+    story: Linnet keeps the living-tree homes along the Lantern Paths healthy, coaxing new rooms and mending storm damage. She is Oriel's apprentice and hopes one day to grow a home from a seedling herself.
+
+  # ------------------------------------------------------------ Heart Tree (homes)
+  - id: oriel_treewright
+    name: Oriel
+    title: Master Treewright
+    role: craftsman
+    place: Heart Tree
+    age: elder
+    personality: Gruff, gentle-handed and slow to trust anything that grew in less than a century.
+    story: Oriel tends the oldest living-tree homes around the Heart Tree, some of which the first Magicians coaxed from the trunks. Lately a few of the oldest homes have been slow to wake in spring, and he wants to know why before anyone else notices.
+
+  # ------------------------------------------------------------ Forest Edge
+  - id: seren_warden
+    name: Seren
+    title: Warden of the Forest Edge
+    role: guard
+    place: Forest Edge
+    age: adult
+    personality: Steady, watchful and few-worded, she would rather turn a visitor back politely than draw a weapon.
+    story: Seren commands the small watch at the forest's edge, which once only stopped visitors from taking more than the forest could spare. Now it also keeps monsters from the paths, and she has asked the Council more than once for more hands.
+
+  - id: thorne_guard
+    name: Thorne
+    title: Edge Guard
+    role: guard
+    place: Forest Edge
+    age: young
+    personality: Brash, brave and much too eager for a fight. He is a better guard than he looks and a worse one than he thinks.
+    story: Thorne joined the edge watch to see some action and has seen plenty. He is convinced someone in the forest is playing tricks on him at night, and he is right.
+
+  - id: kestrel_adventurer
+    name: Kestrel
+    title: Wandering Magician
+    role: adventurer
+    place: Forest Edge
+    age: young
+    personality: Restless, cocky and loyal, she treats every monster on the road as a personal insult.
+    story: Kestrel finished at the Grove School and went straight out onto the roads, clearing monsters from the paths between towns. She stops at the Forest Edge between journeys to trade news with the watch and tease Thorne.
+
+  - id: juniper_adventurer
+    name: Juniper
+    title: Wilds Naturalist
+    role: adventurer
+    place: Forest Edge
+    age: adult
+    personality: Curious, fearless and careless about her own safety, she sketches creatures while they are still trying to bite her.
+    story: Juniper travels the wilds recording how creatures have changed during the Age of Disturbance, and brings her notes back for the seal scholars. Her notebooks are full, but nobody has yet found what the changes mean.
+
+  # ------------------------------------------------------------ Children's Glade
+  - id: lumi_child
+    name: Lumi
+    title: Glade Dweller
+    role: resident
+    place: Children's Glade
+    age: young
+    kind: Child of the Tree
+    personality: Endlessly curious and happily blunt, Lumi asks questions nobody else dares and laughs at most of the answers.
+    story: Lumi joined the Grove School to learn the forest's ways and has become Liri's best friend. Lumi knows about Liri's plan to visit the Forest Edge and is torn between keeping the secret and telling Tansy.
+
+  - id: ailo_child
+    name: Ailo
+    title: Garden Helper
+    role: worker
+    place: Herb Gardens
+    age: adult
+    kind: Child of the Tree
+    personality: Calm, unhurried and deeply content, Ailo can work for hours without a word and seems to enjoy every minute.
+    story: Ailo helps in the Herb Gardens and has become close friends with Merrow. Hesper says the gardens have never grown so well, and Ailo only smiles when asked why.
+
+  - id: sefa_child
+    name: Sefa
+    title: Glade Storyteller
+    role: performer
+    place: Children's Glade
+    age: adult
+    kind: Child of the Tree
+    personality: Warm, playful and a natural entertainer, Sefa loves an audience and loves listening even more.
+    story: Sefa trades stories with the forest's children in the glade every afternoon, and with Aspen over tea. Sefa is gathering the forest's tales into one great collection, and refuses to say which stories are Sefa's own.
+
+  - id: niv_child
+    name: Niv
+    title: Glade Dweller
+    role: resident
+    place: Children's Glade
+    age: young
+    kind: Child of the Tree
+    personality: Shy, gentle and easily overwhelmed by crowds, Niv is fiercely loyal to the few people Niv trusts.
+    story: Niv lives in a tree home Oriel tended and visits him almost daily. Niv often stands at the edge of the glade looking toward the World Tree and has never told anyone why.
+
+  - id: orla_child
+    name: Orla
+    title: Glade Dweller
+    role: resident
+    place: Children's Glade
+    age: young
+    kind: Child of the Tree
+    personality: Mischievous, quick-witted and never cruel, Orla thinks the forest takes itself far too seriously.
+    story: Orla is the one playing tricks on Thorne at night, mostly moving his things a little to the left. Orla has decided Thorne needs to laugh more and will not stop until he does.
+
+  - id: halcy_child
+    name: Halcy
+    title: Garland Weaver
+    role: merchant
+    place: Children's Glade
+    age: adult
+    kind: Child of the Tree
+    sells: Woven baskets and glade-flower garlands
+    personality: Kind, practical and welcoming, Halcy remembers everyone's name after one meeting.
+    story: Halcy was among the first of the Children to settle in Fairy Forest and helps newer arrivals find their way. Calyra counts Halcy as a friend and sometimes asks for advice over a basket of flowers.
+
+relationships:
+  - [eldest_calyra, thessaly_councillor, old rival and friend, old rival and friend]
+  - [eldest_calyra, ilwen_steward, employer, steward]
+  - [eldest_calyra, amaryl_teacher, former teacher, former student]
+  - [eldest_calyra, isaura_records, confidante, confidante]
+  - [eldest_calyra, halcy_child, friend, friend]
+  - [thessaly_councillor, briony_councillor, sister, sister]
+  - [ilwen_steward, wynne_copyist, friend, friend]
+  - [isaura_records, caelum_scholar, mentor, student]
+  - [isaura_records, wynne_copyist, grandmother, granddaughter]
+  - [caelum_scholar, wynne_copyist, rival, rival]
+  - [caelum_scholar, juniper_adventurer, colleague, colleague]
+  - [sorrel_teacher, aurel_teacher, mentor, student]
+  - [sorrel_teacher, liri_student, teacher, student]
+  - [sorrel_teacher, amaryl_teacher, colleague, colleague]
+  - [amaryl_teacher, siora_student, teacher, student]
+  - [aurel_teacher, galen_wandseller, brother, brother]
+  - [liri_student, lumi_child, best friend, best friend]
+  - [liri_student, tansy_teahouse, daughter, mother]
+  - [siora_student, alder_student, friend, friend]
+  - [alder_student, kestrel_adventurer, admirer, hero]
+  - [hesper_herbalist, celandine_herbalist, mentor, apprentice]
+  - [hesper_herbalist, merrow_gardener, employer, gardener]
+  - [hesper_herbalist, briony_councillor, friend, friend]
+  - [celandine_herbalist, merrow_gardener, wife, husband]
+  - [merrow_gardener, ailo_child, friend, friend]
+  - [ondine_lanterns, faelan_apprentice, mentor, apprentice]
+  - [ondine_lanterns, vesper_lanternseller, mother, daughter]
+  - [vesper_lanternseller, tansy_teahouse, friend, friend]
+  - [tansy_teahouse, lyra_singer, friend, friend]
+  - [tansy_teahouse, halcy_child, customer, supplier]
+  - [aspen_elder, lyra_singer, grandfather, granddaughter]
+  - [aspen_elder, oriel_treewright, old friend, old friend]
+  - [aspen_elder, sefa_child, friend, friend]
+  - [oriel_treewright, linnet_treewright, mentor, apprentice]
+  - [oriel_treewright, niv_child, friend, friend]
+  - [linnet_treewright, faelan_apprentice, sweetheart, sweetheart]
+  - [seren_warden, thorne_guard, captain, guard]
+  - [seren_warden, kestrel_adventurer, friend, friend]
+  - [seren_warden, juniper_adventurer, friend, friend]
+  - [kestrel_adventurer, thorne_guard, rival, rival]
+  - [orla_child, thorne_guard, secret prankster, target]
+  - [halcy_child, niv_child, guide, friend]
+  - [sefa_child, lumi_child, friend, friend]

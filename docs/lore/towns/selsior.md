@@ -50,6 +50,28 @@ Selsior is cheerful, sociable and full of energy. Street performers draw crowds 
 
 Folk from every corner of Wonder Kingdom live side by side in Selsior, and nobody thinks that strange. More than anywhere else, the capital shows what the founding of the kingdom achieved: prosperity, cooperation and a shared identity, with room for every kind of life and ambition.
 
+## Leadership Today
+
+[Queen Aveline](../people/selsior/queen_aveline.md) has ruled Wonder Kingdom from the palace for sixteen years. She was crowned under the Great Bell at twenty-eight, after the long reign of King Bertram, who sat on the throne for forty-two years and sent the Great World Tree Expedition. The Bell has not rung since her coronation. She is married to [Leofric](../people/selsior/leofric.md), once a road surveyor, and they have two children, Princess [Elinor](../people/selsior/elinor.md) and Prince [Alaric](../people/selsior/alaric.md).
+
+In the first year of her reign, Aveline became the first reigning monarch to walk down the Upper Stair to Cavelor, and she swore an alliance with its Keeper of the Oath: the crown answers every message from below. Eight years ago she made [Rhys](../people/selsior/rhys.md) Captain of the Royal Guard.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Rhys](../people/selsior/rhys.md) | Captain of the Royal Guard |
+| [Osbert](../people/selsior/osbert.md) | Royal Steward, who has run the palace for over thirty years |
+| [Melisende](../people/selsior/melisende.md) | Mistress of the Envoys' Hall, who advises the queen when towns quarrel |
+| [Edric](../people/selsior/edric.md) | Lieutenant of the Road Patrol |
+| [Hugh](../people/selsior/hugh.md) | Warden of the Great Bell |
+| [Bartholomew](../people/selsior/bartholomew.md) | Master of the Royal Academy |
+| [Reynold](../people/selsior/reynold.md) | Warden of the Crown Market |
+| [Clement](../people/selsior/clement.md) | Royal Herald |
+
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Selsior](../people/selsior/index.md).
+
 !!! info "In the game"
     Selsior is in the game today. See [Selsior in the world guide](../../world/index.md#selsior) for its maps, NPCs and shops.
 

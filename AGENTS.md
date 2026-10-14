@@ -19,6 +19,26 @@
   `docs/lore/index.md`; town pages live in `docs/lore/towns/`, and a town that
   is also a game region gets a link to and from its world page.
 
+## NPCs
+
+`data/people/` is the registry of every NPC in the first release: one YAML
+file per town, plus `kingdom.yml` with each town's NPC count and places, every
+office (one holder each) and the only allowed cross-town relationships.
+`tools/people.py` checks it for contradictions (one holder per office, one
+spouse per person, unique ids and names, relationships written once with both
+directions, game NPCs matching GameLib) and renders `docs/lore/people/`. Every
+NPC gets its own page, and each town's list is a Name | Role table. NPCs marked
+`menu: true` (shopkeepers, storage, taxis and other NPCs that only open a menu)
+get a short page without personality or story.
+
+Every other NPC has long lore (400+ words, checked) in
+`data/people/lore/<town>/<id>.md`. `data/people/facts/` holds the hard facts
+writers have set (ages, dates, dead relatives, who knows what) so new lore
+stays consistent; read it and append to it when you write. `data/people/LORE_BRIEF.md`
+and `data/people/REVIEW_BRIEF.md` are the rules used to write and review it. Never
+edit those pages by hand; edit the YAML and rerun it. CI runs
+`python tools/people.py --check`.
+
 ## What goes on a page
 
 Only what a player would want to know: stats, levels, EXP per level, damage,

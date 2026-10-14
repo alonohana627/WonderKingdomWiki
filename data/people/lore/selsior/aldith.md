@@ -1,0 +1,23 @@
+Aldith is seventy-two, the herb wife of the Riverside, and if you come to her door with a cough, a burn, a sprained wrist or a broken heart, she will give you river mint for it. She will give you other things as well, and some of them will be very good, but the river mint comes first. She is earthy, warm and stubborn about old remedies, and she has been treating the riverside folk from the same low cottage on the bank for most of her life.
+
+### The garden on the bank
+
+She was born in that cottage. Her mother, Elfrida, was the herb wife of the Riverside before her, and Aldith grew up among the drying racks, learning to tell feverfew from chamomile by the smell of her fingers. The garden behind the cottage runs right down to the water, and the best of it is the mint bed at the bottom, where the river laps at the roots in spring. Elfrida swore by that mint. Aldith swears by it louder. Her mother has been dead some thirty years, and Aldith has kept the garden exactly as she left it, except for the parts she has improved, which she will show you whether you ask or not.
+
+Her brother Ansel went the other way. When they were young he crossed the city to study healing in the Scholars' Quarter, and he has served the palace as its physician for decades now, treating a queen and a scullery boy with the same cold hands. Aldith stayed on the river. Aldith never married; she says she had a garden to marry and it has never once disappointed her.
+
+### Brother and sister
+
+The two of them argue about whose cures work best, cheerfully and at the tops of their voices, which suits them both, because Ansel is slightly deaf and Aldith was never quiet in her life. He says her mint is a superstition with a pleasant smell. She says his tinctures are mint with a Scholars' Quarter price. Neither of them will admit that they swap recipes in secret. Every so often a folded paper in Ansel's neat hand turns up tucked into her basket, and every so often a jar of Aldith's salve finds its way into the palace's medicine chest, unlabelled, and is used up faster than anything else in it.
+
+### The riverside's healer
+
+Her patients are the people of the river: fishers, ferrymen, millers, dyers, bargehands and their children. She knows them all from birth. She rubs a mint and comfrey salve into Osmund's stiff hands, which no longer manage the nets, and he nods his thanks, which from Osmund is a speech. She doses Robin's coughs and pretends not to notice the mud. Her oldest friend is Edwina, the midwife of the old quarters, who is as blunt as Aldith is warm; the two of them have shared patients, teapots and opinions for fifty years, and they still meet on Aldith's bench whenever Edwina can be spared.
+
+Lately the river has been bringing her different work. She has seen cuts that no hook or net made, and a bargehand with a bruise on his leg in the shape of something that gripped him. Agatha's nets come up torn, and old Osmund will not cross after dark and will not say why. Aldith has begun keeping notes of her own, in a cheap book and a cramped hand, the way she knows her brother keeps his notes on the claw wounds that come to the palace. She has not told him. She suspects he would be pleased, and she is not ready for that.
+
+### What she wants and fears
+
+Aldith wants to hand on the garden. She has no child to take it, and she has not yet found anyone patient enough to learn that mint must be cut in the morning and never in the rain. What she fears is the river itself changing: the water her mother's mint has drunk for seventy years turning into something she does not recognise.
+
+A quest might begin with the mint bed at the bottom of the garden wilting at the water's edge for no reason Aldith can find, or with Ansel sending her, for the first time, a question rather than a recipe: a wound he cannot name, and a request to know whether the river has seen it too.

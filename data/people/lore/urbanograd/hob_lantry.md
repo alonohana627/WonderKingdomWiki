@@ -1,0 +1,25 @@
+Ozzie Lantry is the Historian of the Walkers, a title nobody gave him and everybody uses. He is seventy-four, gentle and rambling, and he cannot answer a simple question without first telling you about a woman who once answered a similar one in a letter ninety years ago. He keeps three pairs of spectacles, one for reading, one for distance and one for emergencies, and he can never find any of them. They are usually on his head.
+
+### A grandson of the Walk
+
+Ozzie was born in Urbanograd. His grandfather was one of the Walkers, a fiddler who left Selsior with nothing but his instrument and a pocketful of songs that the theatres there had refused to hear. Ozzie grew up on those songs, sung badly by his grandfather at bedtime, and it was the songs that first made him curious. Who wrote them? Who sang them on the road? What did the Walkers eat, where did they sleep, and what did they say to each other on the first night in a roofless fortress?
+
+For most of his life Ozzie taught reading to the city's children in his front room, and collected stories on the side. Eighteen years ago, when his last class grew up, he moved his papers into a corner of the Great Hall and began writing the history properly: Urbanograd's first hundred years, told through the letters, diaries and songs of the Walkers and their children.
+
+### The work
+
+Ozzie's corner of the hall is a landslide of boxes. He has copied hundreds of letters, written down songs from the city's oldest grandmothers before they could be forgotten, and borrowed diaries from attics all over the city, always returning them, usually late. Nana Gristle has told him her mother's story so often that he could recite it, and he still writes it down every time in case she adds something.
+
+But there is a hole in the middle of the book. Every account of the first winter is missing. The Walkers wrote about the road, and they wrote about the spring that followed, but of the first winter itself there is almost nothing, not a letter or a page. Ozzie has a dozen theories. Perhaps they were too cold and hungry to write. Perhaps the pages were burned for warmth. Perhaps somebody hid them. He does not know, and it nags at him every day. He would pay well for anyone who finds one in an old attic.
+
+### Friends and foes
+
+Quint, keeper of the Charter Scroll, has been Ozzie's friend since they were boys stealing apples on the same rooftops, and they still argue over supper about which of them was the worse thief. Dimity Ash, the Table's scribe, is his fellow keeper of records; the Table's books begin only after that first winter, and the two of them fret together over the oldest volumes, which are crumbling faster than anyone is copying them.
+
+And then there is Dog-Ear Tuck, who sells old books at the Night Market and claims to own a script of Juna's play in her own hand. For ten years Ozzie has asked to see it. For ten years Dog-Ear has teased him, quoted a line or two, and changed the subject. Ozzie half believes the script is real and half suspects it is the best joke in the city.
+
+### What he wants
+
+Ozzie wants to finish the book before his eyes give out, and he fears he will not. Above all he wants the first winter, in the Walkers' own words.
+
+A quest might search the city's attics for a first-winter diary, persuade Dog-Ear to show the script at last, or track down a lost song only the oldest Walker families remember.

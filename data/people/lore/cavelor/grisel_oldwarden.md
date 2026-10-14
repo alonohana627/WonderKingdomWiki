@@ -1,0 +1,25 @@
+Grisel is eighty-four, and she walked the Deep Watch for sixty years. She took her first turn at sixteen and her last at seventy-six, eight years ago, when her knees finally won an argument she had been losing for a decade. She lives now in a small room by the Upper Stair, with a chair by the door that faces down toward the deep passages. She has turned it to face the Stair more than once. It always ends up facing the deep again, and nobody, least of all Grisel, can say how.
+
+She is sharp-tongued, nosy and wickedly funny, and she has a memory for every scandal in Cavelor going back seventy years: who courted whom, who fell asleep on watch (once, in their youth, and never again), who lost a lantern down a crack in the floor and claimed a draught blew it out. She will tell any of it to anyone, with relish, and she has never once been wrong about a name or a date.
+
+### Marrun's partner
+
+For nearly thirty years, Grisel's watch partner was Marrun, now Keeper of the Oath. She was three years older and, she says, "a great deal more sensible, which isn't saying much." They walked the lowest passages together so often that they could tell each other's footsteps from the far end of a tunnel. She still can. When Marrun comes up the Stair to visit, she knows it is him before he is in sight, and she has the kettle on before he knocks. Their partnership ended thirty-three years ago, when Grisel broke her leg in a fall on the lower stair. By the time she was walking again, the roster had paired them both elsewhere, and neither wanted to ask for the other back in case it looked like favouritism. She still thinks that was the stupidest decision either of them ever made.
+
+Grisel never married. She says she had no time for it and too much sense. Cavelor has been her family, and she treats every Warden in it like a slightly disappointing niece or nephew.
+
+### The night of the expedition
+
+Fifty years ago, Grisel was on shift the night the Great World Tree Expedition first came down the stair. She had swapped turns with a sick Warden, and Marrun was asleep after a long watch. She heard footsteps in the upper passages that belonged to no one she knew, raised her lantern, and saw strangers from the surface, astonished and dusty, staring at her as if she were a ghost out of a song. It was Grisel who sent for Marrun.
+
+She tells the story to anyone who will listen: the explorers' faces, the questions, the songs that night in the Oath Hall, the way the whole city crowded in to stare and be stared at. It is a wonderful story, and she tells it wonderfully. And every time, she stops before the part where the seal changed. She stops in a different place each time, sometimes with a joke, sometimes with a complaint about her knees, sometimes by simply getting up to put the kettle on.
+
+### Kell
+
+Her most faithful listener is Kell, Oswin's grandson, the apprentice archivist, who will sit for hours with ink on his fingers and his mouth slightly open. Grisel adores him and teases him without mercy. She has noticed that he has started counting the places where she stops. She has not decided what she will say when he finally asks.
+
+What she will not tell anyone is that she has never forgiven herself for being the one on shift that night: for raising her lantern and smiling, and sending for Marrun, and letting the explorers in with nothing but joy. She knows it was not her fault. She knows Marrun thinks so too. It has not helped in fifty years.
+
+### Hooks
+
+A quest might finally get Grisel to tell the end of her story, and with it some small detail of those days that nobody else remembers. Or she might send an adventurer to settle some old Cavelor mystery that only she still recalls.

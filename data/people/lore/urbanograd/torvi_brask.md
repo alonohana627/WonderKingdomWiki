@@ -1,0 +1,29 @@
+Torvi Brask is the axe-fighter from the highlands, and anyone on the Gate Walk can find Torvi by ear. Torvi laughs like a rockslide: a long, rolling roar that starts somewhere low and keeps going, startles carters' mules, and makes the Gate Watch grin before they know what the joke was. Torvi is proud, honest to the point of rudeness, and still, after six years, bemused by city manners.
+
+### From the high slopes
+
+Torvi was born thirty-one years ago on the Brask homestead, a stone shelter and a few goat pens on the far slopes of the highlands, a long walk from any town. Torvi's parents still keep the herd there; they send word down with the wool carters now and then and play no part in Torvi's life in the city. Whether the Brasks count themselves among any of Midbarium's four families is a question Torvi answers differently depending on who is asking.
+
+It was Torvi's grandmother, Hulda Brask, who put an axe in Torvi's hands. She split wood with it, cleared scrub with it, and once, in a story Torvi has told in every tavern on the Gate Walk, drove off a hill cat with it while still holding a pail of milk. Hulda taught Torvi to fight the way the slopes teach anything: plainly, with no flourishes, for the sake of the herd. She also taught the lesson Torvi values most, that a fighter who never runs is a fighter who only gets one bad day. Hulda died when Torvi was twenty-two, and her axe, its handle replaced twice, is the one Torvi carries now.
+
+### Down to the city
+
+Six years ago, at twenty-five, Torvi walked down out of the hills to see the city everyone at the highland fires talked about. Torvi meant to stay a week. On the first night, in Lantern Square, someone was hammering out a rhythm on buckets and pans while half the square danced, and Torvi, who had grown up on drumming, joined the dancing and did not stop until the lanterns guttered. Torvi stayed because the music was good, and it has stayed good: Torvi stamps along to Drum's buckets, and calls Saffi's fast fiddle tunes the only thing in the city that moves like a mountain wind.
+
+The manners are another matter. In the highlands, anyone who comes to your fire in peace is given water, food and a place to sleep. In Urbanograd, Torvi has learned, you do not invite strangers in off the street, you queue at Night Market stalls, and you do not settle an argument by wrestling. Torvi went to the Open Table once, listened to a whole evening of speeches end in an agreement to talk more next week, and laughed so loudly that the Caller had to wait. Torvi likes the Table anyway, because anyone may speak there, and Torvi respects that more than Torvi can explain.
+
+### Caravan guard
+
+Torvi earns a living by hiring out as a caravan guard on the roads to Kaldemor, Selsior and the harbours. Torvi charges a fair price, refuses to promise a safe road when there isn't one, and tells caravan masters plainly which stretches have gone bad. More caravans want guards every season. Shade often brings Torvi's caravans in over the last stretch to the gate, and the two of them compare tracks. Hatch and Torvi trade stories over cups at the Gate Walk; Hatch only starts after the second cup, Torvi after the first. Brindle buys Torvi more drinks than the Watch's purse can afford, and Torvi has carried more than one bitten traveler straight to Patch's door.
+
+### Zip
+
+Last spring Torvi guarded the caravan to Kaldemor that Zip had talked her way onto. Two days out, something large and tusked crashed out of the brush, and Zip ran at it. Torvi splashed across the stream too late to stop her falling off the top of the bank, found her on the rock with her arm broken in two places, looked her over, laughed, and told her that bravery was wasted on someone who could not fight. Then Torvi carried her back to the wagons over one shoulder while she shouted about the tusks, and bound the arm the way Hulda taught.
+
+Back in the city, Zip followed Torvi around the Gate Walk until Torvi gave in. Now they train most mornings on the open ground inside the gate: footwork, guard, when to stand and, above all, when to run. Torvi is proud of how fast she learns everything except the running.
+
+### Wants and fears
+
+Torvi wants the roads open, because the music needs them: fewer outside traders come every year, and Torvi knows a city that cannot trade will stop dancing first. One day Torvi wants to walk home with the city's tunes in Torvi's head and play them badly at a highland fire. What Torvi fears is the day Zip stands when she should run, with Torvi too far away to carry her back.
+
+A quest might guard a caravan with Torvi and Zip while she tries Margo's spark lamp on the road, or go back to the stream bank where the tusked beast vanished. Torvi only saw tracks at the top of the bank, larger than any boar's, and has wondered ever since what made them.

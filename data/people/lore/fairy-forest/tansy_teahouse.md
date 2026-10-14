@@ -1,0 +1,25 @@
+Sooner or later, everyone in Fairy Forest ends up at the Dewdrop Tea House. Students come after lessons with coins they should be saving, travellers come in off the roads still shaking the dust from their cloaks, and scholars from the Heart Tree come late at night because they have forgotten, again, to eat. Tansy, who keeps it, is ready for all of them. She is warm, busy and impossible to surprise, and she remembers every guest's favourite cake, sometimes years after their last visit.
+
+### The house on the Lantern Paths
+
+The tea house sits on the Lantern Paths, in the hollow of a broad old tree with a branch-bridge running past its door and a ring of lanterns hung along its eaves. Downstairs is the tea room, all mismatched cups and low tables; upstairs are a handful of small rooms where a traveller can have a bed for the night. Tansy sells dew tea, gathered at dawn from the broad leaves around the house, honey cakes, and that bed, and she does a brisk trade in all three.
+
+The house was her mother's before it was hers. Hollyn ran the Dewdrop for most of Tansy's childhood, and Tansy grew up carrying trays and learning which scholar took three spoons of honey. Hollyn died eleven years ago, and Tansy has run the house alone ever since. She has changed almost nothing, except the cakes, which she insists are better.
+
+### Liri
+
+Tansy is thirty-six, and she is raising her daughter Liri alone. Liri's father, Edrin, kept the bees whose honey still goes into the Dewdrop's cakes. He died of a winter fever when Liri was one, and Liri does not remember him. Tansy kept his hives, and on quiet mornings she tends them herself, though she is not fond of bees and says so to them every time.
+
+Liri is nine and has been at the Grove School for a year. She is bright, bold and impatient, and Tansy knows exactly whom she takes after. Lately the girl has been too quiet at supper, too interested in the travellers' stories about the roads, and too friendly with her best friend Lumi in a whispering, pointed sort of way. Tansy suspects Liri is planning something. She does not yet know what, and it is the only thing in the forest she would hate to be surprised by.
+
+### Friends and suppliers
+
+Vesper, who sells lanterns further along the path, is one of Tansy's oldest friends; the two of them can argue about prices for an hour and part laughing. Lyra, the singer, is another, and on fine evenings she sings on the bridge outside the tea house so that Tansy's guests can hear her through the open windows. The garlands that hang over every table, and the baskets the honey cakes are carried in, come from Halcy in the Children's Glade. Tansy buys from Halcy every week and would not change supplier for any price.
+
+Old Aspen sits by the window most afternoons and tells the story of the expedition's return to whoever will listen. His friend Sefa often joins him, and Tansy keeps the pot full.
+
+### What she hears
+
+A tea house hears everything. Tansy knows which roads have grown worse this season, because the travellers tell her; she knows which seal scholars have stopped sleeping, because they come in at midnight; she knows the edge watch is stretched thin, because its guards eat standing up. She keeps all of it to herself unless someone needs to know.
+
+A quest might ask a traveller to help Tansy find out what Liri is planning before Liri does it, to fetch dew from a far grove when the near leaves run dry, or to carry a basket of cakes to a scholar who has not left the Heart Tree in three days.

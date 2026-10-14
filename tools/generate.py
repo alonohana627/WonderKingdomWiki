@@ -167,6 +167,10 @@ class Wiki:
             self.maps[p.stem] = load(p)
             self.map_paths[p.stem] = p.relative_to(c).as_posix()
         self.regions = load(c / "world" / "regions.json")
+        for rid, r in self.regions.items():  # newer content lists a region's maps only on the maps themselves
+            r.setdefault("maps", sorted(
+                (m for m, plan in self.maps.items() if plan.get("region") == rid),
+                key=lambda m: (self.maps[m]["purpose"] != "town", self.maps[m].get("difficulty") or 0, self.maps[m]["name"])))
         self.discoveries = load(c / "world" / "discoveries.json")
         self.taxis = load(c / "world" / "taxis.json")
 
@@ -1204,7 +1208,10 @@ class Wiki:
         lines += [f"      - {p}" for p in lore_order() if "/" not in p.removeprefix("lore/")]
         for folder in sorted(d for d in (DOCS / "lore").iterdir() if d.is_dir()):
             lines.append(f"      - {folder.name.replace('-', ' ').title()}:")
-            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")]
+            # Pages directly in the folder, and the index of each subfolder (a town's people);
+            # the rest are reached through those indexes, not the navigation.
+            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")
+                      and (p.count("/") == 2 or (p.count("/") == 3 and p.endswith("/index.md")))]
         for section in order:
             pages = self.nav[section]
             if isinstance(pages, str):

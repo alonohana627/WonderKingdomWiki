@@ -1,0 +1,27 @@
+"What grows a little every spring and is never once older?" asks Bertie, with a twinkle, and waits. He will not tell you the answer. He will tell you a different riddle instead, and then pat the mushroom house beside him as though it had laughed. Bertie is seventy-four, small, round and unhurried, with moss-green braces, a felt hat older than most of the town, and a satchel of curved knives and little saws that he has carried for fifty years. He hollows out the mushroom houses of Kaldemor, and he treats every one of them like an old friend.
+
+### Fifty springs
+
+Kaldemor's famous houses are real mushrooms, grown from the town's strangely generous soil, and every spring each one grows a little. Somebody has to hollow out the new room, cut the new window, rehang the door that the cap has lifted half a hand higher, and make sure the whole thing still stands straight. For fifty years, that somebody has been Bertie.
+
+He was born in Kaldemor and came to the trade at twenty-four, when old Bracken, the shaper before him, caught him leaning on one of her houses and told him he was leaning on it wrong. She taught him for ten years and then died, peacefully, in the oldest mushroom house in town, and Bertie has had the work alone ever since. Bracken never measured, and neither does Bertie. He says the mushroom tells him where the window goes. He puts his hand flat on the cap, listens, and cuts, and he has never yet cut a window in the wrong place, though he admits a few were in surprising ones.
+
+Every spring is his busy season. He goes from house to house with his satchel, greeting each one by its colour or its door, and by early summer he is tired, cheerful and sticky with sap. He knows every house in Kaldemor, which ones grow quickly and which slowly, which lean, which sulk, and which, he swears, have opinions.
+
+### Daisy
+
+Bertie married Heather, a seamstress, more than forty years ago; she died six years ago and he still talks to her hat, which hangs by the door. Their son grew up with no feeling for mushrooms at all, went to Selsior to keep a shop, and lives there still with his wife; they play no part in Kaldemor life and write at midwinter. Their daughter, Bertie's granddaughter Daisy, did not go. She was twelve, already painting everything that held still, and she announced that she was staying with her grandparents and the houses. She has stayed ten years.
+
+Now Bertie shapes the houses and Daisy paints them, in colours so bright that he says he can find his way home in the dark by them. She paints half the shutters in Kaldemor, too, and is never seen without paint on her nose. Bertie thinks she is the best thing in the town, and tells everyone except Daisy, who cannot hear a compliment anyway. He has noticed that young Jem the fiddler turns up wherever Daisy is working, and has decided it is not his business, and enjoys watching it enormously.
+
+### Fen
+
+Bertie's little helper is Fen, who is eight, who was born in a small round freckled mushroom house at the end of the lane from the Park to the Workshops, and who loves the houses even more than he does. She follows him all over town on fitting days and carries his tools with great ceremony. Fen measures everything, with knotted cords, one for every house she has adopted. Bertie never measures. They have argued about this for two springs, and he thinks she has the right answer for her, which is the best answer there is. She wants to fit a window, a real one. He keeps telling her "next spring". She has written it down, so he cannot forget. He has not forgotten. He is waiting for the right house to tell him.
+
+### What he wants and fears
+
+Bertie wants to see Fen cut her first window and Daisy paint it. He would like one more spring, and then another, and he does not count them. What he fears he will only say in a riddle. This spring, for the first time in fifty years, several of the houses nearest the woods grew crooked, all leaning the same way, away from the trees. He has put his hand on their caps, and for the first time he could not hear what they were telling him.
+
+### Hooks
+
+Bertie may ask a traveller to sit up with him one spring night beside a house that is growing too fast, to see what it does. Or he might at last decide which house is right for Fen's window, and need someone to fetch the frame from Alfie, the glass from the Market and Fen from wherever she is asking questions.

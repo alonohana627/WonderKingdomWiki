@@ -1,0 +1,27 @@
+Osric is forty-four and a woodsman of the Forest Shore, the only son of Elspeth the healer. He is uneasy, watchful and superstitious. He hangs a twist of rowan over his door, knocks twice on a stump before he sits on it, and will not work past sunset for any wage, however much is offered and however near the job. Haldor, the head of the timber crews, calls him the best man in the forest he ever had. Osric no longer goes into the forest at all, except to its very edge.
+
+### His father's trade
+
+Osric's father, Aonghas, was a woodsman too, and the boy followed him into the trees as soon as he could walk the paths. Aonghas taught him to choose which trees should be cut and which left, to read the way a trunk would fall before the first stroke, and to find his way home in any weather by the moss and the light. When Osric was fourteen, Aonghas caught a chill clearing a windfall in the rain, and died of it. Osric took his father's axe and went on doing his father's work, and he has been doing it ever since.
+
+He was always a careful man, more careful than his father, who laughed at the old woodsmen's sayings. Osric never laughed at them. He kept the sayings because they kept him alive: never whistle under the big trees, never sleep with your back to the deep wood, be out of the forest before the sun is. For thirty years he walked the deep forest ahead of the crews and marked the trees they would cut, and since Haldor took over the crews twelve years ago he has been the woodsman Haldor sent in first. He went alone, and he always came back.
+
+### Last autumn
+
+Last autumn, Osric was cutting alone deep in the forest when every bird went silent at once. He came out of the woods that evening white and shaking, without his father's axe, and he has not been back there since. He will not say what he saw. Not to Haldor, who has never pushed him. Not to the crews, who have asked. Not to his mother, who can get the truth out of anyone else in Goa Harbour and has not been able to get it out of him.
+
+Elspeth has stopped asking. Instead she leaves a lamp in her window every night, and Osric has noticed. He lives in a small hut a short walk from her house, and on the worst nights he walks over and sits by her fire without saying anything, and she lets him.
+
+### The work now
+
+Osric still works for Haldor, along the edge of the forest where the crews cut now, with Torva's hunters close by. He marks the trees, warns the cutters when the wind is wrong, and watches the deep woods all day long. The young cutters think him frightened of shadows, and say so. Merrin, the youngest, used to laugh at him. She has stopped. Osric has seen her looking into the deep forest at the tall trees there, and he knows that look, because he wore it himself for thirty years. He has not yet found a way to warn her that does not mean telling her what he saw.
+
+### What he wants and fears
+
+Osric wants the forest to go back to being only a forest. He fears that it never will. He fears, too, that one day someone he cares for will walk into the deep woods to the place where the birds went silent, and he will have to decide whether to follow.
+
+Whatever he saw there, it is still there. Of that much, at least, he is sure.
+
+### Hooks
+
+A quest might go to the place where the birds went silent to bring back his father's axe, and with it something Osric can finally tell his mother. Another might follow Osric on the one night he breaks his own rule and goes into the forest after sunset.

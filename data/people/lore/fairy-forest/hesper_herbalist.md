@@ -1,0 +1,27 @@
+Hesper is Mistress of the Herb Gardens, the terraced beds and glasshouse-hollows below the Heart Tree where Fairy Forest grows its healing plants. She is seventy, blunt and kind, and always smells faintly of mint. She treats grown adults exactly the way she treats children with scraped knees: she sits them down, tells them they were foolish, cleans the wound, gives them something that tastes awful, and sends them off with a honey drop for being brave. Hardened adventurers have been known to come back for the honey drop.
+
+### A life in the gardens
+
+Hesper came to the Herb Gardens at fifteen as a weeding girl under old Mistress Yarrow, who taught her that every plant in the beds was either a medicine or a poison depending on how much you gave, and that most people were the same. Hesper rose from weeding to brewing to teaching, and when Yarrow died thirty-three years ago, the gardens passed to her. She has tended them for most of her life and taught half the forest's herbalists, and she still kneels in the beds every morning before anyone else is awake.
+
+She never married. She says the gardens took all the patience she had and left none for a husband, and that she has never once regretted the trade.
+
+### Her people
+
+Celandine, her apprentice, runs the remedy stall by the garden gate and makes most of what she sells. She is gentle, orderly and a little anxious, and Hesper thinks she is the most careful herbalist she has ever trained, which she has told her exactly once. Celandine's husband Merrow does the digging, weeding and watering that keeps the gardens alive. He is slow-talking and big-hearted and fiercely protective of his seedlings, and Hesper would not trade him for three quicker men.
+
+Ailo, one of the Children of the Tree, helps in the gardens and has become Merrow's close friend. Hesper says the gardens have never grown so well since Ailo came. She has asked why more than once. Ailo only smiles, and Hesper, who is not used to being smiled at instead of answered, has decided for now to be grateful instead of curious.
+
+Briony, who taught herb-lore at the Grove School for decades and now sits on the Grove Council, is Hesper's oldest friend. Briony still spends more time in the gardens than at the Heart Tree, mostly on the bench beside Hesper's potting shed, and the two of them settle the forest's affairs over tea long before the Council ever hears of them.
+
+### The list
+
+More hurt travellers come to Hesper every year, carried in from the roads by the edge watch or limping in by themselves. Two years ago she began keeping a list: who came, where they were hurt, and what attacked them. She writes it in the back of her seed book in a plain, firm hand. At first it was only so she would know which salves to brew. Now it has grown long enough that she can see things in it: the same creature appearing on a road where it was never seen before, wounds that should not have come from the animal that made them, a season when everything seemed to bite at once.
+
+She has not shown the list to anyone at the Heart Tree. She is a gardener, not a scholar, she says, and the scholars have enough to read. She is not sure that is the real reason.
+
+### What she wants and fears
+
+Hesper wants Celandine ready to take the gardens when she is gone, and she wants the roads safe enough that she can stop keeping her list. She fears neither will happen soon. She also knows Celandine longs to go to the Forest Edge after a plant that grows only there, and she has not told her whether she approves.
+
+A quest might ask a traveller to gather herbs from a road too dangerous for her gardeners, to carry her list to the seal scholars, or to bring back word of what attacked a traveller who did not reach her in time.

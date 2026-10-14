@@ -1,0 +1,23 @@
+Knox is the biggest member of the Gate Watch and the gentlest. He is forty-four, broad as a doorway, with a short beard going grey at the chin and hands that look as if they could lift a cart, which they occasionally do. He speaks slowly and seldom raises his voice, and in ten years at the gate nobody has ever seen him truly angry. Travelers who arrive frightened from the roads find him standing at the gate with a lantern, saying their names, and most of them feel safe before they are through it.
+
+### Before the gate
+
+Knox was born in Urbanograd and spent his young years as a joiner's labourer on Workshops Row, carrying beams up the city's endless stairs and fitting the bridges that run between its rooftops. He learned to work wood there, and kept the habit of carving when the work dried up. He married Jessamy, a stall-keeper's daughter with a loud laugh, and they had a son, Tick.
+
+Ten years ago, when Tick was a baby, Knox signed on with the Gate Watch. He says he did it for something steady and quiet to do on long evenings. In those days the gate was steady and quiet. Old Garran Holt was captain then, and a young volunteer called Brindle had already been keeping the gate for seven years. Two years later Jessamy died after a fall on an icy stair one winter, and Knox raised Tick at the Gate Walk, where the boy learned to walk between the guards' boots and to talk to every traveler who came through.
+
+### The watch
+
+Knox has guarded the gate for ten years, three longer than Brindle has been captain, and he knows every regular traveler by face: the carters, the peddlers, the hunters, the cider sellers, the woman who brings eggs and the man who brings bad jokes. When a regular stops coming, Knox notices first, and he is noticing more of that every season. Brindle trusts him completely and asks his advice on most things. Knox gives it slowly and briefly and is usually right.
+
+During quiet watches Knox carves little wooden animals with a short knife: foxes, hares, goats, and owls. The owls go to Dagny, who keeps the night watch with her two lamps. Knox has started calling her the bravest of them. She thinks he is joking. He is not. Brindle has seen the same thing and is still hunting for the right words to tell her; Knox has decided that owls will do in the meantime. Patch, the herbalist further along the Gate Walk, has pulled more of his carving splinters than either of them can count, and scolds him every time.
+
+### Tick
+
+Knox's son Tick is ten, eager and always out of breath, and runs messages from the gate to the rest of the city. Tick salutes everyone, including the cat. He keeps a notebook of every strange story travelers tell him, and above all he follows Hatch, the old monster hunter, asking for more. Tick wants to be an adventurer. Knox wants him to be anything else: a joiner, a baker, a fiddler, a clerk. They have this argument at supper most nights, and Knox is losing it, and knows it. Hatch respects Knox too much to encourage the boy, and answers every one of Tick's questions anyway.
+
+### What he wants and fears
+
+Knox wants Tick to grow up safely and choose a gentler life, and if that cannot happen, he wants Tick to be taught well by the right people. What Knox fears is the evening a regular face does not come back up the road, and it is Tick who goes looking.
+
+A quest might find a regular traveler who has failed to arrive, help Knox make his peace with Tick's dream, or carry one of his carvings to a child in another town.

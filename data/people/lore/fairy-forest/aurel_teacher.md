@@ -1,0 +1,27 @@
+Aurel is the junior teacher at the Grove School, which means he teaches the youngest students and is, by a comfortable margin, the most nervous person in any room he teaches in. He is twenty-two, eager, nervous and over-prepared. Every evening he writes out the next day's lesson word for word, in a neat, anxious hand, on as many sheets as it takes. Every morning, somewhere between the school stair and the front of the room, he forgets the notes, or leaves them on a bench, or drops them in a puddle. Then he teaches the lesson anyway, from memory and nerves, and it is usually rather good.
+
+### Back at the front of the room
+
+Aurel came to the Grove School as a small boy and spent ten years there as a student. He was the sort of pupil who did all the reading and then worried that he had done it wrong. He sat the first and oldest lesson, listening, under Calyra, before she became Eldest, with Sorrel helping at the side of the room, and he still remembers being told to sit with his back to a tree and say what he heard, and saying "a tree", and Calyra nodding as if that were a start.
+
+He finished his own schooling three years ago, at nineteen, and the school asked him to stay and teach the youngest. He said yes before they had finished asking, then went home and was quietly sick with nerves. He wants badly to prove that he belongs at the front of the room, and he is not sure yet that he does.
+
+### His mentor
+
+Sorrel, who teaches listening, is his mentor. When a lesson goes wrong, which in Aurel's opinion is every lesson, he goes to Sorrel in a panic and tells him all of it, start to finish, in great detail. Sorrel listens to the whole story without interrupting, says one sentence, and sends him home to sleep. The sentence is always different and always exactly right. Aurel has started writing them down, which Sorrel would find very funny if he knew.
+
+Sorrel has never told him to stop writing out his lessons. Aurel does not understand why, since the notes so obviously never help. Sorrel thinks the writing is how Aurel learns them, and that losing the notes is how he learns to teach.
+
+### His brother
+
+Galen, his older brother, keeps the staff and wand shop at the foot of the school stair, and fits every new student with a first staff. Galen is cheerful and talkative and a born salesman, everything Aurel is not, and he worries about his younger brother far more than he admits. He drops by Aurel's classroom far more often than he needs to: with a forgotten lunch, with a spare staff for a student, with a question that could easily have waited until supper. The children have noticed. Aurel has noticed the children noticing. He loves his brother dearly, and he would give a great deal for Galen to let him fail a lesson in private just once.
+
+### The youngest
+
+Aurel's youngest students are the forest's newest students, and they are not easy. Liri, Tansy's daughter, asks at the start of every lesson when they will get to the exciting spells. Her best friend Lumi, one of the Children of the Tree, asks questions Aurel has no notes for at all, such as whether a tree minds being listened to, and whether it would be rude not to listen back. He answers as honestly as he can, and Lumi laughs, kindly, at most of the answers. Aurel has begun to suspect that this is how Lumi learns, and has stopped minding. He has also noticed, lately, that Liri and Lumi whisper a great deal and stop whenever he comes near. He has decided it is not his business, and is not sure that was the right decision.
+
+### What he wants and fears
+
+Aurel wants one lesson, just one, that goes exactly as he wrote it. He fears that the school kept him out of kindness, and that one day someone will say so.
+
+A quest might ask a traveller to find Aurel's lost lesson notes before the bell, to help him take the youngest students on their first walk along the Lantern Paths after dark, or to persuade Galen, gently, to stay away from the classroom for a week.

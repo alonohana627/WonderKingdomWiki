@@ -1,0 +1,69 @@
+# The kingdom-wide frame for every NPC file in this folder.
+#
+# - towns: each town's file, how many NPCs it has in the first release, and the
+#   places inside it an NPC can be found ("place" must be one of these).
+# - offices: every ruling or one-of-a-kind post in the kingdom, and who holds
+#   it. An office is held by exactly one NPC; the town file must contain that
+#   NPC with the same id, name and office.
+# - links: the only relationships allowed between NPCs of different towns.
+#   Relationships inside a town live in that town's file.
+#
+# tools/people.py checks all of this and renders docs/lore/people/.
+
+towns:
+  selsior:
+    name: Selsior
+    count: 100
+    places: [Palace, Plaza, Knights' Court, Crown Market, Selsior Gate, Royal Vault, Theatre Row, Scholars' Quarter, Old Quarter, Riverside]
+  kaldemor:
+    name: Kaldemor
+    count: 40
+    places: [Town Square, Kaldemor Market, Kaldemor Park, Farms, Workshops]
+  midbarium:
+    name: Midbarium
+    count: 25
+    places: [Great Hall, Terraces, Kragvar Quarter, Tolmach Camps, Uskari Rim, Brenna House, Trading Post]
+  fairy-forest:
+    name: Fairy Forest
+    count: 35
+    places: [Heart Tree, Grove School, Lantern Paths, Children's Glade, Herb Gardens, Forest Edge]
+  urbanograd:
+    name: Urbanograd
+    count: 60
+    places: [Great Hall, Lantern Square, Workshops Row, Night Market, Rooftops, Old Barracks Theatre, Gate Walk]
+  cavelor:
+    name: Cavelor
+    count: 15
+    places: [Oath Hall, Deep Watch, Root Gardens, Archive, Upper Stair]
+  bain-harbour:
+    name: Bain Harbour
+    count: 45
+    places: [Harbour Hall, Docks, Shipyard, Fish Market, Lighthouse, Waterfront, Merchant Street]
+  goa-harbour:
+    name: Goa Harbour
+    count: 45
+    places: [Wardens' House, Inlet Quay, Cliff Stairs, Forest Shore, Lantern Market, Fishers' Coves]
+
+offices:
+  selsior.monarch:       {npc: queen_aveline, name: Aveline, town: selsior, title: Queen of Wonder Kingdom}
+  selsior.guard_captain: {npc: rhys, name: Rhys, town: selsior, title: Captain of the Royal Guard}
+  kaldemor.mayor:        {npc: tobin, name: Tobin, town: kaldemor, title: Mayor of Kaldemor}
+  midbarium.old_one:     {npc: old_one_hask, name: Hask, town: midbarium, title: The Old One}
+  midbarium.chief_kragvar: {npc: dorrek_kragvar, name: Dorrek, town: midbarium, title: Chieftain of the Kragvar}
+  midbarium.chief_tolmach: {npc: sennu_tolmach, name: Sennu, town: midbarium, title: Chieftain of the Tolmach}
+  midbarium.chief_uskari:  {npc: tavi_uskari, name: Tavi, town: midbarium, title: Chieftain of the Uskari}
+  midbarium.chief_brenna:  {npc: odda_brenna, name: Odda, town: midbarium, title: Chieftain of the Brenna}
+  fairy-forest.eldest:   {npc: eldest_calyra, name: Calyra, town: fairy-forest, title: Eldest of the Grove}
+  urbanograd.table_caller: {npc: rook_tallow, name: Rook, town: urbanograd, title: Caller of the Open Table}
+  cavelor.oath_keeper:   {npc: keeper_marrun, name: Marrun, town: cavelor, title: Keeper of the Oath}
+  bain-harbour.harbour_master: {npc: harbour_master_quenna, name: Quenna, town: bain-harbour, title: Harbour Master}
+  goa-harbour.first_warden:    {npc: first_warden_iska, name: Iska, town: goa-harbour, title: First Warden}
+
+# [npc a, npc b, what a is to b, what b is to a]
+links:
+  - [rhys, tavi_uskari, old training partner, old training partner]
+  - [eldest_calyra, odda_brenna, old friend, old friend]
+  - [keeper_marrun, queen_aveline, sworn ally, sworn ally]
+  - [harbour_master_quenna, first_warden_iska, rival racer and friend, rival racer and friend]
+  - [tobin, harbour_master_quenna, trading partner, trading partner]
+  - [rook_tallow, queen_aveline, frequent correspondent, frequent correspondent]

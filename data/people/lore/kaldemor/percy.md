@@ -1,0 +1,27 @@
+"It will break," says Percy, running his hand round the rim of a brand-new wheel. "They all break, in the end." Then he hangs it on the cart, steps back, watches it turn, and looks, for a moment, almost happy. He is fifty-six, long, stooped and patient, with sawdust in his eyebrows and a pencil behind each ear, and he is Kaldemor's wheelwright. He builds and mends the carts, the barrows, the harvest wagons and the town cab, and he expects every one of them to fall apart. When they do not, he is quietly delighted. He calls this being prepared. Everyone else calls it gloom, and nobody minds it, because Percy is also, very secretly, the kindest man in the Workshops.
+
+### The wheelwright's yard
+
+Percy's yard is near the Market end of the Workshops lane, a long open shed stacked with seasoned oak and ash, with a pit for setting tyres and a great iron ring on the wall that he uses to true his wheels. His father was the wheelwright before him and taught him every joint; Percy started sweeping the yard at eight and made his first wheel at fifteen, a barrow wheel that wobbled so badly his father hung it over the door as a warning. It still hangs there. His father died twenty-two years ago and Percy has worked the yard alone since. He never married. He says a wheelwright is married to the weather.
+
+A wheel, Percy will tell you, is a hundred small agreements: hub and spoke, spoke and felloe, felloe and tyre, and every one of them must hold at once. He buys his iron tyres and axle-pins from Gareth the smith, for whom Percy is the best customer in the Market, and who is the only man in Kaldemor who can match him for gloom. The two of them can spend an evening agreeing that everything is going to go wrong, and both go home cheerful.
+
+### Pell's cab
+
+The town cab is Percy's work from the axle up. He built it eighteen years ago for Pell, who drives it from the stand by the signpost, and he has kept it rolling ever since. Pell is his friend and his best customer, and the two of them have an old arrangement: Pell brings the cab in every spring for Percy to go over, and Percy tells him it will not last the year, and it always does.
+
+Last month it nearly did not. Pell brought it in late one evening with the near rear wheel cracked through two spokes and a long splinter torn out of the felloe, and would not say what had happened. Percy did not ask twice. He mended it overnight, put in two new spokes of his best ash, and charged Pell for one. Pell will not talk about what ran at the cab. Percy has not pressed him. But he kept the old felloe, and he has looked at it a great deal.
+
+### The marks
+
+Percy has mended more broken wheels off the Royal Road this year than in any year he can remember, and it is not the wheels he minds. It is the marks. Most of them are what you would expect: stones, ruts, a wheel driven too fast into a ditch. But some of them are not. Some have deep gouges set in a curve, as though something had closed on the rim and pulled. One had its iron tyre bent inward, which takes a force Percy does not like to think about. He has shown a few to Gareth, who looked at them a long time and said nothing, which from Gareth is a great deal.
+
+It weighs on him for another reason. Last autumn one of the harvest carts that went down toward Bain Harbour never arrived, and Percy built that cart. He built it well. He knows he built it well. He lies awake some nights wondering whether it broke, and whether it was the wheel.
+
+### What he wants and fears
+
+Percy wants every cart that leaves his yard to come home, and every driver with it. He wants to know what makes the marks, so that he can build a wheel that will stand up to it. He fears that he already knows the answer, which is that no wheel will.
+
+### Hooks
+
+Percy would like a traveller to walk the Royal Road and bring back any broken wheel or splintered felloe they find, so that he can read the marks; he and Gareth have a wager about what made them, and neither will say what he guessed. Or the missing harvest cart might one day be found, and Percy will want to see its wheels before anyone else does.

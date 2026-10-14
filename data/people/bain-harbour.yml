@@ -1,0 +1,483 @@
+npcs:
+  - id: harbour_master_quenna
+    name: Quenna
+    title: Harbour Master
+    role: ruler
+    office: bain-harbour.harbour_master
+    place: Harbour Hall
+    age: adult
+    personality: Brisk, loud and quick to laugh, with a sailor's habit of deciding things before the tide turns. She listens to everyone at the council table and then says exactly what she thinks.
+    story: Quenna chairs the harbour council of captains, shipwrights and merchants, who chose her from among themselves. She sails her own boat in the summer race around Veligor against Goa Harbour and has never once admitted that the other side might win.
+
+  - id: ambrose_chartmaker
+    name: Ambrose
+    title: Chartmaker
+    role: scholar
+    place: Merchant Street
+    age: adult
+    sells: Sea charts, tide tables and coastal maps
+    personality: Quiet, patient and fond of tiny handwriting. He apologises to his ink when he spills it.
+    story: Ambrose draws the charts every captain in the harbour sails by. Since the Disturbance the captains keep bringing him marks for places where something was seen in the water, and he has started a separate chart for them that he keeps locked in a drawer.
+
+  - id: jowan
+    name: Jowan
+    title: Harbour Watchman
+    role: guard
+    place: Docks
+    age: young
+    personality: Eager, earnest and a little too proud of his new coat. He salutes people who do not expect it.
+    story: Jowan joined the Harbour Watch last spring and wants very badly to prove he did not get the post because his mother is Harbour Master. He would rather be crewing in the summer race than walking the docks at night.
+
+  - id: captain_corwin
+    name: Corwin
+    title: Captain of the Heron
+    role: council
+    place: Docks
+    age: adult
+    personality: Calm, dry and slow to speak, the kind of captain who never raises his voice because he never needs to. He hates waste and loves a good argument.
+    story: Corwin sits on the harbour council and has run cargo along the coast for twenty years without losing a crate. He now pays adventurers to sail with every voyage and grumbles about the cost at every council meeting.
+
+  - id: dunstan
+    name: Dunstan
+    title: Master Shipwright
+    role: council
+    place: Shipyard
+    age: elder
+    personality: Gruff, stubborn and secretly sentimental. He talks to the ships he builds and claims they answer.
+    story: Dunstan has built more hulls than anyone alive in Bain Harbour and speaks for the shipwrights on the harbour council. He is building a new boat for this summer's race and will not let anyone, not even the Harbour Master, see the plans.
+
+  - id: marisol
+    name: Marisol
+    title: Spice Merchant
+    role: council
+    place: Merchant Street
+    age: adult
+    sells: Spices, dyes and teas from all over the island
+    personality: Charming, sharp-eyed and impossible to haggle down. She remembers the name of every customer's child.
+    story: Marisol speaks for the merchants on the harbour council. Her goods come by sea from every corner of Veligor, and lately some cargoes have arrived late or not at all, which worries her more than she lets anyone see.
+
+  - id: captain_annis
+    name: Annis
+    title: Captain of the Saltlark
+    role: council
+    place: Docks
+    age: elder
+    personality: Weathered, blunt and superstitious, with a ritual for everything from casting off to tying her boots. She trusts the sea more than people, and people only a little.
+    story: Annis is the oldest captain on the harbour council and remembers when the bay was as calm as a millpond. She says the water has changed since the Disturbance began and wants the council to take it seriously before something goes wrong.
+
+  - id: ottilie
+    name: Ottilie
+    title: Clerk of the Harbour Hall
+    role: official
+    place: Harbour Hall
+    age: adult
+    personality: Precise, tidy and fond of rules, but kinder than her ledgers suggest. She keeps a jar of sweets for anyone who fills in a form correctly.
+    story: Ottilie records every ship that comes and goes, every cargo and every council decision. She has noticed that fewer small boats go out past the headland each year, and she is not sure who she should tell.
+
+  - id: mabyn
+    name: Mabyn
+    title: Keeper of the Hall Door
+    role: service
+    place: Harbour Hall
+    age: elder
+    personality: Gentle, chatty and endlessly fond of the old stories. She treats every visitor as if they had come all this way just to see her.
+    story: Mabyn opens and closes the harbour hall and polishes Old Bain's boat-hook above the door every morning. She knows more tales of Old Bain than anyone and is sure at least half of them are true.
+
+  - id: halloran
+    name: Halloran
+    title: Captain of the Harbour Watch
+    role: guard
+    place: Waterfront
+    age: adult
+    personality: Steady, warm and hard to surprise. He settles most trouble with a hand on the shoulder and a mug of something hot.
+    story: Halloran keeps the peace on the waterfront, which mostly means sorting out arguments between sailors and tired dockworkers. Lately he has started posting a watch on the outer pier at night, and he will only say it is a precaution.
+
+  - id: brisa
+    name: Brisa
+    title: Harbour Watchwoman
+    role: guard
+    place: Waterfront
+    age: young
+    personality: Sharp, fast and impatient, with a quick tongue and quicker feet. She can outrun anyone on the waterfront and likes to prove it.
+    story: Brisa joined the Harbour Watch because it was the best way to see everything that happens in town. She is keeping a list of strange things the sailors report and hopes someone important will read it one day.
+
+  - id: ysolde
+    name: Ysolde
+    title: Keeper of the Light
+    role: service
+    place: Lighthouse
+    age: elder
+    personality: Solitary, wry and clear-sighted, she counts ships the way other people count sheep. She has opinions about every captain in the harbour and shares them freely.
+    story: Ysolde has kept the lighthouse lit for forty years. From the top of the tower she has seen pale lights moving under the water far out past the headland, on nights when there should be nothing there at all.
+
+  - id: ossie
+    name: Ossie
+    title: Lighthouse Boy
+    role: child
+    place: Lighthouse
+    age: child
+    personality: Curious, solemn and full of questions he asks one at a time. He climbs the lighthouse stairs faster than anyone.
+    story: Ossie lives at the lighthouse with his grandmother while his mother is at sea. He has decided he will be a lighthouse keeper too, and has already started his own logbook of ships and birds.
+
+  - id: morwenna
+    name: Morwenna
+    title: Sailor of the Saltlark
+    role: worker
+    place: Docks
+    age: adult
+    personality: Cheerful, tough and always singing under her breath. She misses home as soon as she leaves and misses the sea as soon as she is home.
+    story: Morwenna has sailed with Captain Annis for twelve years. On her last voyage something large brushed the Saltlark's keel in deep water, and she has not told her mother or her son.
+
+  - id: captain_seraphine
+    name: Seraphine
+    title: Captain of the Bright Morrow
+    role: worker
+    place: Docks
+    age: adult
+    personality: Bold, restless and fond of a grand gesture. She never turns down a dare and rarely turns down a contract.
+    story: Seraphine runs the fastest trading ship in the harbour and has seen more of the new creatures in the deep water than any other captain. She will not describe what she saw, but she now sails with hired adventurers on every trip and pays them well.
+
+  - id: barnaby
+    name: Barnaby
+    title: Bosun of the Bright Morrow
+    role: worker
+    place: Docks
+    age: adult
+    personality: Big, booming and soft-hearted, with a story for every scar. No one is sure how many of his stories are true.
+    story: Barnaby swears that a pair of eyes as large as cartwheels looked up at him from under the Bright Morrow one moonlit night. The waterfront laughs at him, but he has not slept on deck since.
+
+  - id: keziah
+    name: Keziah
+    title: Sword for Hire
+    role: adventurer
+    place: Waterfront
+    age: young
+    personality: Cool, careful and quietly funny. She counts exits when she walks into a room.
+    story: Keziah came to Bain Harbour from inland when she heard the captains were paying adventurers to sail with them. She gets terribly seasick and has told no one, least of all her employer.
+
+  - id: tristram
+    name: Tristram
+    title: Harpooner
+    role: adventurer
+    place: Docks
+    age: adult
+    personality: Patient, still and serious, a man who can wait for hours without moving. He laughs rarely but completely.
+    story: Tristram hunted big fish until the deep water turned strange, and now captains hire him to stand at the bow with his harpoon in deep water. He wants to know what is down there before anyone else does.
+
+  - id: alwyn
+    name: Alwyn
+    title: Shipwright
+    role: craftsman
+    place: Shipyard
+    age: adult
+    personality: Cheerful, steady and good with his hands, he whistles while he works and never loses his temper. He finds his father's stubbornness exhausting and admires it anyway.
+    story: Alwyn will take over the shipyard from his father one day and already does most of the heavy work. He would like to build sturdier hulls for the deep water, but Dunstan says the old designs were good enough for Old Bain.
+
+  - id: bryony
+    name: Bryony
+    title: Baker of Merchant Street
+    role: merchant
+    menu: true
+    place: Merchant Street
+    age: adult
+    sells: Bread, salt rolls and sailors' hard biscuits
+    personality: Warm, busy and up before the sun. She feeds anyone who looks hungry whether they pay or not.
+    story: Bryony's bakery is why Bain Harbour smells of fresh bread in the morning. She bakes the hard biscuits every ship takes to sea and hopes her children will grow up to like flour more than salt water.
+
+  - id: kit
+    name: Kit
+    title: Shipwright's Son
+    role: child
+    place: Shipyard
+    age: child
+    personality: Noisy, fearless and always covered in sawdust. He can tie fourteen knots and will show you all of them.
+    story: Kit spends every spare hour at the shipyard with his father and grandfather. He has secretly carved his name inside the hull of the new race boat.
+
+  - id: poppy
+    name: Poppy
+    title: Baker's Daughter
+    role: child
+    place: Merchant Street
+    age: child
+    personality: Shy, thoughtful and fond of drawing. She notices things grown-ups miss.
+    story: Poppy delivers bread along Merchant Street every morning and sketches the ships in the bay. She wants to make maps like Ambrose one day.
+
+  - id: peregrine
+    name: Peregrine
+    title: Shipwright's Apprentice
+    role: craftsman
+    place: Shipyard
+    age: young
+    personality: Clever, clumsy and full of ideas, about one in ten of them good. He talks fast when he is nervous.
+    story: Peregrine is in his second year as Dunstan's apprentice. He has a plan for a faster hull that he is sure would win the summer race, if only the old man would look at it.
+
+  - id: tegan
+    name: Tegan
+    title: Sailmaker
+    role: craftsman
+    place: Shipyard
+    age: adult
+    sells: Sails, canvas and patching
+    personality: Brisk, practical and a little sharp, with a needle always tucked behind her ear. She judges a ship by its stitching.
+    story: Tegan has sewn sails for half the ships in the harbour. She has been asked to make new sails for the race boat in secret, and she is enjoying the secret very much.
+
+  - id: wilmot
+    name: Wilmot
+    title: Ropemaker
+    role: craftsman
+    place: Waterfront
+    age: elder
+    personality: Slow, kind and endlessly patient, he believes any problem can be solved with the right knot. He hums sea songs older than anyone else remembers.
+    story: Wilmot has walked his rope walk on the waterfront for fifty years. He worries that no young person in town wants to learn his trade.
+
+  - id: gwennol
+    name: Gwennol
+    title: Fishmonger
+    role: merchant
+    menu: true
+    place: Fish Market
+    age: adult
+    sells: Fresh fish, smoked fish and crab
+    personality: Loud, quick-witted and generous, with a voice that carries across the whole fish market. She can gut a fish faster than you can name it.
+    story: Gwennol's family has sold fish in Bain Harbour since it was just a cove. Her catches have grown smaller and stranger since the deep water turned strange, and she has started throwing back fish she does not recognise.
+
+  - id: cobb
+    name: Cobb
+    title: Fisherman
+    role: worker
+    place: Fish Market
+    age: adult
+    personality: Quiet, steady and soft-spoken, he lets his wife do the talking and seems happy about it. He knows every rock in the bay.
+    story: Cobb fishes the bay in a little boat his grandfather built. Twice this year his nets came up torn clean through, and he wants to know what did it before he takes his son out deeper.
+
+  - id: bree
+    name: Bree
+    title: Fishmonger's Daughter
+    role: child
+    place: Fish Market
+    age: child
+    personality: Bossy, bright and absolutely fearless around anything with claws. She names every crab she catches.
+    story: Bree helps at her mother's stall and runs a small business selling crab shells to other children. She wants to sail in the summer race more than anything in the world.
+
+  - id: lowen
+    name: Lowen
+    title: Deckhand
+    role: worker
+    place: Docks
+    age: young
+    personality: Restless, good-natured and too eager to please. He blushes when anyone praises him.
+    story: Lowen has just signed on to his first trading voyage, against his father's wishes. He hopes to earn a place on the race crew this summer.
+
+  - id: hesketh
+    name: Hesketh
+    title: Oyster Seller
+    role: merchant
+    menu: true
+    place: Fish Market
+    age: elder
+    sells: Oysters, cockles and mussels
+    personality: Grumpy, sly and secretly very kind. He complains about everything and gives away more oysters than he sells.
+    story: Hesketh has had the stall next to Gwennol's for thirty years and they have argued every single day of it. He feeds the harbour cat better than he feeds himself.
+
+  - id: merriwether
+    name: Merriwether
+    title: Ship's Chandler
+    role: merchant
+    menu: true
+    place: Waterfront
+    age: adult
+    sells: Rope, tar, lanterns, hooks and ship's stores
+    personality: Fussy, friendly and very fond of lists. He can find anything in his crowded shop in under a minute.
+    story: Merriwether supplies every ship that leaves the harbour. Lately captains ask him for things he has never stocked before, like heavier chain and harpoon heads, and he is trying to work out where to get them.
+
+  - id: cordelia
+    name: Cordelia
+    title: Cloth Merchant
+    role: merchant
+    menu: true
+    place: Merchant Street
+    age: adult
+    sells: Woollens, oilskins and bright cloth
+    personality: Elegant, cheerful and a born gossip. She dresses better than anyone in town and wants everyone to know it.
+    story: Cordelia buys cloth from inland towns and sells it to sailors and townsfolk alike. She is Marisol's business partner and dreams of opening a second shop.
+
+  - id: delphine
+    name: Delphine
+    title: Innkeeper of the Salt and Bread
+    role: service
+    place: Waterfront
+    age: adult
+    sells: Hot meals, ale and rooms by the night
+    personality: Generous, sharp and unflappable, she can quiet a room of sailors with one look. She never forgets a debt or a kindness.
+    story: Delphine runs the busiest inn on the waterfront, where the sailors gather to swap tales of what they saw at sea. She has started writing the strangest tales down, because she thinks someone ought to.
+
+  - id: lorcan
+    name: Lorcan
+    title: Shanty Singer
+    role: performer
+    place: Waterfront
+    age: adult
+    personality: Dramatic, charming and terrible with money. He can make a whole inn sing along by the second verse.
+    story: Lorcan sings at the Salt and Bread most nights. He is writing a new shanty about the summer race and needs Bain Harbour to win so he can finish it properly.
+
+  - id: clemence
+    name: Clemence
+    title: Harbour Healer
+    role: healer
+    place: Waterfront
+    age: adult
+    sells: Salves, bandages and seasickness tonic
+    personality: Calm, practical and gently teasing. She has seen every kind of injury a ship can cause and is unimpressed by most of them.
+    story: Clemence patches up sailors, dockworkers and the occasional adventurer. Lately she has treated stings and scrapes she cannot explain, and she keeps careful notes on each one.
+
+  - id: garrow
+    name: Garrow
+    title: Dock Foreman
+    role: worker
+    place: Docks
+    age: adult
+    personality: Loud, fair and always in a hurry. He knows exactly how long it takes to unload any ship and gets cross when it takes longer.
+    story: Garrow runs the dock crews and keeps cargo moving from ship to warehouse. He would like the council to build a second pier, and he raises it every chance he gets.
+
+  - id: tully
+    name: Tully
+    title: Dockworker
+    role: worker
+    place: Docks
+    age: adult
+    personality: Strong, easygoing and always hungry. He thinks every problem looks smaller after lunch.
+    story: Tully has carried crates on the docks since he was a boy. He is saving every coin he can to buy a small boat of his own.
+
+  - id: hobart
+    name: Hobart
+    title: Warehouseman
+    role: worker
+    place: Docks
+    age: elder
+    personality: Methodical, dry and slightly deaf in one ear, which he uses to his advantage. He trusts his own counting over anyone's ledger.
+    story: Hobart has kept the harbour warehouses for longer than Garrow has been alive. He claims some of the oldest crates in the back have been there since Old Bain's day.
+
+  - id: wenna
+    name: Wenna
+    title: Net-Mender
+    role: resident
+    place: Fish Market
+    age: elder
+    personality: Sharp-tongued, proud and quick with her fingers. She knows everyone's business and approves of very little of it.
+    story: Wenna mends nets on the fish market steps as she has done all her life. She says the tears in her son's nets are not the work of any fish she ever knew.
+
+  - id: thaddeus
+    name: Thaddeus
+    title: Retired Captain
+    role: resident
+    place: Waterfront
+    age: elder
+    personality: Grand, nostalgic and fond of his own voice. He tells the same stories often but tells them well.
+    story: Thaddeus lost the summer race around Veligor by a boat's length more than thirty years ago and has never stopped talking about it. He spends his days on a bench by the water, coaching young sailors who did not ask.
+
+  - id: nerissa
+    name: Nerissa
+    title: Pearl Diver
+    role: worker
+    place: Fish Market
+    age: young
+    personality: Fearless, quiet and happiest underwater. She speaks in short sentences, as if saving her breath.
+    story: Nerissa dives for pearls and shellfish beyond the harbour wall. On her last dive she saw something move in the dark below the reef, and she has not gone back down since, though she will not say why.
+
+  - id: caspian
+    name: Caspian
+    title: Navigator of the Heron
+    role: worker
+    place: Docks
+    age: young
+    personality: Confident, clever and a bit vain about his star-reckoning. He is secretly afraid of storms.
+    story: Caspian is Captain Corwin's nephew and the youngest navigator in the harbour. He hopes to be chosen as navigator for this summer's race.
+
+  - id: barnacle
+    name: Barnacle
+    title: Harbour Cat
+    role: animal
+    place: Fish Market
+    age: adult
+    personality: Lazy, greedy and dignified. She sleeps in the sun on the fish market steps and accepts tribute from all who pass.
+    story: Barnacle belongs to nobody and to everybody. The fishmongers say she will not go near the water's edge any more, and that she is smarter than all of them.
+
+  - id: maren
+    name: Maren
+    title: Harbour Schoolteacher
+    role: scholar
+    place: Merchant Street
+    age: adult
+    personality: Patient, bright and strict about spelling. She can make a lesson out of anything that washes up on the beach.
+    story: Maren teaches the harbour children their letters, their sums and the names of the stars. She is trying to get the council to pay for a proper schoolhouse.
+
+  - id: finch
+    name: Finch
+    title: Errand Runner
+    role: child
+    place: Docks
+    age: child
+    personality: Cheeky, quick and always knows the latest news first. He would rather run than walk anywhere.
+    story: Finch runs messages up and down the docks for a copper a time. He has heard the sailors' stories about the deep water and wants to see a sea creature with his own eyes.
+
+relationships:
+  - [harbour_master_quenna, ambrose_chartmaker, wife, husband]
+  - [harbour_master_quenna, jowan, mother, son]
+  - [ambrose_chartmaker, jowan, father, son]
+  - [harbour_master_quenna, captain_corwin, council chair, trusted council captain]
+  - [harbour_master_quenna, ottilie, employer, clerk]
+  - [harbour_master_quenna, mabyn, friend, friend]
+  - [dunstan, harbour_master_quenna, race boatbuilder, race skipper]
+  - [captain_annis, captain_corwin, council rival, council rival]
+  - [marisol, cordelia, business partner, business partner]
+  - [marisol, harbour_master_quenna, council ally, council ally]
+  - [dunstan, alwyn, father, son]
+  - [alwyn, bryony, husband, wife]
+  - [alwyn, kit, father, son]
+  - [bryony, kit, mother, son]
+  - [alwyn, poppy, father, daughter]
+  - [bryony, poppy, mother, daughter]
+  - [kit, poppy, brother, sister]
+  - [dunstan, kit, grandfather, grandson]
+  - [dunstan, peregrine, mentor, apprentice]
+  - [tegan, alwyn, friend, friend]
+  - [wilmot, merriwether, supplier, customer]
+  - [ambrose_chartmaker, poppy, mentor, admirer]
+  - [gwennol, cobb, wife, husband]
+  - [gwennol, bree, mother, daughter]
+  - [cobb, bree, father, daughter]
+  - [gwennol, lowen, mother, son]
+  - [cobb, lowen, father, son]
+  - [lowen, bree, brother, sister]
+  - [wenna, cobb, mother, son]
+  - [wenna, bree, grandmother, granddaughter]
+  - [hesketh, gwennol, rival stallholder, rival stallholder]
+  - [hesketh, barnacle, feeder, favourite cat]
+  - [ysolde, morwenna, mother, daughter]
+  - [morwenna, ossie, mother, son]
+  - [ysolde, ossie, grandmother, grandson]
+  - [captain_annis, morwenna, captain, sailor]
+  - [captain_seraphine, barnaby, captain, bosun]
+  - [captain_seraphine, keziah, employer, hired sword]
+  - [tristram, keziah, adventuring partner, adventuring partner]
+  - [tristram, nerissa, sweetheart, sweetheart]
+  - [halloran, delphine, brother, sister]
+  - [halloran, brisa, commander, watchwoman]
+  - [halloran, jowan, commander, watchman]
+  - [jowan, brisa, friendly rival, friendly rival]
+  - [lorcan, delphine, singer at her inn, employer]
+  - [bryony, delphine, baker, customer]
+  - [clemence, ysolde, friend, friend]
+  - [clemence, keziah, healer, secret patient]
+  - [garrow, tully, foreman, dockworker]
+  - [garrow, hobart, old friend, old friend]
+  - [garrow, finch, employer, errand runner]
+  - [thaddeus, lowen, self-appointed coach, reluctant pupil]
+  - [thaddeus, captain_annis, old racing rival, old racing rival]
+  - [captain_corwin, caspian, uncle, nephew]
+  - [lowen, caspian, friend, friend]
+  - [maren, kit, teacher, pupil]
+  - [maren, finch, teacher, pupil]
+  - [maren, ossie, teacher, pupil]
+  - [barnaby, finch, storyteller, devoted listener]
+  - [captain_corwin, tristram, employer, hired harpooner]

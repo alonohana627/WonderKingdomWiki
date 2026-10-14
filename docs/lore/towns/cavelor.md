@@ -32,5 +32,22 @@ Their duty is a solemn one, but Cavelor is not a gloomy or oppressive place. Its
 
 Cavelor is still very much its own place, but since its rediscovery it has been part of the same united kingdom, and its people are as proud of Wonder Kingdom as anyone on the surface. They just know better than most what it might cost to keep it.
 
+## Leadership Today
+
+[Marrun](../people/cavelor/keeper_marrun.md) has been Keeper of the Oath for twenty-two years, since old Keeper Ardith died, and leads Cavelor and the Wardens of the Seal from the Oath Hall. He has walked the Deep Watch for sixty-five years and was there the night the expedition came down. Fifteen years ago he swore Cavelor's alliance with Queen Aveline, and four years ago he climbed to the surface for the first and only time.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Brask](../people/cavelor/warden_brask.md) | Captain of the Deep Watch |
+| [Oswin](../people/cavelor/oswin_ledgerward.md) | Master of the Ledgers, who wrote the entry recording the seal's change |
+| [Ysra](../people/cavelor/ysra_mender.md) | Healer of the Halls |
+| [Annick](../people/cavelor/annick_songkeeper.md) | Keeper of the Oath songs |
+| [Doran](../people/cavelor/doran_sunward.md) | A young Warden recently back from the surface |
+
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Cavelor](../people/cavelor/index.md).
+
 !!! abstract "Design notes"
     New with this page: guardians from all four peoples, the Oath Below, the Wardens of the Seal and their ledgers, and the rift being opened days after the expedition reached Cavelor.

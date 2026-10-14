@@ -1,0 +1,598 @@
+npcs:
+  # ---------------------------------------------------------------- Great Hall
+  - id: rook_tallow
+    name: Rook
+    title: Caller of the Open Table
+    role: ruler
+    office: urbanograd.table_caller
+    place: Great Hall
+    age: adult
+    personality: Dry, patient and quick to laugh, with a voice that can cut through a shouting hall without ever sounding angry. Rook hates making speeches and loves listening to them.
+    story: The Open Table chose Rook as this year's Caller, which means convening the Table, keeping order and making sure the quiet ones get a turn; it does not mean ruling anyone, and Rook reminds people of that often. Rook keeps up a long, warm exchange of letters with the capital and reads the funniest parts aloud at the Table.
+  - id: dimity_ash
+    name: "Dimity 'Inkpot' Ash"
+    title: Scribe of the Open Table
+    role: official
+    place: Great Hall
+    age: adult
+    personality: Precise, ink-stained and secretly delighted by every argument. She writes down the jokes as carefully as the decisions.
+    story: Dimity has kept the Table's record for twelve years, and her shelves hold every heckle and every vote. She is quietly worried that the oldest record books, from the first winters, are crumbling and nobody has copied them.
+  - id: quint_holloway
+    name: Quint
+    title: Keeper of the Charter Scroll
+    role: official
+    place: Great Hall
+    age: elder
+    personality: Solemn about exactly one thing, the Open Charter, and cheerfully unserious about everything else.
+    story: Quint guards the hall's copy of the Open Charter ruling and reads it aloud every Walkout Day morning before the play. He likes to remind young hotheads that the kingdom chose to welcome the Walkers, and that this is worth being proud of.
+  - id: bastian_krell
+    name: "Bastian 'Bellows' Krell"
+    title: Loudest Voice at the Table
+    role: council
+    place: Great Hall
+    age: adult
+    personality: Enormous voice, enormous opinions, enormous heart. He changes his mind loudly and without shame.
+    story: Bastian has spoken at every Open Table for twenty years and has never once been short. This year he is campaigning, at length, for a covered bridge over Lantern Square so the night market can run in the rain.
+  - id: mags_ferrow
+    name: Mags
+    title: Cook of the Great Hall
+    role: service
+    place: Great Hall
+    age: adult
+    personality: Brisk and bossy in the kitchen, soft as bread dough everywhere else. She judges people by whether they wash their own bowl.
+    story: Mags feeds the Open Table, which can run until dawn, from one huge pot of stew that she claims has never been fully emptied since her grandmother's day. She would like someone to invent a stove that does not smoke.
+  - id: hob_lantry
+    name: Ozzie Lantry
+    title: Historian of the Walkers
+    role: scholar
+    place: Great Hall
+    age: elder
+    personality: Gentle, rambling and easily sidetracked by a good anecdote. He keeps three pairs of spectacles and can never find any of them.
+    story: Ozzie collects letters, diaries and songs from the Walkers and their children, and is writing a history of Urbanograd's first hundred years. He is missing every account of the first winter and would pay well for anyone who finds one in an old attic.
+
+  # ------------------------------------------------------------ Lantern Square
+  - id: lux_lune
+    name: Lux
+    title: Keeper of the Lanterns
+    role: official
+    place: Lantern Square
+    age: adult
+    personality: Calm, watchful and fond of heights. Lux speaks softly and notices every lantern that has gone out.
+    story: Lux climbs the towers every dusk to relight the lanterns strung between them, a job that has passed through a dozen hands since the Walkers hung the first ones. Lately some of the lanterns facing the wilds have been found smashed in the mornings, and Lux would like to know by what.
+  - id: jinx
+    name: Jinx
+    title: Juggler of Lantern Square
+    role: performer
+    place: Lantern Square
+    age: young
+    personality: Restless, cheeky and terrible at keeping secrets. Jinx drops things on purpose to make children laugh, and almost never by accident.
+    story: Jinx juggles anything handed over, from apples to Margo's spare parts, and passes the hat afterwards. The dream is to juggle burning torches on top of the theatre cart on Walkout Day, which the troupe has firmly refused so far.
+  - id: drum
+    name: Drum
+    title: Bucket Drummer
+    role: performer
+    place: Lantern Square
+    age: adult
+    personality: Says almost nothing and lets the rhythm talk. Drum smiles only when someone in the crowd starts dancing.
+    story: Drum plays a ring of upturned buckets and pans every evening, and the night market sets its pace by the beat. Drum is trying to work out a rhythm loud enough to keep monsters away from the roads, half as a joke and half not.
+  - id: saffi_quell
+    name: Saffi
+    title: Fiddler of Lantern Square
+    role: performer
+    place: Lantern Square
+    age: young
+    personality: Fierce, fast and impatient with anything slow, including her own fingers. She laughs at her own mistakes before anyone else can.
+    story: Saffi came from a family of respectable musicians who wanted her to play slow court dances, so she plays everything twice as fast. She is writing a tune for every street in the city and has finished nine.
+  - id: ochre
+    name: Ochre
+    title: Muralist
+    role: craftsman
+    place: Lantern Square
+    age: adult
+    personality: Big-hearted and messy, always speckled with paint. Ochre talks to walls as if they were old friends.
+    story: Ochre has painted half the walls around the square and repaints the oldest ones every spring so the Walkers' first pictures never fade. Ochre wants to paint the whole history of the city along the Gate Walk but cannot get enough red paint.
+  - id: figgy
+    name: Figgy
+    title: Chalk Artist
+    role: child
+    place: Lantern Square
+    age: child
+    personality: Bright, bossy and stubborn, with chalk dust up to the elbows. Figgy insists every drawing is finished only when it rains.
+    story: Ochre's daughter draws on every flagstone in the square and charges passers-by one copper to step on her pictures. She wants a real wall of her own.
+  - id: nana_gristle
+    name: Nana Gristle
+    title: Bench-Sitter of Lantern Square
+    role: resident
+    place: Lantern Square
+    age: elder
+    personality: Sharp-tongued, sweet-toothed and impossible to shock. She knows everyone's grandparents and all their embarrassing stories.
+    story: Nana Gristle's mother was carried out of Selsior in a basket on the day of the Long Walk, and Nana treats this as the city's most important fact. She sits on the same bench every day and tells newcomers which rooftops to avoid.
+  - id: ivo_sable
+    name: Ivo Sable
+    title: Street Healer
+    role: healer
+    place: Lantern Square
+    age: adult
+    personality: Unhurried, gentle and very hard to rattle. He talks to patients about music to take their minds off the stitches.
+    story: Ivo runs a little clinic under an awning on the square, mostly patching up rooftop tumbles and burnt fingers. More and more of his patients are travelers hurt on the roads, and he is running short of the bandages and salves that come in from outside.
+  - id: tinder
+    name: Tinder
+    title: Fire-Eater
+    role: performer
+    place: Lantern Square
+    age: adult
+    personality: Swaggering and showy on stage, careful and nervous off it. Tinder checks the water bucket three times before every show.
+    story: Tinder learned to eat fire from a traveling show and settled here because nobody told her to stop. She refuses to perform anywhere near the old stories of the Burning, which she says are bad luck.
+
+  # ------------------------------------------------------------ Workshops Row
+  - id: margo_venn
+    name: "Margo 'Sparks' Venn"
+    title: Inventor of Sparking Things
+    role: craftsman
+    place: Workshops Row
+    age: adult
+    sells: Gadgets, spring-traps and sparking lamps
+    personality: Brilliant, scatterbrained and slightly singed. Margo explains every invention three ways before she lets anyone touch it.
+    story: Margo's workshop is the one with the smoke stains around the door. She is building a lamp that throws sparks to frighten off road monsters, and needs someone brave enough to test it outside the walls.
+  - id: cobble
+    name: Cobble
+    title: Bootmaker
+    role: craftsman
+    place: Workshops Row
+    age: elder
+    sells: Boots, rooftop slippers and repairs
+    personality: Grumpy, honest and proud. Cobble says a boot should outlive its owner and means it.
+    story: Cobble makes the soft-soled boots that rooftop runners swear by, and has made them for three generations of Kites. He wants an apprentice but has rejected every one so far for having the wrong sort of hands.
+  - id: hex_dunmore
+    name: Hex
+    title: Puzzle-Box Maker
+    role: craftsman
+    place: Workshops Row
+    age: adult
+    sells: Puzzle boxes, locks and clever latches
+    personality: Sly, playful and secretive. Hex answers every question with a riddle unless you are buying something.
+    story: Hex builds boxes that open only for the right sequence of taps and turns. One of Hex's earliest boxes was sold years ago and has come back unopened with a note saying the buyer could not solve it, and Hex cannot remember the trick either.
+  - id: bolt
+    name: Bolt
+    title: Tinker's Apprentice
+    role: craftsman
+    place: Workshops Row
+    age: young
+    personality: Eager, clumsy and full of ideas that almost work. Bolt apologizes to every machine he breaks.
+    story: Bolt is Margo's apprentice and does most of the sweeping and all of the testing. He secretly thinks some of Rivet's ideas are better than Margo's and is afraid to say so.
+  - id: tinsel
+    name: Tinsel
+    title: Glassblower
+    role: craftsman
+    place: Workshops Row
+    age: adult
+    sells: Lantern glass, bottles and glass beads
+    personality: Dreamy, slow-spoken and fascinated by light. Tinsel holds every bit of glass up to the sun before selling it.
+    story: Tinsel makes the colored lantern glass that gives Urbanograd its glow at night. Tinsel is trying to make a glass that glows on its own and so far has only made some very pretty paperweights.
+  - id: ferro
+    name: Ferro
+    title: Smith of Odd Metals
+    role: craftsman
+    place: Workshops Row
+    age: adult
+    sells: Daggers, throwing stars, claws and knuckle guards
+    personality: Gruff, exacting and secretly sentimental. Ferro names every blade before it leaves the forge.
+    story: Ferro used to make only metal sculptures, but with the roads getting worse the adventurers keep asking for weapons, so now Ferro makes those too and grumbles about it. Ferro still welds a sculpture every Walkout Day and gives it away.
+  - id: dyna_wick
+    name: Dyna
+    title: Tailor of Loud Clothes
+    role: merchant
+    menu: true
+    place: Workshops Row
+    age: adult
+    sells: Patchwork coats, bright scarves and stage clothes
+    personality: Flamboyant, frank and generous with compliments. Dyna thinks beige is a moral failing.
+    story: Dyna dyes cloth in colors no guild would allow and sells clothes stitched from a dozen fabrics at once. Visitors from the capital buy her coats to wear at home, which she finds very funny.
+  - id: rivet
+    name: Rivet
+    title: Builder of the Rooftop Lift
+    role: craftsman
+    place: Workshops Row
+    age: young
+    personality: Cocky, competitive and very practical. Rivet would rather build something that works than something that sparkles.
+    story: Rivet built the rope-and-pulley lift that hauls crates up to the Rooftops and wants to build a second one, if the Open Table agrees. Rivet and Margo argue about everything and would both be lost without each other.
+  - id: alder_penhallow
+    name: Edgar Penhallow
+    title: Guild Apprentice from Selsior
+    role: craftsman
+    place: Workshops Row
+    age: young
+    personality: Polite, earnest and slowly loosening up. Edgar still says please to doors.
+    story: Edgar's guild in Selsior sent him to study Urbanograd's workshops for a season, and he has filled four notebooks. He is beginning to suspect he does not want to go back, and has not written home about it.
+
+  # -------------------------------------------------------------- Night Market
+  - id: moth_kessel
+    name: Moth
+    title: Keeper of the Night Market Stalls
+    role: official
+    place: Night Market
+    age: adult
+    personality: Wry, tireless and allergic to mornings. Moth knows which stall is where by smell alone.
+    story: Moth assigns the stalls each evening by drawing names from a hat, the way the first traders did, so no one owns the best corner for long. Moth has noticed fewer traders arriving from outside since the roads turned dangerous and worries about the winter.
+  - id: juniper_cray
+    name: "Hester 'Ladle' Cray"
+    title: Skewer Seller
+    role: merchant
+    menu: true
+    place: Night Market
+    age: adult
+    sells: Grilled skewers, pepper buns and hot cider
+    personality: Loud, cheerful and always waving a ladle as if conducting a choir. She remembers every regular's order.
+    story: Ladle's stall is the first one lit and the last one dark. She is quietly feeding a few rooftop children for free and pretends not to know it.
+  - id: velvet
+    name: Velvet
+    title: Trader of Curios
+    role: merchant
+    menu: true
+    place: Night Market
+    age: adult
+    sells: Curios, trinkets and oddities from across Veligor
+    personality: Silky, mysterious and a little theatrical. Velvet tells a story with every sale, and some of the stories are true.
+    story: Velvet buys odd things from travelers and sells them at a mark-up to anyone charmed enough. Among her stock is a dark stone that stays warm to the touch, bought from a frightened wanderer off the deep roads, and she will not say what she thinks it is.
+  - id: crow_hadley
+    name: Crow
+    title: Tonic Seller
+    role: merchant
+    menu: true
+    place: Night Market
+    age: adult
+    sells: Healing tonics, mana draughts and remedies
+    personality: Deadpan, sharp and suspicious of anyone who haggles too sweetly. Crow wears black because it hides spills.
+    story: Crow brews tonics in the back of the stall and sells them by lantern light. Ivo keeps telling Crow to label the bottles properly, and Crow keeps ignoring him.
+  - id: nix
+    name: Nix
+    title: Mask Maker
+    role: merchant
+    menu: true
+    place: Night Market
+    age: young
+    sells: Masks, face paint and Walkout Day costumes
+    personality: Shy behind a counter, bold behind a mask. Nix speaks more easily in a voice that is not their own.
+    story: Nix makes the paper masks everyone wears on Walkout Day, and this year has been asked to make a new Juna mask for the play. Nix is terrified of getting her face wrong.
+  - id: dog_ear_tuck
+    name: "Wendel 'Dog-Ear' Tuck"
+    title: Seller of Old Books and Banned Plays
+    role: merchant
+    menu: true
+    place: Night Market
+    age: elder
+    sells: Second-hand books, play scripts and song sheets
+    personality: Cheerfully disorganized and fiercely well-read. He folds down page corners and calls it a public service.
+    story: Dog-Ear sells books that were once frowned on somewhere and are now simply old. He claims to own a script of Juna's play written in her own hand, and Ozzie has been trying to see it for ten years.
+  - id: glim_kessel
+    name: Glim
+    title: Paper Lantern Seller
+    role: merchant
+    menu: true
+    place: Night Market
+    age: young
+    sells: Paper lanterns and candle stubs
+    personality: Cheerful, chatty and a born salesperson. Glim can sell a lantern to someone already holding two.
+    story: Moth's daughter runs her own little stall at the end of the market and is saving up to buy a cart. She wants to take her lanterns to other towns one day, if the roads ever get safer.
+  - id: kesh_marlo
+    name: Remy Marlo
+    title: Smoked Fish Seller
+    role: merchant
+    menu: true
+    place: Night Market
+    age: adult
+    sells: Smoked fish, sea-salt crisps and pickled kelp
+    personality: Breezy, patient and homesick for the sound of waves. He hums sea songs when business is slow.
+    story: Remy came inland from the coast two years ago because he fell in love with the night market on a visit. The fish deliveries are getting harder to bring in safely, and he is wondering whether to learn a new trade.
+  - id: saucer
+    name: Saucer
+    title: Tea Stall Keeper
+    role: merchant
+    menu: true
+    place: Night Market
+    age: elder
+    sells: Spiced tea, honey cakes and fortune leaves
+    personality: Serene, mischievous and full of terrible puns. Saucer reads tea leaves and always predicts something nice.
+    story: Saucer has run the same tea stall for forty years and claims to have served tea to every Caller of the Open Table. Saucer is getting slow and hopes someone will take over the stall, but will not admit it.
+  - id: crumb
+    name: Crumb
+    title: Baker from the Farmlands
+    role: merchant
+    menu: true
+    place: Night Market
+    age: adult
+    sells: Bread, rolls and sweet buns
+    personality: Warm, sturdy and a little baffled by city life. Crumb still wakes at dawn even though he works all night.
+    story: Crumb grew up on a farm in the green country and came to Urbanograd to bake bread shaped like whatever he liked. His dragon-shaped loaves are a hit, and his family back home still thinks it is a phase.
+
+  # ------------------------------------------------------------------ Rooftops
+  - id: vane
+    name: Vane
+    title: Rooftop Bridge-Builder
+    role: worker
+    place: Rooftops
+    age: adult
+    personality: Fearless, practical and calm in a high wind. Vane tests every plank by jumping on it.
+    story: Vane builds and mends the plank bridges between Urbanograd's rooftops, and knows every one by name. Vane is trying to raise Scrap well and worries about the day she wants to go out on the roads.
+  - id: kite
+    name: Kite
+    title: Rooftop Runner
+    role: worker
+    place: Rooftops
+    age: young
+    personality: Fast, boastful and impossible to keep on the ground. Kite talks while running and never runs out of breath.
+    story: Kite carries messages across the city by rooftop and holds the record for the run from the Gate Walk to the Great Hall. Kite's mother and grandmother were runners too and all wore Cobble's boots.
+  - id: perch
+    name: Perch
+    title: Pigeon Keeper
+    role: resident
+    place: Rooftops
+    age: elder
+    personality: Soft-spoken, patient and covered in feathers. Perch understands birds better than people and admits it.
+    story: Perch keeps message pigeons in a loft on the highest roof in the city. Over the last few years the birds have begun refusing certain routes over the wilds, and Perch keeps a careful list of which ones.
+  - id: scrap
+    name: Scrap
+    title: Rooftop Scamp
+    role: child
+    place: Rooftops
+    age: child
+    personality: Nimble, nosy and fearless in all the wrong places. Scrap collects lost things and gives them names.
+    story: Scrap is Vane's daughter and has never once used the stairs. She wants to be an adventurer like Shade and practices sneaking on everyone.
+  - id: starling
+    name: Starling
+    title: Rooftop Stargazer
+    role: scholar
+    place: Rooftops
+    age: adult
+    personality: Distracted, kind and wildly enthusiastic about anything in the sky. Starling sleeps through every afternoon.
+    story: Starling maps the stars from a telescope built out of Tinsel's spare lenses. On some nights the horizon toward the middle of the island seems to flicker, and Starling has started writing down the dates without knowing what they mean.
+  - id: parsnip
+    name: Old Parsnip
+    title: Rooftop Gardener
+    role: worker
+    place: Rooftops
+    age: elder
+    personality: Slow, earthy and stubbornly hopeful. Old Parsnip talks to seedlings and swears they listen.
+    story: Old Parsnip grows vegetables in tubs and troughs across the rooftops, a habit the city picked up after the Walkers nearly starved their first winter. With fewer food carts arriving, more people are asking him for seeds.
+  - id: pounce
+    name: Pounce
+    title: Rooftop Cat
+    role: animal
+    place: Rooftops
+    age: adult
+    personality: Lazy by day, dignified by night and certain that every roof belongs to him.
+    story: Pounce is a big grey cat who sleeps in Perch's pigeon loft, which the pigeons have accepted with deep reluctance. Rooftop folk say he always knows when the weather is about to turn.
+  - id: splash
+    name: Splash
+    title: Night Painter
+    role: craftsman
+    place: Rooftops
+    age: young
+    personality: Restless, playful and allergic to permission. Splash never signs a painting and never stops grinning.
+    story: Splash paints murals on the backs of chimneys and the undersides of bridges overnight, where only rooftop folk can see them. Splash wants to paint something that can be seen from the Gate Walk, so travelers know they have arrived.
+
+  # ----------------------------------------------------- Old Barracks Theatre
+  - id: orla_finch
+    name: Dina Finch
+    title: Director of the Old Barracks Troupe
+    role: performer
+    place: Old Barracks Theatre
+    age: adult
+    personality: Commanding, theatrical and warm under the bluster. Dina gives notes even at breakfast.
+    story: Dina runs the troupe that performs Juna Marrow's play on a cart every Walkout Day, as it was first performed. She is determined that this year's play will be the funniest in a decade, and she has said so every year for a decade.
+  - id: pip_marrow
+    name: Pip Marrow
+    title: Juna's Great-Granddaughter
+    role: performer
+    place: Old Barracks Theatre
+    age: young
+    personality: Witty, self-doubting and quick with a comeback. Pip hates being introduced by her surname.
+    story: Pip is descended from Juna Marrow, and everyone expects her to write a play as good as Juna's. She has written three and burned two, and she is secretly working on a new comedy she will not show anyone.
+  - id: dex
+    name: Dex
+    title: Plays the Grandee
+    role: performer
+    place: Old Barracks Theatre
+    age: adult
+    personality: A born clown with a booming voice and an ego to match, but generous with every laugh he gets.
+    story: Dex has played the pompous grandee in Juna's play for fifteen years and knows every line of every part. He wants to try a serious role just once, and nobody will take him seriously.
+  - id: rue
+    name: Rue
+    title: Plays Juna on Walkout Day
+    role: performer
+    place: Old Barracks Theatre
+    age: young
+    personality: Quiet, observant and stricken with stage fright until the very moment she steps on. Then she is fearless.
+    story: Rue came to the city from Kaldemor's farmlands three years ago and won the part of Juna this spring, to everyone's surprise including her own. She practices her lines on Pounce, who is not much help.
+  - id: hambone
+    name: Hambone
+    title: Keeper of the Theatre Cart
+    role: worker
+    place: Old Barracks Theatre
+    age: elder
+    personality: Sentimental, stubborn and a very bad liar. Hambone polishes the cart wheels while humming the play's songs.
+    story: Hambone looks after the old cart the troupe performs on every Walkout Day, and swears some of its planks come from Juna's own cart. One wheel is cracking, and he cannot bear to replace it.
+  - id: thimble
+    name: Thimble
+    title: Costume Maker
+    role: craftsman
+    place: Old Barracks Theatre
+    age: elder
+    personality: Fussy, sharp-eyed and secretly sentimental. Thimble has pins in her mouth at all times and still talks.
+    story: Thimble has sewn the troupe's costumes for thirty years and keeps the grandee's ridiculous hat locked away between shows. She buys her brightest fabric from Dyna and complains about the price every time.
+  - id: piper
+    name: Piper
+    title: Songwriter of the Troupe
+    role: performer
+    place: Old Barracks Theatre
+    age: young
+    personality: Romantic, scatterbrained and always humming something new. Piper falls in love with a melody a week.
+    story: Piper writes new songs for the play every year, to Dina's despair and the crowd's delight. Piper wants to play with Saffi but is too shy to ask.
+  - id: sprout
+    name: Sprout
+    title: Troupe Urchin
+    role: child
+    place: Old Barracks Theatre
+    age: child
+    personality: Giggly, loud and never still. Sprout has learned every part in the play by accident.
+    story: Dex's son plays the market urchin who cheers for Juna in the first scene, and he steals the show every year. He wants to play the grandee one day so he can wear the hat.
+
+  # --------------------------------------------------------------- Gate Walk
+  - id: brindle
+    name: Brindle
+    title: Captain of the Gate Watch
+    role: guard
+    place: Gate Walk
+    age: adult
+    personality: Steady, plain-spoken and dryly funny. Brindle believes in good boots, good lanterns and checking twice.
+    story: Brindle commands the small volunteer watch that guards the old fortress gate. Brindle has asked the Open Table for more volunteers this year, because monsters now come closer to the walls than they used to.
+  - id: knox
+    name: Knox
+    title: Gate Watch Guard
+    role: guard
+    place: Gate Walk
+    age: adult
+    personality: Big, gentle and slow to anger. Knox carves little wooden animals during quiet watches.
+    story: Knox has guarded the gate for ten years and knows every regular traveler by face. He would like his son Tick to choose a safer life and is losing that argument.
+  - id: dagny_roe
+    name: "Dagny 'Two-Lamps' Roe"
+    title: Night Watch Guard
+    role: guard
+    place: Gate Walk
+    age: young
+    personality: Jumpy, sharp-eyed and talkative to fight off the dark. She carries two lamps because one went out once.
+    story: Dagny keeps the gate on the night watch and has seen eyes in the dark beyond the road more often this year than last. She is braver than she thinks and has not noticed yet.
+  - id: shade
+    name: Shade
+    title: Knife-Thrower and Road Guide
+    role: adventurer
+    place: Gate Walk
+    age: adult
+    personality: Cool, quiet and secretly soft on children. Shade never misses and never brags.
+    story: Shade guides travelers and traders safely along the roads into the city, for a fee and a hot meal. The routes Shade trusted a few years ago are not safe anymore, and Shade is looking for new ones.
+  - id: zinnia_calloway
+    name: "Zinnia 'Zip' Calloway"
+    title: Young Adventurer
+    role: adventurer
+    place: Gate Walk
+    age: young
+    personality: Reckless, sunny and determined to be famous. Zip has never met a dare she would refuse.
+    story: Zip grew up in the city and left on her first adventure last spring, coming back with a broken arm and a great story. She has volunteered to test Margo's spark lamp on real monsters.
+  - id: hatch
+    name: Hatch
+    title: Monster Hunter
+    role: adventurer
+    place: Gate Walk
+    age: elder
+    personality: Weathered, blunt and full of stories he tells only after the second cup. Hatch trusts his nose more than any map.
+    story: Hatch has hunted on Veligor's roads for thirty years and says the monsters today are nothing like the ones of his youth. He is too old to go out alone now and is looking for someone worth teaching.
+  - id: torvi_brask
+    name: Torvi Brask
+    title: Axe-Fighter from the Highlands
+    role: adventurer
+    place: Gate Walk
+    age: adult
+    personality: Proud, honest and bemused by city manners. Torvi laughs like a rockslide.
+    story: Torvi came down from the highlands to see the city everyone talks about and stayed because the music was good. Torvi hires out as a caravan guard and is teaching Zip to fight properly.
+  - id: prism
+    name: Prism
+    title: Light-Painter from the Forest
+    role: performer
+    place: Gate Walk
+    age: young
+    personality: Curious, earnest and delighted by everything. Prism asks questions faster than anyone can answer them.
+    story: Prism grew up in the forest learning a little magic and came to Urbanograd to use it for art, painting pictures with small lights in the air for travelers arriving at the gate. Prism hopes to put on a light show for Walkout Day.
+  - id: patch
+    name: Patch
+    title: Herbalist of the Gate Walk
+    role: healer
+    place: Gate Walk
+    age: elder
+    personality: Brusque, practical and quietly tender. Patch scolds patients while bandaging them.
+    story: Patch tends the travelers who stumble in through the gate with monster bites and scrapes. Her herb supplies come from outside the walls, and she needs someone to gather fresh ones now that the fields are risky.
+  - id: tick
+    name: Tick
+    title: Gate Messenger
+    role: child
+    place: Gate Walk
+    age: child
+    personality: Eager, earnest and always out of breath. Tick salutes everyone, including the cat.
+    story: Knox's son runs messages from the gate to the rest of the city and dreams of being an adventurer like Hatch. He keeps a notebook of every traveler's strange story.
+
+relationships:
+  # Great Hall
+  - [rook_tallow, dimity_ash, colleague at the Table, colleague at the Table]
+  - [rook_tallow, bastian_krell, patient listener, favorite heckler]
+  - [rook_tallow, quint_holloway, friend, old friend and adviser]
+  - [rook_tallow, mags_ferrow, grateful regular, friend]
+  - [rook_tallow, saucer, regular customer, tea seller]
+  - [dimity_ash, hob_lantry, fellow keeper of records, fellow keeper of records]
+  - [quint_holloway, hob_lantry, old friend, old friend]
+  - [mags_ferrow, bastian_krell, wife, husband]
+  - [hob_lantry, dog_ear_tuck, frustrated would-be buyer, teasing bookseller]
+  # Lantern Square
+  - [lux_lune, tinsel, customer, glass supplier]
+  - [lux_lune, perch, friend, friend]
+  - [jinx, drum, street partner, street partner]
+  - [jinx, figgy, favorite audience, favorite juggler]
+  - [saffi_quell, piper, admired musician, admirer]
+  - [saffi_quell, drum, bandmate, bandmate]
+  - [ochre, figgy, mother, daughter]
+  - [ochre, splash, rival painter, rival painter]
+  - [nana_gristle, rook_tallow, scolding elder, fond listener]
+  - [nana_gristle, saucer, old friend, old friend]
+  - [ivo_sable, crow_hadley, exasperated colleague, stubborn colleague]
+  - [ivo_sable, patch, fellow healer, fellow healer]
+  - [tinder, jinx, friend, friend]
+  - [tinder, ivo_sable, frequent patient, healer]
+  # Workshops Row
+  - [margo_venn, bolt, mentor, apprentice]
+  - [margo_venn, rivet, rival, rival]
+  - [margo_venn, zinnia_calloway, inventor, gadget tester]
+  - [cobble, kite, bootmaker, loyal customer]
+  - [hex_dunmore, velvet, friend, friend]
+  - [ferro, shade, smith, customer]
+  - [ferro, hatch, smith, old customer]
+  - [dyna_wick, thimble, supplier, haggling customer]
+  - [alder_penhallow, rivet, admirer, friend]
+  - [alder_penhallow, cobble, would-be apprentice, unimpressed teacher]
+  - [tinsel, starling, lens maker, friend]
+  # Night Market
+  - [moth_kessel, glim_kessel, father, daughter]
+  - [moth_kessel, juniper_cray, friend, friend]
+  - [juniper_cray, scrap, secret feeder, grateful friend]
+  - [velvet, nix, friend, friend]
+  - [kesh_marlo, crumb, fellow newcomer, fellow newcomer]
+  - [kesh_marlo, juniper_cray, stall neighbour, stall neighbour]
+  - [glim_kessel, saucer, helper, adopted grandparent]
+  - [crumb, rue, friend from the farmlands, friend from the farmlands]
+  # Rooftops
+  - [vane, scrap, mother, daughter]
+  - [vane, rivet, partner on rooftop projects, partner on rooftop projects]
+  - [kite, splash, sweetheart, sweetheart]
+  - [perch, pounce, keeper, uninvited lodger]
+  - [parsnip, perch, rooftop neighbour, rooftop neighbour]
+  - [parsnip, mags_ferrow, vegetable supplier, customer]
+  - [starling, perch, friend, friend]
+  # Old Barracks Theatre
+  - [orla_finch, pip_marrow, mentor, protégée]
+  - [orla_finch, dex, director, lead actor]
+  - [orla_finch, piper, exasperated director, songwriter]
+  - [orla_finch, rue, director, lead actress]
+  - [dex, sprout, father, son]
+  - [rue, pounce, rehearsal partner, unimpressed audience]
+  - [hambone, thimble, old friend, old friend]
+  - [hambone, pip_marrow, keeper of her ancestor's cart, friend]
+  - [nix, pip_marrow, mask maker, model]
+  - [quint_holloway, orla_finch, opening speaker, director]
+  # Gate Walk
+  - [brindle, knox, captain, guard]
+  - [brindle, dagny_roe, captain, guard]
+  - [knox, tick, father, son]
+  - [tick, hatch, admirer, reluctant hero]
+  - [shade, scrap, hero, admirer]
+  - [shade, hatch, former pupil, old mentor]
+  - [torvi_brask, zinnia_calloway, teacher, student]
+  - [prism, lux_lune, friend, friend]
+  - [patch, dagny_roe, healer, friend]
+  - [brindle, rook_tallow, captain who reports to the Table, friend]
