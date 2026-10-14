@@ -15,6 +15,7 @@ The kingdom is still whole and happy. The land around it is turning hostile. Tha
 
 - [History](history.md): the Age of Division, the Balrog War and the founding of Wonder Kingdom
 - [Veligor](veligor.md): the island and its [towns](veligor.md#towns)
+- [The Balrog](balrog.md): what it is, where it may have come from, and the war against it
 - [The World Tree](world-tree.md)
 - [The Great World Tree Expedition](expedition.md)
 - [The Age of Disturbance](age-of-disturbance.md)
