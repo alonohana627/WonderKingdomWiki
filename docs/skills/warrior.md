@@ -120,17 +120,17 @@ Formulas (x is the skill level, division rounds down): MP = `14 + x`, Damage % =
 | Weapons | One-Handed Sword, One-Handed Axe, Two-Handed Sword, Two-Handed Axe, Spear |
 | Cooldown | 0.6 s |
 
-| Level | MP | Leap up | Leap forward |
-|---|---|---|---|
-| 1 | 6 | 61 | 408 |
-| 2 | 6 | 62 | 416 |
-| 3 | 6 | 63 | 424 |
-| 4 | 6 | 64 | 432 |
-| 5 | 6 | 65 | 440 |
-| 6 | 6 | 66 | 448 |
-| 7 | 6 | 67 | 456 |
-| 8 | 6 | 68 | 464 |
-| 9 | 6 | 69 | 472 |
-| 10 | 6 | 70 | 480 |
+| Level | MP |
+|---|---|
+| 1 | 6 |
+| 2 | 6 |
+| 3 | 6 |
+| 4 | 6 |
+| 5 | 6 |
+| 6 | 6 |
+| 7 | 6 |
+| 8 | 6 |
+| 9 | 6 |
+| 10 | 6 |
 
-Formulas (x is the skill level, division rounds down): MP = `6`, Leap up = `60 + x`, Leap forward = `400 + 8 * x`
+Formulas (x is the skill level, division rounds down): MP = `6`

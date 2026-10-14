@@ -9,8 +9,6 @@
 | EXP | 22 |
 | Touch damage | 36 |
 | Defense / Magic Defense | 20 / 20 |
-| Speed | 20 |
-| Movement | Walk |
 | Aggressive | No |
 
 ## Where to find

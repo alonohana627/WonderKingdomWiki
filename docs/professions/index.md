@@ -6,6 +6,19 @@ Gathering professions take materials from nodes in the fields; making profession
 
 Professions go up to level 99. Ranks: Novice (1), Apprentice (20), Journeyman (40), Expert (60), Master (80).
 
+## EXP by level gap
+
+Gathering a node or making a recipe well below your profession level gives less EXP:
+
+| Your level above the node or recipe | EXP |
+|---|---|
+| 0-4 | 100% |
+| 5-9 | 60% |
+| 10-19 | 25% |
+| 20 or more | 5% |
+
+## All professions
+
 | Profession | Kind | Description |
 |---|---|---|
 | [Gathering](../professions/gathering.md) | Gathering | General gathering: fibre from hay bales and ferns, wood from fallen logs. |

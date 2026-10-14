@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
-| Street | Kaldemor |
 | Kind | Town |
-| Safety | Town |
 
 ## Exits
 

@@ -2,12 +2,12 @@
 
 # Weapons
 
-Weapon types and how they hit.
+Weapon types and how hard they hit.
 
-| Type | Hands | Damage multiplier | Attack time |
-|---|---|---|---|
-| One-Handed Sword | 1 | 4 | 0.6 s |
-| One-Handed Axe | 1 | 4.4 | 0.66 s |
-| Two-Handed Sword | 2 | 4.6 | 0.72 s |
-| Two-Handed Axe | 2 | 4.8 | 0.75 s |
-| Spear | 2 | 5 | 0.75 s |
+| Type | Hands | Damage multiplier |
+|---|---|---|
+| One-Handed Sword | 1 | 4 |
+| One-Handed Axe | 1 | 4.4 |
+| Two-Handed Sword | 2 | 4.6 |
+| Two-Handed Axe | 2 | 4.8 |
+| Spear | 2 | 5 |

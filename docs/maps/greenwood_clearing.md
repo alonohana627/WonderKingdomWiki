@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [The Royal Road](../world/index.md#royal-road) |
-| Street | Royal Road |
 | Kind | Hunting |
-| Safety | Field |
 | Level | 6 |
 | Return town | Kaldemor |
 

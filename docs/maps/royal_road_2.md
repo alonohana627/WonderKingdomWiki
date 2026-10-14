@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [The Royal Road](../world/index.md#royal-road) |
-| Street | Royal Road |
 | Kind | Road |
-| Safety | Field |
 | Level | 4 |
 | Return town | Kaldemor |
 
