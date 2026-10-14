@@ -10,7 +10,7 @@ These principles guide all future lore. New pages and stories should stay true t
 6. **Bain Harbour and Goa Harbour lie on opposite sides of Veligor.** They have different identities without being rivals.
 7. **Selsior is the City of Everything.** It is a joyful, bustling, cosmopolitan metropolis with classic medieval fantasy architecture.
 8. **Kaldemor is the Town of Joyful Craftsmanship.** It is a cheerful, prosperous, pastoral community inspired by Henesys.
-9. **Midbarium is a rugged, rural highland town ruled by clan chieftains.** It stands for strength, resilience, independence and ancestral tradition, and its dry, desert-like highlands draw on highland, canyon and steppe cultures, not Middle Eastern ones.
+9. **Midbarium is a rugged, rural highland town of four families.** Each family chooses its chieftain, and together they choose the Old One who leads them all. It stands for strength, resilience, independence and ancestral tradition, and its dry, desert-like highlands draw on highland, canyon and steppe cultures, not Middle Eastern ones.
 10. **Fairy Forest is a magical woodland town.** It is the Magicians' historic home and the new home of the Children of the Tree.
 11. **Cavelor was founded by ancient guardians.** Its people still carry the duty of watching over the Balrog's prison.
 12. **The Great World Tree Expedition took place 50 years ago.** It found the Children of the Tree and Cavelor, and accidentally damaged the Balrog's seal.
