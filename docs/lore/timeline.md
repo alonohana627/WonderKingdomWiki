@@ -7,7 +7,7 @@
 | The Balrog War | The Balrog attacks Veligor, and the four peoples unite against it. |
 | The Founding | The Balrog is defeated and sealed beneath the World Tree. The founding treaty creates Wonder Kingdom, and guardians stay below to found Cavelor. |
 | The Age of Unity | The kingdom prospers, its towns grow, and the old divisions fade away. |
-| 100 years ago | Urbanograd is founded and grows its own counterculture. |
+| 100 years ago | The Walkers leave Selsior and settle the ruins of Old Grad, founding Urbanograd. The Open Charter recognizes it as a town of the kingdom. |
 | 50 years ago | The Great World Tree Expedition finds the Children of the Tree and Cavelor. |
 | 50 years ago | The expedition accidentally opens a rift that damages the Balrog's seal. |
 | The following decades | The Age of Disturbance: the Balrog's influence spreads, and the wilderness grows ever more dangerous. |
