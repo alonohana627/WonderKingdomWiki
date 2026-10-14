@@ -19,7 +19,5 @@ The kingdom is still whole and happy. The land around it is turning hostile. Tha
 - [The Great World Tree Expedition](expedition.md)
 - [The Age of Disturbance](age-of-disturbance.md)
 - [Wonder Kingdom Today](present-day.md)
-- [The Player's Place in the World](player.md)
-- [The Central Narrative](central-narrative.md)
 - [Worldbuilding Principles](principles.md)
 - [Timeline](timeline.md)
