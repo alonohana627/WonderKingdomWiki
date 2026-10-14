@@ -1,8 +1,26 @@
 # Wonder Kingdom Wiki
 
-This is the wiki for **Wonder Kingdom**, a game built with
-[GameLib](https://github.com/alonohana627/GameLib), a small C++26 game library
-with Vulkan shader-only 2D rendering, a miniaudio synth and a fixed-step main loop.
+This is the wiki for **Wonder Kingdom**, a MapleStory-like open-world
+platformer RPG built with [GameLib](https://github.com/alonohana627/GameLib).
+It is a [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) site.
 
-The wiki collects design notes and reference material for the game.
-It is just getting started, so there are no pages yet.
+## Sources of truth
+
+- **Lore** lives here, in `docs/lore/`, written by hand.
+- **Game data** lives in GameLib (`games/wonder_kingdom/content/`). Every other
+  section of `docs/` (items, skills, jobs, monsters, bosses, NPCs, quests,
+  shops, world, maps, professions, runs, game systems) is generated from it by
+  `tools/generate.py`. Don't edit those pages by hand: change the game data in
+  GameLib and regenerate. The generator only reads GameLib.
+
+## Working on the wiki
+
+```bash
+pip install -r requirements.txt
+python tools/generate.py          # expects GameLib next to this repo; or pass --game PATH
+mkdocs serve                      # preview at http://127.0.0.1:8000
+mkdocs build --strict             # what to run before committing
+```
+
+The generator also rewrites the `nav:` block at the end of `mkdocs.yml`, so add
+new lore pages under `docs/lore/` and rerun it to put them in the navigation.
