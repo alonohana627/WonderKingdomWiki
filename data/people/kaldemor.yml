@@ -1,0 +1,456 @@
+npcs:
+  # ---------------------------------------------------------------- Town Square
+  - id: tobin
+    name: Tobin
+    title: Mayor of Kaldemor
+    role: ruler
+    office: kaldemor.mayor
+    place: Town Square
+    age: elder
+    game: tobin
+    personality: Warm, chatty and proud of his town, with a story for every occasion and a joke about the snails for every other one. He knows every family by name and most of their grandparents too.
+    story: Tobin has been mayor for thirty years and likes to say the great treehouse has outlived three mayors, himself included. Just under three hundred people live in Kaldemor, and he means to see every one of them safe. His current project is a new fence around the gardens, with ground snail shell mixed into the mortar.
+
+  - id: lia
+    name: Lia
+    title: Town Guide
+    role: official
+    place: Town Square
+    age: young
+    game: lia
+    personality: Bright, quick and endlessly patient with newcomers, she answers the same question for the tenth time as if it were the first. She always knows the latest news in town before anyone else.
+    story: Lia meets every newcomer in the square and shows them the way to the Market, the Park and the fields beyond. She was the one who first spread word that the clock tower had stopped. She is courting Clem the orchard keeper and pretends nobody has noticed.
+
+  - id: tam
+    name: Tam
+    title: Would-be Warrior
+    role: child
+    place: Town Square
+    age: child
+    game: tam
+    personality: Bold, loud and only a little afraid of snails, he swings a stick at anything that looks like an enemy. He hates washing behind his ears.
+    story: Tam is going to be a warrior when he grows up, and he tells everyone so. He hangs about the Park hoping Quill will let him run the Gauntlet, and Mayor Tobin has told him he could even be mayor one day, if he washes.
+
+  - id: nell
+    name: Nell
+    title: Cloud Counter
+    role: child
+    place: Town Square
+    age: child
+    game: nell
+    personality: Dreamy and very serious about her counting, she shushes grown-ups who interrupt. She sees snails, carts and teapots in every cloud.
+    story: Nell spends whole afternoons lying on the square counting clouds, in the cap her grandmother Wren knitted for her. She keeps a tally of every cloud she has ever counted in a little book and will not say how big the number is.
+
+  - id: pell
+    name: Pell
+    title: Taxi Driver
+    role: service
+    place: Town Square
+    age: adult
+    game: pell
+    personality: Steady and plain-spoken, he never hurries a fare and never misses one either. He has opinions about every road on Veligor.
+    story: Pell drives the Kaldemor cab from the stand by the signpost, between towns and never into the wilds. Lately he drives the Royal Road a little faster than he used to, and he will not say what ran at his cab last month, only that Percy had to mend the wheel.
+
+  - id: mildred
+    name: Mildred
+    title: Town Clerk
+    role: official
+    place: Town Square
+    age: adult
+    personality: Neat, dry and exact, she has never misspelled a name in the town ledger. Her rare smile is worth waiting for.
+    story: Mildred keeps the town's ledgers, the mayor's letters and the list of every family in Kaldemor. She has counted the town more carefully than Tobin ever has, and she quietly worries about what will happen to Kaldemor on the day he decides to rest.
+
+  - id: rufus
+    name: Rufus
+    title: Town Crier
+    role: official
+    place: Town Square
+    age: adult
+    personality: Booming, jolly and impossible to ignore, he cannot say anything quietly, not even good morning. He loves a good announcement more than a good dinner.
+    story: Rufus rings his handbell in the square every morning with the news, the fair days and the lost cats. These days more of his notices are road warnings, and he has started reading them a little more gently so as not to frighten the children.
+
+  - id: lottie
+    name: Lottie
+    title: Schoolteacher
+    role: scholar
+    place: Town Square
+    age: adult
+    personality: Kind, curious and a little scatterbrained, she loses her spectacles on her head several times a day. She never answers a child's question with "because".
+    story: Lottie teaches the town's children in a schoolroom up in the great treehouse. She collects every version of the one-seed story she can find, and lately the children ask her about the monsters on the roads and the old seal, and she is not sure what to tell them.
+
+  - id: jem
+    name: Jem
+    title: Fiddler
+    role: performer
+    place: Town Square
+    age: young
+    personality: Cheerful, restless and always tapping a foot, he cannot sit through a conversation without humming. He makes up songs about whoever is listening.
+    story: Jem plays his fiddle in the square by day and at the Sleepy Snail by night, and no harvest dance in Kaldemor starts without him. He is writing a song for Daisy the painter and has been for a year, because it is never good enough.
+
+  # ------------------------------------------------------------ Kaldemor Market
+  - id: bram
+    name: Bram
+    title: Potion Seller
+    role: merchant
+    place: Kaldemor Market
+    age: adult
+    game: bram
+    sells: Potions
+    personality: Friendly to every customer and stubborn with everyone else, he can talk about cauldrons for an hour. He admits he is wrong about once a year.
+    story: Bram keeps the potion stall at the far end of the Market and teaches brewing to anyone with the hands for it. Years ago he quarrelled with Rosa over a loaf, and he has missed her bread and her company ever since without saying so.
+
+  - id: gareth
+    name: Gareth
+    title: Smith
+    role: craftsman
+    place: Kaldemor Market
+    age: adult
+    game: gareth
+    sells: Swords, shields and armour
+    personality: Broad, quiet and proud of a clean edge, he talks more to his anvil than to people. He thinks every smith should start with copper.
+    story: Gareth works the forge in the Market and sells blades to the young warriors heading out to the fields. He teaches smelting and the use of upgrade scrolls, and he has been asked for more swords this year than in the five before it.
+
+  - id: marta
+    name: Old Marta
+    title: Grocer
+    role: merchant
+    place: Kaldemor Market
+    age: elder
+    game: marta
+    sells: Fresh produce, pickles and groceries
+    personality: Sharp-tongued, sharp-eyed and secretly soft, she will scold a customer for squeezing a tomato and then slip them an extra one. Nobody has ever won an argument with her.
+    story: Old Marta has run the grocer's stall for longer than anyone can remember, buying from every farm around Kaldemor. Her pickles and Elsie's cheese have fought for first prize at the harvest fair for twenty years.
+
+  - id: hilda
+    name: Hilda
+    title: Storage Keeper
+    role: service
+    place: Kaldemor Market
+    age: adult
+    game: hilda
+    personality: Calm, careful and a little mysterious, she remembers where every single item in her storage sits. She takes her promise to look after things very seriously.
+    story: Hilda keeps the town's storage, where travellers leave meso and goods too heavy to carry. In all her years she has never lost a thing, and she would very much like to keep it that way.
+
+  - id: rosa
+    name: Rosa
+    title: Baker
+    role: merchant
+    place: Kaldemor Market
+    age: adult
+    game: rosa
+    sells: Bread, buns and her famous mushroom bread
+    personality: Warm, floury and a born feeder, she calls everyone "dear" and saves the heel of the loaf for her friends. She is private about the things that matter most to her.
+    story: Rosa bakes in the terrace oven her grandmother built, brick by brick, the year the clock tower was raised; it has not gone cold since. Her mushroom bread needs spores and a pinch of ground blue snail shell. She has never mended an old quarrel with Bram, and she wishes she had.
+
+  - id: bess
+    name: Bess
+    title: Herbalist
+    role: healer
+    place: Kaldemor Market
+    age: elder
+    sells: Herbs, poultices and teas
+    personality: Brisk, practical and fond of telling people they should have come sooner. She trusts a leaf over a potion every time.
+    story: Bess is Bram's older sister and the town's healer, binding the cuts and bites that come back from the fields. She tells Bram that his potions are only herbs in a hurry, and he tells her that her teas are only potions that gave up. She has treated more snail nips this year than ever before.
+
+  - id: molly
+    name: Molly
+    title: Innkeeper of the Sleepy Snail
+    role: service
+    place: Kaldemor Market
+    age: adult
+    personality: Bustling, motherly and nosy in the nicest way, she knows every traveller's business before their soup is served. She cannot stand an empty plate.
+    story: Molly runs the Sleepy Snail, the inn at the edge of the Market where travellers stop before the eastern countryside. She sends guests with heavy packs to her sister Hilda. Fewer travellers come in from the east these days, and the ones who do arrive with stories she would rather not believe.
+
+  # --------------------------------------------------------------- Kaldemor Park
+  - id: hale
+    name: Hale
+    title: Park Ranger
+    role: guard
+    place: Kaldemor Park
+    age: adult
+    game: hale
+    personality: Quiet, watchful and slow to worry, which makes it serious when he does. He says more with a nod than most people say in a speech.
+    story: Hale looks after the park gate and the meadow beyond it, and pays a bounty to anyone who thins out the snails. He was the first to hear something huge settle in a hollow past the woods, and he kept it to himself until he knew what it was.
+
+  - id: quill
+    name: Quill
+    title: Drillmaster
+    role: guard
+    place: Kaldemor Park
+    age: adult
+    game: quill
+    personality: Stern, clipped and fair, he barks orders but never mocks a fall. He believes footwork wins more fights than muscle.
+    story: Quill runs the Kaldemor Gauntlet in the Park, a three-stage course of a monster yard, a hanging course and a last stand. He drills the young warriors who mean to protect the fields, and he has more of them than ever. He pretends not to notice Tam watching every run.
+
+  - id: ewan
+    name: Ewan
+    title: Clockkeeper
+    role: worker
+    place: Kaldemor Park
+    age: elder
+    game: ewan
+    personality: Fussy, gentle and proud, he talks to the clock as if it could hear him and listens to it as if it could answer. He cannot stand dust, or people touching things that swing.
+    story: Ewan has kept the clock tower for forty years, winding, oiling and listening. When a Shroom carried off the great gear, it was the first time the clock had ever stopped, and he still checks the gear every morning to be sure it is there.
+
+  - id: fen
+    name: Fen
+    title: Mushroom House Fan
+    role: child
+    place: Kaldemor Park
+    age: child
+    game: fen
+    personality: Wide-eyed and full of questions, she notices the small things everyone else walks past. She thinks every squirrel has a secret.
+    story: Fen loves the mushroom houses and measures them every spring to see how much they have grown. She carries flour for Rosa in exchange for buns and follows Bertie around his work, hoping he will let her fit a window one day.
+
+  - id: orin
+    name: Orin
+    title: Retired Woodcutter
+    role: resident
+    place: Kaldemor Park
+    age: elder
+    game: orin
+    personality: Slow, warm and a little deaf, he tells the same stories over and over and enjoys them more each time. He still judges every tree he sees by how it would fall.
+    story: Orin felled trees for forty winters and now counts them from his bench in the Park. He says the treehouse was a sapling when his grandfather was a boy, and nobody has the heart to argue. He and Wren have been married for more than fifty years.
+
+  - id: wren
+    name: Wren
+    title: Orin's Wife
+    role: resident
+    place: Kaldemor Park
+    age: elder
+    game: wren
+    personality: Gentle, patient and gently teasing, she never tires of Orin's stories, though she tells him when he is shouting. Her knitting needles are never still.
+    story: Wren knits caps for every child in Kaldemor, and some of them even wear them; her granddaughter Nell never takes hers off. She spends her afternoons in the Park beside Orin, because the Park is nicest in the afternoon.
+
+  - id: garrick
+    name: Garrick
+    title: The Climber
+    role: adventurer
+    place: Kaldemor Park
+    age: adult
+    game: garrick
+    personality: Easygoing, odd and fond of a good saying, he is happiest anywhere higher than everyone else. He thinks up is just a direction.
+    story: Garrick lives up on a ledge above the Park fountain, where fewer people ask him what he is doing. He teaches Rope Up to anyone who has climbed to the lookout on Kaldemor Hills, and he has climbed the clock tower more often than Ewan would like.
+
+  - id: hob
+    name: Hob
+    title: Miller
+    role: worker
+    place: Kaldemor Park
+    age: adult
+    personality: Easygoing and dusty from head to toe, he whistles along with the creak of the sails. He worries about the weather the way other people worry about money.
+    story: Hob runs the windmills in the Park and grinds the flour for half the town, Rosa's oven first of all. He is Orin and Wren's son, and the only woodcutter's child in Kaldemor who never wanted to swing an axe.
+
+  - id: meg
+    name: Meg
+    title: Snail Hunter
+    role: adventurer
+    place: Kaldemor Park
+    age: young
+    personality: Cocky, quick and brave a step past sensible, she keeps a running count of every snail she has beaten and adds a few. Underneath the boasting she cares a great deal about the farms.
+    story: Meg hunts the meadow for Hale's bounty and scouts the edge of the woods for him when he is busy. She has been out past the hills further than she has admitted to anyone, and she swears the ground shook under her feet.
+
+  - id: digby
+    name: Digby
+    title: Gauntlet Hopeful
+    role: adventurer
+    place: Kaldemor Park
+    age: young
+    personality: Earnest, clumsy and impossible to discourage, he gets up from every fall grinning. He believes hard work beats talent, and he has had to.
+    story: Digby was a farmhand for Wilbur until he decided to become a warrior, and he still helps with the harvest. He has failed Quill's hanging course eleven times and means to pass it before the leaves turn.
+
+  # ----------------------------------------------------------------------- Farms
+  - id: wilbur
+    name: Wilbur
+    title: Farmer
+    role: worker
+    place: Farms
+    age: adult
+    personality: Big, cheerful and stubborn as a turnip, he loves his fields and talks to his pumpkins. He takes the snails personally.
+    story: Wilbur grows pumpkins, turnips and beans on the biggest farm east of the square, and sells most of it to Old Marta. The snails ate his prize pumpkin the week before last year's fair, and he has sworn it will not happen again.
+
+  - id: hattie
+    name: Hattie
+    title: Beekeeper
+    role: merchant
+    place: Farms
+    age: adult
+    sells: Honey, beeswax and candles
+    personality: Sunny, calm and hard to sting, in either sense. She talks softly, so the bees and her son both listen.
+    story: Hattie keeps the hives at the edge of the farms and is married to Wilbur. Her son Tam wants to be a warrior and she wants him to be careful, and she has not yet found a way to want both at once.
+
+  - id: elsie
+    name: Elsie
+    title: Dairy Farmer
+    role: worker
+    place: Farms
+    age: elder
+    sells: Milk, butter and cheese
+    personality: Proud, plain and up before the sun, she has a firm opinion about everything and a name for every cow. She does not believe in fuss.
+    story: Elsie keeps the dairy herd and makes the cheese that has fought Old Marta's pickles at the harvest fair for twenty years. Her cows will no longer graze the far pasture by the woods, and she has never known them to be wrong about anything.
+
+  - id: dottie
+    name: Dottie
+    title: Shepherd Girl
+    role: child
+    place: Farms
+    age: child
+    personality: Small, determined and very fond of her sheep, she counts them twice before bed. She does not like to be told she is too young for anything.
+    story: Dottie minds her grandmother Elsie's sheep on the hills and sells their wool to Winnie the weaver. One of her lambs wandered toward the woods a week ago and has not come back, and she has not told her grandmother yet.
+
+  - id: clem
+    name: Clem
+    title: Orchard Keeper
+    role: worker
+    place: Farms
+    age: young
+    personality: Shy, gentle and happiest up a ladder among the apples. He goes red whenever Lia waves.
+    story: Clem looks after the orchards between the farms and the woods, and Hattie's bees keep his blossoms busy every spring. Something has been gnawing the roots of the trees nearest the woods, and it is not a snail.
+
+  - id: wilf
+    name: Wilf
+    title: Spore Gatherer
+    role: worker
+    place: Farms
+    age: adult
+    sells: Mushroom spores and caps
+    personality: Wiry, wry and happiest in the damp, he knows every mushroom by smell. He grumbles about everything except mushrooms.
+    story: Wilf gathers mushroom spores for Rosa's bread and Bram's potions and grows a few caps behind his cottage. He has just come back from visiting his sister and found the Shrooms in the woods far bolder than before, too bold for him to gather alone.
+
+  # ------------------------------------------------------------------- Workshops
+  - id: alfie
+    name: Alfie
+    title: Head of the Carpenters' Guild
+    role: craftsman
+    place: Workshops
+    age: adult
+    personality: Careful, patient and proud of a square joint, he measures three times and cuts once. He hums when the work is going well and goes silent when it is not.
+    story: Alfie leads the town's carpenters and keeps the great treehouse and the clock tower stairs in good repair. While mending an old beam in the treehouse he found a carving nobody can explain, and he has told only Ewan about it.
+
+  - id: archie
+    name: Archie
+    title: Carpenter's Apprentice
+    role: craftsman
+    place: Workshops
+    age: young
+    personality: Eager, careless and full of big ideas, he starts three things before finishing one. He is very good at saying sorry.
+    story: Archie is Alfie's apprentice and dreams of building a treehouse even taller than the great one. He cracked a rung on the clock tower ladder last spring and has been too afraid of Ewan to own up.
+
+  - id: bertie
+    name: Bertie
+    title: Mushroom House Shaper
+    role: craftsman
+    place: Workshops
+    age: elder
+    personality: Twinkly, unhurried and full of riddles, he treats every mushroom house like an old friend. He never measures; he says the mushroom tells him.
+    story: Bertie hollows out the town's mushroom houses and fits them with doors, windows and new rooms as they grow each spring. He has been doing it for fifty years and lets young Fen carry his tools. His granddaughter Daisy paints the houses he shapes.
+
+  - id: daisy
+    name: Daisy
+    title: House Painter
+    role: craftsman
+    place: Workshops
+    age: young
+    personality: Lively, messy and never seen without paint on her nose, she thinks no colour is too bright. She is cheerfully deaf to compliments.
+    story: Daisy paints the mushroom houses that her grandfather Bertie shapes, and half the shutters in Kaldemor. She has no idea that Jem has been writing her a song for a year, or she pretends not to.
+
+  - id: mabel
+    name: Mabel
+    title: Potter
+    role: craftsman
+    place: Workshops
+    age: adult
+    sells: Pots, jugs and bowls
+    personality: Calm, practical and good with her hands, she can tell what a pot is for before it leaves the wheel. She laughs from the belly.
+    story: Mabel throws the pots, jugs and bowls of Kaldemor, including the crocks Old Marta keeps her pickles in. She is married to Hob the miller and is Nell's mother, and she has long given up calling Nell in from the clouds.
+
+  - id: percy
+    name: Percy
+    title: Wheelwright
+    role: craftsman
+    place: Workshops
+    age: adult
+    personality: Methodical, gloomy in a comfortable way and secretly very kind, he expects every wheel to break and is glad when it does not.
+    story: Percy builds and mends the carts, barrows and the town cab. He has mended more broken wheels from the Royal Road this year than ever, and he does not like the marks on some of them.
+
+  - id: winnie
+    name: Winnie
+    title: Weaver
+    role: craftsman
+    place: Workshops
+    age: adult
+    sells: Wool, cloth and blankets
+    personality: Chatty, warm and always half-listening to her loom, she can weave and gossip at the same time. She keeps a scrap of every cloth she has made.
+    story: Winnie weaves the wool from Dottie's sheep into cloth and blankets and spins yarn for Wren's caps. She has noticed Dottie bringing less wool lately and suspects the girl is keeping a worry to herself.
+
+  - id: ned
+    name: Ned
+    title: Cobbler
+    role: craftsman
+    place: Workshops
+    age: elder
+    sells: Boots and shoes
+    personality: Grumpy, honest and very slow, he will tell you your boots are a disgrace before he mends them beautifully. He does not trust anything that was made in a hurry.
+    story: Ned has made the boots of Kaldemor for fifty years and judges people by how they walk. He and Orin have been friends since they were boys and still argue about who won a race neither of them remembers.
+
+relationships:
+  # families
+  - [orin, wren, husband, wife]
+  - [orin, hob, father, son]
+  - [wren, hob, mother, son]
+  - [hob, mabel, husband, wife]
+  - [hob, nell, father, daughter]
+  - [mabel, nell, mother, daughter]
+  - [orin, nell, grandfather, granddaughter]
+  - [wren, nell, grandmother, granddaughter]
+  - [wilbur, hattie, husband, wife]
+  - [wilbur, tam, father, son]
+  - [hattie, tam, mother, son]
+  - [elsie, dottie, grandmother, granddaughter]
+  - [bertie, daisy, grandfather, granddaughter]
+  - [bess, bram, older sister, younger brother]
+  - [hilda, molly, sister, sister]
+  # sweethearts
+  - [lia, clem, sweetheart, sweetheart]
+  - [jem, daisy, admirer, friend]
+  # work
+  - [tobin, lia, mentor, trusted guide]
+  - [tobin, mildred, mayor, clerk]
+  - [tobin, hale, mayor, ranger]
+  - [mildred, rufus, clerk who writes his notices, town crier]
+  - [alfie, archie, master, apprentice]
+  - [wilbur, digby, former employer, former farmhand]
+  - [quill, digby, drillmaster, recruit]
+  - [hale, meg, mentor, scout]
+  - [hale, quill, old comrade, old comrade]
+  - [wilf, rosa, spore supplier, customer]
+  - [wilf, bram, spore supplier, customer]
+  - [hob, rosa, miller, best customer]
+  - [marta, wilbur, grocer, supplier]
+  - [mabel, marta, potter, customer]
+  - [dottie, winnie, wool supplier, weaver]
+  - [percy, pell, wheelwright, friend and customer]
+  - [gareth, percy, smith, customer]
+  - [jem, molly, fiddler, innkeeper]
+  - [alfie, ewan, friend, friend]
+  - [hattie, clem, neighbour, neighbour]
+  # friends, rivals and others
+  - [rosa, bram, estranged friend, estranged friend]
+  - [tobin, rosa, regular customer, baker]
+  - [tobin, ewan, old friend, old friend]
+  - [tobin, tam, kindly mayor, admirer]
+  - [marta, elsie, old rival, old rival]
+  - [ewan, garrick, exasperated clockkeeper, uninvited climber]
+  - [ewan, archie, clockkeeper, nervous young neighbour]
+  - [quill, tam, hero, would-be pupil]
+  - [rosa, fen, kindly baker, flour carrier]
+  - [bertie, fen, hero, little helper]
+  - [tam, nell, friend, friend]
+  - [tam, fen, friend, friend]
+  - [nell, fen, friend, friend]
+  - [lottie, nell, teacher, pupil]
+  - [lottie, fen, teacher, pupil]
+  - [wren, winnie, friend, friend]
+  - [orin, ned, oldest friend, oldest friend]
+  - [hilda, gareth, neighbour, neighbour]
+  - [meg, digby, rival, rival]

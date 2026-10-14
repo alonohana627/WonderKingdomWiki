@@ -60,6 +60,16 @@ nav:
       - lore/present-day.md
       - lore/principles.md
       - lore/timeline.md
+      - People:
+          - lore/people/index.md
+          - lore/people/selsior.md
+          - lore/people/kaldemor.md
+          - lore/people/midbarium.md
+          - lore/people/fairy-forest.md
+          - lore/people/urbanograd.md
+          - lore/people/cavelor.md
+          - lore/people/bain-harbour.md
+          - lore/people/goa-harbour.md
       - Towns:
           - lore/towns/urbanograd.md
           - lore/towns/selsior.md

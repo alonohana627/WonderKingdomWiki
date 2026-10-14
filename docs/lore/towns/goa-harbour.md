@@ -32,5 +32,8 @@ Goa Harbour is **not Midbarium's port, nor Fairy Forest's**. It has its own peop
 
 Bain Harbour and Goa Harbour are not rivals. Both are peaceful, prosperous parts of Wonder Kingdom, and every summer their sailors race each other all the way around Veligor.
 
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Goa Harbour](../people/goa-harbour.md).
+
 !!! abstract "Design notes"
     New with this page: the shared Savage and Magician camp, the sea wardens and the First Warden, the meaning of the name "Goa", and the summer race with Bain Harbour.

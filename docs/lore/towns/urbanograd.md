@@ -54,5 +54,8 @@ Urbanograd is a full and proud part of Wonder Kingdom. Its people respect the ki
 
 Urbanograd shows that the kingdom's founding promise reaches further than peace between the original four peoples. Wonder Kingdom also welcomes communities that invent entirely new ways of living.
 
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Urbanograd](../people/urbanograd.md).
+
 !!! abstract "Design notes"
     The atmosphere is inspired by MapleStory's Kerning City. Juna Marrow, the Walkers, Old Grad, the Open Charter and the Open Table are new with this page. Still open: where on Veligor Urbanograd lies, and what the city looks like beyond its fortress core.

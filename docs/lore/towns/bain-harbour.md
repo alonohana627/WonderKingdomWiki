@@ -32,5 +32,8 @@ Bain Harbour is **not Selsior's port, nor Kaldemor's**. It is a town in its own 
 
 It lies on the opposite side of the island from [Goa Harbour](goa-harbour.md). The two ports are very different, but they are friends, not rivals, and they hold a friendly boat race between them every summer that goes all the way around Veligor.
 
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Bain Harbour](../people/bain-harbour.md).
+
 !!! abstract "Design notes"
     New with this page: the fishing cove origin, Old Bain, the harbour council, the summer race around Veligor, and sea creatures stirred up by the Disturbance. Still open: which coast Bain Harbour is on.

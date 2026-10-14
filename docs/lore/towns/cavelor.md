@@ -32,5 +32,8 @@ Their duty is a solemn one, but Cavelor is not a gloomy or oppressive place. Its
 
 Cavelor is still very much its own place, but since its rediscovery it has been part of the same united kingdom, and its people are as proud of Wonder Kingdom as anyone on the surface. They just know better than most what it might cost to keep it.
 
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Cavelor](../people/cavelor.md).
+
 !!! abstract "Design notes"
     New with this page: guardians from all four peoples, the Oath Below, the Wardens of the Seal and their ledgers, and the rift being opened days after the expedition reached Cavelor.

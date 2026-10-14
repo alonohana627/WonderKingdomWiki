@@ -50,6 +50,9 @@ Selsior is cheerful, sociable and full of energy. Street performers draw crowds 
 
 Folk from every corner of Wonder Kingdom live side by side in Selsior, and nobody thinks that strange. More than anywhere else, the capital shows what the founding of the kingdom achieved: prosperity, cooperation and a shared identity, with room for every kind of life and ambition.
 
+!!! tip "People"
+    Everyone who lives here in the first release: [People of Selsior](../people/selsior.md).
+
 !!! info "In the game"
     Selsior is in the game today. See [Selsior in the world guide](../../world/index.md#selsior) for its maps, NPCs and shops.
 
