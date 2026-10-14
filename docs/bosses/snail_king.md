@@ -22,20 +22,20 @@ First clear: +50 standing with Kaldemor
 
 Attacks:
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 70 | 380 x 50 | 1 s | 4.5 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 70 | 4.5 s |
 
 ### Phases
 
 **1. The King Wakes** (from the start)
 
-**2. The King Rages** (below 50% HP): Announces "MANO IS ENRAGED!"; Speed 55; touch damage 46; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
+**2. The King Rages** (below 50% HP): Announces "MANO IS ENRAGED!"; moves faster; touch damage 46; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 85 | 420 x 50 | 0.85 s | 3.6 s |
-| Area | Physical | 58 | 170 x 85 | 0.5 s | 2.2 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 85 | 3.6 s |
+| Area | Physical | 58 | 2.2 s |
 
 ### Drops
 
@@ -66,28 +66,28 @@ First clear: +100 standing with Kaldemor
 
 Attacks:
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 100 | 400 x 50 | 0.95 s | 4.2 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 100 | 4.2 s |
 
 ### Phases
 
 **1. The King Wakes** (from the start)
 
-**2. The King Rages** (below 66% HP): Announces "MANO IS ENRAGED!"; Speed 55; touch damage 62; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
+**2. The King Rages** (below 66% HP): Announces "MANO IS ENRAGED!"; moves faster; touch damage 62; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 115 | 440 x 50 | 0.85 s | 3.4 s |
-| Area | Physical | 78 | 180 x 85 | 0.5 s | 2 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 115 | 3.4 s |
+| Area | Physical | 78 | 2 s |
 
-**3. The King's Fury** (below 33% HP): Announces "MANO IS FURIOUS!"; Speed 65; touch damage 70; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
+**3. The King's Fury** (below 33% HP): Announces "MANO IS FURIOUS!"; moves faster; touch damage 70; summons 2 [Red Snail](../monsters/red_snail.md) every 30 s.
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 130 | 580 x 60 | 1.4 s | 7 s |
-| Area | Physical | 115 | 440 x 50 | 0.8 s | 3.4 s |
-| Area | Physical | 78 | 180 x 85 | 0.45 s | 1.9 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 130 | 7 s |
+| Area | Physical | 115 | 3.4 s |
+| Area | Physical | 78 | 1.9 s |
 
 ### Drops
 

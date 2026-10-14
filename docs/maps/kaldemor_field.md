@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
-| Street | Kaldemor |
 | Kind | Hunting |
-| Safety | Field |
 | Level | 1 |
 | Return town | Kaldemor |
 

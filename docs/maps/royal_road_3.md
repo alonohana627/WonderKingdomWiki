@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [The Royal Road](../world/index.md#royal-road) |
-| Street | Royal Road |
 | Kind | Road |
-| Safety | Field |
 | Level | 5 |
 | Return town | Selsior |
 

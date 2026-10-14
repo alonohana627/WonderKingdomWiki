@@ -51,7 +51,7 @@ KIND_NAMES = {
 
 SKILL_COLUMNS = {
     "mp": "MP", "damage": "Damage %", "mobCount": "Targets", "lines": "Hits",
-    "durationMs": "Duration (s)", "rise": "Rise",
+    "durationMs": "Duration (s)",
 }
 
 
@@ -533,8 +533,6 @@ class Wiki:
                 facts.append(["Cooldown", seconds(s["cooldownMs"])])
             if s.get("groundOnly"):
                 facts.append(["Use", "On the ground only"])
-            if s.get("reach"):
-                facts.append(["Reach", s["reach"]])
             if s.get("cancelsInto"):
                 facts.append(["Can cancel into", ", ".join(self.skill(c) for c in s["cancelsInto"])])
             for src in self.skill_sources.get(sid, []):
@@ -546,11 +544,9 @@ class Wiki:
     def skill_levels(self, s):
         columns = []  # (header, formula)
         for k, f in s.get("levels", {}).items():
+            if k not in SKILL_COLUMNS:
+                continue
             columns.append((SKILL_COLUMNS.get(k, k), f, k == "durationMs"))
-        for k in ("travel", "leap"):
-            for kk, f in (s.get(k) or {}).items():
-                if isinstance(f, (str, int)) and kk in ("distance", "up", "forward"):
-                    columns.append((f"{k.title()} {kk}", f, False))
         gives = s.get("gives", {})
         for k, f in gives.get("stats", {}).items():
             columns.append((STAT_NAMES.get(k, k), f, False))
@@ -661,7 +657,6 @@ class Wiki:
             facts.append(["MP", num(m["mp"])])
         facts += [["EXP", num(m["exp"])], ["Touch damage", m["touch"]],
                   ["Defense / Magic Defense", f"{m['defense']} / {m['magicDefense']}"],
-                  ["Speed", m["speed"]], ["Movement", m["movement"].title()],
                   ["Aggressive", "Yes" if m.get("aggressive") else "No"]]
         if m.get("boss"):
             facts.append(["Boss", "Yes"])
@@ -691,9 +686,8 @@ class Wiki:
         return "\n".join(b)
 
     def attack_table(self, attacks):
-        return table(["Kind", "Type", "Damage", "Area (width x height)", "Wind-up", "Cooldown"], [
-            [a["kind"].title(), a["type"].title(), a["damage"], f"{a['range']['width']} x {a['range']['height']}",
-             seconds(a["windupMs"]), seconds(a["cooldownMs"])] for a in attacks])
+        return table(["Kind", "Type", "Damage", "Cooldown"], [
+            [a["kind"].title(), a["type"].title(), a["damage"], seconds(a["cooldownMs"])] for a in attacks])
 
     def drop_table(self, t):
         rows = []
@@ -750,7 +744,7 @@ class Wiki:
                 if ph.get("announce"):
                     lines.append(f"Announces \"{ph['announce']}\"")
                 if ph.get("speed"):
-                    lines.append(f"Speed {ph['speed']}")
+                    lines.append("moves faster")
                 if ph.get("touch"):
                     lines.append(f"touch damage {ph['touch']}")
                 for a in ph.get("abilities", []):
@@ -997,8 +991,7 @@ class Wiki:
 
     def map_page(self, mid, m):
         b = [f"# {m['name']}\n"]
-        facts = [["Region", self.region(m["region"])], ["Street", m["street"]], ["Kind", m["purpose"].title()],
-                 ["Safety", m["safety"].title()]]
+        facts = [["Region", self.region(m["region"])], ["Kind", m["purpose"].title()]]
         if m.get("difficulty"):
             facts.append(["Level", m["difficulty"]])
         if m.get("returnTown"):
@@ -1048,6 +1041,16 @@ class Wiki:
         idx = ["# Professions\n", "Gathering professions take materials from nodes in the fields; making professions turn them into items.\n"]
         idx.append(f"Professions go up to level {p['maxLevel']}. Ranks: " +
                    ", ".join(f"{r['name']} ({r['level']})" for r in p["ranks"]) + ".\n")
+        gaps = []
+        low = 0
+        for g in p["expByLevelGap"]:
+            gaps.append([f"{low}-{g['upTo']}", f"{g['percent']}%"])
+            low = g["upTo"] + 1
+        gaps.append([f"{low} or more", f"{p['expFarBelow']}%"])
+        idx.append("## EXP by level gap\n")
+        idx.append("Gathering a node or making a recipe well below your profession level gives less EXP:\n")
+        idx.append(table(["Your level above the node or recipe", "EXP"], gaps))
+        idx.append("## All professions\n")
         idx.append(table(["Profession", "Kind", "Description"], [
             [self.profession(x["id"]), x["kind"].title(), x["description"]] for x in p["professions"]]))
         self.write("professions/index.md", "\n".join(idx))
@@ -1057,6 +1060,16 @@ class Wiki:
 
     def profession_page(self, x):
         b = [f"# {x['name']}\n", f"*{x['description']}*\n"]
+        e = x["exp"]
+        b.append("## EXP per level\n")
+        b.append(f"EXP to the next level is `{e['base']} + {e['square']} * (L-1)^2 + {e['cube']} * (L-1)^3` at level L.\n")
+        rows, total = [], 0
+        for lv in range(1, self.professions["maxLevel"]):
+            need = e["base"] + e["square"] * (lv - 1) ** 2 + e["cube"] * (lv - 1) ** 3
+            if lv <= 20 or lv % 10 == 0:
+                rows.append([lv, num(need), num(total)])
+            total += need
+        b.append(table(["Level", "EXP to next", "Total EXP to reach"], rows))
         if x.get("perks"):
             b.append("## Perks\n")
             b.append(table(["Level", "Perk", "Effect"], [[k["level"], k["name"], k["text"]] for k in x["perks"]]))
@@ -1154,9 +1167,9 @@ class Wiki:
             for x in self.accomplishments.values()]))
         self.write("systems/accomplishments.md", "\n".join(a))
 
-        w = ["# Weapons\n", "Weapon types and how they hit.\n",
-             table(["Type", "Hands", "Damage multiplier", "Attack time"], [
-                 [x["name"], x["hands"], f"{x['multiplier']:g}", seconds(x["attackMs"])] for x in self.weapons.values()])]
+        w = ["# Weapons\n", "Weapon types and how hard they hit.\n",
+             table(["Type", "Hands", "Damage multiplier"], [
+                 [x["name"], x["hands"], f"{x['multiplier']:g}"] for x in self.weapons.values()])]
         self.write("systems/weapons.md", "\n".join(w))
 
         st = self.statuses

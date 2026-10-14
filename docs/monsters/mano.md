@@ -10,16 +10,14 @@
 | EXP | 2,000 |
 | Touch damage | 38 |
 | Defense / Magic Defense | 12 / 12 |
-| Speed | 35 |
-| Movement | Walk |
 | Aggressive | Yes |
 | Boss | Yes |
 
 ## Attacks
 
-| Kind | Type | Damage | Area (width x height) | Wind-up | Cooldown |
-|---|---|---|---|---|---|
-| Area | Physical | 70 | 380 x 50 | 1 s | 4.5 s |
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 70 | 4.5 s |
 
 ## Boss fight
 

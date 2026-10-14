@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [Selsior](../world/index.md#selsior) |
-| Street | Selsior |
 | Kind | Town |
-| Safety | Town |
 
 ## Exits
 

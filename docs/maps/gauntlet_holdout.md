@@ -5,9 +5,7 @@
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
-| Street | Kaldemor Gauntlet |
 | Kind | Run |
-| Safety | Field |
 | Level | 3 |
 | Return town | Kaldemor |
 

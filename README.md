@@ -24,3 +24,10 @@ mkdocs build --strict             # what to run before committing
 
 The generator also rewrites the `nav:` block at the end of `mkdocs.yml`, so add
 new lore pages under `docs/lore/` and rerun it to put them in the navigation.
+
+## Publishing
+
+Every push to `main` builds the site with `mkdocs build --strict` and publishes
+it to GitHub Pages (`.github/workflows/pages.yml`). Pull requests run the same
+build without publishing. The workflow builds the committed pages; rerun
+`tools/generate.py` locally and commit when the game data changes.

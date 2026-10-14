@@ -11,11 +11,10 @@
 | Kind | Rise |
 | Max level | 1 |
 | Cooldown | 1.5 s |
-| Reach | 80 |
 | Gained from | Quest: [A Head for Heights](../quests/a_head_for_heights.md) |
 
-| Level | MP | Rise |
-|---|---|---|
-| 1 | 10 | 320 |
+| Level | MP |
+|---|---|
+| 1 | 10 |
 
-Formulas (x is the skill level, division rounds down): MP = `10`, Rise = `320`
+Formulas (x is the skill level, division rounds down): MP = `10`
