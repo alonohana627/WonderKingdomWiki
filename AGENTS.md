@@ -35,3 +35,30 @@ palettes, music.
 python tools/generate.py
 mkdocs build --strict
 ```
+
+## Story direction (for writers, not shown on the wiki)
+
+These guide how lore and quests are written. They are not wiki pages.
+
+**The player's place.** The player character is a native of Wonder Kingdom,
+born and raised there. They are not an outsider and never have to earn
+acceptance; the kingdom is their home. They start as one of the peaceful
+generation that inherited the founders' work. They explore Veligor's towns,
+wilds, caves, forests, mountains and ancient places, fight monsters stirred up
+by the weakening seal, meet every community and learn its traditions. Many
+stories are local and have nothing to do with the Balrog; the threat sits
+inside a living world rather than defining all of it. As they progress they
+uncover the deeper past (the founding, the ancient battle, the World Tree, the
+Great Expedition, the guardians of Cavelor) and finally what the damaged seal
+means. Undecided: the exact story progression, quest structure and the
+player's final role against the Balrog.
+
+**The central narrative.** The story is about unity, peace and each
+generation's duty to protect what the last one built. The first generation
+beat the Balrog only by overcoming its divisions, and founded the kingdom. The
+current generation is already united; what it inherited is the duty to keep
+the Balrog imprisoned. The expedition's accident has been wearing down the
+founders' protections, and the monsters are the first sign. The conflict is
+not about rebuilding a broken society but about protecting a good, peaceful
+civilization from an ancient danger that is returning. The kingdom is worth
+protecting because it is genuinely good.

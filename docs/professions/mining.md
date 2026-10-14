@@ -52,4 +52,4 @@ EXP to the next level is `24 + 1 * (L-1)^2 + 0 * (L-1)^3` at level L.
 |---|---|---|---|---|---|---|
 | Copper Vein | 1 | [Copper Ore](../items/copper_ore.md) | 1-2 | 6 | 75 s | [Kaldemor Field](../maps/kaldemor_field.md), [Kaldemor Hills](../maps/kaldemor_hills.md), [Kaldemor Woods](../maps/kaldemor_woods.md), [Greenwood Clearing](../maps/greenwood_clearing.md) |
 | Bronze Vein | 5 | [Bronze Ore](../items/bronze_ore.md) | 1-2 | 14 | 90 s | [Kaldemor Hills](../maps/kaldemor_hills.md), [Kaldemor Woods](../maps/kaldemor_woods.md), [Greenwood Clearing](../maps/greenwood_clearing.md) |
-| Iron Vein | 10 | [Iron Ore](../items/iron_ore.md) | 1-2 | 28 | 750 s | [Kaldemor Woods](../maps/kaldemor_woods.md), [Greenwood Clearing](../maps/greenwood_clearing.md) |
+| Iron Vein | 10 | [Iron Ore](../items/iron_ore.md) | 1-2 | 28 | 75 s | [Kaldemor Woods](../maps/kaldemor_woods.md), [Greenwood Clearing](../maps/greenwood_clearing.md) |
