@@ -1,0 +1,25 @@
+Ysmay is seventy, a retired sea warden, and the mother of Iska, the First Warden of Goa Harbour. She is sharp as a hook and twice as stubborn. She lives in a narrow stone house near the top of the Cliff Stairs, and from its one good window she can see the whole length of the inlet down to the gap. She spends most of the day at that window, and she has an opinion about every pilot who takes a ship through. The opinion is usually unkind and nearly always correct.
+
+### Forty years on the water
+
+Ysmay grew up on the Inlet Quay and went out with the pilots as soon as anyone would let her into a boat. She became a sea warden at twenty and stayed one for forty years, until her eyes and her back told her, ten years ago, that a warden who cannot see the far eddy in the rain has no business in the gap. For all forty of those years Varro worked beside her. They have shouted at each other across a deck in a gale more times than either can count, and they are the oldest friends either of them has. These days she criticises the pilots from her window and he criticises them from the end of the quay, and they compare notes.
+
+She never wanted to be First Warden. She was asked to stand more than once, and each time she said the same thing: that a First Warden spends her days at a table, and Ysmay wanted the water. Nobody who knows her believes that is the whole reason, and nobody has ever got the rest of it out of her.
+
+### Iska
+
+Ysmay married Lorn, a deckhand on the coastal trading ships, when she was young. He was lost overboard in a winter gale when Iska was five, and Ysmay, a warden with a small child and no one at home to mind her, simply took the girl down to the quay with her every day. That was how Iska came to be on the water so young, and how Varro came to start teaching her when she was seven. Ysmay let him. She says it was because she was busy. The truth is that she knew she would have been too hard on her own daughter, and Varro would be exactly hard enough.
+
+When the wardens chose Iska as First Warden seven years ago, Ysmay was not in the room, because retired wardens are not. She was at her window. She saw Varro come out of the Wardens' House and look up at the cliff, and she knew. She is fiercely proud of her daughter and tells everyone in Goa Harbour so, except Iska, to whom she mostly gives advice. Iska finds this both touching and slightly alarming, which suits Ysmay perfectly.
+
+### Family at the window
+
+Ysmay thinks Dunmor, her son-in-law, is far too soft. She also says he is the best thing that ever happened to her daughter, though never where Iska can hear. Her grandson Arlo is her favourite person in the world. He comes up the stairs to sit at her window, and she tells him exactly what every pilot below is doing wrong while he writes the best of it down. He checks her complaints against what Varro says on the quay. Usually they agree, and both old wardens are delighted every time he tells them so.
+
+### What she sees
+
+Lately the pilots have been taking the gap on lines Ysmay would never have chosen, swinging wide where the old eddy used to be and then correcting late. She has been blaming them for it loudly, because that is easier than the other possibility: that they are not wrong, and the water has moved. Varro has not argued with her about it, which worries her more than anything he could have said.
+
+### Hooks
+
+A quest might carry one of Ysmay's sharp notes down to a pilot who has earned it, help Arlo check her complaints against the tide, or sit at her window through a night watch to see what she has seen moving in the gap after dark.

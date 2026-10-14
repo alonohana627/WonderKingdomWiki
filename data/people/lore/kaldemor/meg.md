@@ -1,0 +1,27 @@
+"One thousand, four hundred and twelve," says Meg, before anyone has asked. That is her count of snails beaten, and it goes up by a few every time she says it, whether or not she has been out to the meadow in between. She is eighteen, small, quick and sunburnt, with a short sword she keeps sharper than it needs to be and a hunter's habit of never quite standing still. She is cocky, she is brave a step past sensible, and she would very much like you to know both. What she would rather you did not notice is how much she cares about the farms.
+
+### The holding at the meadow's edge
+
+Meg was born on a small holding at the far edge of the meadow, east of the town square, where her parents grew turnips and kept geese on land that was always a little too close to the snails. She learned to swing a stick before she could spell her name, mostly at snails, and by the time she was twelve she was the one her father sent out at dusk to clear the rows. The snails grew thicker every year. Two years ago, after a spring when they ate three plantings in a row, her parents gave up the holding and went east to live with relatives in the countryside past the end of the Royal Road. They are well, and they write, and they play no part in her days. Meg was sixteen. She refused to go. She said someone had to stay and pay the snails back, and she has been doing it ever since.
+
+She rents the loft of the old seed shed by the windmills in the Park, and she eats wherever someone will feed her, which in Kaldemor is most places.
+
+### The Gauntlet and the fountain
+
+Meg ran Quill's Gauntlet last summer and passed the hanging course on her first try, ropes, swinging logs and all, which nobody in the Park had seen done before. Quill said nothing at all, which she knows is how he says well done. That same afternoon, still glowing, she walked along the rim of the Park fountain on her hands to show the recruits how it was done, and fell in. Garrick saw it from his ledge above the fountain and applauded. Digby saw it too, and Digby has never let her forget it, any more than she lets him forget the hanging course, which he has now failed eleven times.
+
+They needle each other at every turn. She calls him the farmer; he calls her the fish. Neither of them would admit that she has, at least once, followed him home from the meadow at a distance to make sure he got there, or that he has done the same for her.
+
+### Hale's scout
+
+Meg hunts the meadow for Hale's bounty, thirty snails at a time, and scouts the edge of the woods for him when he is busy. Hale has never told her she is good, because she would never stop saying it, but he sends her where he would not send anyone else, and she knows exactly what that means. She would walk into the woods past the hills for him without a second thought. She already has, further than she has admitted to anyone.
+
+This spring, before anyone in town had heard of the Snail King, she went past the hills and through the woods to where the trees thin out on the far side, simply to see what was there. Standing in a clearing beyond the woods, she felt the ground shake under her feet. It was not the grinding sound Hale later described, a cart of stone tipped out, but a long low shudder, as if something far below had turned over in its sleep. She ran all the way home and told no one. She is not sure, now, whether she was frightened of what she felt or of being told off for going there.
+
+### What she wants and fears
+
+Meg wants the meadow cleared, the farms safe and her parents' holding back under turnips one day. She wants Hale to say she is good, once, out loud, and she would die rather than ask him to. She fears the shudder she felt past the woods, and fears more that she ran from it.
+
+### Hooks
+
+Meg means to go back past the woods and find out what shook the ground, and she would rather take a traveller than go alone, though she will put it as a dare. Another quest might begin when Hale, who has noticed more than she thinks, asks a traveller to follow her quietly and make sure she comes home.

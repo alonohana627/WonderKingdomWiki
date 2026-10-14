@@ -1,0 +1,31 @@
+Wilbur is big, cheerful and as stubborn as a turnip, and he would take that as a compliment. He is forty-three, sunburnt from April to October, with hands like spades and a laugh that carries across three fields. He grows pumpkins, turnips and beans on the biggest farm east of the square, and he loves every row of it. He talks to his pumpkins. He says they grow better for it, and nobody in Kaldemor has ever been able to prove him wrong.
+
+### The farm
+
+The farm has been in Wilbur's family for four generations. His father Amos worked it before him, and Amos's mother before that, and Wilbur grew up in the farmhouse kitchen with mud on his boots and a pumpkin seed in every pocket. Amos died nine years ago, the autumn Wilbur's boy Tam was born, and Wilbur has run the farm alone since, with his wife Hattie and whatever farmhands he can find at harvest.
+
+He sells most of what he grows to Old Marta at the Market. Marta is the only person in Kaldemor who frightens him. She squeezes his turnips, scolds him about his beans and pays him fairly, and every year she slips something extra into his basket for Tam, and every year she pretends she did not. Wilbur has been selling to her for more than twenty years and considers the arrangement one of the great friendships of his life, though he would never say so in her hearing.
+
+### Hattie and Tam
+
+Wilbur married Hattie the beekeeper eleven years ago. Her hives stand at the edge of his fields, and he says the bees did the courting for him: they kept his bean flowers so busy that summer that he had to go round and thank her, and kept going round to thank her until she married him. Hattie is calm and softly spoken where Wilbur is loud, and between them they have found most of the answers a farm needs.
+
+Their son Tam is nine and means to be a warrior. Wilbur thinks this is splendid. Hattie wants the boy to be careful, and Wilbur wants him to be brave, and they have had more quiet talks about it at the kitchen table than Tam knows. Wilbur has started to suspect that his wife is right, which worries him, because she usually is.
+
+### The snails
+
+Wilbur takes the snails personally. Last year he grew the finest pumpkin of his life, a great orange thing he had talked to every morning since it was the size of his fist, and he meant it to take first prize at the harvest fair. The week before the fair, the snails got into the patch overnight and ate a hole in it big enough for Tam to put his head through. Tam did. Wilbur has sworn it will not happen again. This year's prize pumpkin sleeps under a net, with a ring of crushed shell around the patch, and Tam patrols the rows every morning with his stick. Wilbur has been known to sit up with a lantern.
+
+He has also noticed that the snails are thicker in his fields than they have ever been, and bolder, and that they come from the direction of the meadow in lines, almost as if something were driving them. He has said this to Hale, who nodded and said nothing, which Wilbur did not find reassuring.
+
+### Digby
+
+For four years Wilbur's best farmhand was Digby, an earnest, clumsy young man who came to Kaldemor from a smallholding further east with nothing but a willingness to work. Last year Digby decided to become a warrior instead, and Wilbur gave him his blessing and a good pair of boots from Ned. Digby still comes back to help at harvest, and Wilbur still pays him, whether he likes it or not. Wilbur thinks Digby will pass Quill's hanging course one day out of pure stubbornness, and he should know.
+
+### What he wants and fears
+
+Wilbur wants the prize at this autumn's fair, a good harvest for the carts that go down to the harbour, and his boy to grow up whole. He fears losing the crop to the snails, and, more lately, he fears what drives them.
+
+### Hooks
+
+A traveller might be asked to guard the prize pumpkin through the last night before the harvest fair. Or Wilbur, who never asks for help, might ask for it the morning he finds a trail across his fields too broad to have been left by any ordinary snail.

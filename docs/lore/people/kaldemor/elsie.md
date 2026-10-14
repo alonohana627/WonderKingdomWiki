@@ -16,9 +16,35 @@
 
 Proud, plain and up before the sun, she has a firm opinion about everything and a name for every cow. She does not believe in fuss.
 
-## Story
+## Lore
 
-Elsie keeps the dairy herd and makes the cheese that has fought Old Marta's pickles at the harvest fair for twenty years. Her cows will no longer graze the far pasture by the woods, and she has never known them to be wrong about anything.
+Elsie is up before the sun, and she would like to know why you are not. She is seventy-two, square-built and weathered, proud, plain and blunt, with forearms like a blacksmith's from sixty years of churning, and a firm opinion about everything from the weather to the proper thickness of a cheese rind. She does not believe in fuss. She keeps the dairy herd on the farm at the edge of Kaldemor's fields, and she has a name for every cow she has ever owned and can still tell you most of them.
+
+### The dairy
+
+Elsie was born on the same farm she keeps now, the daughter of a dairyman and his wife, who taught her to milk at five and to make cheese at nine. She married Walt, a hedge-layer with a laugh like a cart going over cobbles, and they kept the dairy together for nearly forty years; he died fifteen years ago, and she ran it alone after that, without asking anyone for help and without anyone daring to offer. Her cheese is hard, pale and sharp, wrapped in cloth and kept in the cool back room of the farmhouse, and it is, in her opinion and in the opinion of most of Kaldemor, the best on Veligor. Her butter goes to Rosa's oven. Her milk goes to half the kitchens in town. The cows are called Bluebell, Hepzibah, Old Moll, Clover, Martha the Second and so on, through all fourteen of them, and Elsie talks to each one by name at the morning milking.
+
+### Old Marta
+
+For twenty years, Elsie's cheese and Old Marta's pickles have fought for first prize at the harvest fair. Every autumn the judges go pale. Every autumn, one of the two old women wins, and the other says it was the judges' fault. Elsie keeps count of the years she has won; so, she is quite certain, does Marta, and neither of them has ever once agreed with the other's number. They have not said a civil word to each other at a fair in twenty years. They are, in the eyes of the rest of the Market, the closest of friends, and both would be appalled to hear it. When Elsie was ill one winter, a jar of Marta's best pickles appeared on her doorstep with no note. Elsie knows exactly who left it and has never mentioned it, and the next autumn she made her sharpest cheese in years, out of gratitude.
+
+### Dottie
+
+Elsie's only daughter, Hyacinth, and Hyacinth's husband, Tom, died of a winter fever eight years ago, and Elsie took their little girl, Dottie, who was two. It was the hardest winter of her life, and she got through it the only way she knew: she got up before the sun and milked the cows. Dottie is ten now, and so like her grandmother that the farm hands say they are the same woman at both ends of her life. Three years ago, when Elsie's knees finally gave up the hills, she gave Dottie the sheep. She has never once regretted it.
+
+She has noticed, this past week, that Dottie counts the flock aloud at bedtime a little too loudly, and goes out every evening toward the woods. Elsie has not asked. She is waiting for the girl to tell her, because that is what she would have wanted at that age, and because she does not believe in fuss. It is costing her more than she shows.
+
+### The cows
+
+This spring, Elsie's cows stopped grazing the far pasture by the woods. They will go to the gate, look across at the good grass, and turn back, every one of them, even Old Moll, who has never refused grass in her life. Elsie has driven them there twice; twice they have come home on their own, lowing, without being told. She has never known her cows to be wrong about anything, not weather, not water, not who is a bad sort. She has not said much about it. She has stopped sending Dottie's sheep that way, though, and she has told Hale, who nodded.
+
+### What she wants and fears
+
+Elsie wants a good milk, a dry hay harvest and, just once more, the fair's first prize with Marta standing close enough to see it. She fears what her cows know. She fears even more, though she would never say it, that she will not see Dottie grown, and that the farm will be too much for the girl alone.
+
+### Hooks
+
+A traveller might be asked to bring back a cow that, for the first time, has wandered toward the far pasture instead of away from it, and to find out what is calling it. Or Elsie might need a rare herb from the woods' edge for this year's prize cheese, and refuse, out of pure pride, to admit to Marta that she cannot fetch it herself.
 
 ## Relationships
 

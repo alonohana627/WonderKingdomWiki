@@ -23,6 +23,8 @@ import yaml
 WIKI = Path(__file__).resolve().parent.parent
 DATA = WIKI / "data" / "people"
 OUT = WIKI / "docs" / "lore" / "people"
+LORE = DATA / "lore"
+MIN_LORE_WORDS = 400
 GAME_NPCS = WIKI.parent / "GameLib" / "games" / "wonder_kingdom" / "content" / "npcs"
 
 ROLES = {
@@ -62,6 +64,34 @@ class Registry:
         self.check_offices()
         self.check_family_ties()
         self.check_game()
+        self.read_lore()
+
+    def read_lore(self):
+        """data/people/lore/<town>/<id>.md: the long lore of every NPC who is not a menu NPC."""
+        self.lore: dict[str, str] = {}
+        missing = []
+        for nid, n in self.npcs.items():
+            path = LORE / n["town"] / f"{nid}.md"
+            if n.get("menu"):
+                if path.exists():
+                    self.err(f"{nid}: menu NPCs have no lore file ({path.relative_to(WIKI).as_posix()})")
+                continue
+            if not path.exists():
+                missing.append(nid)
+                continue
+            text = path.read_text(encoding="utf-8").strip()
+            words = len(re.findall(r"[A-Za-z0-9'’-]+", text))
+            if words < MIN_LORE_WORDS:
+                self.err(f"{nid}: lore has {words} words, needs at least {MIN_LORE_WORDS}")
+            if re.search(r"^#{1,2} ", text, re.M):
+                self.err(f"{nid}: lore may only use ### headings or none")
+            self.lore[nid] = text
+        if LORE.exists():
+            for path in LORE.rglob("*.md"):
+                if path.stem not in self.npcs or path.parent.name != self.npcs[path.stem]["town"]:
+                    self.err(f"{path.relative_to(WIKI).as_posix()}: no NPC {path.stem} in {path.parent.name}")
+        if missing:
+            self.err(f"{len(missing)} NPCs still need lore, for example {', '.join(missing[:5])}")
 
     def err(self, msg):
         self.errors.append(msg)
@@ -213,7 +243,9 @@ class Registry:
             facts.append(["In the game", f"[{n['name']}](../../../npcs/{n['game']}.md)"])
         out += ["|  |  |", "|---|---|"] + [f"| {a} | {b} |" for a, b in facts] + [""]
         if not n.get("menu"):
-            out += ["## Personality\n", f"{n['personality'].strip()}\n", "## Story\n", f"{n['story'].strip()}\n"]
+            out += ["## Personality\n", f"{n['personality'].strip()}\n"]
+            lore = self.lore.get(nid)
+            out += ["## Lore\n", f"{lore}\n"] if lore else ["## Story\n", f"{n['story'].strip()}\n"]
         rel = self.rels.get(nid)
         if rel:
             out.append("## Relationships\n")

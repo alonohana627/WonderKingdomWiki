@@ -15,9 +15,33 @@
 
 Booming, sociable and fond of a wager. He knows every bend of the river and every tavern on it.
 
-## Story
+## Lore
 
-Lucan runs barges of grain, stone and timber up and down the river. River travel has become popular now that the roads are dangerous, and he cannot hire bargehands fast enough.
+Lucan is forty-six, a bargemaster of the Riverside, and you can hear him coming round the bend before you see his barge. He has a voice built for shouting across water, and he uses it for everything: greeting every landing he passes, hailing Osmund's ferry, ordering his bargehands about, and telling the whole riverbank what odds he will give that the rain holds off till noon. He is booming, sociable and fond of a wager, and he knows every bend of the river and every tavern on it, and he is not entirely sure which he knows better.
+
+### Born on the water
+
+He was born on a barge, or so he says, and nobody on the river has ever been able to prove otherwise. His father was a bargehand who worked other men's boats all his life, and Lucan grew up sleeping on grain sacks and learning the river from the deck: where the shoals shift after a flood, which banks undercut, where the current will take a heavy barge sideways if you let it. His father died when Lucan was twenty, and his mother, who kept a tavern kitchen at one of the river landings, not long after. Lucan has no brothers or sisters. By twenty-five he had saved enough, and won enough, to buy his first barge, and he has never worked another man's boat since.
+
+He now runs three barges, carrying grain, stone and timber up and down the river: grain to Hereward's great mill and the city's bakers, stone from the quarries upstream for the builders of Selsior, timber for the carpenters and the boatyards. He is fond of saying that half of Selsior was carried into it on his decks, and he is only exaggerating a little.
+
+### Friends and wagers
+
+His oldest friend is Bennet, the boatwright, who built two of his three barges and mends all of them. Bennet is patient, wry and proud of his joinery, and he can tell a boat's age by knocking on it. Lucan likes to say that Bennet's barges are the only things on the river he would never bet against. They have a standing wager, older than either will admit, about which of them will retire first, and the stake has grown so large and so strange over the years that neither of them can now remember what it is.
+
+Bennet is designing a faster barge for the river trade and needs someone brave enough to test it. Lucan has told him, loudly and in front of witnesses, that he will happily bet on it but will not be standing on it, and Bennet has not stopped reminding him of it.
+
+### The river trade
+
+River travel has become popular now that the roads are dangerous. Merchants who used to send their goods by cart now send them by water, and passengers who used to walk now ask to ride on top of the cargo. Lucan has never had so much work, and he cannot hire bargehands fast enough to carry it. The ones he has are tired, and some of them are frightened. Aldith the herb wife has treated one of his hands for a bruise on the leg in the shape of something that gripped him, and two more have left for safer work in the city.
+
+So Lucan employs Tristan, the river scout, who walks the banks ahead of the barges and warns them where creatures lurk. Tristan is quiet and quick and would rather track a beast than fight it, and Lucan trusts him completely, which is the only thing on the river he does not make a wager on. He pays Tristan well and listens to every word he says, even the words he would rather not hear.
+
+### What he wants and fears
+
+Lucan wants the river busy, his barges full and his crews whole. What he fears is the stretch of water Tristan has started asking him to pass at speed, without explaining why.
+
+A quest might begin with Lucan needing hands for a barge that must sail tonight, whatever the river is doing, or with a wager he has made with a stranger in a riverside tavern that he is now very much afraid of winning.
 
 ## Relationships
 

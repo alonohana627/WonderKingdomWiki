@@ -1,0 +1,27 @@
+Dunstan is seventy-four and has built more hulls than anyone alive in Bain Harbour. He is the master shipwright, he speaks for the shipwrights on the harbour council, and he has been the master of the shipyard for forty years. He is gruff, stubborn and secretly sentimental. He talks to the ships he builds, and he claims they answer, and after an hour in his yard you may start to believe him.
+
+### Sixty years of hulls
+
+Dunstan came to the shipyard at fourteen as an apprentice to old Master Garth, who had been building ships there since before anyone could remember, and who taught him that a hull is shaped by the sea before it is shaped by the shipwright. When Garth died, Dunstan took the yard. He has built fishing boats, coasting traders, ferries, the Harbour Watch's launch and a good share of the ships that trade from the harbour today. He can tell you which of them is sound, which is vain, and which sulks in a following sea, and he will.
+
+He married Senara, a fisherman's daughter with a gift for lettering, and for over thirty years she painted the names on his hulls in curling gold. She died nine years ago. Dunstan has not talked about it since, except to the ships. Their son, Alwyn, paints the names now, in his mother's hand, and Dunstan checks every letter and never finds fault.
+
+### The old designs
+
+Dunstan believes the old designs were good enough for Old Bain, and he says so whenever his son raises the matter of the deep water. Alwyn wants thicker planking and deeper keels for the ships that work past the headland. Dunstan wants to know what was wrong with the hulls that have carried this harbour for a hundred years. The truth, which he would not admit under torture, is that he has been out to look at the scrapes on the hulls that come back from the deep water, and he did not like what he saw. He is not ready to say that the sea has changed. Saying it would mean that he can no longer promise the crews that his ships will bring them home.
+
+His apprentice, Peregrine, is in his second year and full of ideas, about one in ten of them good. Dunstan has a plan for Peregrine's ideas: he lets the boy talk until he runs out of breath, then puts him to work planing. He has not looked at Peregrine's faster hull. He knows that if he looks at it, he might have to admit it is good.
+
+### The race boat
+
+Dunstan has built Bain Harbour's race boat for as long as anyone on the council can remember, and Quenna has skippered his boats for fourteen summers. This summer he is building a new one, the eighth race boat of his life, and he will not let anyone see the plans, not even Quenna, who will sail her. He keeps the drawings rolled in an oilcloth under his bed. Tegan is sewing the sails in secret to measurements he gave her on a scrap of paper, and he will not tell even her what the hull looks like.
+
+He still has not forgiven the mast that broke in the squall twenty-two years ago, when Bain Harbour's boat had to be towed clear by Goa Harbour's and the race was declared void. He built that mast. He has built every race mast since with a little more timber in it than he strictly needs.
+
+### Family
+
+His grandson Kit is his shadow, and Dunstan pretends this is a nuisance. His granddaughter Poppy draws his ships, and he has every drawing. He has no idea that Kit has carved his name inside the new hull, but if he found out he would be prouder than he could stand.
+
+### Hooks
+
+A quest might fetch a particular timber Dunstan insists on for the new keel, or find out who has been seen trying to peek into the shipyard after dark, wanting a look at the plans.

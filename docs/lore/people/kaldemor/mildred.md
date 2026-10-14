@@ -15,9 +15,37 @@
 
 Neat, dry and exact, she has never misspelled a name in the town ledger. Her rare smile is worth waiting for.
 
-## Story
+## Lore
 
-Mildred keeps the town's ledgers, the mayor's letters and the list of every family in Kaldemor. She has counted the town more carefully than Tobin ever has, and she quietly worries about what will happen to Kaldemor on the day he decides to rest.
+Mildred's desk stands in the little office on the ground floor of the great treehouse, where the light is good in the morning and the mayor can be found in the afternoon, if he can be found at all. She is fifty-seven, neat, dry and exact, with grey hair pinned so firmly that it has not moved in thirty years and a pen she wipes after every line. She has never misspelled a name in the town ledger. Not once. She has a smile, but it is rare, and people in Kaldemor who have earned it tend to mention it at supper.
+
+### The ledgers
+
+Mildred keeps the town's books: the ledgers of the town purse, the mayor's letters, the records of the harvest carts and the fair, and, most precious of all, the list of every family in Kaldemor. It is a long book bound in green leather, and every birth, marriage, death, arrival and departure in the town goes into it in her small upright hand. When Digby walked in from the east at fourteen, Mildred wrote him in. When Archie arrived on his father's timber cart and refused to leave, Mildred wrote him in, and then, after a pause, wrote his father's name beside his so that somebody would know where the boy belonged. She writes in the newcomers, the young adventurers who stay, and the snail hunters who move into lofts and sheds, and she crosses out no one without a reason written next to them.
+
+She was born in Kaldemor, the only child of a schoolmaster's assistant and a seamstress, both dead now, and she has never married. She came to the treehouse office at twenty-four as assistant to old Pomfrey, the clerk in the last years of Mayor Hettie, and when Pomfrey's eyes failed seven years later she took the pen. That was twenty-six years ago, four years into Tobin's time as mayor, and she has kept his books ever since.
+
+### Tobin
+
+Mildred knows Tobin better than almost anyone, and she would rather be boiled than say so. He counts the town by knocking on doors; she counts it in the ledger, and her count is right. Just under three hundred people live in Kaldemor, Tobin says. Mildred could tell you exactly how many: two hundred and ninety-four at the last count, not including the snails, which Tobin always adds and she always crosses out.
+
+She writes his letters for him, or rather she takes the ones he dictates while walking round the office and makes them say what he meant. She files the ones that come in. She has filed four from Ewan the clockkeeper about Garrick the climber, each more indignant than the last, under a heading that reads, in her neat hand, "Clock tower, climbing of". She files the bounty receipts from Hale and notices when the ranger has quietly paid one out of his own purse; she says nothing, and writes it in a separate column so that one day she can pay him back.
+
+### Rufus
+
+Every evening Mildred writes the next morning's notices for Rufus the town crier: the fair days, the lost cats, the price of flour at Hob's mill, and lately more and more road warnings. Rufus reads them in a voice that rattles the treehouse shutters, and he adds words of his own, and Mildred pretends to mind. This spring she began writing the road warnings in shorter, plainer words, so that he would not have to shout them quite so loud for the children. She has not told him why. She thinks he knows.
+
+### What she worries about
+
+Mildred has counted the town more carefully than anyone, and she has counted Tobin too. He is seventy-one. He has been mayor for thirty years. He climbs the treehouse stairs a little slower every autumn, and he sat up nine nights in a row with Ewan this spring and was grey for a week after. Lia has noticed that Mildred worries about him; Mildred has noticed Lia noticing, and they have an understanding about it without ever having discussed it. Mildred does not worry about who will be mayor next. The town will choose, as it always has. She worries that the next mayor will not know every family's grandparents, and that something, some day, will need knowing.
+
+### What she wants and fears
+
+Mildred wants the ledger to balance and the list to be complete. She fears the day she has to write a name into the column of the dead because of something on the roads, and she fears, though she has said it to nobody, the day Tobin decides to rest.
+
+### Hooks
+
+Mildred has noticed something in her own ledger that she does not like: the far farms by the woods have reported more losses this year, of geese and hens, of pumpkins, of young orchard trees, than in any five years before. She would like a traveller to go and count for her. Another quest might ask a traveller to deliver one of Tobin's letters down the road, where the mail no longer goes as surely as it did.
 
 ## Relationships
 

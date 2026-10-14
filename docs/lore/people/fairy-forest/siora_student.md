@@ -15,9 +15,35 @@
 
 Shy, thoughtful and hard on herself, she practises long after everyone else has gone home.
 
-## Story
+## Lore
 
-Siora's gift is real but slow to wake, and her spells fizzle more often than they work. She is afraid of being sent home before it does.
+Siora is a student at the Grove School, and she is usually the last one there. Long after the other students have gone home to supper, she can be found in the grove of young trees beside the school, alone or nearly so, trying the same small spell for the fortieth time. She is twelve, shy, thoughtful and hard on herself, and her gift is real but slow to wake. Her spells fizzle more often than they work. She is afraid of being sent home before it wakes.
+
+### Far from home
+
+Siora comes from Selsior, where her parents keep a small dyer's shop on a crowded lane and expected her to keep it after them. Her gift showed itself at ten, in a way so quiet that only she noticed at first: the candles in the shop leaned towards her when she was concentrating, and the dye in the vats sometimes turned a shade brighter than it should have. When her mother finally saw a candle do it, the family sent her to the Grove School, which teaches anyone with the gift, from any town in the kingdom. She came to the forest at eleven and is in her second year. She lodges with the other students from far away in the school's lodging-hollows, and she writes home every month, and says in every letter that she is doing well.
+
+She is not sure that is true. Most of the students who came when she did can now make a light hang in the air, or coax a twig to bend, or hear what Sorrel means when he tells them to listen. Siora can do all of those things sometimes, and none of them reliably. Somebody told her, in her first winter, that students whose gifts never wake are sent home. She does not know if it is true and is too frightened to ask.
+
+### Amaryl
+
+Her hardest lessons are in Growing, with Amaryl, who is brisk, warm and demanding and praises almost nobody. Siora has never heard Amaryl praise her, and takes that as a sign. She does not know that Amaryl watches her more closely than any other student this year, and thinks slow gifts are like slow-growing trees, whose wood is strongest. Amaryl has no intention of letting Siora go anywhere. She has simply not said so, because she has not yet seen the praise earned, and Siora has not yet seen that she is waiting for it.
+
+### Alder
+
+Her closest friend is Alder, an older student from Goa Harbour, who is easygoing and funny and misses the sea. He has fallen into the habit of staying with her while she practises late, sitting on a root and making jokes about the forest's shortage of tides until she laughs. Her spells come out a little better when she is laughing. She has noticed this and has not told him, partly because it would embarrass them both and partly because she is afraid it will stop working if she says it out loud.
+
+She thinks Alder is the only person at the school who never makes her feel slow. She has also noticed that he goes quiet whenever anyone mentions the end of term and the road home, and that his jokes about the road are not quite like his other jokes. She worries about him more than he knows.
+
+### The night it worked
+
+One evening this spring, practising alone after Alder had gone, Siora tried the simplest coaxing spell Amaryl teaches, on a young hazel, and it worked perfectly: the whole branch turned to meet her hand, as easily as if it had been waiting to be asked. She has not been able to do it since, and she has told no one, because she is not sure she did not dream it.
+
+### What she wants and fears
+
+Siora wants her gift to wake properly, and to stay at the school long enough to find out what it can do. She fears being sent home with nothing to show for it, and she fears, almost as much, being praised before she has earned it.
+
+A quest might ask a traveller to help Siora practise somewhere nobody else will see, to find the hazel that answered her and learn why, or to carry one of her cheerful monthly letters home to Selsior along with a truer message she has not dared to write.
 
 ## Relationships
 

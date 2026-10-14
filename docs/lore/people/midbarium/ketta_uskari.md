@@ -16,9 +16,35 @@
 
 Bright and talkative about everything except one subject, which makes her go suddenly quiet.
 
-## Story
+## Lore
 
-Ketta left home to adventure across Veligor, like many young Uskari, and came back last spring with a new scar and a pack full of stories. She will happily tell any of them except what she saw in a deep canyon cave on her way home.
+Ketta is twenty-one, bright and talkative, and she can tell a story about almost anywhere in Veligor. Ask her about the tavern brawl in the capital, the night she slept in a hayloft outside Kaldemor, the storm that kept her stuck in a harbour inn for nine days, or the time she got gloriously lost under the lanterns of Fairy Forest, and she will talk until the fire burns down. Ask her what she saw in the deep canyon cave on her way home, and she goes suddenly, completely quiet.
+
+### A child of the rim
+
+Ketta was born on the Uskari Rim to a family of hunters. Her father died before she could remember him, and her mother, a tracker named Sarra, fell from the rim on a winter hunt when Ketta was twelve. The Uskari look after their own, and Ketta was raised after that by the whole rim at once, eating at whichever fire was nearest and sleeping wherever she ended up.
+
+The person who took her in hand was Zirra the bowyer, the Old One's older sister, who judges people by how they hold a bow. Zirra watched the girl shoot for an afternoon, told her that her stance was a disgrace, and spent the next five years correcting it. Ketta learned to string a bow, to make one, to shoot one in a crosswind on a narrow ledge, and to tolerate Zirra's sardonic commentary, which she eventually realised was the bowyer's way of showing affection. Ketta is still Zirra's former pupil before she is anything else; the first thing she did when she came home was to show Zirra her new bow, and the second was to be told what was wrong with it.
+
+### The wide world
+
+At seventeen, like many young Uskari, Ketta left home to adventure. Her friend Ennek of the Tolmach guided her down the canyon road, whistling the whole way, and she spent the next three years wandering Veligor: the capital's crowded streets, the farms around Kaldemor, the harbour towns, the strange bright streets of Urbanograd and the forest of the Magicians. She hunted monsters for bounties, guarded caravans, and learned that the rest of the kingdom thinks highlanders are taller than they actually are.
+
+Last spring she came home. Ennek, leading a caravan up the south path, came round a bend and found her sitting on a rock waiting for someone to walk home with. She had a new scar across her left shoulder and a pack full of stories. They have been sweethearts since the summer. He has never once asked her about the cave, and she loves him for it, though she has not quite said so.
+
+### The silence
+
+Somewhere in the canyons below the town, on the last days of her journey home, Ketta sheltered from a dust storm in a deep cave. That is all anyone knows. She will not say what she saw there, or how long she stayed, or whether the scar came from it. She has told three different stories about the scar, each funnier than the last, and nobody believes any of them.
+
+Tavi, her chieftain, worries about her more than about any monster on the trails. Tavi left the rim at seventeen too, and knows that kind of silence from the inside. Ketta has noticed Tavi watching her at the patrol fires, and has started taking the night watches nobody else wants, which worries Tavi even more.
+
+She has joined the trail patrols since she came home, and she is very good. But she will not walk the canyon trail that passes the cave, and she always finds a reason to trade that stretch to someone else.
+
+### What she wants
+
+Ketta wants to be the person she was before she went into that cave: the girl who could talk about anything. She is not sure she can be. She fears that what she saw is still there, and that one day the patrols will find it without her warning them.
+
+A quest could earn Ketta's trust enough to hear where the cave is, or go there with her when she finally decides she has to see it again.
 
 ## Relationships
 

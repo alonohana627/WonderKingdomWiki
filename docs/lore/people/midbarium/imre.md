@@ -16,9 +16,33 @@
 
 Dreamy, absent-minded and delighted by everything; Imre forgets meals but never forgets a star.
 
-## Story
+## Lore
 
-Imre came to Midbarium to study its famous night skies and stayed for the stars and the hospitality. Imre spends nights on the highest terrace charting the heavens and swapping star stories with the Brenna, and hopes one day to be invited to recite at a gathering.
+Imre is Midbarium's stargazer, and on any clear night the highest terrace above the town has a small lantern on it, a scatter of charts weighed down with stones, and Imre lying flat on a sheepskin looking straight up. Dreamy, absent-minded and delighted by everything, Imre forgets meals, forgets boots, forgets which day of the week it is, and has never once forgotten a star.
+
+### From the lowlands to the plateau
+
+Imre grew up in the lowlands and learned the heavens from the old star tables in the Scholars' Quarter of Selsior, where the city's lamps wash out half the sky. Every book on the stars said the same thing in the end: if you want to see them properly, go up to the highlands of Midbarium, where the air is dry, the nights are cold and the stars over the plateau are famous across the kingdom. Five years ago Imre finally did, meaning to stay one summer.
+
+That summer, Imre arrived at a Tolmach fire on the canyon road after dark, hungry and with a lantern out of oil, and was given water, food and a place to sleep without a single question, as highland custom demands. Imre never got over it. One summer became a winter, and the winter became five years. Imre stayed for the stars and for the hospitality, in that order on clear nights and the other order on cloudy ones.
+
+### Lodger at the Trading Post
+
+Imre lodges with Corwell at the Trading Post, in a narrow room above his storeroom that smells of lamp oil and salt. Corwell is talkative, round and comfortable, a lowlander who came up the canyon himself twenty years ago and never went home, and he recognised a fellow stray at once. He feeds Imre whenever Imre remembers to come down, reminds Imre about the rent with heroic patience, and takes part of it in star charts, which he pins up behind his counter and explains wrongly to customers. Imre has never corrected him, because Corwell's versions are better stories.
+
+### Star nights with Ahvi
+
+Imre spends nights on the highest terrace charting the heavens, and swapping star stories with the Brenna, who know the sky by entirely different names. Imre's dearest friend there is Ahvi, the old song-keeper. On clear nights the two of them meet on the high terrace: Imre tells the lowland tales of the stars, and Ahvi answers with the families' oldest songs, and again and again the songs turn out to mention the same stars under highland names. Imre has filled a whole book with these matches, in two columns, and treasures it above every chart.
+
+Imre's great hope is to be invited one day to recite at a gathering of the four families, and has been quietly working on a star song in the Brenna manner, matching every lowland star story to its highland verse. Imre has not dared to mention this to Ahvi. Ahvi, as it happens, thinks Imre should be invited, and has not yet decided whether to say so. Neither of them knows what the other is thinking, and both have been not saying it for some time.
+
+Imre came to Midbarium after Hask's choosing and has never seen the great drum called a gathering for a choosing. Imre hopes to hear it one day, and then feels guilty for hoping, since a choosing only comes when an Old One dies.
+
+### What Imre has noticed
+
+This year, on a handful of cold, still nights, the stars low in the direction of the island's heart have shimmered as if seen through the heat of a fire. Imre has written down the dates and cannot explain them. Cold air does not do that. Imre has mentioned it to nobody but Ahvi, who listened and said nothing.
+
+A quest could help Imre gather the old star verses from the Brenna for the song, or sit up on the terrace on one of the shimmering nights and look where Imre is pointing.
 
 ## Relationships
 

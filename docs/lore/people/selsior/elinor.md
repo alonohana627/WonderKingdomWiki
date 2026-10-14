@@ -15,9 +15,33 @@
 
 Bold, restless and stubborn as a mule. She hates embroidery and loves anything with a blade or a horse in it.
 
-## Story
+## Lore
 
-Elinor sneaks out at dawn to take sword lessons at the Knights' Court under a borrowed cloak. She wants to pass the Guard's trials like anyone else, and she is terrified her parents will find out before she does.
+Elinor is seventeen, the elder child of Queen Aveline and Leofric, and the only person in the palace who thinks a princess's day should begin before the bakers'. Most mornings, while the lamps in the upper halls are still cold, she slips out through the little door in the kitchen garden wall, pulls a plain grey cloak over her hair and walks across the waking city to the Knights' Court. By the time Agnes comes to make her bed, she is back, flushed and innocent, with mud on her boots.
+
+### The girl who would not sit still
+
+She was a restless child and has grown into a restless young woman. Her tutors could teach her history and the manners of every town, and did, but nobody could teach her to love embroidery, and after years of trying they stopped. What she loved instead was anything that moved fast: the horses in the Guard stables, the swordsmen drilling below the palace windows, the dancers in the plaza, her little brother Alaric when he was running away from his lessons. She is bold, stubborn as a mule and very much her mother's daughter, though neither of them would say so.
+
+Elinor does not want to be given a sword. She wants to earn one. The Royal Guard is open to anyone from any town who can pass its trials, and she means to pass them exactly like anyone else, with no title and no favours. If the Court ever learned who she was before she had earned her rank, she is sure the trials would be quietly made easier, and the thought makes her furious.
+
+### The cloak and the dawn lessons
+
+Since last autumn she has trained at dawn with Rowena, the Swordmaster who teaches the Court's advanced classes. Elinor asked for private lessons with her hood up and her name unspoken, and Rowena agreed without asking it. Elinor believes this is because the disguise is good. It is not. The cloak itself belongs to Sybil, the wardrobe mistress, who lent it without a word and now pretends she has no idea where it went. Elinor's hands have blistered and healed and blistered again, and she has learned to keep them in her lap at breakfast.
+
+She is not as invisible as she hopes. Avice, the fiercest of this year's recruits, has noticed that the cloaked stranger holds a sword like someone raised with fine manners, and Agnes has noticed the boots. Her mother has noticed the hands.
+
+### Aylwin
+
+There is one person at the Court Elinor does not hide from. Aylwin, who rides with the road patrol, grew up above the Guard stables with his grandfather Wystan, and Elinor has been visiting those stables since she was small. Somewhere between the horses and the hay, the two of them fell for each other. He recognised her under the cloak the first morning she wore it and has never said so to anyone. She worries about him every time the patrol rides out, and she knows about the boars on the road to Kaldemor although he told the story as if it were funny. Both of them are certain no one knows. Both are wrong, though nobody has told them.
+
+### What she wants and what she fears
+
+Elinor wants the Swordsman's rank, earned in the open, and then she wants to ride the royal roads like Aylwin and the rest of the patrol. She knows the roads are getting worse. She has stood in front of her father's great map and watched the marks spread, and she thinks a kingdom whose roads are full of monsters needs every sword it can get, including hers.
+
+What she fears is being found out before she is ready. She is not afraid of her mother's anger so much as her mother's worry, and of the look her father would give her, gentle and disappointed. She has no idea that the queen already suspects.
+
+A quest might begin with a hooded recruit asking for a sparring partner who will not hold back, or with the princess needing someone to cover her absence on the morning of the trials.
 
 ## Relationships
 

@@ -15,9 +15,31 @@
 
 Brusque, practical and quietly tender. Patch scolds patients while bandaging them.
 
-## Story
+## Lore
 
-Patch tends the travelers who stumble in through the gate with monster bites and scrapes. Her herb supplies come from outside the walls, and she needs someone to gather fresh ones now that the fields are risky.
+Patch keeps a narrow herb house on the Gate Walk, a few steps inside the old fortress gate, where bundles of dried leaves hang so thickly from the rafters that tall visitors have to stoop. She is sixty-eight, small, quick and sharp-elbowed, with grey hair cropped short so it will not get in the way and spectacles she only admits to needing in bad light. She is brusque and practical, and she scolds every patient from the moment they sit down until the last bandage is tied. Then she sends them away with a jar of salve and strict instructions, and, if they are young or frightened, a boiled sweet. People who have been patched by Patch speak of her the way they speak of a hard winter they came through: with a wince and real affection.
+
+### A healer by the gate
+
+Patch was born in Urbanograd and grew up near the Gate Walk. As a girl she went out every summer morning into the meadows beyond the gate with her mother, who sold herbs, and learned to tell yarrow from hemlock, feverfew from chamomile, and which roots to dig in spring and which in autumn. By twenty she was treating the scrapes and sprains of the carters and peddlers who came through the gate, because her house was the first one they reached, and the name Patch stuck to her long before anyone thought to call her a healer. She has kept the house by the gate for more than forty years.
+
+For most of that time her patients were what a gate brings: carters who had dropped a barrel on a foot, peddlers with blisters, travelers with a cough from the road. That has changed. Now they come in with bites, gashes and claw marks, sometimes in the middle of the night, sometimes carried, and there are more of them every season.
+
+### Her colleagues
+
+Dagny Roe, who keeps the night watch with two lamps, is Patch's friend. On bad nights Dagny brings the wounded straight to Patch's door. Patch scolds the patients while she bandages them and scolds Dagny for standing too near the road, and then makes her a cup of something hot and bitter, mostly willow bark and something Patch will not name, that Dagny swears gets her through till dawn. When the last patient has gone, Dagny walks Patch home, a lamp in each hand, which Patch says is unnecessary and has never once refused.
+
+Ivo Sable, the street healer under the green awning on Lantern Square, is her fellow healer. Patch sees the road's wounded first and Ivo sees them second. They send patients back and forth, share supplies and trade remedies over tea. She scolds and he soothes, and they agree that between them they cover most kinds of person. Knox, the big gentle guard at the gate, brings her carving splinters to pull, and his son Tick brings her skinned knees and long stories, and she treats both with the same sour face and the same care.
+
+### The empty shelves
+
+Patch's herbs come from outside the walls. For forty years she gathered most of them herself, in the meadows and hedgerows beyond the gate, and bought the rest from farm carts and travelling herb-sellers. Her knees have slowed her, and the fields are risky now: things move in the long grass at dusk, and Brindle has asked her, politely and then not politely, to stop going out alone. The carts bring less every season. Her jars are emptying, and some of the herbs she needs most, for cleaning bites and stopping fevers, grow only in places nobody sensible walks any more.
+
+She needs someone to gather fresh herbs for her, someone who can tell yarrow from hemlock and keep their head when the grass moves. She has not yet found anyone she trusts to do both.
+
+She fears the night a patient comes through the gate whom she cannot help, and the morning after, when the jar she needed turns out to be empty.
+
+A quest might gather fresh herbs from the fields beyond the gate, learn from Patch which plant is which, or find the one rare root she needs that grows only along a road Shade no longer walks.
 
 ## Relationships
 

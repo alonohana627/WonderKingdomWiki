@@ -1,0 +1,25 @@
+Hamish is thirty-nine and the keeper of the rope lift on the Cliff Stairs, the great creaking basket that hauls goods and tired legs from the Inlet Quay to the top of the cliffs. He is chatty, jolly and nosy, and he knows everyone's business, because sooner or later everyone rides his lift. A fisher with a sore back, a merchant with a crate of lanterns, a warden too tired to face the Long Stair: they all step into the basket, and for the long slow minutes it takes to rise up the cliff, there is nothing to do but talk to Hamish. Most people tell him more than they meant to. Bethoc at the Gap Inn says he knows as much about Goa Harbour as she does, and unlike her, he does not keep it to himself.
+
+### The lift
+
+The lift is a timber frame bolted into the clifftop, with a great windlass, a counterweight of stone-filled baskets running in a channel of its own, and a heavy rope that Hamish oils by hand every week. It was built long before he was born. Old Murdo worked it for thirty years, and Hamish, who had spent his boyhood riding it whenever Murdo would let him, took it over fifteen years ago when the old man's arms gave out. He has kept it running every day since, in wind, rain and fog, and he has never dropped a crate. He is enormously proud of that, and will tell you so, on the way up.
+
+### Fionn
+
+Hamish's younger sister, Ishbel, married a cove fisher called Duncan, and they had one son, Fionn. Duncan was drowned in a storm when the boy was barely one, and two winters later Ishbel died of a wasting cough. Hamish was thirty-two, unmarried, and had never looked after anything more delicate than a rope. He took Fionn home to the little house beside the windlass, and has raised him there ever since.
+
+Fionn is ten now: quick, cheeky and fearless, and he runs messages up and down the cliff stairs for a copper a trip. Hamish lets him, because a boy who knows every step and shortcut on the cliffs is a boy who will not fall off them. He is fiercely proud of him and worries about him constantly, which he hides by telling everyone in the basket stories about Fionn's latest mischief. The one thing Hamish does not know, for all his nosiness, is that Fionn follows the hunters to the edge of the forest whenever he can. Torva knows, and so do half the hunters. Nobody has told Hamish. It is the only secret on the cliffs that has ever got past him.
+
+### The friendly rival
+
+Hamish's rival is Gorm, the Master of the Stairs. Gorm calls lifts lazy and says a town that stops climbing will forget how its stairs were made. Hamish says Gorm simply cannot bear anything going up a cliff without a step under it. They have argued about it at the Gap Inn for years, and neither would give the argument up for anything.
+
+Hamish dreams of building a second lift, down the cliff to the far cove. He has drawn it a dozen times on the back of cargo lists. Now Gorm has promised the First Warden a new stair to that very cove before the summer race, and is behind, and Hamish has been heard to say, loudly and often, that a lift would have been finished by now. Gorm has not yet thrown anything at him. It is a matter of time.
+
+### What he fears
+
+Hamish fears that something will happen to Fionn while he is stuck at the windlass with a basket halfway up the cliff and cannot let go. Lately, too, he has felt the lift rope shudder on still nights, as if something had brushed against it on the cliff face in the dark.
+
+### Hooks
+
+A quest might ride the lift and listen to everything Hamish knows, help him check the rope after one of those shuddering nights, or carry his drawings of the second lift to Gorm and survive the reply.

@@ -1,0 +1,27 @@
+Thrun beats the great drum that calls the four families of Midbarium to every choosing and every feast, and you can hear him laughing from almost as far away as you can hear the drum. He is seventy, loud, warm and impossible to embarrass. He laughs from the belly and drums the same way, and there is not a child in the highlands who has not, at some point, been lifted onto his shoulders to watch a gathering over the heads of the crowd.
+
+### The drummer
+
+Thrun was born in Brenna House and started drumming on cooking pots before he could talk. The Brenna are the families' healers, storytellers and drummers, and Thrun was never much of a healer and only a fair storyteller, but the drum understood him from the start. He was made Drummer of the Gatherings at twenty-five, after the old drummer's hands grew too stiff to play, and he has drummed every gathering since: forty-five years of feasts, weddings, mournings and choosings, each with its own rhythm, all of which he can play in his sleep and some of which, his wife says, he does.
+
+The great drum itself is far older than Thrun. Its frame is Kragvar-cut timber, bound with rope, and it stands taller than a man on a stand that Thrun's oldest friend, Vosk of the Kragvar, rebuilt for him when they were both young and has kept sound ever since. They have been friends since boyhood, the loud Brenna drummer and the dry Kragvar bridge-builder, and they still sit together at every feast, one talking and one listening, both enjoying themselves.
+
+### Family
+
+Thrun married Odda, now chieftain of the Brenna, the year after she came home from her three winters as an envoy in Fairy Forest. He says he married her because she was the only person in Midbarium who could make him stop talking, and she says she married him because she liked the noise. Their daughter is Lessa, the best bonesetter in the highlands, who inherited her mother's calm in a crisis and none of her father's tolerance for mud. Lessa's daughter Neffa, solemn and serious, is learning the long songs from Ahvi, and Thrun beats out the rhythms for her practice on the kitchen table, softly, which is the only thing he has ever done softly.
+
+Lessa's husband Corrick was a storyteller and a great friend to Thrun, and his death eight years ago was the only time anyone in Brenna House can remember the drummer going quiet for a whole week.
+
+### The finest night
+
+Six years ago, Thrun drummed through the whole night of the choosing that named Hask Old One, while Ahvi sang the long song and Odda hosted and Dorrek argued, and he swears it was the finest night of drumming in a generation. He drummed grief for Varra at the start, argument through the middle, and at dawn, when the families settled on Hask, he played the choosing beat so hard that the great hall's dust came down from the beams. He tells the story at every opportunity, and improves it each time.
+
+### The split hide
+
+This spring, at the first feast of the year, the drum's old hide split across its face with a sound like a branch breaking. Thrun has patched it, but a patched drum only mutters. A new hide must come from one of the great horned beasts of the plateau, the kind the Uskari hunted in the old days, and the hide on the drum now was taken in Thrun's grandfather's time. Few such beasts have been seen in years, and those that have been seen are wild and vicious in a way the old songs never describe. Few hunters would dare to track one now.
+
+Thrun fears the next choosing will be called by a muttering drum. He would never say it, but he also fears that the next choosing may come sooner than anyone thinks, the way the canyons are now.
+
+### Hooks
+
+A quest could track the great horned beast whose hide the drum needs, or help Vosk and Thrun fit the new skin in time for the next gathering.

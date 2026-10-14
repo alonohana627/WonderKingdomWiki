@@ -1,0 +1,23 @@
+Theobald is seventy-nine, the stargazer of the Scholars' Quarter, and he has hardly been to bed before dawn in sixty years. He lives at the top of an old stone tower at the edge of the Quarter, where the roof opens onto the sky, and every clear night he is up there with his instruments, his charts and a cup of tea that went cold some hours ago. He is dreamy, nocturnal and spectacularly absent-minded. He talks to the stars as if they owe him money: "There you are. Late again. Don't think I didn't notice."
+
+### Sixty years of charts
+
+He came to the Academy as a boy from the city's inner streets, the son of a lamp-oil seller, and was meant to study law. On his first night in the Scholars' Quarter an old master of the Academy, long dead, let him look through a brass glass at the moon, and that was the end of the law. He began keeping his own charts at nineteen, sixty years ago, and he has never missed a clear night since unless he was too ill to climb the stairs, which has happened four times, and he has marked each of those nights on the chart with an apology.
+
+The charts fill the tower. They are rolled in racks, stacked on chairs, pinned to the walls and piled on the stairs, every star he could see from that roof, night by night and year by year, with the weather, the moon and whatever he happened to be thinking in the margins. He teaches at the Academy, after a fashion, by inviting students up the stairs and forgetting they are there. Some of them have become very good astronomers. Most have become very good at making tea.
+
+### Mariota
+
+His student now is Mariota, who is nineteen and argues with everything, and Theobald adores her. She corrects his arithmetic, reminds him to eat and tidies the charts into an order he cannot find anything in. She is going through all sixty years of them, year by year, looking for anything in the sky that changed when the creatures on the roads began to change. Theobald does not know what she has found. He knows she has found something, because she has stopped telling him about it, and Mariota has never in her life stopped telling anyone about anything. He has decided to wait until she is ready, which is, for him, an unusual act of patience by daylight.
+
+### The telescope
+
+Theobald buys every curious lens the market sells. His supplier, and his favourite person in the Crown Market, is Jasper the curio dealer, who sells strange inventions from Urbanograd and saves every piece of ground glass he can find for his best customer. They talk for an hour over each lens, and both of them come away happier and neither of them is sure who got the better bargain.
+
+The lenses are for the telescope. Theobald is building one larger than his tower. This is not a figure of speech. It is a long tube of brass and wood, half finished, that runs out of the top window and along the roof, and when it is done it will need the tower to lean on and the neighbouring roof to rest its end on. The neighbours have opinions. Theobald does not hear them. He says the stars are further away than they used to be, or else his eyes are worse, and the telescope will settle which.
+
+### What he wants and fears
+
+Theobald wants to finish the telescope and see something nobody on Veligor has ever seen. What he fears is subtler. Going back through his oldest charts with Mariota, he found a margin note in his own hand, from about fifty years ago, which he does not remember writing and cannot quite read. Three words, the last of which may be "wrong". He has not told Mariota. He has not slept well since, which for a man who does not sleep at night is saying something.
+
+A quest might begin with Theobald needing a lens that only Urbanograd can grind, and Jasper unable to get it, or with someone helping him decipher that margin note.

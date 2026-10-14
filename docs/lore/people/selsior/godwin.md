@@ -15,9 +15,33 @@
 
 Slow, patient and full of proverbs. He talks to his roses more than to people.
 
-## Story
+## Lore
 
-Godwin has tended the palace gardens since the old king's day. He grows a cutting from every town's favourite flower, and he worries that the wild bees have turned mean this year.
+Godwin is seventy-four and the gardener of the palace, and he is never in a hurry. He moves along the garden paths at the speed of a growing thing, he answers questions after a pause long enough to plant something in, and when he does speak it is usually in proverbs: a rose remembers the hand that pruned it, weeds come to those who wait, a garden is only ever finished on the day the gardener is. He is slow, patient and kind, and he talks to his roses more than he talks to people. He says the roses listen better. Nobody who has seen him with them is sure he is wrong.
+
+### Since the old king's day
+
+He came to the palace at sixteen, fifty-eight years ago, in the year King Bertram was crowned, to push a barrow for the old head gardener, Gerold, a stern man who believed that a boy should learn every bed in the gardens by its smell before he was allowed to touch a pair of shears. Godwin learned them all. When Gerold died, thirty-eight years ago, the gardens passed to him, and he has tended them ever since, through the rest of the old king's reign and the whole of Queen Aveline's. Osbert, the steward, arrived as a boot boy a few years after Godwin and has never once managed to make him come indoors for a household meeting.
+
+He has never married. He lives in a small brick lodge against the kitchen-garden wall, with a stove, a cot, a shelf of seed packets labelled in a shaky hand, and a window that looks out on his roses.
+
+### A flower from every town
+
+His great work is a long bed below the palace terrace that he calls the kingdom border. In it he grows a cutting from every town's favourite flower, begged from envoys, carters and travellers over many years and coaxed along in the capital's soil, which suits some of them and sulks at others. He tends it as if it were a treaty, which in a way he thinks it is. One place in the border is still empty. He has never been able to learn what Cavelor's favourite flower is, or whether anything flowers down there at all, and he keeps the space weeded anyway, just in case someone tells him.
+
+### Alaric
+
+His friend in the gardens is Prince Alaric, who is nine and wants to know everything. Godwin lets him dig, water and ask questions, so long as he is gentle with the roses, and he taught him which beetles help a garden and which ones eat it. The boy keeps the good ones in labelled jars on his windowsill and brings the bad ones to Godwin for judgment. Godwin finds him the best company in the palace, after the roses.
+
+### The mean bees
+
+This year the wild bees in the gardens have turned mean. In fifty-eight summers Godwin has never been stung in the rose walk; since spring he has been stung four times, once on the eyelid. The bees fly hard and low and seem angry at the flowers themselves. He and Alaric sit on the bench by the lavender and watch them, and Alaric asks why, and for once Godwin has no proverb for it. He has heard the candlemaker's roof hives in the old quarters are the same, and he does not like the sound of that at all.
+
+### What he wants and fears
+
+Godwin wants the empty place in his border filled before he is too old to plant it, and the bees gentle again. What he fears is a garden he does not understand any more.
+
+A quest might begin with Godwin asking a traveller bound for the World Tree to bring back a cutting of anything that grows near Cavelor, or with a rose in the kingdom border that has started, quite suddenly, to wither from the root.
 
 ## Relationships
 

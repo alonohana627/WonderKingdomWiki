@@ -1,0 +1,25 @@
+Biscuit is the gate dog of Selsior, and he is quite certain that you have bread. You may not think you have bread. You may have searched your pockets and your pack and found nothing but a map and some lint. Biscuit will sniff you anyway, thoroughly and with great hope, and then he will wag what he has of a tail, and say "Woof," and forgive you. He forgives everyone. He is friendly, greedy and entirely without suspicion, which makes him the least useful watchdog at the busiest gate on Veligor.
+
+### The winter he came
+
+He turned up at the gate four winters ago, thin and hopeful, with snow in his coat and his ribs showing, and sat down in the shelter of the gatehouse as if he had an appointment. Nobody knows where he came from. He came in off the Royal Road, but that only means he came from somewhere along it, and the Royal Road is long. The guards tried to send him away, at first, the way they would send away any stray. He came back. They tried again. He came back again, slightly faster each time, and by the end of that winter nobody was trying any more.
+
+He is a dog of no particular kind: middling in size, short in the coat, and the exact colour of a well-baked crust, which is the reason most people give for his name. Nobody agrees on who named him. Half the gate guards claim it, and Hollis claims it loudest. His tail is a short stub that wags his whole back end along with it. Whether he was born that way or lost the rest of it somewhere on the road before he found Selsior, nobody knows, and Biscuit has never seemed to miss it.
+
+### A day in the life of a dog
+
+Biscuit's day has a shape, and he keeps to it more faithfully than most of the Guard keep to theirs. He sleeps on an old sack by the gatehouse door, where the stones hold the warmth of the day. At first light he gets up, stretches front and back, greets Hollis at his post, sniffs the first travellers of the morning and checks the taxi stand, in case anyone has dropped anything near Tilda's cab overnight.
+
+Then he follows his nose. The smell of the Crown Market's ovens reaches the gate a little after dawn, and Biscuit goes to meet it, trotting through the streets with his nose down and his stub of a tail going. He has a round. Margery the baker gives him her stale loaves and pretends she dropped them. Maud, Dame Orsa's housekeeper, keeps rinds and scraps in her apron pocket for him and tells everyone she is only getting rid of them; Biscuit has learned to recognise the sound of her baskets from the far end of the market and to be standing exactly where she will pass. He sniffs every stall, is chased off by some of them and is fed by more, and by the afternoon he trots back to the gate smelling powerfully of bread.
+
+In the evening Brann, the Gate Sergeant, who trusts nobody, eats his supper on the gatehouse bench and slips Biscuit the crusts off his own plate when he thinks no one is looking. Everyone has seen him do it. Biscuit lies on Brann's boots afterwards and falls asleep, and that, as far as Biscuit is concerned, is a perfect day.
+
+### What a dog knows
+
+Biscuit cannot tell anyone what he notices, but he notices a great deal. He knows every regular at the gate by smell. He knows which carters keep bread under the seat. He goes a little way out onto the Royal Road most days, to sniff the verges and the milestones and see who has passed, and comes back again; he has never gone far. Lately he comes back sooner, and some evenings, when the light goes and Baldwin's lamps are lit by the gate, he stands at the edge of their light with his nose to the dark and his ears up, very still, for longer than a dog who is only thinking about bread.
+
+### What he wants and fears
+
+Biscuit wants bread, a warm sack and a friendly hand, in roughly that order. He is afraid of thunder, of the gate's great bar when it slams, and of very little else.
+
+A quest might begin with Biscuit refusing, for the first time anyone can remember, to go out onto the road, or with him following a traveller's scent far past the gate and not coming back by supper.

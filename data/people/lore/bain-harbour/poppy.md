@@ -1,0 +1,29 @@
+Poppy is eleven, shy and thoughtful, and she notices things grown-ups miss. She is the daughter of Bryony the baker and Alwyn the shipwright, the older sister of Kit, and the granddaughter of Dunstan, the master shipwright. Every morning she delivers bread along Merchant Street, and in every spare moment she draws.
+
+### The bread round
+
+Poppy's mother is up before the sun, and by the time the first light is on the water Poppy is out of the door with a basket on each arm. She knows every door on Merchant Street and the order to knock on them: salt rolls to Marisol's spice shop, a plain loaf to Cordelia's, hard biscuits for any ship that sails that day, and a warm roll for Ambrose the chartmaker, who always forgets breakfast. She does not talk much on the round, but she sees everything. She knows which shutters are open early, which shops have new stock, which ships came in during the night and which captains look worried.
+
+Her mother hopes she will grow up to like flour more than salt water. Poppy likes both, as long as she can draw them.
+
+### The drawings
+
+Poppy sketches the ships in the bay from the end of Merchant Street, where the road turns and you can see the whole harbour at once. She draws them carefully and accurately, every mast and stay in its place, and she labels them in small, neat letters. Her father pins every one up in the shipyard's tool shed. Her grandfather keeps them in a box and pretends he does not. Her brother Kit draws ships too, but his have sea monsters in them, and the two of them argue about this constantly.
+
+Lately Poppy's drawings have changed. She has started drawing the bay itself, not just the ships: the line of the harbour wall, the rocks at the headland, the lighthouse, the channel where the ships come in. Without quite meaning to, she has started making maps.
+
+### Ambrose
+
+Poppy admires Ambrose the chartmaker more than almost anyone. She has watched him at work through his shop window for years, bent over a chart with a pen so fine she can barely see the line it makes. One morning he caught her looking, invited her in, and showed her how he draws a coastline from a captain's sightings. Since then she has stopped in every morning after her round, and he has started teaching her: how to use a compass and dividers, how to write tiny, how to mark a rock so a sailor cannot mistake it. He apologises to his ink when he spills it, and Poppy has started doing the same.
+
+She wants to make maps like Ambrose one day. She has not told her parents yet, because her father would be pleased and her grandfather would want to know why she didn't want to build ships.
+
+Poppy has noticed that Ambrose keeps a drawer in his workroom locked, that captains sometimes come in and speak to him very quietly, and that afterwards he opens the drawer. She has not asked about it. She has, however, noticed that the marks he is given are always out past the headland.
+
+### What she wants and fears
+
+Poppy wants to map the whole coast of Veligor. She is afraid of loud rooms, of being asked to speak in front of people, and of the look on the captains' faces when they come to the locked drawer.
+
+### Hooks
+
+A quest could help Poppy chart a stretch of shore she cannot reach alone, or start with a drawing she made of the bay that shows something in the water no one else noticed.

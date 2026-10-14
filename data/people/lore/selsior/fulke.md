@@ -1,0 +1,27 @@
+Fulke is thirty-seven, a ballad singer of the plaza, and every song he sings is mostly true. He is charming, theatrical and a terrible liar, and the two facts are closely connected: whenever a ballad of his strays from the truth, his voice goes up half a tone and his eyebrows go up with it, and the regulars on the plaza have learned to tell exactly which verses he made up. They do not mind. They say the made-up verses are often the best ones.
+
+### A plaza child
+
+He was born a street off the plaza and has never lived anywhere else for long. As a boy he sat on the steps by the Great Bell and listened to the old singers who worked the square in those days, and by twelve he had learned every ballad they knew and was improving on them, out loud, to their faces. A lute came to him second-hand from one of those old singers, who said it had more songs in it than he had years left to sing them. Fulke has been trying to get them all out of it ever since.
+
+He sings for coin on the plaza most afternoons, wherever the crowd is thickest, and he has the plaza performer's gift of making a crowd of strangers feel like an audience of friends. He bows too low, flourishes too much and tells the story behind every song at greater length than the song itself. People stay anyway.
+
+### Mirabel and the Bell
+
+Every evening, when Baldwin the lamplighter has lit the lamps around the Great Bell, Fulke plays his lute for Mirabel's dances. Mirabel dances for the pleasure of it, dreamy and impossible to hurry, and Fulke has learned to follow her rather than lead, playing faster when she spins and slower when she drifts. They have played the plaza together for years. Mirabel swears the Bell sings at dusk when the wind is kind, and Hugh, the Bell Warden, insists it has not rung since the coronation. Fulke refuses to take sides. He has written a verse about the Bell humming at dusk, which Mirabel loves and Hugh pretends not to hear, and when he sings it his voice does not go up at all, which has started one or two arguments of its own.
+
+### Ballads of the Balrog War
+
+His favourite songs, and his best-paid, are the ballads of the Balrog War: the First Burning, the truce at one table, the Last Stand at the Tree with the warriors holding the line while the Magicians worked the seal. He knows the four peoples tell the war four different ways, and he sings all four, sometimes in the same evening, sometimes in the same song. He sings of what the Balrog was the way the old stories do, and never the same way twice, because he does not know, and he would rather sing three guesses than pretend to one answer.
+
+He also collects new songs. Most mornings he stops at the city gate and asks the travellers coming in what they sing at home: highland herding songs, harbour shanties, forest rounds, the strange marching songs of Urbanograd. Lately, the travellers' songs have more monsters in them than they used to, and some of them are not old songs at all.
+
+### Cecily
+
+Fulke has a pupil. Cecily, who came from a fishing village on the coast and sings between the acts at the Gilded Stage, is shy off the stage and fearless on it, with a voice far bigger than she is. She comes to him to learn the old ballads. He teaches her the true verses first, he says, and then the good ones, and then she must decide for herself. He thinks she will be better than he is. He has told everyone except her.
+
+### What he wants and fears
+
+Fulke wants to write one song that the whole kingdom sings: a song they hum in the harbours and the highlands and under the Tree, long after they have forgotten who wrote it. What he fears is that the song he is meant to write is not a ballad about the old war at all, but about something that has not finished happening yet.
+
+A quest might begin with Fulke hearing a song at the gate about a place he has never heard of and needing someone to find out whether it is real, or with him asking a traveller to carry a new ballad to another town and bring back what they think of it.

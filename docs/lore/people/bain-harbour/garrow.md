@@ -15,9 +15,33 @@
 
 Loud, fair and always in a hurry. He knows exactly how long it takes to unload any ship and gets cross when it takes longer.
 
-## Story
+## Lore
 
-Garrow runs the dock crews and keeps cargo moving from ship to warehouse. He would like the council to build a second pier, and he raises it every chance he gets.
+Garrow is the dock foreman of Bain Harbour, and you can hear him from the far end of the pier. He is forty-nine, loud, fair and always in a hurry, and he knows exactly how long it takes to unload any ship in the harbour, down to the last barrel. When it takes longer, he wants to know why, and he wants to know now.
+
+### Up from the crates
+
+Garrow came to the docks at fourteen as a porter, carrying sacks of salt on his back for a copper a sack. He was not the strongest boy on the docks, but he was the one who noticed that the crews wasted half their day waiting for each other, and by the time he was twenty he was telling grown men where to stand. He has been foreman for sixteen years. He runs the dock crews, sets the order ships unload in, and keeps the cargo moving from ship to warehouse before the next tide brings in the next ship. He has never married. He lives in a narrow house on the Waterfront that he mostly uses for sleeping, because the rest of his life happens on the docks.
+
+His best dockworker is Tully, who has carried crates since he was a boy, can lift more than any two other men and thinks every problem looks smaller after lunch. Garrow shouts at Tully for eating on the job and saves him the last of his own bread. He knows Tully is saving every coin for a boat of his own, and he gives him the extra shifts first.
+
+### Hobart
+
+Garrow's oldest friend is Hobart, who has kept the harbour warehouses since before Garrow was born. When Garrow was a boy porter, it was Hobart who taught him to count a cargo properly, crate by crate, and never to trust a ship's manifest until he had counted it himself. They have argued about the counts every week for thirty-five years. Hobart is slightly deaf in one ear and always seems to hear Garrow's side of the argument with that one. Garrow pretends to find this maddening. He visits the warehouses every evening anyway.
+
+### The second pier
+
+Garrow has one cause, and everyone in the harbour has heard it. Bain Harbour needs a second pier. On a busy day there are ships riding at anchor in the bay waiting for a berth, and every hour they wait is an hour of wages, spoiling fish and angry captains. Garrow is not on the harbour council, which is for captains, shipwrights and merchants, but he raises the second pier with any councillor who walks along the docks, and he once stood outside the Harbour Hall for a whole council meeting holding a drawing of it. Quenna, the Harbour Master, likes him and says the council will think about it. He has heard that before.
+
+This spring his case got stronger. Halloran, the captain of the Harbour Watch, asked him to stop unloading at the far end of the outer pier after dark, and would not say why. Garrow grumbled, agreed, and now tells every councillor that a harbour that cannot use the end of its own pier at night had better build another one.
+
+### The boy in the loft
+
+Garrow's errand runner is Finch, who sleeps in the loft above the dock office and carries messages for a copper a time. Garrow took him in when the boy's mother died five years ago, and he has never called it anything but business. He shouts at Finch for dawdling, though Finch has never dawdled in his life. He is afraid that one day Finch will run off down the pier after one of the sailors' sea stories and not come back.
+
+### Hooks
+
+A quest could help Garrow make the case for the second pier, find out why Halloran closed the end of the outer pier at night, or settle a count that Garrow and Hobart cannot agree on.
 
 ## Relationships
 

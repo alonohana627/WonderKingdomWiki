@@ -1,0 +1,27 @@
+Agnes is nineteen, a maid of the palace, and she cleans the upper halls: the long gallery, the royal family's rooms, the stairs that nobody but the household ever sees. She is cheerful, nosy and quick on her feet, and she hears everything. She repeats only half of it. Osbert, the Royal Steward, says that is still half too much. Agnes says that if he knew what the other half was, he would thank her.
+
+### The kitchen girl
+
+She grew up in the palace kitchens, where her father Cuthbert is the royal cook. Her mother, Juliana, who kept the palace's stillroom and made its preserves, died of a winter fever when Agnes was six, and after that Agnes was raised among the pots, under the long table, on a stool by the bread oven, and by the whole kitchen at once. Cuthbert is loud, red-faced and generous; he shouts at the pots and sings to the bread, and Agnes learned to talk over both before she could reach the table. She also learned that a kitchen is the best place in any house to hear things. Everything comes through it in the end: the trays, the messengers, the gossip and the dirty boots.
+
+At fourteen, five years ago, she asked Osbert for a place in the household rather than the kitchen. Cuthbert was hurt for about a day and then proud for the rest of the year. Osbert started her on the lower corridors, and two years ago, after watching her for three years without a word of praise, he gave her the upper halls. Agnes treasures this more than she lets him see, because she knows Osbert's praise is so rare that the staff count it.
+
+### The upper halls
+
+Her days start early and run at a trot. Fires laid, grates swept, beds made, floors polished, linen counted against the list Osbert checks, and all of it done without being seen, which is a palace maid's whole art. She has a friend in Peterkin, the page, who runs everywhere and tells her everything he carries, and she trades him news for biscuits from her father's kitchen. Sybil, the wardrobe mistress, is the one person in the palace Agnes cannot get a single story out of, and Agnes has decided to regard this as a challenge rather than a defeat.
+
+She makes Princess Elinor's bed every morning. And every morning, by the time she gets there, the princess is back in it, or nearly, looking innocent, and there are boots by the door with fresh mud on them.
+
+### The boots
+
+Agnes noticed the boots in the autumn. She has been noticing them ever since. The mud is not garden mud; she has cleaned enough boots in her life to know the difference. It is the mud of a yard where a great many feet go round and round on the same ground. She has worked out that the princess goes out before dawn and comes back before breakfast, and she has three theories about why, and she likes all of them: a sweetheart, a secret, or a horse. She has told no one. Not her father, not Peterkin, not Osbert. Yet.
+
+She has not decided why she is keeping quiet. Partly it is that she likes the princess, who has always been kind to her and has never once looked through her. Partly it is that a secret this good is worth more kept than spent. And partly, though she would not admit it, it is that she suspects Osbert already knows, and she would very much like to know what he is going to do about it before she does anything at all.
+
+### What she wants and fears
+
+Agnes wants to be trusted with something that matters, and she wants, one day, to be the person in the palace who knows everything, as Osbert does now. What she fears is the day she repeats the wrong half.
+
+### Hooks
+
+A quest might begin with Agnes finding something in the upper halls that should not be there, and needing someone from outside the palace to find out where it came from. Or it might begin with the princess's boots one morning not coming back at all.

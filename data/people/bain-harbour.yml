@@ -162,7 +162,7 @@ npcs:
     place: Docks
     age: adult
     personality: Patient, still and serious, a man who can wait for hours without moving. He laughs rarely but completely.
-    story: Tristram hunted big fish until the Disturbance, and now captains hire him to stand at the bow with his harpoon in deep water. He wants to know what is down there before anyone else does.
+    story: Tristram hunted big fish until the deep water turned strange, and now captains hire him to stand at the bow with his harpoon in deep water. He wants to know what is down there before anyone else does.
 
   - id: alwyn
     name: Alwyn
@@ -239,7 +239,7 @@ npcs:
     age: adult
     sells: Fresh fish, smoked fish and crab
     personality: Loud, quick-witted and generous, with a voice that carries across the whole fish market. She can gut a fish faster than you can name it.
-    story: Gwennol's family has sold fish in Bain Harbour since it was just a cove. Her catches have grown smaller and stranger since the Disturbance, and she has started throwing back fish she does not recognise.
+    story: Gwennol's family has sold fish in Bain Harbour since it was just a cove. Her catches have grown smaller and stranger since the deep water turned strange, and she has started throwing back fish she does not recognise.
 
   - id: cobb
     name: Cobb
@@ -400,7 +400,7 @@ npcs:
     place: Fish Market
     age: adult
     personality: Lazy, greedy and dignified. She sleeps in the sun on the fish market steps and accepts tribute from all who pass.
-    story: Barnacle belongs to nobody and to everybody. The fishmongers say she will not go near the water's edge since the Disturbance began, and that she is smarter than all of them.
+    story: Barnacle belongs to nobody and to everybody. The fishmongers say she will not go near the water's edge any more, and that she is smarter than all of them.
 
   - id: maren
     name: Maren

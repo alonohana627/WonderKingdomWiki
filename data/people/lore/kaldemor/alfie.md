@@ -1,0 +1,27 @@
+You can tell how Alfie's day is going from the far end of the Workshops lane. When the work is going well, he hums, a low, tuneless, contented sound that keeps time with his plane. When it is not, he goes silent, and the whole lane goes a little quieter with him. He is fifty-two, careful, patient and proud of a square joint, with a carpenter's pencil behind one ear and a folding rule in his apron that is older than his apprentice. He measures three times and cuts once. He has never in his life cut twice.
+
+### The guild
+
+Alfie leads the Carpenters' Guild of Kaldemor, which is to say that when something wooden in town needs mending, building or arguing about, it ends up on his bench. He was born in Kaldemor, the son of a joiner (dead these twenty years), and was apprenticed at thirteen to old Fennick, who led the guild before him. Fennick died fifteen years ago, and the carpenters chose Alfie to lead them in his place, mostly, they said, because nobody else would ever be as fussy about a joint.
+
+The guild's great charge is the great treehouse behind the town square, the oldest building in Kaldemor, and Alfie keeps it in repair: its stairs, its rails, its rooms and Lottie's schoolroom at the top, and the old beams that tie the rooms into the living tree. He also keeps the stairs of the clock tower in the Park, which is how he and Ewan became friends. Ewan cannot bear dust or anyone touching things that swing; Alfie cannot bear a loose tread or a joint that has been rushed. They understood each other at once. They still meet most evenings at the foot of the tower and say very little about clocks and stairs for an hour.
+
+Ten years ago, when Quill came to Kaldemor, it was Alfie's carpenters who built the Gauntlet in the Park to Quill's drawings: the yard fences, the hanging course of ropes, logs and platforms, and the ring for the last stand. Alfie checks the hanging course himself every spring, because young warriors fall off it and he would like them to fall off it on purpose.
+
+### Archie
+
+Alfie's apprentice is Archie, who is seventeen, eager, careless and full of big ideas, and who starts three things before finishing one. Alfie took him on three years ago and has not regretted it, though he has frequently regretted particular afternoons. Archie wants to build a treehouse taller than the great one. Alfie wants him to finish a dovetail. They both think the other is missing the point, and both are a little right. Alfie is gentler with him than he lets the boy see, because he remembers being careless once himself, under Fennick, and remembers being forgiven.
+
+### The carving
+
+Early this spring, before the clock stopped, Alfie took down an old beam in the treehouse that had begun to split where it met the trunk. He had sent Archie off for nails. When the beam came away, he found that its hidden face, the side that had lain against the living tree for longer than anyone remembers, was carved. Not scratched: carved, carefully, by someone with a good blade and a steady hand. And in places the bark of the trunk had grown over the edge of the carving, which meant it was very old indeed.
+
+He has not been able to explain it, and he has told only one person: Ewan, because Ewan knows how to keep a thing and listen to it. Ewan came, looked for a long time, and went away without a word, and he has been back to look at it since. Alfie put the old beam back in its place, cradled in new oak, so that the carving lies hidden again. He will not describe it in the Workshops, and if you ask him what it shows, he goes silent, which tells you that it is not going well.
+
+### What he wants and fears
+
+Alfie wants the treehouse to stand another thousand years, and he would like to know who carved that beam, and why, and why there. He fears that the answer matters more than a carpenter has any business knowing. He also fears, in a smaller, everyday way, that Archie will one day hurt himself rushing, and that it will be Alfie's fault for not catching it.
+
+### Hooks
+
+Alfie might one day ask a traveller to keep watch while he takes the beam down again, by lantern, to make a rubbing of the carving for someone wiser than himself. Or he might find, while mending the clock tower stairs, that another hand has been at the ladder, and have to decide whom to ask about it first.

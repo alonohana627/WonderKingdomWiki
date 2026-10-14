@@ -15,9 +15,35 @@
 
 Nimble, nosy and fearless in all the wrong places. Scrap collects lost things and gives them names.
 
-## Story
+## Lore
 
-Scrap is Vane's daughter and has never once used the stairs. She wants to be an adventurer like Shade and practices sneaking on everyone.
+Scrap has never once used the stairs. Not to go to the market, not to visit the Great Hall, not even the time she was carrying a bowl of soup. Scrap goes by rooftop, by plank bridge, by drainpipe, washing line and, when Rivet is not looking, the lift. She is nine years old, nimble and nosy, small enough to fit through gaps that grown-ups have forgotten exist, and fearless in all the wrong places. The rooftop folk have long since stopped shouting when they see her balanced on a chimney pot; they just shout her name, so she knows someone is watching.
+
+### Vane's daughter
+
+Scrap is the daughter of Vane, who builds and mends the plank bridges between the rooftops and knows every one of them by name. Scrap learned to walk on those bridges, and to read a plank by the sound it makes underfoot before she could read a word. She tests planks the way Vane does, by jumping on them, which is the part of her upbringing Vane most regrets.
+
+Vane is trying very hard to raise her well, with regular meals, clean ears and a sense of where the edge of a roof is. Scrap agrees with the first of these and has opinions about the others. She loves Vane fiercely and shows it by turning up at every bridge Vane is mending, handing over nails nobody asked for and asking why the job is taking so long.
+
+### Lost things
+
+Scrap collects lost things and gives them names. A brass button called Sir Wobble. A single glove called Lefty, who is still waiting for Righty to turn up. A cracked lantern pane from one of the outer towers, which she found in the gutter one morning and named Bad News without being able to say why. Her collection lives in a biscuit tin under a loose slate on Vane's roof, and she will show it to anyone who promises not to tell, which means everyone has seen it.
+
+She is also, for her size, an extremely good finder. If something has rolled under a bridge, fallen down a chimney or been lost on a rooftop since last spring, Scrap probably knows where it is, and might give it back if it has not been named yet.
+
+### Ladle
+
+Hester Cray, called Ladle, runs the skewer stall at the Night Market, the first one lit and the last one dark. Ladle feeds a few of the rooftop children for free and pretends not to know she is doing it. Scrap is one of them. She is not hungry for want of supper; she is simply always hungry, and Ladle's pepper buns are better than anything else on Veligor. Scrap pays her back with gossip from the Rooftops, delivered upside down from the awning frame, and considers Ladle one of her best friends.
+
+### Shade
+
+Above all, Scrap wants to be an adventurer like Shade, the knife-thrower who guides travelers along the roads into the city. Shade never misses and never brags, and Scrap has decided this is the most impressive way a person can be. She practices sneaking on everyone: on Perch's pigeons, on Old Parsnip among his tubs, on Kite and Splash, and on Shade most of all. She has never once caught Shade unawares. Shade pretends not to have noticed her following, and has quietly taught her how to fall without breaking anything.
+
+### What she wants and fears
+
+Scrap wants to go out through the gate and see the roads Shade talks about. Vane dreads the day she tries. What Scrap fears, though she would never say it, is that the grown-ups will decide she is too big for the rooftops one day and make her use the stairs.
+
+A quest might find something Scrap has lost and not yet named, follow her across the rooftops after she slips away on a dare, or ask her where to find an object nobody else can locate.
 
 ## Relationships
 

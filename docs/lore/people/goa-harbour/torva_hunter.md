@@ -15,9 +15,37 @@
 
 Cool, scarred and dryly funny; she never boasts and never misses.
 
-## Story
+## Lore
 
-Torva leads the hunters who keep the monsters of the wild coast away from the town's paths and timber crews. Each year there are more of them and they come closer, and she wants to know why.
+Torva is thirty-six and leads the hunters of the wild coast, the small band who keep the monsters of the forest and the shore away from Goa Harbour's paths and timber crews. She is cool, scarred and dryly funny. She never boasts and never misses, and in a town that loves a story as much as Goa Harbour does, the fact that she will not tell hers has only made people tell it for her.
+
+### Where she comes from
+
+Torva grew up on the Forest Shore, where the trees come down to the rocks and the timber crews float their logs round to the quay. Her mother, Una, was a timber cutter, and Torva spent her childhood running between the stumps with a sling. Una was killed by a falling tree when Torva was eleven, and the girl went to live with whichever crew family had room. She learned to track from the old hunters who came through, to shoot from anyone who would lend her a bow, and to keep her feelings somewhere nobody could reach them.
+
+She has led the hunters for nine years. Nobody exactly chose her. The others simply started waiting for her before they went out, and after a while it became true.
+
+### The work
+
+Torva's days begin at the Gap Inn, where Bethoc keeps a board of monster sightings on the wall. Torva reads it every morning, says nothing, and then sends her hunters where the board says the trouble is worst. She walks the forest paths, checks the edges of the timber crews' cutting, and goes down onto the wild coast where things come out of the trees at night.
+
+Her hunting partner is Caddoc, the trapper, who complains about everything and has never once quit. They have worked side by side for years and trust each other completely, which neither of them would say aloud. Lately something has been springing Caddoc's biggest traps without being caught, and Torva has started going out with him to watch them, which worries him more than the traps do.
+
+Her apprentice is Kenna, the newest of her hunters: proud, quick to anger, and desperate to bring down something big enough to be talked about at the Gap Inn. Torva sees a great deal of herself in Kenna and is working hard to make sure Kenna does not learn the same lessons the same way.
+
+### Scars and friends
+
+Torva carries a long scar along her jaw from a creature that came up the cliffs three winters ago, and several smaller ones she will not discuss. Elspeth, the healer, has stitched most of them. Elspeth scolds Torva every time and tucks her in anyway, and Torva is the only person in Goa Harbour who does exactly what Elspeth says, because Elspeth is the only person who has ever frightened her.
+
+Moira, of the Cliff Watch, admires Torva openly and would rather be out on the wild coast with her than guarding the stairs. Torva counts Moira a friend and has told her, more than once, that the stairs need her more. And then there is Fionn, the stair runner, who follows the hunters to the edge of the forest whenever he can and thinks nobody has noticed. Torva noticed the first time. She lets him come as far as the last stump and no farther, and makes sure one of her hunters is always between him and the trees.
+
+### What she wants to know
+
+Every year there are more monsters on the wild coast, and every year they come closer to the town. Torva wants to know why. She has heard the old stories about the Balrog, and the talk that drifts up the coast about the deep places of the island, but she trusts what she can track, not what she is told. What she has tracked is this: the creatures are not just more numerous, they are coming from deeper in the forest, as if something there were pushing them out.
+
+### Hooks
+
+A quest might go with Torva into the deep forest to find where the monsters are coming from, help Caddoc catch whatever is springing his traps, or keep an eye on Fionn on a day Torva cannot.
 
 ## Relationships
 

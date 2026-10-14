@@ -15,9 +15,31 @@
 
 Dreamy, curious and always wandering off; he collects shells, feathers and anything that glows.
 
-## Story
+## Lore
 
-Ronan found a strange smooth stone in a tide pool that he keeps hidden in his pocket. He wants to go with the adventurers to the sea caves, which nobody will allow.
+Ronan is seven, the younger child of Sorcha and Calder, and the boy the Fishers' Coves are most often out looking for. He is dreamy, curious and always wandering off, not because he means to disobey but because there is always something a little further along the shore that needs looking at. He collects shells, feathers, sea-glass, gull bones and anything at all that glows, and he keeps the best of them in a driftwood box under his bed that nobody else is allowed to open.
+
+### A wandering boy
+
+Ronan was born in the coves and has never known anything but the sound of the sea. His mother shouts his name along the shore most evenings, and he usually answers from somewhere surprising: up a rope on the drying racks, inside an upturned boat, waist-deep in a tide pool with his sleeves soaked. His sister Eilidh, three years older, keeps him in line as well as anyone can, which is to say not very. He complains about her bossing and follows her everywhere. When she goes out onto the cove rocks in the evening to read the tide with her best friend Arlo, Ronan comes too and looks for crabs while they argue.
+
+His father is the one he tells things to. Calder listens to every story about every shell as if it were the most important news in Goa Harbour, and Ronan loves him for it. His grandmother Agna calls him "the magpie" and saves him the odd bright thing she finds snagged in the nets.
+
+### The stone
+
+Last autumn, at the bottom of the deepest tide pool beyond the far cove, Ronan found a stone unlike any other. It is smooth as an egg, dark grey with a paler band around it, and it fits exactly in his closed hand. It is always faintly warm, even in the cold, and on very dark nights Ronan is almost certain it glows, just a little, if he holds it near the water.
+
+He keeps it hidden in his pocket and tells nobody. He showed it once to his father, who looked at it for a long time and then promised not to tell anyone, which Ronan thought was the right answer. He has not shown it to Eilidh, because she would make him give it to a grown-up, and he is not ready to give it to anyone. He does not know what it is. Nobody does. Sometimes, when he holds it, he has the feeling it wants to go back into the sea, and sometimes he has the feeling it is very glad not to be there.
+
+### Lachlan and the caves
+
+Ronan's hero is Lachlan, the adventurer, who grew up in the coves too and who means to be the first to map the sea caves under the cliffs. Lachlan once let Ronan carry his coil of rope down to the quay, and Ronan has not stopped talking about it since. Ronan wants to go with the adventurers to the sea caves more than he has ever wanted anything, and nobody will allow it. His mother says no. His father says no, more gently. Eilidh says no and tells their mother he asked. Even Lachlan, laughing, says "when you are bigger."
+
+Ronan has heard that Gwenna the outfitter keeps a list of people who went into the sea caves and did not come back. He thinks about that list at night. It frightens him, and it does not stop him wanting to go.
+
+### Hooks
+
+A quest might begin with Ronan missing from the coves at dusk, and a trail of shells leading toward the cliff caves. Another might start the night his stone glows brightly enough for someone else to see.
 
 ## Relationships
 

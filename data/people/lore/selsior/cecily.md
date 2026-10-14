@@ -1,0 +1,23 @@
+Cecily is nineteen, a singer of the Gilded Stage, and offstage you could walk past her three times without noticing. She speaks quietly, looks at her shoes, and apologises to doors she bumps into. Then the house lights dim between the acts, she steps out alone in front of the curtain, and a voice comes out of her that fills the whole theatre to the gallery rail and seems to be looking for more room. She is shy off stage and fearless on it, and nobody, Cecily least of all, can quite explain how the same person manages both.
+
+### The fishing village
+
+She grew up in a fishing village on the coast, a long way from Selsior, a row of tarred cottages above a shingle beach where the boats were drawn up at night. Her family still live there, and still fish, and write to her when someone passes inland who can carry a letter. She learned to sing mending nets with the women on the shingle, hauling songs and long sea ballads with forty verses, and she sang loudest when the wind was strongest, because it was the only time nobody could hear her properly. Then one winter evening the wind dropped in the middle of a verse, and the whole beach heard her, and nobody spoke until she had finished.
+
+She came to Selsior at sixteen, three years ago, riding inland on a fish carrier's cart with a bundle and a letter for a cousin of a neighbour who turned out to have moved away. She took work scrubbing pots in a Theatre Row cookshop. She sang while she scrubbed, very quietly, and one afternoon she sang a little less quietly in the queue for the Gilded Stage's cheap gallery, and Lavinia, who was passing and misses nothing that might sell a ticket, stopped, listened to an entire verse, and told her to come to the stage door at six.
+
+### Between the acts
+
+For two years now she has sung between the acts at the Gilded Stage, while the stagehands change the scenery behind the curtain. It is meant to be the part of the evening when the audience buys oranges and talks. Lately the audience has stopped talking. Tibb, who works the ropes, gives her a nod from the fly rail when the scene change is nearly done, so that she always knows how many verses she has left, and she has never once run out. Marigold, Crispin and Rosamund's daughter, has told her she would be a great actress if she could only learn to be rude to people, and Cecily is thinking about it.
+
+### Fulke's ballads
+
+On her free afternoons she goes to the plaza to learn the old ballads from Fulke, the ballad singer, who sings the Balrog War four different ways and the rest of his songs mostly true. He teaches her the true verses first, he says, and then the good ones, and then she must decide for herself. Cecily has noticed that his voice goes up half a tone on some verses and not on others, and she is too polite to ask why. She thinks he is the finest singer in the city. Fulke thinks she will be better than him one day, and has told everyone on the plaza except her.
+
+In return she has taught him the sea songs from her village. One of the newest of them, which her mother sent in a letter last winter, is about something the boats have started to see beyond the shallows at dusk. Fulke made her sing it three times and then sat very still.
+
+### What she wants and fears
+
+Cecily dreams of singing at a royal feast, in the palace, for the queen, one song from every town of the kingdom one after another. She has not told anyone this except her mother, in a letter. She knows that Clement the herald must have a say in who performs at the palace, and she has walked past him on the plaza four times meaning to ask and has not managed to open her mouth. What she fears is that the shy half of her will win on the one night it matters.
+
+A quest might begin with Cecily needing someone to carry a song from her village back to the coast and bring the rest of its verses home, or with her needing someone braver than herself to speak to the herald for her.

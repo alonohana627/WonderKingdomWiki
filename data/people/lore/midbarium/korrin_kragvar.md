@@ -1,0 +1,23 @@
+Korrin is nine years old, the youngest child of Dorrek, chieftain of the Kragvar, and Gorra, who keeps the stone cisterns that water the terraces. He is bold, scabby-kneed and always climbing something he was told not to climb, and the whole Kragvar Quarter has learned to look up first when it hears a small boy laughing somewhere it cannot see him.
+
+### A Kragvar who looks the wrong way
+
+Every Kragvar child grows up with stone in their hands. Korrin's sister Brakka, ten years older, was chiselling patterns into the doorstep before she could spell her name, and she is now apprenticed to their father's cousin Vosk, the master of bridges. Korrin has tried. He can split a flat stone well enough, and he once carved a goat that his grandfather Ulm kindly said looked very like a goat. But Korrin does not look at stone the way his family does. When a Kragvar looks at a cliff, they see what could be cut from it. When Korrin looks at a cliff, he sees a way up.
+
+What he wants, more than anything, is to join the Uskari on the trail watch when he grows up. He has said so at the family table more times than anyone can count, and every time the Kragvar laugh: a chieftain's son, born to the oldest masons in the highlands, walking the rim with a bow like a hunter. They find it very funny and slightly insulting, and Korrin has learned to laugh with them and change his mind not one bit. His hero is Bekk, Skarra's son and the fastest climber on the Uskari Rim, who is kind to children and lets Korrin trail after him in the small admiring crowd that always seems to follow Bekk around. Korrin has copied the way Bekk ties his boots, and the way he squints at the horizon as if something is always about to appear on it.
+
+He does not know that his father, after laughing loudest at the table, has quietly asked the Uskari how young they take recruits.
+
+### Kesh and the lookout
+
+Korrin's best friend is Kesh, Harra and Yarrek's son from the Tolmach camps. Their families are neighbours over water: Gorra and Yarrek share the terrace cisterns and argue amiably about every bucket, and the two boys met as small children hiding under the same cistern lid. They have been inseparable since. Kesh talks and Korrin climbs, and between them they know every handhold and every rumour on the terraces.
+
+Above the terraces, on a ledge only two boys would think was safe, they have a secret lookout. They built a low wall of stones there, which Korrin insists is proper Kragvar work and which Brakka has privately inspected and found surprisingly sound. From the lookout they watch the canyon trails for monsters. So far they have mostly seen eagles, a lost goat and, once, Tavi of the Uskari walking the worst stretch of trail at dusk, which they agreed was the bravest thing they had ever seen.
+
+### Grandfather and the fire
+
+Korrin is the only person in Midbarium who is allowed to sit on the woodpile beside the council fire while his grandfather Ulm tends it. Ulm tells him the old Kragvar songs about the fighters who stayed beneath the World Tree, and Korrin, who loves a good climb and a good fight, thinks they must have been the bravest Kragvar of all. He has asked his grandfather whether they had to climb down to get there. Ulm said nobody knows, and Korrin has been thinking about it ever since.
+
+### Hooks
+
+Lately, the eagles are not the only things the boys have seen from the lookout. Twice they have spotted something moving along the far canyon bridge after dark, and they have told no one, because then they would have to explain where they were. A quest might coax the secret out of them, or begin with Korrin missing after supper and his parents searching every ledge in the town.

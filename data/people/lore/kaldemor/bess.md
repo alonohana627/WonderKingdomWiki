@@ -1,0 +1,25 @@
+"You should have come sooner," says Bess, before she has even looked at the wound. She is usually right. She is sixty-four, short, square and brisk, with grey hair cropped close so it never gets in the poultice, sleeves rolled to the elbow and a canvas apron whose pockets clink with little jars. She is the town's healer, and her stall in Kaldemor Market, under a green awning hung with drying bunches of yarrow, mint and feverfew, is where the cuts, bites, sprains and snail nips of Kaldemor come to be bound. She trusts a leaf over a potion every time, and she will tell you why at length while she cleans your arm, so that you hardly notice it stinging.
+
+### Mother Sedge
+
+Bess and her younger brother Bram grew up in a narrow house on the lane behind the Market, the children of a Market porter and a woman who took in washing, both dead these many years. Bess is thirteen years older than Bram, and she half raised him, which she has never let him forget either. When she was fourteen she cut her hand to the bone on a sickle in a neighbour's field, and old Mother Sedge, the herb-woman who kept the green awning then, sewed it up, packed it with moss and comfrey, and told her she should have come sooner. Bess went back the next day to see how the comfrey worked, and the day after that, and Mother Sedge, who had no daughter, gave in and taught her everything: which leaf for which ill, how to dry them, when to pick, and when to send for help because no leaf will do. Mother Sedge died when Bess was twenty-six, and Bess has kept the green awning for thirty-eight years. She never married. She says she has been far too busy patching up other people's husbands.
+
+### Bram
+
+Her brother Bram keeps the potion stall under the striped awning at the far end of the same Market, and they have been arguing since he could talk. She tells him his potions are only herbs in a hurry. He tells her that her teas are only potions that gave up. They have both said it so often that the Market says it with them. Bess thinks Bram is a fine brewer who has never once listened to anyone in his life, and that he sends young people out to the fields with a bottle in their pocket and a false sense of safety. Bram thinks Bess is a fine healer who would let someone wait an hour for a poultice to draw when a red potion would close the wound in a breath. Each privately thinks the other is doing the more important work. Neither would say so under torture.
+
+When a bad bite comes in, though, they stop. Bess cleans and packs and binds; Bram brings the potions and holds the lamp; and they work side by side without a word, and the whole Market goes quiet, because that is how everyone knows it is serious. Afterwards they go back to arguing, a little more gently, for about a day.
+
+She knows all about Rosa and the green bread. She told Bram nine years ago that he should apologise, and has told him so every spring since. He has not. She buys Rosa's bread twice a week and, on one of those days, puts a slice on Bram's counter without a word.
+
+### More nips than ever
+
+Bess has treated more snail nips this year than in any year she can remember, and she keeps count, the way her teacher did, in a little book with a mark for every wound. Most are simple: a green snail's nip is a bruise and a scolding. But the bites coming in from the far edge of the meadow, and from the woods past the hills, are worse than they were. They are deeper, they swell faster, and some of them do not want to close, even under comfrey, even under Bram's red potion. Bess has started keeping a separate page for those. She has shown it to Bram, and he did not argue, which frightened her more than anything on the page.
+
+### What she wants and fears
+
+Bess wants the young people of Kaldemor to come to her sooner, and preferably not at all. She wants an apprentice with steady hands and the sense to listen. She fears the day a wound comes in that neither leaf nor potion can close, and she fears that her separate page is filling up faster every week.
+
+### Hooks
+
+Bess needs fresh comfrey, marshwort and a moss that grows only on the shady side of the old stones past the hills, and she would send a traveller to gather them if she could trust them to pick the right leaves. Or she might ask a traveller to help her work out why some of this year's bites will not heal, and what has changed in the creatures that make them.

@@ -15,9 +15,35 @@
 
 Earnest, careful and quick to say what nobody knows. She hates a good story that is not true.
 
-## Story
+## Lore
 
-Thomasin compares the four peoples' accounts of the Balrog War and refuses to call any one of them right. Lately she has been asked to lecture far more often, and she does not like why.
+Thomasin is thirty-nine, the Royal Academy's historian of the Balrog War, and the most common thing she says in a lecture is "nobody knows". She says it plainly and without apology, and then she tells you exactly what each of the four peoples believes instead, and who wrote it down, and when, and why they might have wanted it told that way. She is earnest, careful and quick to admit the edges of her knowledge. What she cannot bear is a good story that is not true, and the Balrog War is full of them.
+
+### Four grandmothers' tales
+
+She grew up in a back street behind the Crown Market, raised by her grandmother Wendreda, who sold ribbons from a tray and told stories to anyone who bought more than a yard. Thomasin's parents died when she was too small to remember them, and Wendreda's stories filled the space they left. The trouble was that Wendreda told the Balrog War differently depending on who was listening. For a highland herder she told the horned giant wreathed in flame; for a forest customer, the wound in the world; for a Commons housewife, simply the Burning. When Thomasin, aged eight, asked which one was true, her grandmother laughed and said, "Whichever sells the ribbon." Thomasin did not think that was an answer. She has been looking for a better one ever since.
+
+She came to the Academy at fifteen, twenty-four years ago, on the strength of an essay that compared two ballads of the Last Stand line by line and found they disagreed about which day of the battle it was. Bartholomew, already a senior teacher then, read it, sent for her, and asked her which ballad was right. She said she did not know yet. He has been her mentor from that afternoon, and she is, by common agreement on the Scholars' Quarter, his protegee, though he would say she was always going to be stubborn without his help. Wendreda died in Thomasin's second year at the Academy, and Thomasin still keeps her ribbon tray on her desk, full of pens.
+
+### The work
+
+Thomasin has taught at the Academy for fourteen years. Her work is simple to describe and endless to do: she sets the four peoples' accounts of the war side by side, the Savage songs, the Magician records, the Commons tales and the Aristocrat chronicles, and she refuses to call any one of them right. Her students hate this for about a season and then, the good ones, come to love it. She teaches them to ask who was standing where when a thing was seen, and who was paid to remember it.
+
+She spends much of her time in the great library, and Benedict, the Head Librarian, has long since stopped pretending he does not keep the best desk for her. She knows the story of his missing volume of the Aristocrat chronicles as well as he does, and lately she asks him about it more often. Benedict thinks she suspects him of something. She does not. What she has begun to suspect, reading the rest of the set, is that the volume did not wander off by accident, and that someone who knew what it was wanted it out of the library. She has no proof, no name and no wish to say any of it aloud to an old man who has blamed himself for eighteen years.
+
+### Crispin
+
+Her friend Crispin, the playwright of the Gilded Stage, comes to her every week with the same question in a different coat: what was the Balrog, really? She gives him the four accounts and he goes away annoyed. She reads his drafts of the Balrog War play, all four acts, and she will not choose his ending for him. Privately she likes the one where the creature never appears and the audience sees only its light on the actors' faces, because it is the only ending that does not pretend to know. She has not told him so. He would put it in a programme note with her name on it.
+
+### The lectures
+
+Thomasin used to give one public lecture a season, to a polite half-full room. This spring she has been asked to speak nearly every week: by guilds, by market traders, by the parents of new Guard recruits, by a crowd at the Gilded Stage that came because the play is coming. She does not like why. The people in those rooms are not curious; they are frightened. They do not ask what happened at the Tree. They ask how it was done, and whether it could be done again, and they want her to promise that the seal will hold. She cannot promise that, and she will not tell them a good story instead.
+
+### What she wants and fears
+
+Thomasin wants the truth of the war, even a little more of it than anyone has now, and she wants the kingdom to be brave enough to live with the parts that cannot be known. What she fears is the day a frightened crowd stops asking for history and starts asking her for a story she will not tell, and someone less careful tells it to them instead.
+
+A quest might begin with Thomasin needing an account of the war from another town copied word for word, not retold, or with her asking someone to find out quietly who borrowed books in the great library on a particular afternoon eighteen years ago.
 
 ## Relationships
 

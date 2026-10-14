@@ -1,0 +1,21 @@
+Cormac is seventy-nine and the oldest shanty singer in Goa Harbour. He sings the songs of the shared camp, from the days when Savage hunters and Magicians first fished the inlet together, and he sings them at the Gap Inn most nights from the same seat by the fire that he has had since Bethoc's father kept the inn. He is theatrical, sentimental and a shameless flatterer. He tells every landlady she has the finest ale on Veligor, every fisher that his catch is the stuff of songs, and every child that they have a singer's ear. Then he sings, and weeps at his own verses, and the remarkable thing is that by the end of the song most of the room is weeping with him.
+
+### A life of songs
+
+Cormac grew up on the Lantern Market, the son of a sailmaker who sang at his work, and he learned the camp songs the way children in Goa Harbour used to, from everyone at once: the net-menders in the coves, the old pilots on the quay, the drovers coming down from the hills. He tried being a sailmaker himself and was dreadful at it. He tried crewing a trading ship and spent the whole voyage singing to the crew instead of working. By twenty he had given up pretending, and he has sung for his supper ever since.
+
+The finest voice he ever heard belonged to Morven of the coves, who knew more of the old verses than anyone alive. They sang together for forty years and argued for most of them about which of their versions was right. When she died, twenty years ago, Cormac sang at the shore for her and could not finish. He still thinks she knew things he does not. Her grandson Calder, the quiet fisher, hums some of her verses while he mends his nets, and Cormac has tried more than once to coax them out of him over a cup at the Gap Inn. Calder only smiles.
+
+### The inn and the pupil
+
+The Gap Inn is Cormac's home in every way but the bed. Bethoc, who keeps it now, has known him all her life. She lets him flatter her into a free cup most evenings and pretends she does not know exactly what he is doing. Mhairi, the fiddler, was his pupil: he taught her the old tunes when she was a girl who could barely hold the bow, and now she plays them faster than he can sing them, on purpose, to make him laugh. He calls her the best thing he has ever done. She is writing a song about the summer race, and he is quietly hurt that she has not asked him for a single verse of it.
+
+### The verse about the gap
+
+Cormac swears that he knows a verse about the gap that nobody else remembers. He learned it as a boy from an old pilot on the quay who made him repeat it until he had it perfectly, and told him to keep it. He has sung the first line of it at the Gap Inn a few times, something about the hour the water forgets, and then stopped, and refused to go on, and wept. People think it is one of his performances. It is not. He has never been sure he has the end of it right, and he believes Morven had another version, and that Calder may have heard it.
+
+He swears the verse is important. He cannot say why, only that the old pilot was frightened when he taught it, and Cormac has never forgotten the look on his face. Lately, with the sea growing rougher and the talk in the inn turning to strange things in the water, he has started to feel that he is running out of time to find out.
+
+### Hooks
+
+A quest might coax Morven's verses out of Calder for Cormac, carry the gap verse to Ailsa at the Wardens' House to see if it matches anything in the Tide Book, or simply persuade Cormac to sing the whole verse through once to the right listener.

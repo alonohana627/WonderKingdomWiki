@@ -15,9 +15,31 @@
 
 Steady, broad-shouldered and few-worded; he trusts a good rope more than a good speech.
 
-## Story
+## Lore
 
-Ruan leads the small watch that guards the cliff stairs and the paths down from the forest. Since the Disturbance began, creatures have started climbing the cliffs at night, and he wants more lanterns on the high landings.
+Ruan is forty-three and the Captain of the Cliff Watch, the small band of guards who keep the cliff stairs of Goa Harbour and the paths that come down to them from the forest. He is steady, broad-shouldered and few-worded. He trusts a good rope more than a good speech, and he tests every rope on the cliffs himself, once a month, by hanging his whole weight off it. The rope-makers find this flattering. Kestra, who strings the bridges, finds it insulting, and Ruan tests hers twice.
+
+### The watch
+
+Ruan grew up in a cliff house above the Long Stair and joined the watch at eighteen, when it was a sleepy post for men too old to fish and boys too young to sail. He has been its captain for ten years. In that time the Age of Disturbance has turned the post into real work, and the watch has grown from a handful of guards to a dozen, which is still not enough. They stand on the high landings where the forest paths reach the top of the cliffs, walk the stairs at night with lanterns, and ring the iron bar at the head of the Long Stair when something comes.
+
+Moira is the boldest of his guards, always the first to volunteer and the first up the stairs, two at a time. Ruan knows she would rather be out on the wild coast with Torva's hunters, and he knows that the stairs need her more than the hunters do, so he keeps her and says nothing about it. Dougal, the old night watchman of the quay, has been his friend since Ruan was a new recruit falling asleep at his post and Dougal kept him awake with terrible jokes. They still share a pot of tea at the bottom of the stairs at the change of the night watch.
+
+Iska, the First Warden, trusts Ruan with the cliffs the way she trusts her wardens with the water, and he reports to her every week at the Wardens' House. He keeps the reports short. She has never once asked him to make them longer.
+
+### The climbing things
+
+Three winters ago, Ruan's watch saw the first creature come up the cliff face itself rather than down the forest paths. It reached the high landing before anyone could stop it, and it took Torva and two of her hunters to drive it back over the edge. Ruan held the lantern while Elspeth stitched Torva's jaw that night, and he has not forgotten it. Since then the climbers have come more often, always at night, always on the darkest stretches of the cliff.
+
+Ruan's answer is light. He wants lanterns on every high landing, the forest-crafted kind that Gunna makes, which burn steady in any wind. Gunna has told him a good lantern cannot be hurried, and he believes her, which does not make the nights shorter. Her apprentice Tarran has promised him something brighter, sooner. Ruan has not said no.
+
+### What he is carrying
+
+Two people have brought Ruan things they have told no one else. Dougal has found wet, clawed tracks on the lowest steps of the quay some mornings, coming up out of the water. Gorm, the Master of the Stairs, has found deep scratches in sets of four on the stone of the high landings. Ruan has not yet put the two together in front of Iska, because he wants to be sure what he is telling her. He is beginning to fear that by the time he is sure, it will be too late to matter. Things coming down from the forest he understands. Things coming up from the sea are something else.
+
+### Hooks
+
+A quest might help Ruan carry lanterns up to the high landings before dark, keep watch on the lowest quay steps with Dougal to see what leaves the tracks, or stand with the Cliff Watch on a night when the iron bar rings.
 
 ## Relationships
 

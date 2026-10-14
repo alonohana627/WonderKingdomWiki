@@ -1,0 +1,25 @@
+Pim is sixteen, a recruit of the Royal Guard, and the most cheerful person in the Knights' Court by a distance nobody has bothered to measure. The Guard takes recruits from the age of sixteen, and Pim was at the gate of the Court at dawn on his sixteenth birthday this spring, before the drill sergeant was awake, with a bundle of clothes and a speech he had been practising for two years. He forgot most of the speech. They let him in anyway.
+
+### Where he comes from
+
+Pim grew up in the old quarters with his grandmother Gisela, who raised him after his parents died of a winter fever when he was a baby. She kept a little stall that mended pots and kettles, and she was cheerful in the same unstoppable way Pim is; he says he learned it from her, along with how to whistle and how to fix a dented pan. She died two winters ago. Pim does not talk about it much. He talks about the Guard instead, which he says is the biggest family in the city, and which he joined so that he would never again come home to a quiet house.
+
+### Recruit Pim, reporting
+
+He salutes everyone, just in case: captains, sergeants, the stablemaster, visiting envoys, the cook from the palace, and once, memorably, a statue. In his first week, flustered at meeting Captain Rhys in a doorway, he saluted smartly and told the Captain to stand at ease. Rhys did, gravely, and the whole Court heard about it by supper. Pim still introduces himself to strangers with a salute and a slightly worried look, as if he is about to make the same mistake again, and occasionally he does.
+
+He is keen and clumsy in about equal measure. He trips over his own scabbard, drops his helmet in drill and puts his feet in the wrong place on every third cut. But he has never once asked to stop. When everyone else is sitting down, Pim is asking for one more round of drills, even when he can barely stand, and Drill Sergeant Bertrand, who swears he can turn anyone into a guard given a year and enough porridge, has quietly decided that Pim is going to test that claim to its limits. Bertrand bellows at him more than at anyone else. Pim considers this an honour.
+
+Captain Rhys says Pim's guard is full of holes. Pim has written the remark down and pinned it above his bunk, and every evening he works on closing one of them.
+
+### Friends and rivals
+
+His best friend is Tobe, who read every book on swordsmanship in the Scholars' Quarter before he came to the Court and is still stuck on the third cut. Tobe knows the manual by heart and Pim knows nothing by heart, so they help each other: Tobe tells Pim what he is doing wrong, and Pim makes Tobe laugh when the third cut goes wrong again. They share a bench at supper and a great deal of porridge.
+
+His rival is Avice, who walked down from the highlands to try the trials and means to be the first of their year to earn the Swordsman's rank. Avice is fierce, proud and better than Pim at nearly everything, and she trains harder when anyone is watching. Pim has decided that the best way to beat her is to watch her as often as possible. Avice has not yet worked out whether this is strategy or friendliness, and to be fair, neither has Pim.
+
+### What he wants and fears
+
+Pim wants the Swordsman's rank, and after it a place on the road patrol, riding out with the lieutenant and the older guards to keep the roads open. He fears very little, which is part of the problem. What he does fear is being sent home: being told, kindly, that the Guard is not for him.
+
+A quest might begin with Pim asking a passing traveller to drill with him after hours, or with him volunteering, far too early, for a patrol nobody wants.

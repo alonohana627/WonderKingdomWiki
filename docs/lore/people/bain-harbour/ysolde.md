@@ -15,9 +15,37 @@
 
 Solitary, wry and clear-sighted, she counts ships the way other people count sheep. She has opinions about every captain in the harbour and shares them freely.
 
-## Story
+## Lore
 
-Ysolde has kept the lighthouse lit for forty years. From the top of the tower she has seen pale lights moving under the water far out past the headland, on nights when there should be nothing there at all.
+Ysolde is the Keeper of the Light, and she has kept the lighthouse on the headland lit for forty years without missing a single night. She is seventy, solitary, wry and clear-sighted, and she counts ships the way other people count sheep. She has an opinion about every captain in Bain Harbour, formed from the top of her tower over decades of watching them come in, and she shares it with anyone who climbs high enough to hear it.
+
+### Forty years of nights
+
+Ysolde was the lighthouse keeper's daughter. Her father, old Peder, kept the light before her, and she grew up on its stairs, learning to trim a wick before she learned to tie her shoes. When Peder died forty years ago, the harbour council asked who would keep the light, and Ysolde, then thirty, said she already was. Nobody has asked since.
+
+She married Kenver, a fisherman with a fine voice and no sense of time, who used the lighthouse as his clock and said he could find home in any fog by the sound of his wife being cross with him. Their daughter Morwenna was born in the lighthouse two years after Ysolde took the light. Kenver died sixteen years ago, quite suddenly, mending his nets on the fish market steps. Ysolde lit the lamp that night as usual, because ships were out, and nobody in the harbour has ever forgotten it.
+
+### The tower and the harbour
+
+Every afternoon Ysolde trims the wicks and polishes the great lamp, and every dusk she climbs the hundred and seventeen stairs to light it, more slowly than she used to. Her knees complain. Her friend Clemence, the harbour healer, climbs up once a week with a salve for them, and the two of them sit at the top of the tower drinking tea and agreeing about most people in Bain Harbour. Clemence is the only visitor Ysolde actually invites.
+
+From the gallery she sees everything. She thinks Captain Annis is the only captain left who sails as if the sea were listening. She thinks Captain Corwin is a clock with a hull on it, which she means as a compliment. She thinks Captain Seraphine comes into the harbour far too fast and will one day meet the harbour wall, and she tells her so whenever she can. She watched Quenna learn to sail as a deck girl, and she says the Harbour Master has been deciding things too quickly ever since, and has usually been right.
+
+Morwenna has sailed with Annis for twelve years, and while she is at sea, Ysolde's grandson Ossie lives at the lighthouse. He is eight, solemn and full of questions, and he has decided to be a lighthouse keeper too. Ysolde pretends this is a bad idea and has started teaching him everything she knows.
+
+### The lights
+
+Three summers ago, on a still night, Ysolde saw pale lights moving under the water far out past the headland, where there should have been nothing at all. They moved slowly, together, like a shoal of lanterns, and then they were gone. She has seen them again since, on perhaps a dozen nights, always far out, always in deep water, and, she thinks, a little closer each summer.
+
+She has told no one. Not Clemence, not the council, not her daughter, who has troubles of her own at sea, and certainly not Ossie. She has not even written them in the lighthouse log, which Peder kept honestly before her and she has kept honestly since. She marks them instead in the margin, in a little sign of her own, and tells herself that is honest enough. She does not know what the lights are. She has her guesses, and she does not like any of them.
+
+### What she fears
+
+Ysolde is not afraid of the dark, or of storms, or of growing old in a tower. She is afraid that the lights will come close enough for everyone to see them, and that she will have to explain why she did not say so sooner.
+
+### Hooks
+
+A quest could climb the tower to keep the light on a night Ysolde's knees will not let her, decipher the marks in the margin of her log, or carry what she has seen to someone who can do something about it.
 
 ## Relationships
 

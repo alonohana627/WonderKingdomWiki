@@ -16,9 +16,41 @@
 
 Bright, quick and endlessly patient with newcomers, she answers the same question for the tenth time as if it were the first. She always knows the latest news in town before anyone else.
 
-## Story
+## Lore
 
-Lia meets every newcomer in the square and shows them the way to the Market, the Park and the fields beyond. She was the one who first spread word that the clock tower had stopped. She is courting Clem the orchard keeper and pretends nobody has noticed.
+"Welcome to Kaldemor!" says Lia, and she means it every single time, which is a great many times a day. She is twenty-three, bright, quick and endlessly patient, with a cheerful face, a satchel full of folded maps nobody ever needs, and a habit of turning up at your elbow just as you were about to look lost. She meets every newcomer in the town square, in front of the great treehouse, and shows them the way to the Market, the Park and the fields beyond. If you ask her the same question ten times, she will answer it the tenth time as if it were the first, and she will look pleased that you asked.
+
+### The roadside inn
+
+Lia was not born in Kaldemor. She grew up at a small inn on the Royal Road, a day's walk toward Selsior, which her parents still keep; they are well, they write every month, and they play no part in her life here beyond the letters. At the inn she learned two things: how to make a tired stranger feel at home before they have even put their bag down, and how to hear every piece of news on the road before the carters had finished their first cup. Travellers told her everything. She found she remembered all of it.
+
+At sixteen she came up the road to Kaldemor on a harvest cart, to sell her mother's preserves at the fair, and Mayor Tobin found her in the square giving directions to three lost carters, a goat and a very confused adventurer, none of whom she had been asked to help. He offered her a job on the spot. That was seven years ago.
+
+### Tobin
+
+Lia learned half her job from Tobin: every family's name, most of their grandparents', and the story of the one seed, which she can tell in three different lengths depending on how long the newcomer can stand still. Tobin says she does the job better than he ever did, and tells her so often. She sends every new face to him first, because he wants to meet each one, and he always asks her afterward what she thought of them. He is her mentor, and the closest thing she has to a grandfather in Kaldemor, and she worries about him more than she lets him see. She has noticed, the way she notices everything, that Mildred worries about him too.
+
+She tells newcomers the practical things: that the Market is east of the square, that Bram sells red potions and that you should carry five before you go anywhere near the fields, that people with a light over their heads have a job for you, and that the snails nibble but a potion mends it.
+
+### The news
+
+Lia always knows the latest news in Kaldemor before anyone else. Nobody quite knows how. Mostly it is because she talks to everyone, and partly because people find themselves telling her things they meant to keep. She was the one who first spread word, this spring, that the clock tower had stopped: she heard the silence from the square before breakfast and had told half the town before Ewan had come back down the tower stairs. She feels a little guilty about that, because Ewan was very upset. She went up to sit with him afterward, and told every newcomer that week that old Ewan might like some company.
+
+She has also heard, from the carters and the hunters and the farmers, a good deal that she does not tell newcomers: about the Snail King in the hollow, about the cart that never reached the harbour, and about what Pell will not say ran at his cab. She keeps those for Tobin.
+
+### Clem
+
+Lia is courting Clem the orchard keeper, and she pretends nobody has noticed. Everybody has. She asked him to dance at last autumn's harvest fair, while Jem was playing, and he went the colour of one of his own apples and said yes. Since then she walks out to the orchards most evenings to tell him the day's news, and he listens to all of it, from the top of a ladder, and she has found that she likes the news far better when he is the one listening. She waves at him across the square whenever he comes in, to make him blush. It works every time.
+
+He has told her about the roots of his trees near the woods. She has told no one, which for Lia is a declaration of love.
+
+### What she wants and fears
+
+Lia wants every newcomer to feel at home, Tobin to stay mayor for ever, and Clem to ask her a certain question before she loses patience and asks him. She fears the day she has news to spread that she cannot bear to say aloud.
+
+### Hooks
+
+A traveller Lia has welcomed might be asked to help her track a rumour back to its source before she repeats it, for once. Or Lia might ask a newcomer to carry a message out to the orchards, because she has heard something about the woods that Clem needs to know before dark.
 
 ## Relationships
 

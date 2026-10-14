@@ -1,0 +1,29 @@
+Ysra is thirty-eight, and for sixteen years she has been the Healer of the Halls. Her room is a warm alcove off the Oath Hall, lined with cots, shelves of dried roots and jars, and a basin of spring water that she changes more often than anyone thinks necessary. The Wardens come to her off the Deep Watch with scrapes from the narrow passages, burns from lanterns and torches, sprained ankles from the lower stair, and above all the deep, grey bone-weariness of shifts walked too long and too often. She is calm and gentle with all of them, and she hums the old Oath songs under her breath while she works, so that most Wardens in Cavelor associate those tunes with the smell of salve. Once Ysra has made up her mind, though, she does not move, and the Wardens have learned that arguing with her is like arguing with the rock.
+
+### The fever year
+
+Ysra was chosen at fourteen by old Healer Maudry, who had kept the healer's alcove for longer than anyone could remember and wanted someone patient to follow her. Ysra took her first turn on the Deep Watch at sixteen, like every Warden, and spent the hours between turns learning to set bones, clean wounds and tell a tired Warden from a sick one.
+
+Then, sixteen years ago, when Ysra was twenty-two, the damp fever came through the halls. It was the worst season the alcove had known in living memory. Ysra and Maudry nursed the sick for weeks on end, sleeping in turns on the floor between the cots, and Maudry caught the fever herself near the end and died of it. Ysra fought for every patient she had, and she lost some she will never stop thinking about: Maelis, Gorran's wife, who sang to her even while she burned; and Ilse and Tamm, who left a three-year-old son, Kell, for Oswin to raise. When the fever finally passed, Ysra was twenty-two and the only healer Cavelor had. Nobody asked whether she was ready. She simply kept the alcove open the next morning, and has kept it open every morning since.
+
+She does not talk about that year. But she scrubs the cots with boiled water every week, she checks the drains of the lower halls for standing damp, and when anyone in Cavelor coughs in a certain way, she is at their door before they have finished.
+
+### Rhenna
+
+Her daughter Rhenna is nine and has grown up in the alcove, fetching water and clean cloths and sitting very still while her mother tends a burn. Ysra loves her quietly and completely. She knows her daughter is shy and serious, that Annick thinks her the best pupil in years, and that she already knows the whole Oath by heart. She has noticed that Rhenna has taken to standing very straight, and she has not asked why, because she remembers being nine. What she does not know is that Rhenna counts the Wardens who come in, just as her mother does, or that the girl has lain awake since last autumn afraid of the sky. Ysra would be gentle about both, if Rhenna ever told her.
+
+In seven years Rhenna will take her first turn on the Deep Watch. Ysra tries not to count those years either.
+
+### What she sees
+
+Ysra keeps a patient book, as Maudry did before her, with a line for every Warden she treats. She has kept it for sixteen years, and the numbers tell a story she does not like. They began to climb eleven years ago, when the monsters reached the outer tunnels, and they have climbed every year since. This spring, when Brask doubled the Wardens on the lowest passages, they climbed faster. The injuries are not the worst of it. It is the tiredness: Wardens falling asleep on her cots before she has finished with them, young ones with old men's hands, people insisting they are fine while they lean on the doorframe.
+
+She takes the book to Brask every month. He reads every page, thanks her, and changes nothing, because there is no one else to put on the roster, and they both know it. Brask himself is her worst patient: he walks extra shifts on top of the ones he assigns himself, and when she scolds him he listens with great politeness and ignores every word. She has started scolding him in front of Halvara, which works slightly better.
+
+### What she wants and fears
+
+Ysra wants an apprentice, someone to learn the work before she needs to hand it on, but every pair of hands in Cavelor already belongs to the watch. She wants remedies the Root Gardens cannot grow, and she has started asking Corvan for jars of surface honey, which is the best thing she has found for burns; he gives them to her with visible pain. Most of all she wants her people to rest, and she fears that the watch is wearing them down faster than they will admit. She fears, too, that another fever could come, and that this time there would be no Maudry beside her at all.
+
+### Hooks
+
+A quest might carry Ysra's request for surface herbs and salves up the Upper Stair, perhaps to the healers and herb-growers of Fairy Forest, and bring them back down. Another might help her convince Brask, just once, to sleep through a night when he is not on the roster.

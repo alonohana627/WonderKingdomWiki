@@ -15,9 +15,31 @@
 
 Bright, boastful and generous; he makes friends in minutes and plans in seconds.
 
-## Story
+## Lore
 
-Lachlan grew up in the coves and wants to be the first to map the sea caves under the cliffs. He keeps asking Gwenna for her old maps, and she keeps saying no.
+Lachlan is twenty-two and an adventurer of the wild coast, one of the young men and women who hunt monsters and explore the cliffs and coves around Goa Harbour for pay, for glory, or simply because they cannot sit still. He is bright, boastful and generous. He makes friends in minutes and plans in seconds, and most of his plans work, which only encourages him. He buys the first round at the Gap Inn far more often than he can afford, and he tells stories there that are nearly all true.
+
+### The coves
+
+Lachlan grew up in the Fishers' Coves. His parents went off to crew the trading ships that sail round the far side of the island when he was small, and they rarely come back to Goa Harbour; he was raised by his grandfather Alasdair, a cove fisher who had been everywhere along the wild coast in a small boat and had a story about every rock. The best stories were about the sea caves, the dark mouths that open at the foot of the cliffs at low tide, where the water booms in and out and nobody sensible goes. Alasdair had been a little way in, once, as a young man, and came out faster than he went. He would never say why, and he laughed about it, and Lachlan never quite believed the laugh. Alasdair died three winters ago. Lachlan still has his old oilskin and his tide-reckoner, and uses both.
+
+### The caves
+
+Lachlan wants to be the first person to map the sea caves under the cliffs. He has started. He has a sheet of oilcloth on which he has marked every cave mouth along the cliff foot between the Inlet Quay and the far cove, with the tide at which each one can be entered and how far in he has been. The answer, so far, is not very far: a few dozen yards in most of them, a little further in two, before the light goes and the water starts to come back. Every expedition goes a little deeper. He brings back shells, odd stones and stories, and he gives most of the shells away.
+
+Gwenna, the outfitter of the Lantern Market, was an adventurer herself until a bad fall in the sea caves, and Lachlan is certain she still has maps from those days. He asks for them every time he buys rope from her, which is often. She says no every time. She tells him exactly how his plans will get him killed, and he listens, adjusts them, and comes back the next week to ask again. He knows she keeps a list of everyone who has gone into the caves and not come back. He has never asked to see it. He tells himself this is out of respect.
+
+### The boy who follows him
+
+Ronan, the dreamy younger son of Sorcha and Calder, thinks Lachlan is the greatest hero in Goa Harbour, and Lachlan, who also grew up in the coves wanting to be somewhere else, is kinder to him than he lets anyone see. He once let Ronan carry his coil of rope down to the quay, and the boy has never forgotten it. Every time Ronan asks to come to the caves, Lachlan laughs and says "when you are bigger." He has begun to worry that Ronan will not wait.
+
+### What he wants and fears
+
+Lachlan wants his name on the first true map of the sea caves, and he wants it soon, before someone else has the same idea. He fears very little in daylight. What he does not say at the Gap Inn is that in the deepest cave he has reached, at the very end of the light, he heard the water moving where the tide should have been still, and he turned back without knowing why. It was the first time he has ever turned back from anything, and he understands his grandfather's laugh a little better now.
+
+### Hooks
+
+A quest might go with Lachlan into the sea caves at the lowest tide of the month, help him wear down Gwenna for her old maps, or find Ronan at a cave mouth with Lachlan's rope before Lachlan does.
 
 ## Relationships
 

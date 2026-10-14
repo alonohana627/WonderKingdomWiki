@@ -1,0 +1,25 @@
+Simkin is seventy-six, the cobbler of the old quarters, and he has mended shoes in the same narrow lane for fifty years. He judges people by their soles. Hand him a boot and he will tell you, before you have opened your mouth, whether you walk on cobbles or grass, whether you favour your left foot, whether you stand all day or run, and whether you have been lying about any of it. He is grumpy, chatty and soft at heart, and he complains about everything except the work itself, which he loves more than he will ever say.
+
+### The shop in the lane
+
+He learned the trade from an old cobbler at the gate end of the city, who took him on at fourteen to sweep up leather scraps and kept him on because the boy never stopped asking why a heel wore down on one side. At twenty-six, fifty years ago, Simkin took the little shop in the lane, with its low door, its one window and its bench under the window where he has sat ever since. It has not changed much. The lasts hang in rows on the wall, the awls sit in their old jar, and the smell of leather and wax comes out into the lane on warm days and tells the neighbours he is in.
+
+A year after he took the shop he married Winifred, forty-nine years ago, and they have argued happily ever since. She tells stories from a stool on her doorstep every evening, and he listens from the bench, pretending to work, and corrects her when she gets the details wrong, which she does on purpose. He judges people by their soles; she judges them by their stories. The two methods agree more often than either of them admits.
+
+### Gytha and Hodge
+
+Their only child, Gytha, came late and talks faster than both of them together. She runs the washing yard in the courtyard round the corner, and she is raising her son Hodge, who is ten, with her parents' help. Simkin gives Hodge scraps of leather, small jobs at the bench and long lectures on the proper care of heels. Gytha would be glad to see the boy take up his grandfather's trade, and so would Simkin. Hodge listens politely and goes up the nearest wall.
+
+Simkin has never seen Hodge on the rooftops. He has seen his soles. The boy's boots come to the bench worn in places no street wears them, scuffed with tile grit and roof moss, and the toes are scraped in a way that means climbing. Lately the heels have been wearing in a new pattern, the way a recruit's do from planting the back foot again and again on the same patch of ground. Simkin has noticed. He has said nothing to Gytha. He has started, quietly, stitching the boy's heels twice.
+
+### More work than hands
+
+Adventurers wear out their boots faster than they used to. There are more of them, they walk further, and they come back with soles split on stone and burned on things they do not like to name. Simkin has taken on more work than his old hands can manage, and his fingers ache by evening in a way they never did. He grumbles about it all day to anyone who comes to the window. He has never turned a pair away.
+
+He has opinions about the boots he sees. Thurstan from the Crooked Lantern stamps through his heels in a season, and Simkin has told him so. Recruits from the Knights' Court come in with boots that were made for a different foot. He has seen boots this year with marks on the leather like teeth, and once a sole with a scorch in the shape of a print, and he has kept that one on the shelf behind him, not quite sure why.
+
+### What he wants and fears
+
+Simkin wants an apprentice with good hands and patience, and in his heart of hearts he wants it to be Hodge, though he knows better than to say so. What he fears is the morning his hands will not close on the awl, and the lane with no smell of leather in it.
+
+A quest might begin with a pair of boots left at Simkin's bench and never collected, with soles worn in a way he cannot explain, or with Simkin needing a rare leather from another town that the carters have stopped bringing.

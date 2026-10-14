@@ -1,0 +1,23 @@
+Wilmot is the ropemaker of Bain Harbour, and he has walked his rope walk on the Waterfront for fifty years. He is seventy-two, slow, kind and endlessly patient, and he believes that almost any problem in the world can be solved with the right knot, and that the rest can be made a good deal better by one. He hums while he works, always, and the songs he hums are sea songs older than anyone else in the harbour remembers. Ask him where he learned them and he will tell you: from the man who taught him rope, who learned them from the woman who taught him.
+
+### Fifty years of rope
+
+Wilmot came to the rope walk at twenty-two, a fisherman's son who had found he was better with lines than with fish. The rope walk then belonged to old Penrose, a ropemaker so particular that he made Wilmot spin yarn for a whole year before he would let him lay a single rope. Wilmot did not mind. He has never minded waiting for anything. When Penrose died, Wilmot took over the rope walk, and he has kept it ever since: a long, low shed that runs along the back of the Waterfront, so long that the boys of the harbour race from one end of it to the other and arrive out of breath.
+
+His wife, Hedra, worked beside him for most of those years, spinning yarn at the far end of the walk while he laid rope at the near one, and they used to sing to each other down the whole length of the shed. She died eighteen years ago. They had no children. Wilmot still hums her half of the songs as well as his own.
+
+### His day
+
+Every morning Wilmot walks backwards down the rope walk, paying out hemp from the bundle at his waist and twisting it into yarn, while a child turns the great wheel at the far end. He pays whichever child he can find a copper for it, and he finds fewer every year. Then the yarns are twisted into strands, and the strands laid into rope, slowly, the whole length of the shed, until he has a coil that will hold a ship to a quay in a gale.
+
+His rope goes everywhere. Merriwether the chandler buys most of it and sells it to every ship that leaves the harbour, along with a great many lists. Tegan the sailmaker buys her bolt rope from him directly, and says nobody else's rope sits as true along a seam, which Wilmot considers the finest thing anyone has said about him in years. More of it goes up to Kaldemor every autumn in the harvest carts. Lately Merriwether has been asking him for heavier and heavier lines, thick cables and hawsers for captains who want to be sure of their anchors, and Wilmot makes them, though they are hard work for old hands. He has not asked what the captains want them for. He thinks a man can guess.
+
+### The last apprentice
+
+Wilmot worries that no young person in Bain Harbour wants to learn his trade. He has had only one real apprentice in fifty years: Tamar, who came to the rope walk as a boy of fourteen and turned out to have the best hands Wilmot had ever seen. Tamar married Morwenna of the Saltlark, and he died of a lung fever the winter after their son Ossie was born, seven years ago. Wilmot has not had an apprentice since. He has never met a young person who wanted to walk backwards down a shed for a living, and he does not blame them, but he does not know what will become of the rope walk when his legs give out.
+
+The nearest thing he has to a pupil is Kit, Dunstan's grandson, who came to him knowing a great many knots already and went away knowing a few more. Wilmot taught them slowly and kindly, humming between each one. Kit wants to be a shipwright, and Wilmot knows it. He teaches him anyway, because a knot taught is never wasted.
+
+### Hooks
+
+Wilmot has never seen the piece of rope that Ossie keeps under his pillow, tied in a knot nobody can name, though he would know Tamar's work anywhere. A quest might bring the boy and the old ropemaker together, find Wilmot a young person willing to turn the wheel for longer than an afternoon, or help him lay a cable heavier than any he has made before. Lorcan once asked him for the words to one of his oldest songs, and Wilmot found, to his surprise, that he knew the tune but had forgotten the last verse. Someone in the harbour may still remember it.

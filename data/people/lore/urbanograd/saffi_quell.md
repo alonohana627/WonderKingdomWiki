@@ -1,0 +1,23 @@
+Saffi plays the fiddle in Lantern Square every evening, and she plays it twice as fast as anybody else in the kingdom. She is twenty-two, small and fierce, with a cloud of dark hair tied back in a strip of red cloth and a bow that has lost half its hairs to sheer speed. She is impatient with anything slow, including carts, queues, long speeches at the Open Table and her own fingers, which never quite keep up with the tune in her head. When she fumbles a run, she laughs out loud before anyone else can, and then plays it again, faster.
+
+### A respectable family
+
+Saffi was born in Selsior into a family of respectable musicians. Her parents and grandparents played at banquets, guild dinners and grand houses, and they played slow court dances above all: stately, careful tunes for people in heavy clothes to turn in circles to. Saffi was handed a fiddle at four and expected to play those dances for the rest of her life. She learned them perfectly. Then she started playing them faster, just a little at first, and then a lot, until the dancers at one guild dinner gave up and simply ran.
+
+There was a great deal of shouting after that. At seventeen Saffi packed her fiddle and walked out to Urbanograd, which is what Selsior's restless young people have been doing for a hundred years. Her family are still in the capital, still playing slow dances, and they write once a year to ask whether she has calmed down. She writes back that she has not. They play no part in her life here, and she likes it that way, though she still plays one of their slowest dances, very, very fast, every time a letter arrives.
+
+### Lantern Square
+
+Saffi plays at the edge of the square near Ferro's climbable fiddler sculpture, usually sitting on its iron knee. Her bandmate is Drum, who plays a ring of upturned buckets and pans and says almost nothing. They rarely talk about music. Saffi starts, Drum follows, and a few bars later Saffi is following Drum. She laughs at her own mistakes and Drum, unusually, laughs with her. Ivo Sable, from his awning nearby, says she is the best fiddler in the city and argues about it with any patient who disagrees.
+
+### A tune for every street
+
+Saffi is writing a tune for every street in Urbanograd. Not just the famous ones, the Gate Walk, Workshops Row, the Night Market, but every crooked lane, stair and passage: each one with a tune that sounds the way the street feels to walk down. She has finished nine. Workshops Row clatters, the Gate Walk marches and keeps looking over its shoulder, and the Night Market tune changes key every time it turns a corner. Drum has found a rhythm for all nine. Saffi has a list of the rest pinned inside her fiddle case, and it is very long, because the city keeps building new stairs.
+
+She has no idea that Piper, the troupe's songwriter, has been standing at the back of her crowd for months, and has written a second part for each of her nine tunes. She has noticed a thin person with a tin whistle who never quite plays it, and has wondered about that once or twice, and then started another tune.
+
+### What she wants and fears
+
+Saffi wants to finish every street before the city builds any more, and to play the whole set straight through, all of them, one Walkout Day night. She fears slowing down: growing old, growing careful, and one day playing a court dance at its proper speed without noticing.
+
+A quest might help Saffi map a street she has never found, carry a letter home to Selsior that says more than "not yet", or bring a shy whistle player close enough to be heard.

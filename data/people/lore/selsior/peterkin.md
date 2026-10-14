@@ -1,0 +1,25 @@
+Peterkin is eleven, a page of the palace, and he has not walked anywhere since he was given his uniform. He runs. He runs with messages and he runs without them, down the long gallery, up the back stairs two at a time and round corners so fast that the maids have learned to carry their trays high. He is eager, breathless and enormously proud of his uniform, a blue coat with brass buttons that he polishes every night and that has been let out twice at the sleeves.
+
+### Into the palace
+
+He comes from a farm a few days' walk down the river, the third of a large family. His parents still keep it, and they write to him through the steward's office at harvest and midwinter, but they play no part in his days. When he was nine a carter brought him up to the palace with a letter from the village and a clean shirt, because the household needed pages and Peterkin needed, his mother said, somewhere big enough to run in. Osbert, the Royal Steward, read the letter, looked at the boy for some time, and said, "We shall see." Peterkin has been trying to prove that he saw correctly ever since.
+
+Osbert has told him a hundred times that a royal messenger walks. He has never once meant it, and Peterkin knows. The steward's praise is so rare that the staff count it, and Peterkin has received it exactly twice: once for carrying a message to the Envoys' Hall in the middle of a storm without letting the seal get wet, and once for something he did not do, which he has decided not to mention.
+
+### Messages
+
+He carries messages inside the palace from the first bell to the last: notes from the kitchens to the steward's office, letters from Melisende's Envoys' Hall to Petronella's copying room, summonses from the queen's study to anyone at all. He is not allowed to read them and he does not, but he has become very good at guessing from the hand, the seal and the face of the person who gives them to him. He tells Agnes, the upper-halls maid, the guesses, and she pays him in biscuits from her father's kitchen and pays him extra for anything he guesses right.
+
+He is up before almost anyone. He likes the palace at first light, when the corridors are empty and the only sound is the clock tower getting ready to strike, and he likes to be the first boy at the steward's door in case the day's first message is an important one.
+
+### The race and the passage
+
+His great friend is Prince Alaric, who is two years younger and asks why about everything. When Peterkin is not running messages, the two of them race the clock tower bells: from the cellars to the roof while the hour strikes, which Peterkin can now do with one stroke to spare and Alaric cannot do at all yet, though he has worked out three shortcuts and is sure of a fourth. They also practise listening at doors, which they call training.
+
+Alaric has told him about the secret passage behind the throne-hall tapestries, and nobody else. Peterkin has felt the draught under the tapestry and heard the hollow wall, and he has not told a soul, not even Agnes, which has been the hardest thing he has ever done.
+
+### What he wants and fears
+
+Peterkin wants to be a royal courier and carry the crown's letters between the towns on a fast horse, all the way to the harbours and the highlands. Lately the couriers ride out with guards, and come back slower and quieter, and he has heard the grown-ups say the roads are not what they were. He still wants it. What he fears is being told he is too small for it, and, more quietly, the day a courier does not come back.
+
+A quest might begin with Peterkin trusted with a message that must not be delivered to the person it is addressed to, or with Peterkin and Alaric finding, one morning, that the draught under the throne-hall tapestry has stopped.

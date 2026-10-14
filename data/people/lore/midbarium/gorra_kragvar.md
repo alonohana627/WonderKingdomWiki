@@ -1,0 +1,25 @@
+Gorra keeps the stone cisterns that water Midbarium's terraces, and she measures water the way merchants measure coin. She is forty-three, brisk, practical and always counting: buckets drawn, buckets poured, days since the last rain, days until the next feast and how many extra mouths it will bring. Ask her how long the town could last in a dry year and she will tell you, to the bucket, and then tell you what you could do to make it last longer.
+
+### Learning the water
+
+Gorra was born in the Kragvar Quarter and was cutting stone with the other Kragvar children before she was ten. She was good at it, but what fascinated her was not the stone itself. It was what the stone held. The Kragvar cut the cisterns into the mountainside in the earliest days of the town, deep stone tanks that catch every drop of rain and the overflow of the terrace springs, and the young Gorra spent whole afternoons lying on her stomach beside them, watching the water rise and fall.
+
+Old Marn, who kept the cisterns then, noticed her there and put her to work. He taught her how to read the stains on a cistern wall like the rings of a tree, how to tell rainwater from spring water by taste, and how to sit perfectly still in the dark and listen for a leak. When Marn died eighteen years ago, Gorra took the cisterns over, and nobody in the family thought to question it. She has kept them ever since. She knows every one by name and by temper, and she keeps a tally of every one of them, scratched in neat columns on the wall of her cistern house above the terraces.
+
+### Family
+
+Gorra married Dorrek, now chieftain of the Kragvar, when they were both young, and she has never once let him climb a scaffold without telling him exactly what she thinks of it. He climbs anyway; she counts the minutes until he comes down. He tells her she is the cleverest person in Midbarium roughly once a decade, and she keeps a tally of that too.
+
+Their daughter Brakka is apprenticed to Dorrek's cousin Vosk and wants to carve a new stairway down the cliff. Gorra has looked at the sketches more carefully than Brakka knows, and her only question was where the stairway's builders would get their water. Their son Korrin climbs everything and wants to join the Uskari trail watch, and Gorra has given up telling him to come down from things; she now simply tells him where the handholds are loose. Dorrek's father Ulm keeps the council fire, and Gorra sends him a jug of the coldest cistern water every evening.
+
+Her neighbour at the cisterns is Yarrek of the Tolmach, a gentle goat herder whose family draws water from the same terrace tanks. The two of them have a sharing arrangement that is fair to the bucket and argued over weekly, and both would be lost without it. Korrin and Yarrek's son Kesh became best friends hiding under one of Gorra's cistern lids, which she has forgiven, mostly.
+
+### The crack
+
+This season, the oldest cistern on the upper terrace, which the Kragvar call the Founders' Cistern, has started losing water. Not much: a finger's depth every few nights. But it has not rained, nobody has been drawing from it, and Gorra has checked every wall and seam she can reach. She cannot find the crack. She has sat in the dark beside it three nights running and heard nothing but a faint trickle that seems to come from somewhere deeper than the cistern itself.
+
+She has not told Dorrek how worried she is, because he already has a bridge and a stair to worry about. She would quietly reward anyone who could track the leak down.
+
+### Hooks
+
+A quest could follow the lost water through the rock beneath the Founders' Cistern, perhaps to wherever the water of the south path's dry spring has gone, or help Gorra work out how long the town could last if the leak grows.

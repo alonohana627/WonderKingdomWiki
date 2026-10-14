@@ -15,9 +15,35 @@
 
 Gruff, patient and slow to praise; he still walks the quay at dawn to watch the water before anyone else is up.
 
-## Story
+## Lore
 
-Varro taught Iska to pilot when she was barely tall enough to see over a gunwale. His knees no longer let him take ships through the gap, but the wardens still bring him every hard question about the tides.
+Varro is seventy-six, the eldest of the sea wardens of Goa Harbour, and the man most of its pilots learned the gap from. He is gruff, patient and slow to praise. Every morning, before the lanterns go out and before anyone else is up, he walks the length of the Inlet Quay and stands at the end of it to watch the water. He has done this for longer than most of the town has been alive.
+
+### A life on the inlet
+
+Varro was born to a cove family and went out with the pilots as a boy, holding lines and keeping quiet. He became a sea warden at twenty and has been one for fifty-six years. In that time he has taken more ships through the gap than anyone can count, Halvard's ledgers included, and he has never lost one. He says that is luck. The other wardens say it is because Varro never trusts the tide, not even the ones he knows.
+
+He married Maili, a fisher from the coves, when he was young, and they had no children. She died of a fever fourteen years ago. Varro does not speak of her often, but he still keeps her oilskin hanging by his door, and on the anniversary of her death he walks the quay a second time, at dusk.
+
+### The teacher
+
+If Varro has children, the wardens say, they are the pilots. He taught Iska when she was barely tall enough to see over a gunwale, a fierce little girl of seven who asked the same question until the water answered it. He taught Nessa too, who argued with every lesson and then did exactly what he said. He is proud of both of them and has told neither, though he did vote for Iska when the wardens chose their First Warden, and he made sure Nessa knew he thought it a near thing.
+
+Ysmay, Iska's mother, served beside him for forty years, and they are old friends in the way of people who have shouted at each other across a deck in a gale. These days she criticises the pilots from her window above the Cliff Stairs and he criticises them from the end of the quay, and they compare notes. Ailsa, the keeper of the Tide Book, is the other old colleague left from his early years. He trusts her memory more than his own.
+
+### The knees and the hard questions
+
+Five years ago Varro's knees stopped letting him take ships through the gap; a pilot who cannot brace himself in a cross-sea is no use to anyone, and he was the first to say so. He did not stop being a warden. The others still bring him every hard question about the tides, and he still answers most of them before they have finished asking.
+
+He has a new pupil now, though nobody has made it official. Arlo, Iska's son, started creeping onto the quay at dawn to watch him, and after a few mornings Varro told him where to stand. Now the boy is there most days, and Varro asks him what the water is doing and waits for an answer. He is harder on Arlo than he ever was on Iska, because Arlo is better at nine than she was.
+
+### What troubles him
+
+The water is not behaving. Nothing Varro can point to, nothing he could write in the Tide Book: just a slackness where there should be pull, a pull where there should be slack, eddies a few yards out of their old places. He has begun to wonder whether he is simply getting old. He has not asked Ailsa, because he is afraid she will tell him he is not.
+
+### Hooks
+
+Varro would trust a capable stranger to row him out to the mouth of the gap at slack water, so he can look at the eddies close to for the first time in five years. A quest might also carry his questions to Ailsa, or test a line through the gap that only he remembers.
 
 ## Relationships
 

@@ -1,0 +1,29 @@
+Wat is eleven, the errand boy of the Crown Market, and he can get from the gate to the palace steps faster than anyone in Selsior without once using a street that has a name. He knows every alley shortcut in the city, every gap in every fence, every courtyard with two doors, and which kitchens will let a boy run straight through if he says "Errand for the warden!" loudly enough. He is quick, cheeky and a good deal sharper than he looks, and he looks quite sharp.
+
+### Before the errands
+
+His father died when he was a baby, in a fall from a builder's scaffold, and Wat does not remember him. His mother, Cristin, took in washing and worked the coppers in Gytha's yard in the old quarters, and Wat spent his first years underfoot there, among the baskets and the steam. That is where he met Hodge, Gytha's son, when they were both too small to be any use and old enough to get into everything. They have been friends ever since.
+
+Cristin died of a fever three winters ago, when Wat was eight. His brother Kenric, seven years older, was already apprenticed to Selene the smith in the Crown Market, and he did everything he could, which was not enough to feed two on an apprentice's pay. Wat did the rest himself. He was very good at it. For the best part of a year he picked pockets in the Crown Market, and no one caught him, and he was rather proud of that, and rather ashamed of it, and told Kenric he was running errands.
+
+### The warden
+
+Two summers ago, Reynold, the Warden of the Crown Market, caught him. Reynold is harried, honest and allergic to shortcuts, and he carries a set of weights with which he checks everyone's scales, and Wat had made the mistake of trying for his purse. Reynold caught his wrist without looking round. Then, instead of marching him to the Guard, he asked Wat how fast he could get a message to the far end of the market. Wat told him. Reynold timed him, and gave him a job.
+
+He has run errands for the warden ever since: messages, measures, warnings about short weights, summonses to stallholders who are about to have a very bad afternoon. He sleeps with Kenric in the loft above Selene's forge, which is warm in winter and much too warm in summer, and he eats more regularly than he has in years. He is honest now, mostly. He still notices every purse in the market that is badly tied. These days, when he sees one, he tells its owner, which gives him almost as much satisfaction and makes Reynold almost smile.
+
+### Hodge and Mab
+
+His two best friends are Hodge, who runs across the rooftops, and Mab, the pie seller's daughter, who turns cartwheels by the Great Bell. Between them there is no corner of the city they cannot reach: Mab handles the crowds, Hodge handles everything above them, and Wat handles the ground and everything under it. When one of them is in trouble the other two turn up, usually from an unexpected direction. Wat knows Hodge trains with a broom handle at dawn and would never tell Gytha, even though she was kind to his mother.
+
+### Kenric
+
+Kenric is earnest, sooty and clumsy away from the forge, and he hopes to forge his first sword this winter. Wat teases him about everything and would fight anyone who teased him back. He knows Kenric still worries about him, and he knows Kenric still feels he failed him that first winter. Wat does not think so, and has not found a way to say so that does not sound soft.
+
+### What he wants and fears
+
+Wat wants to be useful, and to be trusted, which for a boy who used to pick pockets is the harder of the two. What he fears is someone from the old days remembering his face, and Reynold hearing about it from them first.
+
+### Hooks
+
+A quest might begin with Wat noticing that a great many badly tied purses in the market are being emptied by someone who is very good, possibly better than he was. Or it might begin with Wat needing a message carried somewhere his shortcuts cannot reach: outside the gate.

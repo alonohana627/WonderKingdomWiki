@@ -16,9 +16,33 @@
 
 Grumpy, honest and very slow, he will tell you your boots are a disgrace before he mends them beautifully. He does not trust anything that was made in a hurry.
 
-## Story
+## Lore
 
-Ned has made the boots of Kaldemor for fifty years and judges people by how they walk. He and Orin have been friends since they were boys and still argue about who won a race neither of them remembers.
+"Disgrace," says Ned, looking at your boots. "An absolute disgrace." Then he holds out his hand for them, without getting up, and you will get them back in a week, or two, or three, mended so beautifully that you will not recognise them. He is seventy-nine, bent and bony, with a leather apron worn shiny, a mouthful of tacks he talks around, and spectacles so old that the frames have been mended with waxed thread. He is grumpy, honest and very slow, and he does not trust anything that was made in a hurry, including most people.
+
+### Fifty years of boots
+
+Ned has made the boots of Kaldemor for fifty years. His shop is a dark little room near the Park end of the Workshops lane, smelling of leather, beeswax and lamp oil, with a bench by the window where the light is best and a row of wooden lasts along the wall, one for every regular customer, each with a name inked on its heel. There are hundreds of them. Some of the names belong to people long dead, and Ned keeps those lasts too.
+
+He was born in Kaldemor, the son of a drover and a dairymaid, both long gone, and was apprenticed at fifteen to old Joss, the cobbler of those days, who was slower and grumpier even than Ned is now. Joss made him stitch the same seam on a scrap of leather every day for a year before he let him near a customer's boot. Ned thought it was cruel. He now thinks it was the only sensible thing anyone ever taught him. When Joss died, Ned was twenty-nine, and the shop and the lasts came to him. He has never married. He says he was waiting for someone who walked properly, and never met her.
+
+He judges people by how they walk, and he is rarely wrong. He can tell a farmer from a carter by the wear on a heel, a liar by a toe that turns in, and a warrior who will not last by a sole worn down on the outside edge. When Wilbur's farmhand Digby left the farm last year to be a warrior, Wilbur came in for a pair of good boots for him, and Ned made them himself, double-stitched, with a heel built a little wider than usual, because he had watched the boy walk and knew he would fall a great deal. Digby has fallen off Quill's hanging course eleven times in those boots, and not one stitch has gone.
+
+### Orin
+
+Ned and Orin the woodcutter have been friends since they were boys, which is more than seventy years, and they have spent most of it arguing about a race. They ran it, they agree, when they were small. Neither of them remembers where it was, or how long, or what it was to, or who was watching. Each is perfectly certain that he won. Ned is a year older than Orin, and says that is why he won; Orin says it is why Ned was slower. They meet on the bench in the Park every few days, when Ned's knees allow, and take it up where they left off. Wren knits beside them and does not take sides. Ned made Orin's woodcutting boots for thirty years and says they were the best he ever made, because Orin was the only man in Kaldemor who walked like a tree falling, straight and sure.
+
+### Slow
+
+The young people of the Market think Ned is too slow, and they are right. He is slower every year. They take their boots to him anyway, because nobody else in Kaldemor can do what he does, and because the warriors who go out to the meadow now come back with soles torn by things that are not stones. He has been working by lamplight this spring, which he has not done in twenty years, and his eyes do not thank him for it.
+
+### What he wants and fears
+
+Ned wants an apprentice who will stitch the same seam for a year without complaining, or with complaining, so long as they stitch it. He wants, very badly, to win the argument about the race before one of them dies. He fears that the lasts on his wall will outlive the skill to use them.
+
+### Hooks
+
+Ned has a pair of boots on his shelf, unfinished, that he started for someone forty years ago and never completed. He will not say whose they were, but he might ask a traveller to find the right leather to finish them. Another quest could begin when someone digs up the truth about the race, and has to decide which old man to tell.
 
 ## Relationships
 

@@ -1,0 +1,25 @@
+Hatch has hunted monsters on Veligor's roads for thirty years, and he looks it. He is sixty-three, weathered as an old saddle, with a nose that has been broken twice and still, he swears, works better than any map. He is blunt to the point of rudeness until the second cup of something warm, after which the stories start, and once they start they do not stop until the lamps are low.
+
+### From the carts to the hunt
+
+Hatch was not born in Urbanograd. He grew up on the roads, the son of a carter who hauled goods between the towns, and by sixteen he was driving a wagon of his own. He learned the land from the driver's bench: which fords flooded, which woods held boar, which hills smelled of rain a day before it fell. The wilds were changing even then, but slowly, and in those years a careful carter could go a whole season without trouble.
+
+At thirty-three he lost a wagon and a good pair of horses to something in a ravine that should not have been there. He came back on foot, sold what was left of the cart, and bought a spear. He has hunted ever since, taking work from caravans, farmers and towns, and he settled in Urbanograd twenty-odd years ago because, as he puts it, it was the only town that never asked him to wipe his boots.
+
+### What has changed
+
+Hatch says the monsters of his youth were animals that had turned mean. The ones on the roads today are something else: bolder, stranger, harder to read, and coming closer to the towns every season. He does not claim to know why. When the young ones repeat old tales about the Balrog, he grunts and changes the subject, but he has started keeping notes on what he sees, which he never used to do.
+
+### People
+
+Shade was Hatch's pupil, years ago, for four seasons on the roads, and is the best he ever taught. These days Shade guides travelers along routes Hatch first walked, and finds many of them unsafe now; the two meet at the Gate Walk to trade what they have seen, and Hatch is prouder of Shade than he will ever say aloud.
+
+Ferro, the smith of odd metals, has been taking Hatch's money for years, first for mending a bent spear-head when Ferro still made only sculptures, and later for the knives Hatch talked Ferro into forging long before the other adventurers came asking. Hatch likes to claim he started Ferro's weapon trade. Ferro likes to reply that Hatch ruined a perfectly good sculptor.
+
+Tick, Knox's son, follows Hatch about with a notebook and asks for stories at every hour. Hatch pretends to find it tiresome and answers every question. He respects Knox too much to encourage the boy toward the roads, and he is losing that argument with himself as surely as Knox is losing his.
+
+### What he wants
+
+Hatch is too old to go out alone now, and he knows it; his knees told him first. He wants someone worth teaching before the knowledge in his head is lost: someone patient, who listens to the land and does not hunt for glory. He fears dying in a chair with nobody knowing what he knows.
+
+A quest might earn Hatch's respect by tracking a beast he can no longer follow, retrieve his notes from a camp he had to abandon, or prove a newcomer worth teaching.

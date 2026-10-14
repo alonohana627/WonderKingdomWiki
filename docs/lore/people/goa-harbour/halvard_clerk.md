@@ -15,9 +15,29 @@
 
 Fussy, orderly and kind underneath; he cannot leave a crooked ledger alone.
 
-## Story
+## Lore
 
-Halvard records every ship that comes through the gap and every pilot who brings it in. He came from a farming valley inland and still gets seasick standing on the quay.
+Halvard is forty-six and the Clerk of the Wardens' House, the man who writes down every ship that comes through the gap and every pilot who brings it in. He is fussy, orderly and kind underneath. He cannot leave a crooked ledger alone, or a crooked chair, or a crooked picture on somebody else's wall, and he will straighten all three while apologising for it. He also gets seasick standing on the quay, which in a town of sailors has made him the subject of a great many affectionate jokes. He takes them well. He has heard them all.
+
+### From the valley to the sea
+
+Halvard grew up on a farm in Linmoor, a green farming valley far inland, where the nearest water was a slow brown river and the most dangerous thing in a year was a late frost. His parents are long dead, and the farm is worked now by his older sister, who writes to him once a year to ask when he is coming home. The answer, every year, is not yet.
+
+He came to Goa Harbour at twenty-four, because he had never seen the sea and wanted to before he settled down. He took passage on a timber ship out of the inlet for the sake of the view, was sick for three days straight, and came back down the gangplank grey-faced and certain of only one thing: he would never sail again. He has kept that promise. He found work copying cargo lists for a trader on the Lantern Market, did it so well that the wardens noticed, and has been their clerk for fifteen years.
+
+### The ledgers
+
+Halvard's day begins early in the Wardens' House with Iska, the First Warden, and the list of every ship due through the inlet. He tells her which captains are late, which are early, which owe the pilots' fee from last season, and which have asked for a particular warden. Then he spends the rest of the day writing down what actually happened: ship, captain, cargo, pilot, tide, time through the gap. His ledgers go back fifteen years in his own neat hand and many more in the hands of the clerks before him. Varro once said he had taken more ships through the gap than anyone could count, Halvard's ledgers included. Halvard went and counted. He has not told Varro the number, because Varro did not really want to know.
+
+His best friend is Ailsa, the Keeper of the Tide Book. She records the water and he records the ships, and they eat their midday bread together at her desk most days. She keeps a crooked stack of notes at her elbow, and he straightens it every time he passes. He suspects she crooks it again on purpose. He straightens it anyway.
+
+### What the ledgers say
+
+Lately Halvard has started a new column. It began as a note in the margin when a captain complained that his hull had been scraped in the gap by "something soft, and then something hard." Then another said the same. Then Corrie, Kor's apprentice, swore she saw something large and dark pass beneath a ship, and nobody believed her. Halvard did not say he believed her. He simply wrote it down, with the date and the tide, in the new column, and he has kept writing everything like it since. There are nine entries now. He has not shown them to anyone, because he is a clerk and not a warden, and he is afraid of being laughed at for the seasick man's fears.
+
+### Hooks
+
+A quest might carry Halvard's new column to Ailsa so the two of them can lay it beside the Tide Book, take a letter to his sister in Linmoor, or ask the captains on the quay what scraped their hulls.
 
 ## Relationships
 

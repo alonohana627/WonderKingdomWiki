@@ -16,9 +16,35 @@
 
 Mischievous, quick-witted and never cruel, Orla thinks the forest takes itself far too seriously.
 
-## Story
+## Lore
 
-Orla is the one playing tricks on Thorne at night, mostly moving his things a little to the left. Orla has decided Thorne needs to laugh more and will not stop until he does.
+Orla is a Glade Dweller from the Children's Glade, one of the Children of the Tree, and the forest's most dedicated and least suspected trickster. Orla is mischievous, quick-witted and never cruel, and has come to the firm conclusion that Fairy Forest takes itself far too seriously. The Magicians frown over their old records, the Council frowns over its promises, the edge watch frowns into the dark, and Orla thinks that a forest with this much magic in it ought to laugh a great deal more than it does.
+
+### The rules
+
+Orla has rules, and keeps them strictly. A trick must never take anything. A trick must never break anything. A trick must never frighten anyone, or hurt them, or make them look foolish in front of other people. A good trick, in Orla's view, is one that makes its target stop, stare, and then, if all goes well, laugh, and afterwards feel slightly better about the day. Orla thinks of it less as mischief than as a kind of gift, and is a little offended that nobody has ever thanked Orla for one, though Orla admits this would require being caught.
+
+Orla has never been caught.
+
+### Thorne
+
+For some months now, Orla's whole attention has been on Thorne, the youngest and loudest of the edge guards. Thorne is twenty-one, brash, brave and much too eager for a fight, and Orla, watching him march out to the last lanterns night after night with his jaw set and his spear gripped too hard, decided that he needed to laugh more than anyone in the forest. Orla has also decided not to stop until he does.
+
+So, at night, Thorne's things move. Never far, never anything taken: his spear leaning on the other side of the door, his boots set side by side a little further down the bench, his cup a hand's width from where he left it. Mostly, everything ends up a little to the left. Once Orla shifted every single item in his kit, neatly, by exactly the same small distance, and watched from somewhere nearby as he stood over it for a very long time. On another night Orla moved his spear a little to the left of his hand while he was holding it. Orla will not say how that was done.
+
+Thorne has not laughed yet. He has suspected Kestrel, the wandering Magician, who truthfully denied it and enjoyed his not believing her. He has suspected two other guards, a student, a squirrel, and for one bad night himself. He now checks his kit twice before every watch, which Orla considers progress of a sort, and which his captain, Seren, privately thinks no bad thing. Seren has noticed the tricks are harmless, and has let them be. Orla has noticed Seren noticing, and is grateful.
+
+He came close to laughing, once, the night of the spear. Orla saw the corner of his mouth go, and then he set it again. Orla counts that as the best night so far.
+
+### Under the joke
+
+Orla is not as light-hearted about Thorne as the tricks suggest. Orla has watched him come back from the outer lanterns with his face pale and his hands shaking, and has watched the edge watch carry in hurt travellers past him. Orla thinks that a young man who cannot laugh at a moved boot will not know how to step back from something in the dark, and that the forest is growing frightened and too proud to say so. Making Thorne laugh is a joke. It is also the only way Orla knows to help.
+
+### What Orla wants and fears
+
+Orla wants to hear Thorne laugh, just once, properly. After that Orla has a list, and the Grove Council is on it. Orla fears being caught before the job is done, and fears more that one night Thorne will go out past the last lantern and Orla will not get the chance.
+
+A quest might ask a traveller to help Orla plan the trick that finally works, to keep Thorne from catching Orla in the act, or, if Thorne asks for help setting a trap, to choose which of them to help.
 
 ## Relationships
 

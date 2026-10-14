@@ -15,9 +15,33 @@
 
 Hearty, nosy and a natural host. He greets guests by name on their second visit.
 
-## Story
+## Lore
 
-Hamon runs the inn beside the gate, the first and last bed most travellers see in Selsior. He hears every road story first, and lately he keeps a board of them by the door for travellers to read.
+Hamon is fifty, the keeper of the Gate Inn, and he has never met a stranger he did not intend to know better by morning. The Gate Inn stands just inside Selsior's great gate, where the Royal Road ends and the city begins, and for most travellers it is the first bed they sleep in when they arrive and the last they leave from. Hamon makes sure they remember it. He is hearty, nosy and a natural host, with a voice that fills the common room and a memory that fills the rest. Come in once and he will ask your name, your road and your business. Come in a second time and he will greet you by name at the door, and ask after the cousin you mentioned.
+
+### The inn by the gate
+
+The Gate Inn is a tall, broad house of timber over stone, with a yard for wagons behind it, a stable for a dozen horses, a long common room with a fire at each end, and rooms upstairs for every kind of purse. Hamon was born in it. His mother, Ethelind, kept it for thirty years and taught him that an innkeeper's real stock is not beer or beds but names. She died twenty years ago, and he has kept the inn alone since, with a cook, two maids, a stable lad and a great many opinions.
+
+He has never married. He says the inn is a wife who never sleeps, and that he would not ask a second one to put up with the first.
+
+### Regulars
+
+His favourite guests are the ones who come back, and his favourite of those is Merrick, the caravan master, who has slept in the same back room every time he has been in the capital for longer than Hamon has kept the inn. Hamon keeps that room for him. When Merrick's wagons come up the road and his voice comes through the gate ahead of them, shouting at the oxen, Hamon has his supper on the table before he is down off the box. They argue about everything, prices most of all, and Hamon would not miss it for the world.
+
+The gate's people are his neighbours. Swithin the gate clerk takes his supper at the inn's corner table most evenings, Brann's guards drink there off duty, and Tilda waters Thistle at the inn's trough before her first fare.
+
+### The board
+
+Hamon hears every road story first. It is the nature of the place: tired travellers want a fire, a meal and someone to tell, and he is always the someone. For years he simply remembered them. Lately there have been too many to remember, and too many that someone else ought to hear, so this spring he nailed a broad board by the inn door and began writing them up on it in chalk: which bridge is down, which ford is high, where the wolves were seen and how many, which stretch of the Royal Road a wagon should not be on after dusk.
+
+Travellers read it before they set out and add to it when they come in, and Merrick reads it before he reads anything else. The Guard sends a rider down to copy it some mornings. Hamon is proud of the board and a little afraid of it, because he has noticed that the stories on it grow worse each month, and that he now rubs out the old ones faster to make room.
+
+### What he wants and fears
+
+Hamon wants a full house, a long supper and every guest back again. What he fears is a name he has learned and will never get to say a second time.
+
+A quest might begin with a story on Hamon's board that no traveller admits to writing, or with Hamon asking someone to ride out and find a regular who is three days late.
 
 ## Relationships
 

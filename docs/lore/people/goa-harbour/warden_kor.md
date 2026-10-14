@@ -15,9 +15,33 @@
 
 Cheerful and a little reckless; he whistles while he pilots and swears the tide likes him.
 
-## Story
+## Lore
 
-Kor became a full warden only last spring and already takes more ships through the gap than anyone. He secretly hopes Iska will pick him for the race crew this summer.
+Kor is twenty-four and the newest of Goa Harbour's full sea wardens, the pilots who guide every ship through the fast and treacherous waters of the inlet. He is cheerful and a little reckless. He whistles while he pilots, the same three tunes over and over, and he swears the tide likes him. He became a full warden only last spring, and already he takes more ships through the gap than anyone else in the Wardens' House.
+
+### The quay boy who would not wait
+
+Kor grew up on the Inlet Quay, and he spent his boyhood on the steps there with the other quay children, Jory among them, watching the pilot boats go out to meet the ships. At fifteen he began rowing the pilot boats, and Nessa, the sharpest-tongued of the wardens, took him on as her apprentice. She argued with him about every tide for eight years, made him repeat every lesson until he could do it asleep, and told him, when he finally took his first ship through the gap alone, that he had been lucky. He said the tide liked him. She said the tide liked nobody, and bought him the first round at the Gap Inn anyway.
+
+He is good, and he knows it. He reads the water quickly and acts on it faster, and he takes the gap at moments when older wardens would wait for slack. So far it has always worked. The captains love him because he is quick and cheerful and never keeps them waiting. Varro, the eldest of the wardens, watches him from the end of the quay and says nothing, which Kor has decided to take as praise.
+
+### Corrie
+
+Since last spring Kor has had an apprentice of his own: Corrie, a careful, earnest girl from the quay who writes everything on the back of her hand. Kor is fond of her and a little baffled by her. She learns more from his mistakes than from his advice, and keeps a separate page for each kind, and he suspects, correctly, that she is keeping an eye on him.
+
+Last month, bringing a timber ship through the gap at slack water, Corrie told him she had seen something large and dark pass beneath the hull. Kor was looking the other way. He laughed and said it was a cloud shadow, and he still thinks so. He did not mean to be unkind, and he has been surprised by how quiet she has been since. He has not taken it back, and he has caught himself, once or twice, looking down into the water on that stretch of the gap a little longer than he used to.
+
+### The race crew
+
+Kor's great secret, which is not much of a secret to anyone who watches him, is that he hopes Iska will pick him for the race crew this summer. He wants to sail the Gap Runner around Veligor more than he has ever wanted anything. Iska has noticed how hard he works whenever she is watching. He has not asked her outright. He asks Jory instead, about every stroke and every tack of last summer's race, and goes very quiet at the answers.
+
+### What he wants and fears
+
+Kor wants the race, and after that he wants to be the warden every captain on the coast asks for by name. He fears very little on the water, which is what worries Nessa. What he does fear, a little, is being found out as lucky rather than good. He has started to wonder whether the tide really likes him, or whether it has simply not yet made up its mind.
+
+### Hooks
+
+A quest might ride in Kor's pilot boat on a day he decides not to wait for slack water, or put in a word for him with Iska before she chooses the crew. Another might take Corrie's notes out into the gap with him, and see whether he can still call it a cloud shadow.
 
 ## Relationships
 

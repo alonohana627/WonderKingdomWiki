@@ -15,9 +15,31 @@
 
 Grumbling, cautious and clever with his hands; he complains constantly and never quits.
 
-## Story
+## Lore
 
-Caddoc sets traps along the shore for the creatures that come out of the forest at night. Something keeps springing his biggest traps without being caught, and it is starting to bother him.
+Caddoc is forty-two and a trapper of the Forest Shore. He sets his traps along the strip of rock and scrub between the forest and the sea, where the creatures come out of the trees at night, and he complains about every single part of the work: the weather, the bait, the price of wire, the price of pelts, his knees, the gulls, and the general unfairness of a world that makes a man get up before dawn to look at holes in the ground. He has been doing it for twenty-six years. He has never once quit.
+
+### From the hills
+
+Caddoc was born in the highlands, in a trapping family that worked the hills above the hill road where Goa Harbour's wool and pelts come down to the coast. His father taught him to set a snare before he could read, and to make every part of a trap himself, because a trap you bought was a trap you did not understand. When Caddoc was sixteen his father went up into the high pasture to check a line in a snowstorm and did not come back. His mother had died years before. Caddoc packed his father's tools, walked down the hill road with a drover's flock, and never went back up.
+
+He has lived on the Forest Shore ever since, in a hut full of springs, cords, wire and half-built cages, which he will tell you is a mess and will not let anyone tidy. He is clever with his hands in a grumbling, absent way; he will mend your latch while explaining why it was badly made in the first place, and refuse payment, and complain about that too.
+
+### Partners and buyers
+
+Caddoc's hunting partner is Torva, who leads the hunters of the wild coast. They have worked side by side for seven years. She hunts what comes out of the forest by day; he catches what comes out by night. They trust each other completely and have never said so, and if either of them ever did, the other would be deeply embarrassed. Lately Torva has started coming out with him at dawn to look at his traps, and that, more than anything in the traps, is what is keeping Caddoc awake. Torva does not waste her mornings on nothing.
+
+His pelts go to Greer, the fur trader of the Lantern Market, who ships them all over the island. Fewer trappers come down from the highlands every year, which means Greer needs Caddoc more than she used to and pays him more than she used to, and he still grumbles that it is not enough. Greer pretends to be wounded by this. They both enjoy it.
+
+### The traps that are sprung
+
+For most of a season now, something has been springing Caddoc's biggest traps, the heavy cage traps he builds for the worst of the night creatures, without being caught. The bait is gone. The doors have dropped. The cages are empty. There is no hair on the wire, no blood, and the ground around them has been swept smooth, as if by a tail or by something that did not want to leave tracks. Caddoc has rebuilt the triggers three times, each more cunning than the last. Each time, within a week, they are sprung again.
+
+He tells everyone it is a nuisance. It is beginning to frighten him, and he is not easily frightened. Whatever it is, it is clever enough to learn his traps, and Caddoc has spent his life believing that cleverness was the one thing the creatures did not have.
+
+### Hooks
+
+A quest might sit up through the night with Caddoc beside his biggest trap, help him build a trigger that even the clever thing cannot learn, or carry his pelts to Greer on a morning he will not leave the shore.
 
 ## Relationships
 

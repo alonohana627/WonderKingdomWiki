@@ -1,0 +1,31 @@
+Wynne is the Copyist of the Old Records at the Heart Tree. Her work is to copy the forest's crumbling Magician records, letter by letter, onto fresh paper, so that the originals can be closed and laid to rest in the dark of the record rooms. It is slow, careful, silent work, and Wynne is very good at it. She is nineteen, quiet, observant and stubborn. She notices what other people skip, and she says so only when she is sure.
+
+### The bookbinder's daughter
+
+Wynne was born in Selsior, where her mother Mirren, Isaura's daughter, keeps a bookbinder's shop with Wynne's father. She grew up among stacks of paper, pots of glue and the smell of leather, and before she could read properly she could tell, by touching a book's spine, how it had been sewn and whether anyone had mended it since. Her mother taught her to fold a sheet, stitch a quire and see a repair from across a room. It never occurred to Wynne that this was an unusual thing for a child to know.
+
+At fourteen, five years ago, she came to Fairy Forest to live with her grandmother. She had a little of the gift, enough to sit the Grove School's lessons, but she spent every free hour in the Heart Tree's record rooms, and by sixteen Isaura had given up pretending not to notice and set her to copying. Her mother writes every month. Wynne writes back every month, and her letters are mostly about paper.
+
+### Her grandmother
+
+Isaura, Keeper of the Old Records, is stern, careful and secretive by duty, and with Wynne she is gentler than with anyone else alive. The house had been very quiet since Isaura's husband Corvin died, and Wynne knows she filled it. They eat supper together most nights and talk about anything except the seal. Wynne is the only person who can make her grandmother put down her pen in the middle of a page, and she does it on purpose, about once a week, to make her eat.
+
+### Caelum
+
+Caelum, the brilliant and sleepless seal scholar who has been Isaura's student for twenty years, is her rival. It embarrasses him, she knows, because she is nineteen and a copyist and he is supposed to be the scholar. Twice now she has pointed out, very politely, a date he copied wrong. Both times she was right, and both times he went red to the ears and thanked her through his teeth. Wynne does not dislike him. She thinks he reads too fast, and that a man who reads too fast is bound to miss things. She would rather be right in front of him than anywhere else.
+
+### Ilwen
+
+Her friend is Ilwen, the Steward of the Heart Tree, who greeted her on the stair the day she arrived and showed her where everything was, down to the page and shelf. He is calm and tidy and polite, and he is the only person in the Heart Tree who never asks her what she is working on. They eat lunch on the landing of the great stair on fine days and talk about handwriting.
+
+### The gap
+
+This spring, copying one of the old seal records, Wynne found a gap in its numbering. The leaves run in order, and then several are simply not there. Anyone else might think they had rotted away. Wynne, who grew up in a bindery, looked at the stitching and saw that the pages had not fallen out. They had been taken out, long ago, cleanly, by someone who knew how to remove leaves from a book without leaving much trace, and the thread had been drawn tight again afterwards.
+
+She has not told anyone. She has not decided whom to tell. Her grandmother would want to know, but Wynne is afraid of what it would do to her: Isaura has spent fifty years reading those records, and Wynne has seen how tired she is. Caelum would want to know, and would run with it before the ink was dry. Ilwen would listen and keep the secret, but it is not his burden to carry. So far Wynne has only asked Ilwen, very sideways, whether the Heart Tree has any list of its oldest shelves older than the one in use. He told her the exact page and shelf where such a list might be, and did not ask why.
+
+### What she wants and fears
+
+Wynne wants to be sure before she speaks; it is the rule she lives by. She fears that by the time she is sure, it will be too late for it to matter.
+
+A quest might ask a traveller to help Wynne search the Heart Tree's oldest shelf lists for some sign of where the missing pages went, to carry a letter between her and her mother in Selsior about bindings, or to help her decide, at last, whom to tell.

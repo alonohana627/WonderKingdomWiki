@@ -1,0 +1,27 @@
+Vosk is the master of bridges, and every rope-and-plank bridge that swings across Midbarium's cliffs and canyons is sound because he has walked it, tested it and argued with it. He is seventy-one, careful, dry-humoured and suspicious of anything that sways, which he admits is an odd temper for a man who has spent his whole life on things that sway. He trusts a knot only after he has tied it himself, and he has been known to untie a perfectly good knot in front of its maker, retie it exactly the same way, and walk off satisfied.
+
+### A Kragvar on a rope
+
+Vosk was born in the Kragvar Quarter. His mother, Kelda, was the eldest sister of Ulm and Baruk, born so many years before her brothers that her son grew up nearer in age to his uncle Ulm than to anyone else in the family. That is how Vosk comes to be cousin to Dorrek, chieftain of the Kragvar, while being old enough to be his father. Kelda died long ago, and Vosk still uses her splicing awl, which has been reground so often it is half its old length.
+
+Like every Kragvar child, he started on stone. But he was the boy who kept climbing out onto the bridges to watch the rope-masters work, and the old bridge-keeper of those days, tired of hauling him back, finally put a cable in his hands and told him to make himself useful. Vosk has been splicing cable ever since. He has taught three generations of Kragvar how to do it, and he can tell by the sound a plank makes underfoot whether the rope beneath it has a winter left in it.
+
+### Friends and apprentices
+
+Vosk's oldest friend is Thrun, the drummer of the gatherings. They have been friends since boyhood, the loud Brenna and the quiet Kragvar, and when they were both young Vosk rebuilt the stand of the great drum, which had begun to lean. He has kept it sound ever since, and he checks its lashings before every feast whether Thrun asks him to or not. They sit together at every feast, Thrun talking and Vosk listening, and both of them count it the best part of the evening. Since the drum's hide split this spring, Vosk has promised to help fit the new skin when one is found, and has privately begun to wonder whether one will be.
+
+His apprentice for the last four years has been Brakka, Dorrek's daughter, who is eager, restless and would rather carve a new stairway than mend an old bridge. They began in mutual exasperation and have arrived, slowly, at mutual respect. She ties a knot he will trust, which he has told her is rare, and he has learned that the quickest way to get a long job out of her is to say it cannot be done. He has seen her stairway sketches on every flat stone in the quarter. He says nothing about them, which Brakka takes as disapproval. It is not.
+
+Vosk never married. He says the bridges took all the patience he had, and that a wife would have wanted some of it.
+
+### The gnawed ropes
+
+Twice this season, Vosk and Brakka have climbed out to the far canyon bridge at dawn and found its ropes gnawed half through in the night. Not cut, not frayed by weather: gnawed, by teeth, on the side away from the town. He has spliced both breaks and doubled the lashings, and he has stopped sending the young ones out alone. Earlier this year one of the Kragvar masons working on that same bridge was bitten by something he never saw, and Lessa had to clean the wound with her bitter grey herb.
+
+Vosk does not know what is doing it, and that is the part he cannot stand. He knows wind, rot, frost and the slow fatigue of rope. He does not know this. He has not said in council how worried he is, because he does not like to say anything until he is sure of it, and he is sure of nothing.
+
+### What he fears
+
+He fears a caravan on the far bridge on the night something finishes the job. He fears he is too old to sit up on it himself, and he suspects he will do it anyway.
+
+A quest could keep watch with Vosk on the far canyon bridge after dark, or carry fresh cable down from the Trading Post before the next gnawing.

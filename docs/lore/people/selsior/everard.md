@@ -15,9 +15,33 @@
 
 Lazy, charming and secretly brilliant. He sleeps through lectures and passes every exam.
 
-## Story
+## Lore
 
-Everard came to the Academy from a harbour town and spends more time on Theatre Row than in class. His teacher is convinced he could be a great mage if he tried, which is exactly what he is afraid of.
+Everard is eighteen, a student of the Royal Academy, and he is asleep. Not always, but often enough that Morwen, who teaches him, has stopped waking him and started asking him questions instead, on the theory that he cannot possibly know the answer. He always knows the answer. He is lazy, charming and secretly brilliant, and he sleeps through lectures and passes every exam, and he would very much like everyone to go on believing that the second fact is luck.
+
+### From the harbour to the Academy
+
+He grew up in one of the harbour towns, in a house that smelled of tar and salt, and his family still lives there; they write now and then, mostly to ask about his marks, and play no part in his life in the capital. He was the sort of child who could do sums in his head before he could swim, which in a harbour town is a scandal. When a small light started coming to his fingers at night, the kind of thing a young mage notices before anyone else does, he hid it for a year. Then his family found out, and at fifteen he was put on a cart to Selsior with a letter for the Academy and a great deal of hope pinned to his coat.
+
+He has been at the Academy three years now. He studies the mage's art under Morwen, who is intense, precise and impatient with anything flashy, and who is convinced he could be a great mage if he tried. She is right. He knows she is right. That is the whole trouble.
+
+### Theatre Row
+
+Everard spends more of his time on Theatre Row than in the classroom. He likes the theatres for the same reason he dislikes lectures: on the Row, nobody expects anything of him except that he laughs at the right moments. He sits in the cheap gallery of the Gilded Stage, knows half the company by name, has opinions about every play on the Row and argues them over late suppers in the Row's taverns. He can quote most of The Baker's Wager. He has a suspicion, from overheard rehearsals, that the new Balrog War play has no ending, and he has been tempted, more than once, to suggest one.
+
+He likes the light, too. Stage light is a craft of its own, lamps and mirrors and coloured glass, and Everard has spent more hours than he would admit watching how the stagehands make a dawn out of a candle. He has never done anything about it. Probably.
+
+### Mariota
+
+His friend Mariota, who studies under Theobald the stargazer and corrects his arithmetic, has worked out that Everard is far cleverer than he lets anyone see, and she has made it her business to catch him at it. She has come close twice. He enjoys this game enormously and would be lost without it, and he has never told her that she is the only person at the Academy whose opinion of him he actually minds.
+
+### What he wants and fears
+
+Everard wants to be left alone to be good at things quietly. What he fears is being great. He has read enough of the news from the roads, and seen enough of the worry on Morwen's face when she comes back from the Master's rooms, to understand what a kingdom does with a great mage in a time like this one: it needs them. It sends them somewhere. It puts the weight of something very large on their shoulders and expects them to carry it. He has seen what that look does to Morwen. He is eighteen, and he would rather be thought lazy.
+
+He also fears, a little, that if he ever tried with everything he had, he would find out where his limit was, and it would not be as far away as everyone believes.
+
+A quest might begin with someone noticing that a small theatre on the Row has had remarkably beautiful lighting this season, with no lamps anyone can find, or with Morwen asking a traveller to take Everard somewhere he will have no choice but to try.
 
 ## Relationships
 

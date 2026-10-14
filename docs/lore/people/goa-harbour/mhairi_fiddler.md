@@ -15,9 +15,33 @@
 
 Mischievous, bright and tireless; she plays faster when people try to stop dancing.
 
-## Story
+## Lore
 
-Mhairi plays at the Gap Inn and at the summer race send-off. She is writing a song about the race and needs Goa Harbour to win so she can finish it.
+Mhairi is twenty-one and the fiddler of the Gap Inn, where she plays most nights for Bethoc's customers, and of the summer race send-off, where she plays on the quay as the Gap Runner goes out through the gap. She is mischievous, bright and tireless. She plays faster when people try to stop dancing, and slower when they are sure the tune is over, and she has never yet played a set without someone falling over on purpose to make her laugh.
+
+### A fiddle from an offcut
+
+Mhairi grew up on the Lantern Market, above a ship's chandler's. Her father was a ship's carpenter who made her first fiddle out of an offcut of mast timber when she was seven, badly, so that it squeaked on every note. He sailed on the coastal traders and was lost with his ship in a winter storm when she was eleven. She still has the squeaking fiddle, and keeps it on the wall above her bed. The one she plays now she bought herself, with three years of coppers from playing at the market.
+
+She learned the old tunes from Cormac, the shanty singer, who heard her squeaking away on the Lantern Market when she was eight and could barely hold the bow, and decided on the spot that she had a singer's ear. He tells every child that, but in her case he kept coming back. He taught her the songs of the shared camp, the ones the Savage hunters and Magicians sang when they first fished the inlet together, and he taught her that a tune is a story you can dance to. Now she plays them faster than he can sing them, on purpose, to make him laugh, and he calls her the best thing he has ever done.
+
+### The inn
+
+Bethoc took her on at fifteen, after Mhairi had played for a whole evening outside the door of the Gap Inn until the customers inside complained they could not hear her properly. Bethoc pays her in coin, in stew, and in the right to play whatever she likes, and Mhairi values the last most of all. She knows every regular, every hunter who reads the sighting board, and every sailor's favourite tune. When a hunter comes back late and wounded, she plays something soft until Elspeth arrives. When the sailors start a fight, she plays louder until they forget what it was about.
+
+### The race song
+
+Mhairi is writing a song about the summer race. It has a verse for the gap at dawn, a verse for Iska at the tiller, a verse for Tamsin hammering on the slip through the winter, and a rowdy verse for Jory that he has asked her to make longer. It has no last verse, because the last verse is the finish, and she will not write the Gap Runner losing. Goa Harbour has to win so she can finish it. She has told the whole Gap Inn this, loudly, and the crew have begun to feel it as a kind of pressure.
+
+She has not asked Cormac for a single verse. It is not because she does not want his help. She wants to give him the whole song finished, as a gift, to prove that she has learned everything he taught her. She does not know that he is quietly hurt, and if she did, she would be horrified.
+
+### What she wants and fears
+
+Mhairi wants to play the finished race song at the finish feast, with Goa Harbour winning. She wants Cormac to hear it and cry for the right reasons. She fears the song will never be finished, and she fears, a little, the old gap verse that Cormac starts and never ends, because she has seen his face when he stops.
+
+### Hooks
+
+A quest might help Mhairi gather the stories she needs for her verses from the race crew, carry her unfinished song to Cormac and find a way to make them both talk, or keep the Gap Inn dancing on a night when something is chalked on Bethoc's board that frightens everyone.
 
 ## Relationships
 

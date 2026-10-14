@@ -1,0 +1,23 @@
+On stage, Tinder is magnificent. She struts into the middle of Lantern Square in a scarlet waistcoat, bows to the crowd as if they ought to be bowing to her, lights a torch, tips her head back and swallows the flame whole, then breathes it out again in a roaring orange plume that sends the front row stumbling backwards and the children shrieking with delight. She juggles burning clubs, walks a line of hot coals and lights a stranger's pipe with a kiss of flame from her own lips. She is thirty-three, broad-shouldered and loud, and she makes the whole thing look like the easiest trick in the world.
+
+Off stage, she checks the water bucket. Then she checks it again. Then, just before she begins, she checks it a third time, and anyone who has watched her for long knows that the swagger only starts after the third check.
+
+### A life on the road
+
+Tinder was born into a traveling show, a string of painted wagons called Brightwater's that went from town to town across Veligor with acrobats, a dancing goat and a fire-eater. Her parents were tumblers with the show; both are dead now. The fire-eater was an old man called Cassius, with no eyebrows and very steady hands, and he took Tinder on when she was eleven because she kept trying to copy him with candles. He taught her the trick, the breath, the oils and the order of things, and above all he taught her the bucket. Fire, he said, is a guest that never goes home on its own.
+
+Cassius also taught her his superstitions, and one of them she has never shaken. He would not perform anywhere near the old stories of the Burning: not on a stage where someone had just been telling them, not in a square where a balladeer was singing them, not even in a town where the children played at being it. He said it was bad luck to play with fire while the fire was listening. Tinder does not know whether he believed it. She does.
+
+The show came to Urbanograd eleven years ago, when Tinder was twenty-two. Cassius had died the winter before, and the wagons were older and the roads slower than they used to be. Tinder performed in Lantern Square for a week, and nobody told her to stop, and nobody told her to move on, and nobody told her a fire-eater ought not to be a woman, as people had in other places. When the wagons left, she stayed. The show did not come back.
+
+### Lantern Square
+
+Tinder's pitch is a stretch of flagstones in the middle of the square, well away from the awnings. If a storyteller starts in on the Burning nearby, she packs up and moves, mid-show if she has to, and the regulars have learned to follow her. Ivo Sable, the street healer whose green awning stands at the edge of the square, has treated her blistered lips and singed hands more times than either of them can count. He scolds her every time about the bucket, even though she already checks it three times, and she brings him the first coins of every good night.
+
+Jinx, the juggler, is her friend. Four winters ago she found a skinny fourteen-year-old from Selsior juggling for coins in the cold, shared her supper and showed Jinx the corners of the square that stay warm after dark. Jinx wants more than anything to learn to juggle burning torches, and Tinder refuses to teach the trick, at least for now. Jinx does not yet check the water bucket even once, let alone three times. Tinder will teach Jinx the day Jinx checks it without being told, and she has not said so, because then Jinx would only do it to be taught.
+
+### What she wants and fears
+
+Tinder wants to grow old in this square, eyebrows and all, and to pass the trick on properly before her hands stop being steady. She fears a fire she cannot put out, and, more quietly, that the old stories Cassius would not perform near are not only stories.
+
+A quest might fetch the special lamp oil Tinder's act needs from outside the walls, move a Burning storyteller along before her show, or persuade her that Jinx is finally ready.

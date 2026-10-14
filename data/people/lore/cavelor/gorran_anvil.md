@@ -1,0 +1,23 @@
+Gorran is sixty-six, the Smith of Cavelor, and the loudest man under the World Tree. He is gruff, soft-hearted and fond of shouting across his forge whether or not anyone is listening, and his laugh sounds like a hammer coming down on stone. He believes any problem can be fixed if you heat it enough. He is aware that this is not always true. He prefers not to dwell on it.
+
+### The forge by the Upper Stair
+
+Gorran's forge stands by the Upper Stair, where old vents carved by the first guardians carry the smoke up through the rock and out somewhere far above. He took it over from his own father, who took it over from his, and there has been a smith of their line at that anvil for longer than anyone has bothered to count. Every blade a Warden carries, every lantern frame on the Deep Watch, every piece of armour in the guardroom has been made or mended there. Gorran knows each one by its marks. He can tell you which Warden is hard on their lantern, which one never oils a blade, and which one has been quietly sharpening theirs every night this spring.
+
+He still takes his own turn on the Deep Watch once a week, on the upper passages, because every adult in Cavelor does and he sees no reason to stop just because his knees complain. Brask, who draws up the roster and is his oldest friend, has offered more than once to let him off. Gorran tells him to count something else.
+
+### His children
+
+Gorran married Maelis, a gardener with a voice like a bell, when he was already past forty, and he still says it was the luckiest day of his life. She died in the damp fever sixteen years ago, leaving him with two small children and a forge that would not wait. He raised Thera and Doran loudly, badly in places, and with enormous love.
+
+Thera, twenty-two, is the most dependable Warden on the Deep Watch, and he is so proud of her he can hardly speak about it, which for Gorran is saying something. He also worries that she has carried too much since she was six, and that it is his fault. Doran, nineteen, came back from the surface last autumn talking about nothing but the sky, and Gorran laughs at every story and quietly saves them up. He knows Doran wants to go back. He would tell the boy to go, if the boy ever asked. He suspects Doran will not ask.
+
+### More blades every year
+
+Eleven years ago, the first monsters reached Cavelor's outer tunnels. Since then, Brask has asked Gorran for more weapons every year: more blades, more spear-heads, heavier armour for the scouts. Gorran makes them, and makes them well, and does not like what it means. For all of Cavelor's history, the Wardens' blades were mostly for show and ceremony; the guardians watched the seal, and nothing came to test them. Now Varn the scout brings back his armour scored with claw marks, and Gorran mends it without a joke, which is how people know he is worried.
+
+He is afraid of a day when there is not enough metal, or not enough hands, or not enough time. He is more afraid that one day he will be asked to make something that cannot be fixed by heating it.
+
+### Hooks
+
+A quest might gather ore or rare metal from the dangerous outer tunnels for Gorran's forge, or help him forge something special for the Wardens. Someone might also, gently, help him and Doran finally have the conversation each of them is waiting for the other to start.

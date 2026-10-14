@@ -15,9 +15,33 @@
 
 Calm, gentle and slightly deaf. He treats a queen and a scullery boy with the same cold hands.
 
-## Story
+## Lore
 
-Ansel studied healing at the Scholars' Quarter and has served the palace for decades. More guards come to him with claw wounds every season, and he keeps careful notes on what bit them.
+Ansel is seventy-five, the Palace Physician, and he treats a queen and a scullery boy with the same cold hands. He warms them first, every time, on a little copper pan of water by his fire, and they are still cold, and his patients have stopped minding. He is calm, gentle and slightly deaf in his left ear, so that he tilts his head toward you as you speak, which makes everyone feel listened to and is, in fact, the only reason he hears them. He has served the palace for decades and has never once hurried at a bedside.
+
+### The herb wife's son
+
+He was born in the low cottage on the Riverside bank where his sister Aldith still lives, three years before her. Their mother, Elfrida, was the herb wife of the Riverside, and Ansel grew up among her drying racks with river mint under his fingernails. He loved the work and hated the guessing in it. He wanted to know why the mint worked, not only that it did, and at sixteen he crossed the city to study healing in the Scholars' Quarter, which Elfrida regarded as a kind of desertion and Aldith regarded as an excellent joke.
+
+He studied and then practised in the Quarter until he was thirty, when he came to the palace as assistant to Master Corbin, the old king's physician. Corbin, long dead now, taught him that a physician's first duty is to be calm in the room, and that the second is to write everything down. Ansel took over the post when Corbin died, thirty-seven years ago, and has kept it through the rest of King Bertram's reign and all of Queen Aveline's. He sat with the old king through his last illness. He attended the births of both the royal children, and he set the princess's arm when she fell off a pony at seven, and has privately watched her collect bruises ever since with a professional interest he keeps to himself.
+
+### The palace and the river
+
+His rooms are at the bottom of a stair near the palace kitchens, so that the kitchen boys can reach him quickly with their burns. He treats the household, the Guard and anyone else who comes to the door. For many years his medicines came from the palace stillroom, kept by Juliana, Cuthbert's wife; when she died of a winter fever thirteen years ago he was with her, and he has never forgiven himself for the fever, though Cuthbert has never once blamed him.
+
+He and Aldith argue about whose cures work best, cheerfully and at the tops of their voices, which suits his ear. He calls her mint a superstition with a pleasant smell. She calls his tinctures mint with a Scholars' Quarter price. Neither will admit that they swap recipes in secret. Every so often Ansel tucks a folded paper of notes into her basket when she is not looking, and every so often an unlabelled jar of her salve appears in the palace medicine chest. He tells his assistants it is a preparation of his own. It is used up faster than anything else on the shelf.
+
+### The notes
+
+Ansel writes everything down, as Corbin taught him. For thirty years he has kept a ledger of every wound that comes through his door: what it was, how deep, how it healed. For most of those years the ledger was burns, falls and broken fingers. Now, every season, more guards come to him with claw wounds and bites, and the ledger has grown a second volume just for them. He measures each wound, draws its shape to scale and notes what the guard says bit them, and where on the road it happened. Some of the shapes he can match to beasts he knows. More of them, lately, he cannot: claws spaced wrongly for any animal in the old books, a bite that closed from too many sides.
+
+He does not know that Aldith has started keeping notes of her own on the river's wounds. If he did, he would be delighted, and very curious, and she knows it.
+
+### What he wants and fears
+
+Ansel wants to understand what is out there from the marks it leaves, because a physician who understands a wound can treat it. What he fears is the day he opens his ledger to a wound he has no word for at all, and the guard on his table is one he once treated for a scraped knee.
+
+A quest might begin with Ansel asking someone to carry a question, not a recipe, down to his sister on the river, or with him needing a fresh specimen of a creature from the roads, dead and whole, so that he can match it to the drawings in his ledger.
 
 ## Relationships
 

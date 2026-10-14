@@ -15,9 +15,35 @@
 
 Loud, calculating and loyal to his crew. He prices danger like any other cargo.
 
-## Story
+## Lore
 
-Merrick leads trade caravans between the capital and the other towns. He is always looking for capable fighters to guard his wagons, and he pays well, because he has to.
+Merrick is fifty-two, a caravan master, and you can hear him before you see him. He arrives at the Selsior Gate at the head of a line of wagons, standing on the box of the first one, shouting at the oxen, the drivers, the gate guards and the weather in roughly that order. He is loud, calculating and fiercely loyal to his crew, and he prices danger exactly the way he prices salt, wool or cider: by the weight, by the distance, and by how much worse it has got since last season.
+
+### Up from the driver's bench
+
+He started on the roads at twelve, as a boy who walked beside the oxen of somebody else's wagon and was paid in suppers. He learned the royal roads a mile at a time: every ford, every hill that breaks an axle, every inn that waters its beer. In those years he often shared a fire with a carter who hauled goods between the capital and the other towns with two small sons on the bench beside him. The carter is long dead. One of the sons is Edric, now Lieutenant of the Road Patrol, and Merrick still tells him he was a dreadful child who threw stones at the horses.
+
+By twenty-five Merrick had his own wagon; by thirty-five he had six, and a name among the merchants of the Crown Market as the man who delivered on the day he said he would. He has kept that name for seventeen years, and he guards it harder than any cargo.
+
+### The crew
+
+Merrick's crew is the closest thing he has to a family, and he treats it like one: badly fed when the road is long, loudly scolded, and defended to the last breath against anyone else who tries it. His drivers have been with him for years, and the oldest of them taught him to grease an axle. He has never married. He says no woman alive would put up with a man who leaves for a month at a time and comes back smelling of oxen, and that the oxen, at least, do not complain about it.
+
+When he is in the capital he sleeps at the Gate Inn, where Hamon keeps his old room at the back and sets his supper on the table before he has finished shouting at the oxen. Merrick reads Hamon's board of road stories by the door before he reads anything else, and he adds to it most times he comes in.
+
+### Pricing danger
+
+In his first years the worst thing on the roads was weather. Then it was wolves in a hard winter. Now it is everything, and it is every season. Merrick has watched the danger grow the way a merchant watches prices, and he has done what a merchant does: he has charged for it. Every load he carries now has a line for guards, and he pays them well, because he has to. Fighters who can hold a road are scarce, the Guard cannot be everywhere, and the ones who are good know exactly what they are worth.
+
+He hires anyone capable, from any town, and he judges a fighter in one look: how they stand, how they carry their pack, and whether they look at the wagons or at the trees. He has never yet lost a driver. He has had guards hurt, and he paid every one of them in full for the season, which he will tell you was simple good business, and which was not.
+
+Edric is his great friend, and they have shared more fires on the road than either can count. They argue cheerfully about whether the patrol should guard the caravans or the caravans should guard themselves. Both know the true answer: there are not enough swords for either.
+
+### What he wants and fears
+
+Merrick wants to make one more run than the roads can stop him making, every season, until he is too old to stand on the box. What he fears is the day he has to tell a merchant that a load cannot be carried at any price, because that will be the day the roads have won.
+
+A quest might begin with Merrick hiring guards for a run he will not explain, at twice his usual rate, or with one of his wagons coming in through the gate with its driver and its oxen safe and its cargo gone, and the driver unable to say what took it.
 
 ## Relationships
 

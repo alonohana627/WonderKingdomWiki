@@ -1,0 +1,33 @@
+Nerissa dives for pearls and shellfish beyond the harbour wall, or she did until a few weeks ago. She is twenty-seven, fearless and quiet, and she is happiest underwater, where nobody expects her to talk. On land she speaks in short sentences, as if saving her breath. Asked how a dive went, she says "Good." Asked what she found, she opens her hand.
+
+### The diver's granddaughter
+
+Nerissa learned to dive from her grandmother, Demelza, who dived the reef beyond the harbour wall for fifty years and could stay down longer than anyone in Bain Harbour. Nerissa's parents moved inland to Selsior when she was small, to work for a cloth merchant there, and she chose to stay behind with her grandmother and the sea. They still write. They have long since stopped asking her to come.
+
+Demelza taught her everything: how to breathe slowly on the surface before going down, how to clear her ears, how to read the reef's ledges and the colour of the sand, how to open an oyster with a twist of the knife so the pearl does not scratch, and never to dive alone without telling someone on shore. Demelza died six years ago, in her own bed, with a string of her best pearls round her neck. Nerissa has dived alone since, and tells Wenna on the fish market steps when she is going, because Demelza would have wanted someone told.
+
+### The reef
+
+Beyond the harbour wall the bottom falls away to a long reef, and below the reef, in the dark, the shelf drops off into deep water. Nerissa knows every ledge of the reef by touch. She brings up oysters, mussels and scallops, which she sells at the Fish Market, and now and then a pearl, which she sells to traders passing through the harbour. It is not a rich living. She does not want a rich living. She wants the green light and the quiet and the sound of her own heart slowing down.
+
+### Tristram
+
+Her sweetheart is Tristram, the harpooner. They met four years ago when he was still hunting big fish from his narrow boat, the Patience, and saw her go down off the reef and not come up. He had rowed halfway to the spot to fish her out when she surfaced beside his oar, laughing. He laughed too, completely, and she decided then that she liked him.
+
+They suit each other. Neither says more than they need to, and they can sit on the harbour wall together for a whole evening without a word. He is patient and still. She is fearless and quick. Since the deep water changed, he stands at the bow of the Heron for Captain Corwin, and she waits on the wall for the ship to round the headland.
+
+### The last dive
+
+Some weeks ago, late this spring, Nerissa went down on an ordinary morning to the edge of the reef, where the shelf drops into the dark. She was reaching for an oyster when something moved below her, down past the edge, in the dark where the light does not go. She saw it only for a moment. She came up faster than Demelza ever allowed, sat on the harbour wall shaking, and has not gone back down since.
+
+She will not say why, not to Wenna, not to anyone, not even to Tristram. He has not pressed her, and she loves him for it. The truth is that she is not frightened for herself. She is frightened that if she tells Tristram what she saw, and where, he will take his father's harpoon and go down there to look, because he has wanted to see what is in the deep water for longer than she has known him.
+
+So she sits on the step below Wenna's, sorting other people's catch, and looks at the water.
+
+### What she wants and fears
+
+Nerissa wants to dive again, and to feel the way she felt before. She fears that she never will, and she fears even more that one day Tristram will find out what she saw without her.
+
+### Hooks
+
+A quest could dive the reef where Nerissa stopped, bring her back a pearl from the ledge she was reaching for, or help her find the words to tell Tristram before he goes looking on his own.

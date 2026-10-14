@@ -1,0 +1,29 @@
+Petronella is thirty-eight, the Royal Scribe, and she has the finest handwriting in Wonder Kingdom. This is not a boast. It is, as she would put it, an incontrovertible observation, attested by every person who has ever received a royal decree. She is neat, serious and fond of long words, and she corrects other people's spelling out of pure kindness, in the gentle voice of someone pointing out that your cloak has caught in a door.
+
+### The north-lit room
+
+She grew up in the Scholars' Quarter, the daughter of a clerk at the Academy and a schoolmistress, both dead now, in a house where every flat surface had paper on it. At fourteen she went to the back room of the Academy's great library, the cold one with the good north light, where Benedict the Head Librarian trains the copyists and scribes the palace needs. He made her copy the same page forty times before he let her touch a second one. She did not mind. She liked the page.
+
+Benedict says she was the best pupil he ever had, and he says it in a hushed voice as if it might disturb the books. She still sends him her finest pages, and he still finds one letter on each to correct. Neither of them would give up the custom for anything.
+
+She came to the palace as a junior copyist at nineteen, in the last years of the old king's reign, and has been Royal Scribe for nine years. She never married. She says she is already wedded to a great many books, and that they are better at keeping their promises.
+
+### The palace books
+
+Petronella copies every royal letter and decree into the palace books: great leather-bound volumes, one for each year, ruled by hand and kept in a locked press in her copying room. Proclamations, trade settlements, Guard commissions, letters of thanks and letters of complaint, all go through her pen before they go out under the seal. She reads each one twice before she copies it and once after. She notices everything, and repeats nothing, which is why Queen Aveline lets her copy the letters she does.
+
+Peterkin brings her most of her work at a run, and she has given up asking him to slow down and asks him only to wipe his hands. Her dearest friend is Melisende, Mistress of the Envoys' Hall, who never raises her voice and never loses an argument. They take supper together most weeks, and Melisende tells her what the envoys said in the room, and Petronella tells Melisende what the envoys' letters said afterwards, which is often quite different.
+
+### The history
+
+Petronella has a secret, and only Melisende knows it. She is writing a history of her own.
+
+It began as notes in the margins of her own commonplace book: a decree here, a date there, a letter from a town about wolves on a road, then about worse than wolves. Over nine years of copying she has watched the palace books change. The letters about trade and festivals have grown thinner. The letters about roads, patrols, guards and wounds have grown thicker. Nobody else reads all of them. Petronella does, and she has realised that she is holding a record of the Age of Disturbance as it happens, written by the people living through it, and that nobody else in the kingdom has one quite like it.
+
+She has filled three notebooks. She does not yet know how the history ends, and she has begun to be afraid that she is not the one who will write the last chapter. She would like very much to talk to Thomasin, the historian, and to Benedict about the missing volume of the Aristocrat chronicles, which he lost the year after she left his back room for the palace and has been searching for ever since. She has not done either, because a scribe who writes history is getting above herself, and she is not yet brave enough to be.
+
+### What she wants and fears
+
+Petronella wants her history read, and her name on the spine, written in her own hand. What she fears is a decree she cannot bring herself to copy.
+
+A quest might begin with a page missing from one of the palace books, cut out cleanly with a blade, or with Petronella needing someone to carry a question to another town's archive that she cannot ask in a royal letter.

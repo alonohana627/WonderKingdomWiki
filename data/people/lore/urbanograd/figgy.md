@@ -1,0 +1,25 @@
+Figgy is eight years old and has chalk dust up to her elbows, on her nose, in her hair and, according to her mother, in places chalk should not be able to reach. She draws on the flagstones of Lantern Square every day that it is dry, and she is very clear about the rules. Anyone may look at her pictures for free. Anyone who steps on one owes her a copper. She collects the fee with an outstretched hand and a stare that has made grown carters dig in their pockets, and she has never once let anybody off.
+
+### A painter's daughter
+
+Figgy is the daughter of Ochre, the muralist who has painted half the walls around the square. She grew up under scaffolding, handing up brushes, getting splashed, and falling asleep on drop cloths while Ochre talked to a wall about its feelings. She learned to draw before she learned to read, and she learned to argue about drawing even earlier. Ochre gives her the stubs of chalk and the dregs of the paint pots, and Figgy gives Ochre a great deal of advice that nobody asked for.
+
+She is bright, bossy and stubborn, and she has opinions about everyone's work. She thinks her mother's colours are too careful. She thinks the night paintings on the backs of the chimneys, which everyone knows are Splash's and which nobody can prove are Splash's, are the best pictures in the city, and she says this loudly whenever Ochre can hear. She has not yet worked out why it makes Ochre laugh and sigh at the same time.
+
+### The rain rule
+
+Figgy insists that no drawing of hers is finished until it rains. Then she sits on the edge of the square, under the lip of Ivo Sable's awning if he will let her, and watches the colours run together, slide between the stones and go down the gutters in long bright ribbons. That, she says, is the end of the picture. Everything before it was just the beginning. Grown-ups find this either very wise or very annoying, depending on how much they have just paid to step on a dragon.
+
+### Her audience
+
+Jinx the juggler is Figgy's favourite performer in the city, and Figgy is Jinx's harshest critic. She sits on the edge of her own drawings every evening and shouts advice: higher, faster, more apples, fewer apologies. When a ball lands on one of her pictures, she holds out her hand, and Jinx always pays. She suspects Jinx drops them on purpose and has decided not to mind, because a copper is a copper.
+
+Nana Gristle, on her bench at the side of the square, tells Figgy which of her drawings are the best and which are rubbish, with equal confidence, and keeps a honey cake in her pocket for the good days. Figgy pretends she does not care what Nana thinks and always checks.
+
+### What she wants
+
+Figgy wants a real wall of her own. Not a flagstone that the rain takes, not a corner of one of her mother's murals, but a whole wall, as tall as possible, that stays. She is saving her coppers for it in a jar under her bed, though she has not worked out who sells walls. Ochre has explained that the old walls around the square belong to the Walkers' pictures and cannot be painted over. Figgy has explained that the Walkers are not using them.
+
+She is afraid, secretly, of being told she is only good for a child. She would rather be told she is terrible.
+
+A quest might find Figgy a wall that nobody is using and persuade its owner to let her have it, carry a box of good coloured chalk safely in from outside the walls, or settle a dispute over an unpaid copper with a very large and very stubborn carter.

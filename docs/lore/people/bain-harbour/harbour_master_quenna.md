@@ -15,9 +15,33 @@
 
 Brisk, loud and quick to laugh, with a sailor's habit of deciding things before the tide turns. She listens to everyone at the council table and then says exactly what she thinks.
 
-## Story
+## Lore
 
-Quenna chairs the harbour council of captains, shipwrights and merchants, who chose her from among themselves. She sails her own boat in the summer race around Veligor against Goa Harbour and has never once admitted that the other side might win.
+Quenna has been Harbour Master of Bain Harbour for eight years, and in that time she has never once let a council meeting run past the turn of the tide. She is forty-six, brisk, loud and quick to laugh, with a sailor's habit of deciding things before the water changes its mind. She listens to everyone at the council table, captains, shipwrights and merchants alike, and then says exactly what she thinks. The council chose her from among themselves, and most of them say it was the easiest choice they ever made and the noisiest one they have lived with since.
+
+### A captain first
+
+Quenna grew up on the Waterfront and went to sea as a deck girl at twelve. By twenty-seven she was master of her own trading ship, the Kittiwake, and tired of watching middlemen in Selsior take a cut of every barrel she carried. So she walked inland to Kaldemor to buy direct, arrived in the town square with salt on her boots, and argued with its mayor, Tobin, about the price of cider for an entire afternoon. That was nineteen years ago. Every autumn since, Kaldemor's harvest carts have come down to Bain Harbour with cider, flour, pottery and woodwork, and gone home with salt, dried fish, rope and spices. Quenna still goes up to Kaldemor for the harvest fair each autumn to settle the year's prices with Tobin over fresh bread. She thinks he is the shrewdest bargainer on Veligor pretending to be a sweet old man, and she has never once got the better of him. He says the same of her.
+
+Last autumn one of Kaldemor's carts never reached the harbour. Quenna has not stopped thinking about it.
+
+### The race and the rival
+
+Quenna sails her own boat in the summer race around Veligor, built by Dunstan, the master shipwright, who will not let even her see the plans for this year's hull. She has skippered Bain Harbour's boat for fourteen summers, and she has never once admitted that the other side might win.
+
+The other side, for the last twelve of those summers, has been Iska of Goa Harbour. They met twenty-two years ago, when both were young crew. That year a squall dismasted Bain Harbour's boat off a rocky headland, and Goa Harbour's boat turned back to tow them clear. It was Iska, then nineteen, who threw the line, and Quenna, then twenty-four, who caught it. Neither boat finished; the race was declared void, the only time that has ever happened, and the two crews spent the night drinking together in the nearest cove. Quenna and Iska have been friends ever since.
+
+Since they became skippers against each other, Bain Harbour has won nine races to Goa Harbour's three, four of those nine by a single length. Goa's last win came six summers ago. By old custom the losing skipper buys the first round at the finish feast, and Quenna has bought it only three times in twelve years and complained bitterly every time. She thinks Iska is the finest pilot alive, and she would rather swim around Veligor than say it to her face. Lately, at the finish feast, the two of them talk less about the race and more about the sea: what each harbour's sailors have seen in the deep water, and where.
+
+### Home
+
+Quenna is married to Ambrose, who draws the charts every captain sails by. Since the Disturbance began to touch the sea, the captains have brought him marks for places where something was seen in the water, and Quenna is one of very few people who knows about the separate chart he keeps locked in a drawer; she shares its worst marks with Iska each summer. Their son Jowan joined the Harbour Watch last spring and wants desperately to prove he did not get the post because of her. She knows he would rather be crewing in the race, and she has not yet decided whether to let him. She is also the one person Halloran, the captain of the Watch, has told why a watch now stands on the outer pier at night, and she has kept it to herself.
+
+At the council she relies on Captain Corwin, Marisol the spice merchant and Ottilie, her clerk, and she trusts Mabyn, who keeps the hall door, with anything at all.
+
+### What she fears
+
+Quenna fears the sea she grew up on is changing faster than her harbour can. A quest could find the missing Kaldemor cart, check a mark on Ambrose's locked chart, or crew for her in the race.
 
 ## Relationships
 

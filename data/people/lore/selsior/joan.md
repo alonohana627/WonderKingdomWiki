@@ -1,0 +1,25 @@
+Joan is forty-four and keeps the Crooked Lantern, a tavern in the old quarters with a lopsided sign, a low beamed common room and nine rooms upstairs that she rents to adventurers for less than they are worth. The lantern on the sign has hung crooked for longer than anyone remembers. Joan straightened it once, when she first took over the house, and the regulars complained so much that she put it back.
+
+### A house built on stories
+
+The Crooked Lantern was her mother's before it was hers. Beatrix kept it for more than thirty years, and she married a young adventurer named Roland who kept coming back to it between journeys, because, he said, it was the only tavern on Veligor that never asked him to leave early. Joan was born upstairs, in the room over the kitchen, and grew up running plates between the tables.
+
+Her father was away more often than he was home in those years. When he came back, he came back with stories: the Greenwood at night, the highland passes, the long roads down to the harbours, the things he had seen and the things he swore he had seen. Roland adventured when the wilds were far quieter than they are now, and his stories were mostly about weather, bad maps and worse cooking, with a monster in them now and then for flavour. Joan grew up on them. She loved them. She also grew up watching her mother look at the door every evening he was gone, and she learned that from Beatrix as surely as she learned the stories from him.
+
+Roland gave up the road for good when his knees gave up on him, and he has been sitting in the corner of the common room ever since, giving advice to anyone younger than him, which is everyone. Beatrix died twelve years ago, and Joan has kept the Lantern alone since then. She never married. She says she has a tavern, a father and a house full of lodgers, and that is quite enough people to worry about.
+
+### Running the Lantern
+
+Joan is brisk, big-hearted and very hard to fool. She runs the Lantern like a ship: everything stowed, everything in its place, everyone with a job, and the keeper's word final. Lodgers who pay late are forgiven once. Lodgers who lie about paying late are not. She knows which adventurers are hungry and too proud to say so, and their bowls come back fuller than they ordered. She knows which ones drink to forget a bad fight, and she sits down beside them and does not ask.
+
+Her lodgers are her family, more or less, and she treats them like it. Just now they include Thurstan, who takes every bounty posted at the gate and eats like three men, and Constance, his partner, who keeps notes on every monster they fight and once showed Joan two pages of them. Joan read them, and made Constance promise to be more careful, and has thought about those two pages more than she lets on. Roland has taken Thurstan under his wing, which Joan considers a mixed blessing: the boy needs the advice, but he does not need to be told that he reminds Roland of himself.
+
+### What she wants and fears
+
+Joan worries every time her lodgers head out of the gate. Her father's stories were full of quiet roads, and the roads are not quiet now. She keeps a slate behind the bar with the name of every lodger who is out and the day they said they would be back, and she rubs each name off herself when they come through the door. Lately she has had to leave names on the slate longer than she likes. She has never yet had to rub one off for the wrong reason, and she means to keep it that way.
+
+What she wants is simple: a full house, an empty slate and her father still in his corner, telling the same story wrong.
+
+### Hooks
+
+A quest might begin with a lodger's name that has stayed on Joan's slate three days too long, and Joan asking someone she trusts to go and find out why. Or it might begin with Roland, who has started telling one story he never told when Joan was a girl, and will not say why now.

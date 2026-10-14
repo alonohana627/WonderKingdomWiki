@@ -15,9 +15,31 @@
 
 Sentimental, stubborn and a very bad liar. Hambone polishes the cart wheels while humming the play's songs.
 
-## Story
+## Lore
 
-Hambone looks after the old cart the troupe performs on every Walkout Day, and swears some of its planks come from Juna's own cart. One wheel is cracking, and he cannot bear to replace it.
+Hambone keeps the old cart that the Old Barracks Troupe performs on every Walkout Day, and he loves it the way other people love a grandparent. He is seventy-two, broad and slow, with big careful hands and a voice that is always humming one of the play's songs, usually slightly flat. Every morning he polishes the wheels, checks the axle, oils the hinges of the fold-down steps, and tells the cart what kind of day it is going to have. He is sentimental, stubborn and the worst liar in Urbanograd, and everyone who has ever asked him a question he did not want to answer knows it.
+
+### A life behind the cart
+
+Hambone was born in the city and joined the troupe at twenty as a cart-pusher, back when old Bellamy Stroud was a young director. He got his name in his second season, playing the back half of a prize pig in one of Bellamy's farces with such commitment that the crowd threw sausages. The name stuck. He has not answered to any other in more than fifty years, and very few people remember what the other one was.
+
+He never wanted big parts. What he wanted was the cart. Its keeper in those days was Fenwick Corliss, a wheelwright who had joined the troupe for the same reason, and Fenwick taught Hambone everything: how to true a wheel, how to swap a plank so the audience never notices, how to brace the stage for a crowd that will climb onto it at the end. When Fenwick died, forty years ago, the cart passed to Hambone without anyone needing to say so. When a nineteen-year-old called Dina Finch joined the troupe seven years later, it was Hambone who showed her how to push it.
+
+### Juna's planks
+
+The cart has been mended so many times that very little of it is very old. But Hambone swears that some of its planks come from Juna Marrow's own cart, the one Selsior's theatre guild hauled out of the market square a hundred years ago. Fenwick told him so, and someone told Fenwick, and Hambone can point to the boards in question: three dark, worn planks in the middle of the stage, darker than the rest. He cannot prove it, and Ozzie Lantry, who has looked, has found no letter either way. Hambone does not need proof. He lets Pip Marrow, Juna's great-granddaughter, sit on those planks during rehearsals, humming, while she pretends not to be moved.
+
+### His friends
+
+Thimble, the troupe's costume maker, is his oldest friend. They have shared a bench backstage for thirty years, Thimble with pins in her mouth, Hambone with a polishing rag, and they argue about everything from hat feathers to the right speed for the Walkers' song. This spring, when Rue froze in the wings at her audition, it was Hambone who went to fetch her water, and he has been quietly proud of her ever since. Little Sprout rides on the cart's tailboard whenever Hambone is not looking, which is whenever Sprout is on it.
+
+### The wheel
+
+One of the cart's wheels is cracking. It is the left rear one, the oldest, and Hambone found the crack in early spring. He has bound it with wire and told everyone it is perfectly fine, and every time he says so his ears go red. Dina knows. Thimble knows. Sprout knows. Hambone knows they know, and still cannot bear the thought of taking it off and burning it. A wheel like that should come from good seasoned wood, and good wood arrives from outside the walls less often each year.
+
+He wants the cart to roll into the main square this Walkout Day the way it always has, and he fears, more than he can say, the day it breaks under the play in front of the whole city.
+
+A quest might bring seasoned timber safely through the roads for a new wheel, find a wheelwright willing to keep the old hub, or discover some proof, one way or the other, about Juna's planks.
 
 ## Relationships
 

@@ -15,9 +15,29 @@
 
 Cheerful, steady and good with his hands, he whistles while he works and never loses his temper. He finds his father's stubbornness exhausting and admires it anyway.
 
-## Story
+## Lore
 
-Alwyn will take over the shipyard from his father one day and already does most of the heavy work. He would like to build sturdier hulls for the deep water, but Dunstan says the old designs were good enough for Old Bain.
+Alwyn is forty-one, and he has been working in the Bain Harbour shipyard since he was old enough to carry a bucket of pitch without spilling it. He is the son of Dunstan, the master shipwright, and everyone on the waterfront knows that the yard will be his one day. Most of them would say it already half is. These days Alwyn does the heavy work: he steams the planks, swings the adze, hauls the timbers into place and climbs the staging in the rain when his father's knees will no longer allow it. He whistles the whole time, and in all his years at the yard nobody has ever heard him lose his temper.
+
+### The yard and the old man
+
+Alwyn grew up in sawdust. His mother, Senara, painted the names on his father's hulls in curling gold letters, and when she died nine years ago Alwyn took over the brush, because nobody else in the yard had a steady enough hand. He still paints every name the way she taught him, and he has never told Dunstan that he practised for a month in secret before the first one.
+
+He finds his father exhausting. Dunstan is gruff, stubborn and certain, and he talks to the ships as if they were old friends who might take offence. Alwyn has spent years trying to change the old man's mind about one thing in particular: the hulls. Since the Disturbance the water past the headland has grown rougher, and the captains come home with stories of things that bump and scrape beneath them. Alwyn would like to build deeper keels, thicker planking and stronger ribs for the ships that work the deep water. Dunstan says the old designs were good enough for Old Bain, and that is usually the end of the conversation. Alwyn admires that stubbornness even as it drives him to distraction; he knows it is the same stubbornness that has kept every hull his father built afloat.
+
+He gets on well with Peregrine, his father's apprentice, though he has learned to listen to Peregrine's ideas the way a fisherman sorts a catch, keeping one in ten. His oldest friend is Tegan the sailmaker, who has known him since they were both children underfoot in the yard. Tegan is making the sails for this summer's race boat in secret, and she will not tell even Alwyn what she is doing, which she clearly enjoys.
+
+### Home
+
+Alwyn is married to Bryony, the baker of Merchant Street, and their house smells of bread and tar in equal measure. Bryony is up long before the sun and Alwyn is home long after it sets, so they meet in the middle of the day over salt rolls on the shipyard steps. They have two children. Poppy, who is eleven, delivers her mother's bread along Merchant Street and draws the ships in the bay; Alwyn keeps every drawing she gives him pinned up in the yard's tool shed. Kit, who is nine, is never anywhere but the shipyard if he can help it, and Alwyn has given up trying to get the sawdust out of his hair.
+
+### What he wants and fears
+
+Alwyn wants to build a ship that can face whatever is down there and bring its crew home. He fears that one day a ship from his father's yard will not come back, and that he will have known how to make it stronger.
+
+### Hooks
+
+A quest could help Alwyn gather the heavier timber he would need for a deep-water hull, without his father noticing. Or someone might find a way to show Dunstan, with proof he cannot argue with, what the deep water is doing to the old hulls.
 
 ## Relationships
 

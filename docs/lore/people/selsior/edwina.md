@@ -15,9 +15,33 @@
 
 Calm, blunt and unshockable. She has delivered half the old quarters and scolds them all.
 
-## Story
+## Lore
 
-Edwina has brought more babies into Selsior than anyone alive and treats the old quarters' cuts and fevers too. She keeps a list of every child she delivered and turns up at their weddings uninvited.
+Edwina is seventy-one, the midwife of the old quarters, and she has brought more babies into Selsior than anyone alive. She has also, by her own count, scolded every one of them at least once since. She is calm, blunt and entirely unshockable. She has seen everything that can happen in a small room at three in the morning, and when a frightened new father tells her something is wrong, she looks, says "No it isn't," and is right, and when something is wrong she says so just as plainly and gets on with it.
+
+### Fifty-three years of night calls
+
+She was born in the old quarters and has never lived outside them. At eighteen she was taken on by old Gunnhild, the midwife of those days, a woman with enormous hands and no patience who had delivered Edwina herself. Gunnhild taught her everything she knew in a single sentence, repeated for six years: "Wash your hands and watch." When Gunnhild died, Edwina simply kept answering the knocks on the door.
+
+That was nearly half a century ago. She has delivered children in garrets and cellars, in the back rooms of shops and the upstairs of taverns, once in a cart, and once on a skywalk, which she still holds against the skywalk. She never married. She says she has more than two thousand children already and has no wish to feed any of them.
+
+She treats the old quarters' cuts and fevers too, because there is no physician in the lanes and the palace one is a long way off. She sets fingers, stitches scalps, and doses whole households through the winter coughs. Lately she has been stitching other things: bites from cellar rats grown far too large, a scrape from something in a drain that Lettice the rat catcher would not name, and more than once a traveller who came in limping by the gate and could not afford anyone grander.
+
+### The list
+
+Edwina keeps a list of every child she has delivered, written in four fat books on the shelf over her bed: the name, the date, the street, the parents, and a line of her own about the birth that nobody else is allowed to read. She has delivered Gytha, the washerwoman, and later both of Cristin's boys, Kenric and Wat. She delivered Ida, the night watchwoman, and when Ida married Dickon the skywalk carpenter twelve years ago, Edwina turned up at the wedding, uninvited, as she turns up at every wedding of every child in her books. She sits at the back, cries without apology, tells the bride she was a very long labour, and leaves before the dancing. Nobody has ever turned her away. Most people now save her a seat.
+
+### Aldith
+
+Her oldest friend is Aldith, the herb wife of the Riverside. They met fifty years ago, when Edwina was twenty-one and came running across the city in the night to Elfrida's cottage on the river for herbs for a hard birth. Elfrida was away. Her daughter Aldith, a year older than Edwina, packed the basket, would not let her go alone, and walked back with her through the dark lanes, and sat on the stairs till dawn. The mother and the baby both lived. The two women have shared patients, teapots and opinions ever since. They meet on Aldith's bench by the river whenever Edwina can be spared, which is less often than either would like, and they argue about everything, except each other.
+
+Edwina knows Aldith is keeping notes on the river's strange wounds. She knows because she is keeping the same kind of notes on the old quarters', on the backs of pages in her fourth book. Neither has said a word to the other about it yet.
+
+### What she wants and fears
+
+Edwina wants someone to take over the knocks on the door before her hands go, and she has not yet found anyone blunt enough. What she fears is the name in her books she will one day have to write a second line beside: a child she brought into the world, gone out on the roads and not come home.
+
+A quest might begin with Edwina called out at night to a farm beyond the walls, on a road she is no longer sure of, and needing someone to walk beside her, or with a name in her books belonging to a child nobody in the old quarters remembers.
 
 ## Relationships
 

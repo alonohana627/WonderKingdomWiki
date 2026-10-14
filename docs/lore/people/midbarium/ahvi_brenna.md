@@ -16,9 +16,33 @@
 
 Soft-voiced, exact and gently stubborn; Ahvi corrects anyone who gets a chieftain's name wrong, however important they are.
 
-## Story
+## Lore
 
-Ahvi keeps the long songs that name every chieftain and Old One back to the Age of Division, and was the sister of the late Old One Varra. Lately she has been troubled by an old verse about beasts growing wild before the Burning came, and she cannot decide whether to sing it at the next gathering.
+Ahvi keeps the long songs of the Brenna, the songs that name every chieftain of the four families and every Old One back to the Age of Division, and she has never once got a name wrong. She is seventy-six, soft-voiced, exact and gently stubborn. She will correct anyone who gets a chieftain's name wrong, however important they are, and the families still tell the story of the feast at which she stopped Old One Varra herself mid-toast to point out that the deed Varra had just praised belonged not to the chieftain she named but to his grandfather, two names further back in the song.
+
+Varra could take the correction. She was Ahvi's older sister.
+
+### Two sisters
+
+Ahvi and Varra grew up in Brenna House, eleven years apart. Varra was the loud one, patient and funny and very hard to argue with, and Ahvi was the quiet one who sat in corners listening. The song-keeper of those days, old Hadda, noticed that the quiet child could repeat a whole evening's singing the next morning, word for word, and took her as a pupil when she was eight. Ahvi has been learning the long songs ever since, and she has kept them as song-keeper for thirty-five years, since Hadda died.
+
+When Varra was chosen Old One thirty-one years ago, Ahvi sang the long song at her choosing and added her sister's name to the end of it. Six years ago, when Varra died in her sleep at Brenna House, aged eighty-one, Ahvi sang the long song again, through the whole night of Hask's choosing, while Thrun drummed and her cousin Odda hosted and Dorrek argued for the Kragvar. At dawn she added Hask's name after her sister's. She says it was the hardest verse she has ever sung, and the most important, because a song that stops when it grieves is not doing its job.
+
+### Neffa
+
+Ahvi has never married, and has always said the songs keep her company enough. Four years ago, she took a new pupil: Neffa, Odda's granddaughter, then six, solemn and serious and already muttering verses under her breath. Neffa wants to recite the whole long song of the Old Ones at a gathering, without a single mistake, before she turns twelve. Ahvi has told her this is very ambitious and has privately concluded that it is entirely possible. She is a demanding teacher. She makes Neffa start again from the beginning after any mistake at all, and Neffa, to Ahvi's quiet delight, has never once complained.
+
+Her friend outside the family is Imre, the stargazer who came to Midbarium for its night skies. They meet on the high terrace on clear nights and trade stories: Imre's about the stars, Ahvi's about the families' oldest songs, many of which turn out to mention the same stars. Ahvi thinks Imre should be invited to recite at a gathering one day, and has not yet decided whether to say so.
+
+### The verse
+
+Deep in the oldest part of the long songs, among the chieftains of the Age of Division, there is a short verse that is almost never sung. It tells of a season before the Burning came, when the beasts of the plateau grew wild: goats that bit, cats that hunted men, birds that would not settle. Then the song moves on to the war, and never mentions the beasts again.
+
+Ahvi has sung that verse alone in her room every night this summer. She has heard Lessa count monster bites, Yarrek describe his wild-eyed goats and the Uskari report sightings closer to town every season. She does not know what the verse means, or whether it means anything at all. She knows only that the song remembered it for a reason. She has asked Odda whether she should sing it at the next gathering, and Odda has not yet answered.
+
+### Hooks
+
+A quest could search the other peoples' old songs and records for the same season of wild beasts, or sit with Ahvi on the night she must decide whether to sing.
 
 ## Relationships
 

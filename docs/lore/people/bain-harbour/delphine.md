@@ -16,9 +16,35 @@
 
 Generous, sharp and unflappable, she can quiet a room of sailors with one look. She never forgets a debt or a kindness.
 
-## Story
+## Lore
 
-Delphine runs the busiest inn on the waterfront, where the sailors gather to swap tales of what they saw at sea. She has started writing the strangest tales down, because she thinks someone ought to.
+Delphine is forty-three and keeps the Salt and Bread, the busiest inn on the Bain Harbour waterfront. She is generous, sharp and unflappable, and she can quiet a room full of sailors with a single look. She never forgets a debt or a kindness, and she keeps both in the same book behind the bar, in two columns.
+
+### The Salt and Bread
+
+The Salt and Bread has stood on the waterfront for three generations. Delphine's grandmother opened it in a former net loft, her mother kept it after, and Delphine grew up between the kitchen and the taproom, carrying mugs before she could see over the bar. Her mother, Ysella, died eight years ago and left the inn to her. Delphine has changed almost nothing, except to put in more tables, because there are always more sailors.
+
+It is a warm, loud place with low beams, a great fire and a long table near the hearth where the ships' crews sit. The bread comes fresh every morning from Bryony's bakery on Merchant Street, and Delphine says without embarrassment that half her custom comes for Bryony's salt rolls. The hot meals come from Delphine's own kitchen. Rooms are let by the night, mostly to sailors between ships and, more and more these days, to the adventurers who come to the harbour looking for work on the captains' voyages.
+
+Most nights Lorcan sings. He is dramatic, charming and hopeless with money, and he owes Delphine more than he would like to calculate. She keeps him on because he can make the whole inn sing by the second verse, and because a full room drinks more. Lorcan is writing a new shanty about the summer race and needs Bain Harbour to win so that he can finish it. Delphine has told him to write two endings.
+
+### Her brother
+
+Delphine's brother is Halloran, captain of the Harbour Watch. He drinks at the Salt and Bread most evenings after his rounds and settles most of the waterfront's trouble before it reaches her door. They have looked after each other since their mother died, and they are as alike as two people can be who have chosen opposite sides of a bar. Lately Halloran has been posting a watch on the outer pier at night. He tells her it is a precaution. She knows her brother, and she knows it is more than that.
+
+### The book of tales
+
+The sailors gather at the Salt and Bread to swap tales of what they saw at sea, and since the deep water turned strange the tales have changed. Once they were about storms, mermaids and the one that got away. Now they are about shapes under the keel, lights in the deep water and nets torn clean through, and the people telling them are not drunk and not laughing.
+
+So Delphine has started writing the strangest ones down. She keeps them in a ledger of their own, separate from her accounts, with the teller's name, the ship, the date and, as near as she can get it, the place. She thinks someone ought to. She does not know who should read it. She has thought of showing it to Ambrose the chartmaker, whose charts every captain trusts, and of taking it to the council. So far she has done neither, because once she shows it to someone, it stops being stories.
+
+### What she wants and fears
+
+Delphine wants the Salt and Bread full and loud and warm for another three generations. She fears the night when one of the regular crews does not come in, and she has to cross a name out of her book of debts.
+
+### Hooks
+
+A quest could bring Delphine a tale for her ledger, carry the ledger to someone who should read it, or settle one of the debts she has never forgotten.
 
 ## Relationships
 

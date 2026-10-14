@@ -1,0 +1,25 @@
+Every evening at dusk, Lux climbs. Up the stairs of the first tower, out along the wall, up the ladder bolted to the second, and so on around the old fortress, relighting the lanterns strung between Old Grad's towers. By full dark the whole city glows, and Lux is somewhere high above it, sitting on a parapet with legs dangling, counting the lights. Lux is thirty-six, calm and watchful, speaks softly and notices every lantern that has gone out, often before it has quite finished going.
+
+### The twelfth keeper
+
+The Walkers hung the first lanterns between the towers in their first year, partly to see by and partly, the old songs say, to show the rest of Veligor that someone lived in the ruin now. The job of keeping them lit has passed through a dozen hands since then. Lux is the twelfth Keeper of the Lanterns, and knows the names of all eleven before, because they are scratched into the oldest beam of the lamp store at the foot of the first tower.
+
+Lux grew up in the city and was always climbing something: drainpipes, washing lines, the theatre cart. At twenty, Lux began carrying oil for the old keeper, Lionel Callow, whose knees had started to fail; when Lionel died eight years ago, nobody even suggested anyone else. Lux was already up there most nights.
+
+### The lanterns and their people
+
+The lantern glass comes from Tinsel, the glassblower on Workshops Row, who makes the colored panes that give Urbanograd its glow. Lux is Tinsel's best customer and most patient one, willing to wait while each pane is held up to the sun and admired before it is wrapped. Between them they argue cheerfully about which colors carry furthest in fog.
+
+Perch, who keeps pigeons on the Crooked Tower, is Lux's closest friend. The loft is on Lux's nightly round, and most evenings Lux stops there on the way down for tea and an exchange of reports: Perch on which routes the birds refused, Lux on which lanterns are out. They are both people who prefer heights to crowds, and they can sit for an hour together without needing to say much.
+
+Prism, the young light-painter from the forest who works the Gate Walk, has become another friend. Prism is fascinated by the lanterns and asks more questions about them in an evening than Lux usually answers in a year. Lux pretends to be worn out by it and secretly enjoys it, and has promised to help with Prism's light show on Walkout Day.
+
+### The smashed lanterns
+
+Lately, some of the lanterns that face the wilds have been found smashed in the mornings. Not stolen, not blown down: smashed, the frames bent and the glass scattered. It happens only on the outward side of the walls, and never on the same night twice in a row. Lux has sat up three nights waiting, saw nothing, and found a broken lantern the morning after the fourth. Lux would very much like to know by what, and is beginning to fear the answer.
+
+### Hopes and fears
+
+Lux wants every lantern lit every night, and an apprentice with a good head for heights. Lux fears the night the outer lanterns go dark and stay dark, and what it would mean for travelers looking for the city in the dark.
+
+A quest might keep watch on the outer walls at night, fetch replacement panes from Tinsel through a busy market, or follow whatever smashed the lanterns back into the wilds.

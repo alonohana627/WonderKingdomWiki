@@ -1,0 +1,25 @@
+Splash paints at night, on walls nobody is supposed to be looking at. The backs of chimneys, the undersides of plank bridges, the blind side of a water tank, the inside curve of a gutter: if a surface can only be seen from the Rooftops, there is a fair chance Splash has already put a picture on it. Splash is twenty, restless, playful and allergic to permission, paint-spattered to the wrists and never without a grin. Splash has never signed a single painting, and denies painting any of them, grinning the whole time.
+
+### A painter of the Rooftops
+
+Splash was born in Urbanograd, in a stacked house so high up that the front door opened onto a roof, and grew up on the slates the way other children grow up in the street. Splash's parents, a pair of sign-painters, moved to Selsior when Splash was sixteen, because sign work pays better in the capital. Splash refused to go, stayed behind with a bag of brushes and a borrowed attic, and has been painting the city's hidden walls ever since. The parents write now and then, mostly to ask whether Splash has found proper work yet.
+
+Splash taught painting to Splash. There was no master, no ground colours for anyone, no rule about which pictures may be touched. Splash paints fast and loose and big, in whatever colours are to hand: dregs bought cheap from the sign shops, mixed with brick dust, soot and anything else that will stain. The pictures are of whatever the night suggests: a heron fishing in a rain barrel, a giant asleep with a town on its chest, the moon dropping a coin into a chimney. Rooftop folk come across them on their morning rounds and stop to look, and everyone knows they are Splash's, and nobody can prove it.
+
+### Kite
+
+Kite, the fastest rooftop runner in the city, is Splash's sweetheart. Kite carries the paint pots across the roofs at night and keeps watch while Splash works, talking the whole time in a whisper that is not much of a whisper. Kite is the only person who knows for certain which paintings are Splash's, and keeps that list strictly to Kite. Splash says it is the most romantic thing anyone has ever done, and also that Kite is the worst lookout on Veligor, because Kite keeps turning round to watch the painting instead of the stairs.
+
+### Ochre
+
+Ochre, who keeps the old murals around Lantern Square, is Splash's rival. They have never had a proper conversation. What they have instead is a long exchange of pointed remarks passed through Figgy, Ochre's daughter, who loves Splash's paintings and says so at the top of her voice. Ochre says painting where nobody can see is like singing into a sack. Splash says Ochre paints like someone afraid the wall will tell. Splash also knows, because Kite has seen it, that Ochre climbs up to look at every new picture the morning after, and stands in front of it for a long time. Splash has never said a word about that, and is secretly more pleased by it than by anything Figgy shouts.
+
+### The Gate Walk
+
+What Splash wants is one painting that can be seen from the Gate Walk. Not hidden, not tucked under a bridge: a picture high on the city's face, big enough that a tired traveler coming up the road at the end of a long and frightening day lifts their head, sees it, and knows they have arrived. Kite has promised to help, and has worked out three ways of getting the paint up there, two of them nearly legal. Splash has worked out what the picture will be and will not tell anyone, Kite included.
+
+The trouble is that the Gate Walk is Ochre's dream too, and Splash knows it. Splash has heard about Ochre's hundred sheets of drawings for a history of the city along those walls, and is pretending not to have heard, in exactly the way Ochre is pretending about Splash. The other trouble is paint. A picture that size needs more colour than Splash has ever had at once, and the good earths and pigments come in from outside the walls, on carts that come less often every season.
+
+Splash fears being made respectable more than falling. Splash would hate to be given a wall, with a ladder and a blessing, and find the picture would not come.
+
+A quest might help Splash and Kite get a mural up where the Gate Walk can see it, bring a load of pigment in safely from the roads, or carry a message between Splash and Ochre that is not, for once, an insult.

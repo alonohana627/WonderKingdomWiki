@@ -1,0 +1,25 @@
+Ask Hex a question on Workshops Row and you will get a riddle back. Ask the way to the Great Hall and Hex will tell you it is "where the loudest voice sits down and the quietest stands up". Ask Hex's age and Hex will say "older than my oldest box and younger than its secret". Ask the price of something, on the other hand, and Hex answers at once, plainly and to the copper, because, as Hex likes to say, a riddle is a gift but a sale is a promise. Hex is fifty-two, thin, sly and playful, with long nimble fingers, a jeweller's glass screwed into one eye and a smile that suggests Hex knows something you do not, which is usually true.
+
+### The boxes
+
+Hex makes puzzle boxes, locks and clever latches, in a narrow shop on the Row with a door that has no visible handle. (Knock twice, slide the third board left, knock once more.) The boxes are small, beautiful things of inlaid wood and brass, and every one of them opens only for the right sequence of taps and turns: press the bird's eye, turn the base a quarter, tap the lid twice and lift. Some take three moves. The great ones take forty. Hex sells them to travelers, to lovers who want a place to keep letters, to merchants who want somewhere better than a pocket for their coin, and to the occasional visiting guild master from Selsior, who goes home baffled and delighted.
+
+Hex learned the trade at twelve, sweeping for a locksmith named Esmond who kept the same shop and refused to answer any question at all, riddle or not. Hex learned by watching, by taking apart Esmond's spare locks at night and by putting them back together before morning, and when Esmond finally noticed, he gave Hex the shop's oldest pick and said nothing else. Esmond died when Hex was twenty-six. Hex has kept the shop since, and the riddles are, Hex says, a kindness Esmond never showed.
+
+### The box that came back
+
+Hex's oldest shame sits on the workbench, where everyone can see it. It is one of Hex's earliest boxes, made about twenty-eight years ago, a dark walnut cube with a tiny brass key-shaped inlay on each side and no keyhole anywhere. Hex sold it at the Night Market to a traveler whose face Hex no longer remembers. This spring it came back, delivered by a carter who did not know where it had come from, wrapped in sacking, with a note tied around it in a careful hand: the buyer had tried for years and could not solve it, and would the maker kindly open it.
+
+Hex cannot remember the trick.
+
+Hex did not write down the sequences in those days, believing a true maker never forgets. Hex has tried every evening since, and has worked out eleven moves, then lost them, then found nine others. Something inside rattles faintly when the box is tipped. Hex does not know whether it is something the buyer put in, or something Hex built in and forgot. Hex has told everyone who asks that it is a riddle Hex set for Hex's own future, and it is the only riddle Hex tells that is not quite a joke.
+
+### Velvet
+
+Velvet, the curio trader at the Night Market, is Hex's closest friend. They are two of a kind: both theatrical, both secretive, both convinced that a good story improves anything it is attached to. Velvet sells some of Hex's smaller boxes at her stall with a tale for each, and Hex has never once asked which tales are true. Most nights after the market closes they share a pot of something hot and trade secrets they never quite tell. Velvet has a dark stone that stays warm to the touch and will not say what she thinks it is; Hex has guessed at it in riddles for months, and Velvet has answered every riddle with another.
+
+### What Hex wants and fears
+
+Hex wants to open the box that came back, and has begun, quietly, writing every new sequence down in a little book locked in another box. Hex fears that a maker's hands can forget, and that the next thing forgotten will matter more.
+
+A quest might solve the returned box, find the traveler who bought it, or carry one of Hex's boxes to a buyer in another town and bring back the answer to the riddle written on its lid.

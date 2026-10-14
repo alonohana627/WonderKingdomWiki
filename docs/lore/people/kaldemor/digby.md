@@ -15,9 +15,33 @@
 
 Earnest, clumsy and impossible to discourage, he gets up from every fall grinning. He believes hard work beats talent, and he has had to.
 
-## Story
+## Lore
 
-Digby was a farmhand for Wilbur until he decided to become a warrior, and he still helps with the harvest. He has failed Quill's hanging course eleven times and means to pass it before the leaves turn.
+Digby has failed Quill's hanging course eleven times. He will tell you so himself, cheerfully, usually while rubbing a fresh bruise, and then he will tell you he means to pass it before the leaves turn. He is nineteen, earnest, clumsy and impossible to discourage. He falls more often than anyone who has ever run the Kaldemor Gauntlet, and he gets up from every fall grinning. He believes hard work beats talent. He has had to.
+
+### From the east
+
+Digby was born on a small farm far out in the eastern countryside, a long walk past the end of the Royal Road, where the fields are thin and the families are large. He was the fourth of six children, and by the time he was fourteen there was not enough work, or supper, for all of them. So he walked west to Kaldemor with a bundle on his back, a letter from his mother, and a firm belief that somebody in a town that big would need a pair of hands.
+
+Wilbur did. The big farmer took one look at the skinny boy at his gate, gave him a bowl of soup and a bed in the barn loft, and put him to work the next morning. Digby worked for Wilbur for four years. He was not a natural farmhand. He tripped over rows, dropped baskets and once fell into the bean frames so thoroughly that it took two people to get him out. But he was always first in the field and last out of it, and by his third year he could bring in a harvest as fast as anyone in Kaldemor. His parents and his brothers and sisters still live out east; he sends them part of his pay each autumn with any carter heading east, and writes when he can.
+
+### Becoming a warrior
+
+Last year, watching the young warriors set out from the Park toward the meadow, Digby decided that he wanted to protect the fields rather than only plough them. He told Wilbur, expecting to be laughed at. Wilbur clapped him on the back, gave him a pair of good boots from Ned's shop, and told him to come back at harvest. Digby still does, every year, and Wilbur still pays him, though Digby keeps trying to refuse.
+
+He joined Quill's recruits in the Park, and that is where the falling began. The monster yard he managed on his second try. The hanging course, ropes and swinging logs strung high above the ground, has beaten him eleven times. Quill, who never mocks a fall, has told him that his footwork is getting better, which Digby has decided to take as a promise. He practises in the evenings on the fence rails behind Wilbur's barn, and Tam, Wilbur's boy, sometimes watches and shouts advice, all of it wrong.
+
+### Meg
+
+Digby's great rival is Meg, the snail hunter, who is quicker, bolder and better at almost everything, and who keeps a running tally of every snail she has beaten, plus a few. Meg passed the hanging course on her first try and has never let him forget it. Digby has never let her forget the time she fell in the Park fountain. They needle each other constantly. Each has, at least once, quietly made sure the other got home safe from the meadow, and neither has ever mentioned it.
+
+### What he wants and fears
+
+Digby wants to pass the hanging course before the leaves turn, and then to walk out to the meadow as one of the warriors who keep the farms safe: Wilbur's fields first of all. He fears being sent home. He knows he will never be the fastest or the strongest, and he is afraid that one day, for the first time, he will fall and not want to get up.
+
+### Hooks
+
+Digby's twelfth attempt at the hanging course is coming soon, and a traveller who has run the Gauntlet might be asked, very humbly, for help with his footwork. Another quest might begin when a letter comes from his family in the east, telling of trouble on the road past the end of the Royal Road, and Digby has to decide whether he is ready.
 
 ## Relationships
 

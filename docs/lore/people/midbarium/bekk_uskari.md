@@ -16,9 +16,31 @@
 
 Cocky, quick and kind to children, who follow him around in a small admiring crowd.
 
-## Story
+## Lore
 
-Bekk is Skarra's son and the fastest climber on the rim. He wants to prove himself by tracking a beast that has been raiding the high pastures, and his mother has forbidden him to try it alone.
+Bekk is the fastest climber on the Uskari Rim, and he knows it. He is eighteen, cocky, quick and grinning, a scout of the trail watch who goes up a cliff face the way other people go up a staircase. He is also kind to children, endlessly and without being asked, and there is nearly always a small admiring crowd of them trailing after him along the rim, copying the way he walks.
+
+### Son of the captain
+
+Bekk is the son of Skarra, captain of the trail watch. His father, Haldo, was an Uskari hunter who went out alone onto the far slopes thirteen years ago to track one of the great horned beasts of the plateau, and was gored and killed by it. Bekk was five. He remembers his father's laugh, the smell of his oiled bowstring, and very little else. He remembers his mother's face the day the hunters carried Haldo home much better, and that, though he would never say so, is the reason he grins so much.
+
+Skarra raised him on the rim among the patrols, and he could climb before he could properly run. The Uskari take scouts onto the trail watch at sixteen, after a year of carrying water and messages for the patrols; Bekk did his year at fifteen, joined at sixteen, and has been the fastest scout on the watch ever since. His mother gives him no special favour on patrol, and is noticeably harder on him than on anyone else, which he complains about loudly and secretly understands.
+
+### The admiring crowd
+
+Children follow Bekk because he lets them. He shows them handholds, teaches them knots, and tells them stories of the trail that are thrilling and mostly true. His most devoted follower is Korrin, the Kragvar chieftain's youngest son, who wants to join the trail watch himself, ties his boots exactly the way Bekk does and has started squinting at the horizon the way Bekk does, as if something is always about to appear on it. Bekk noticed the boots weeks ago and has said nothing, because he remembers doing the same thing to older scouts when he was nine. He makes sure Korrin's knots are tied properly, and pretends not to.
+
+### The beast on the high pastures
+
+Something has been raiding the high pastures this season: goats taken from the edges of the Tolmach herds, and tracks left behind that Bekk has measured with his own hand, wide, heavy and deep in the dry ground. He wants to track it. He has told himself it is because the Tolmach need their herds and the patrols are stretched too thin to spare anyone. That is true. It is also true that he wants to prove himself to his mother, to the watch and to the rim, and that he has heard Thrun the drummer lamenting that the great drum needs the hide of a great horned beast. Bekk has wondered, more than once, whether the beast on the pastures might be one of those.
+
+His mother has forbidden him to try it alone. She has not said why, and she does not need to.
+
+### What he wants and fears
+
+Bekk wants to be the scout people tell stories about. He fears, though he has never put it into words, that the only way to become that scout is the way his father went, and that he will try it anyway.
+
+A quest could go with Bekk to track the beast on the high pastures, so that he is not alone, or find him when he slips away to track it by himself.
 
 ## Relationships
 

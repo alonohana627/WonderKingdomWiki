@@ -1,0 +1,23 @@
+Arlo is nine years old, the only child of Iska, the First Warden, and Dunmor, the lamplighter of the quays. He was born in the cliff house above the Inlet Quay, and the first sound he can remember is the water running hard through the gap at the turn of the tide. He is serious, curious and stubborn, and he asks "why" until the grown-ups give up. Most of them give up quite early. His grandmother Ysmay never does, which is one of the reasons he likes her best.
+
+### A warden's son
+
+Arlo has never wanted to be anything but a sea warden. His grandmother was one for forty years, his mother is the most respected pilot in Goa Harbour, and he does not see why he should have to wait until he is grown to start. The trouble is that his mother is almost never home at the hour he wants to learn, and when she is, his father has usually just persuaded her to sit down and eat, and Arlo has learned not to spoil that.
+
+So he goes to Varro instead. Most mornings, before the lanterns are out, Arlo slips out of the house, down the cliff stairs and onto the quay, where the eldest of the sea wardens stands watching the water before anyone else is up. The first few times, Varro pretended not to see him. Then one grey morning he said, without turning round, "If you are going to stand there, stand where you can see the eddy," and since then Arlo has been his shadow. Varro does not praise him. He asks him what the water is doing, waits, and says "no" or "closer" or, very rarely, "aye." Arlo would rather have one "aye" from Varro than a basket of sweets.
+
+Arlo believes that nobody knows about these mornings. His mother knows perfectly well and has decided to pretend she does not. His father knows too, because his father lights the lanterns and puts them out, and very little happens on the quay at dawn without him seeing it.
+
+### Friends and family
+
+Arlo's best friend is Eilidh, the fisher's daughter from the coves, who also wants to be a sea warden. They read the tide together from the cove rocks in the evenings and argue about it. Eilidh is quicker and Arlo is more careful, and each secretly thinks the other will make the better pilot. Her little brother Ronan tags along when he is not wandering off after something shiny, and Arlo puts up with him because Eilidh would not forgive him otherwise.
+
+His grandmother lets him sit at her window above the Cliff Stairs and tells him exactly what every pilot passing through the gap is doing wrong. Arlo writes the best of her complaints down and checks them against what Varro says. Usually they agree, which delights them both when he tells them.
+
+### What he wants and what he fears
+
+Arlo wants to take a ship through the gap with his own hands before he is twelve, which nobody has done in living memory, and he wants to crew the Gap Runner in the summer race on the day it finally beats Bain Harbour. He fears that the sea will keep getting rougher until there are no young pilots left to train, because he has heard Nessa say so at the Wardens' table when the grown-ups thought he was asleep on the bench. He also fears, though he would never admit it, that his mother will one day go out through the gap on a bad tide and not come back.
+
+### Hooks
+
+Arlo has noticed something on the quay at dawn that Varro has not mentioned: the water in the lowest steps sometimes looks disturbed, as if something had just climbed out of it. He has not told anyone yet, because he wants to be sure first. A quest might find him following the clue too far, or need his sharp eyes and his habit of being where he is not supposed to be.

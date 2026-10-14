@@ -1,0 +1,23 @@
+Kite carries messages across Urbanograd by rooftop, and does it faster than anyone alive. Kite is nineteen, wiry and sunburnt, with a runner's long legs and a mouth that never stops: Kite talks while running, talks while jumping, talks while hanging by the fingertips from a gutter, and arrives at the far end of the city still in the middle of a sentence and not remotely out of breath. Kite is fast, boastful and impossible to keep on the ground, and would tell you so, at length, if you could keep up.
+
+### A family of runners
+
+Urbanograd grew upward, not outward, and its streets are a tangle of stairs, bridges and passages that lead to three places at once. A message sent through the streets can take an hour. A message sent over the roofs takes minutes, if the runner knows the way. Kite comes from a family that knew it. Kite's grandmother ran messages over the roofs when Cobble the bootmaker was a young man, and Kite's mother ran them after her. Both wore Cobble's soft-soled rooftop boots, and so does Kite.
+
+Kite's grandmother died when Kite was small, but not before teaching Kite the names of the old runners' routes: the long jump over the Night Market, the gutter run below the Crooked Tower, the stretch of slates that sings under a fast foot. Kite's mother ran until a bad fall on a wet roof left her with a knee that would not bend on slates. She moved away to live with flat ground under her, in the farmlands near Kaldemor, and writes now and then when the carts get through. Kite misses her and says so to no one, and runs her old routes every day.
+
+### The record
+
+Cobble made Kite's first pair of boots four years ago, when Kite was fifteen. Kite went back to the shop the next week to complain about the left heel, and has been Cobble's most loyal customer ever since, and the only one allowed to criticise the stitching. Every record Kite sets is told to Cobble first, and Cobble pretends not to listen, and writes it on the back of his shop door.
+
+The record that matters is the run from the Gate Walk to the Great Hall. Kite took it last summer, beating a mark that had stood for years, and has bettered it twice since. The runners time it with a sand-glass at each end, and Kite has made sure every person in the city knows the count. Tick, Knox's son, who runs messages from the gate along the streets, is convinced he will beat Kite one day. Kite encourages this, mostly so there will be someone to beat.
+
+### Splash
+
+Kite's sweetheart is Splash, the night painter who leaves murals on the backs of chimneys and the undersides of bridges where only rooftop folk can see them. Splash never signs anything. Kite is the only one who knows for certain which pictures are Splash's, because Kite carries the paint pots across the roofs at night and keeps watch while Splash works. Kite has promised to help Splash paint something big enough to be seen from the Gate Walk, and has already worked out three ways to get the paint up there, two of them nearly legal.
+
+### What Kite wants and fears
+
+Kite wants to keep the record forever, and to run one day from the top of the Crooked Tower to the gate without touching a single stair. Kite fears very little on the roofs, but has noticed that Nana Gristle's warnings about which rooftops to avoid are, irritatingly, always right. What Kite fears most is a fall like the one that took the roofs from Kite's mother.
+
+A quest might race Kite across the rooftops, carry an urgent message when Kite is laid up, or help Kite and Splash get a mural up where the whole Gate Walk can see it.

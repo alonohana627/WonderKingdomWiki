@@ -15,9 +15,33 @@
 
 Gruff, bellowing and fond of every recruit he shouts at. He has a voice that could crack a shield.
 
-## Story
+## Lore
 
-Bertrand runs the dawn drills and swears he can turn anyone into a guard given a year and enough porridge. He keeps a list of every recruit he has trained and checks it against the patrol reports.
+Bertrand is fifty-one, Drill Sergeant of the Royal Guard, and the first sound most recruits hear in the morning. It is not the drill bell. It is Bertrand, arriving at the practice yard of the Knights' Court before dawn and telling the barracks, at a volume that could crack a shield, that the day has started without them. He is gruff, bellowing and fond of every single recruit he shouts at, and he swears he can turn anyone into a guard given a year and enough porridge.
+
+### A guard all his life
+
+He joined the Guard at eighteen, thirty-three years ago, a big, loud youth from the Crown Market's back streets whose late father had unloaded carts there all his life. He was never the finest sword in the Court, and he knew it, but he had a gift nobody else had: he could see exactly what was going wrong in another person's feet and tell them in a voice they could not ignore. He walked patrols, stood at the gate and served on the walls for eighteen years, and fifteen years ago the Court gave him the dawn drills. He has had them ever since and has never once wanted a higher post.
+
+He is married to Helewise, the Guard's quartermaster, who feeds, arms and clothes the whole Guard and knows how many arrows it has to the last fletching. They have been married nineteen years. They met over porridge: he was demanding more for his recruits, and she was explaining, to the last spoonful, exactly how much there was. She won. She usually does. They have no children, and Bertrand says that with a few hundred recruits through the yard, he has enough.
+
+### The list
+
+He keeps a list of every recruit he has trained. It started on a single sheet and is now three thick books, on the shelf above his bed, with more than six hundred names in his large, square hand. Beside each name is the date they came through the gate of the Court, and the rank they earned, and where they went.
+
+Every week, when the patrol reports come in, Bertrand reads them before supper and checks the names in them against his list. Helewise knows not to talk to him while he does it. When a name comes up among the hurt, he makes a small mark in the margin and goes quiet for the rest of the evening, and the next morning he drills his recruits harder. There are more marks every season, and Bertrand is not a man who believes in coincidence.
+
+### This year's recruits
+
+This year's intake is the largest he has ever had. He bellows at Pim more than at anyone, because Pim is keen and clumsy in equal measure and never once asks to stop, and Bertrand has quietly decided that Pim is going to be his proof that the porridge works. He bellows at Tobe, who mouths the corrections along with him and still misses the third cut. He bellows at Avice least, which she resents, and he knows it, and he is waiting for the morning she gets angry enough to be better than she already is.
+
+He has also noticed, most dawns, a small figure on a roof ridge above the old quarters, copying the drills with something long and thin. He has never said a word about it to anyone. He has just started bellowing the corrections a little louder.
+
+### What he wants and fears
+
+Bertrand wants every name on his list to come home. He knows it is not a thing a drill sergeant can promise, and so he tries to make it true one cut at a time. What he fears is opening the patrol reports one evening and finding a name he taught to hold a sword, and knowing he should have shouted louder.
+
+A quest might begin with Bertrand asking someone to check on a former recruit who has stopped appearing in the reports, or with a dawn when the figure on the roof ridge is not there and he finds he minds.
 
 ## Relationships
 

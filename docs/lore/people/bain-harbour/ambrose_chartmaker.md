@@ -16,9 +16,35 @@
 
 Quiet, patient and fond of tiny handwriting. He apologises to his ink when he spills it.
 
-## Story
+## Lore
 
-Ambrose draws the charts every captain in the harbour sails by. Since the Disturbance the captains keep bringing him marks for places where something was seen in the water, and he has started a separate chart for them that he keeps locked in a drawer.
+Ambrose is fifty, quiet and patient, and fond of tiny handwriting. He is the chartmaker of Bain Harbour, and every captain in the harbour sails by charts he has drawn. His shop on Merchant Street is narrow, dim and full of paper, and it smells of ink and lamp oil. When he spills his ink, which is rarely, he apologises to it.
+
+### The chartmaker's trade
+
+Ambrose was born on Merchant Street, the son of a bookbinder long since dead, and he was apprenticed at fifteen to old Hedley, the harbour's chartmaker before him. Hedley was short-sighted, short-tempered and the finest draughtsman Ambrose has ever known. He taught Ambrose to listen to captains more carefully than they speak, because a captain who says "a bit north of the rock" may mean three different things. When Hedley died twenty-five years ago, Ambrose took the shop, the drawers, and the responsibility.
+
+He draws sea charts, tide tables and coastal maps for every ship that leaves the harbour, and he updates them from the reports the captains bring him. He has never been a sailor himself. He gets seasick in a rowing boat on a calm day. But he knows the coast of Veligor better than most people who have sailed it, because every captain in Bain Harbour has described it to him, inch by inch, for twenty-five years.
+
+### Quenna and Jowan
+
+Ambrose met Quenna when she came into the shop as a young sailor, loudly demanding a chart of a stretch of coast that, he patiently explained, nobody had charted yet. She came back the next season with the soundings herself. They were married twenty-one years ago, and they are about as different as two people can be: she is brisk and loud and decides everything before the tide turns, and he takes a week over a single headland. He thinks she is the bravest person alive. She says he is the only person in the harbour she cannot rush.
+
+Their son, Jowan, joined the Harbour Watch last spring. He has his mother's need to act and his father's handwriting, and Ambrose worries quietly that the first will one day carry him somewhere the second cannot follow.
+
+### The locked drawer
+
+Since the Disturbance began to touch the sea, captains have been bringing Ambrose a new kind of mark: a place where something was seen in the water. A shape under the keel. A pale light far out. A net torn clean through. At first he added them to the ordinary charts, until he realised that frightened sailors were steering around them and missing the channels. So he started a separate chart, and he keeps it locked in a drawer in his workroom.
+
+Very few people know about it. Quenna does, and each summer she takes the worst of its marks to the race and shares them with Goa Harbour's First Warden. Some of the captains know, because they bring the marks. Ambrose does not know what the marks mean, and he refuses to guess on paper. He has noticed only that there are more of them each year, and that they seem to be creeping closer to the headland.
+
+### Poppy
+
+Poppy, the baker's daughter, has watched him through his shop window for years. One morning he invited her in, and now she comes every morning after her bread round. She has the steadiest hand and the sharpest eye he has seen since Hedley, and he has started teaching her properly. He has not shown her the locked drawer. He suspects she knows it is there.
+
+### Hooks
+
+A quest could carry a sighting to Ambrose, check one of the marks on the locked chart in person, or help him chart a stretch of coast that changed after a storm.
 
 ## Relationships
 

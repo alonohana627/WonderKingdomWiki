@@ -15,9 +15,33 @@
 
 Slow, earthy and stubbornly hopeful. Old Parsnip talks to seedlings and swears they listen.
 
-## Story
+## Lore
 
-Old Parsnip grows vegetables in tubs and troughs across the rooftops, a habit the city picked up after the Walkers nearly starved their first winter. With fewer food carts arriving, more people are asking him for seeds.
+Old Parsnip has a garden that nobody on the ground can see. It runs across three rooftops near the Crooked Tower, in tubs and troughs and split barrels and a bathtub that has not held a bath in living memory: beans up strings, cabbages in rows, onions, carrots, rhubarb, lettuces that bolt in a hot week, and of course parsnips. He is eighty-one, slow and stooped, brown as a turnip from a lifetime of sun on the roofs, and he moves among his tubs at the pace of the plants themselves. He talks to his seedlings, kindly and at length, and swears they listen. Given how they grow, few people argue.
+
+### Why the city grows on its roofs
+
+Urbanograd's rooftop gardens go back to the Walkers' first winter, when the founders of the city, who knew a great deal about art and very little about farming, nearly starved in the old fortress. Nobody now knows the details of that winter, but everybody knows the lesson: the city should never again depend entirely on what the carts bring. From the next spring on, people grew what they could wherever there was sun, and in a city built upward, the sun is on the roofs.
+
+Old Parsnip has kept that habit longer than anyone living. He began as a boy, carrying buckets of soil up the stairs for the old rooftop growers, and by twenty had tubs of his own. He has outlived every one of the gardeners who taught him, and the habit he learned from them has outlived several fashions for buying everything at the market instead.
+
+### Neighbours and customers
+
+Perch, whose pigeon loft sits atop the Crooked Tower, is Old Parsnip's neighbour on the next roof over. They trade: Parsnip's cabbage leaves for Perch's pigeon droppings, which Parsnip insists are better than gold for his tubs. Pounce, the big grey cat who sleeps in Perch's loft, uses Parsnip's warmest trough as a second bed on sunny afternoons, and Parsnip has given up and planted that one with catmint.
+
+Mags, the cook of the Great Hall, buys most of her greens from him for the great pot of stew that feeds the Open Table. She finds his habit of talking to cabbages perfectly reasonable, and he finds her habit of shouting at stew equally so. Scrap, the rooftop girl who practises sneaking on everyone, practises on him among the tubs, and he has never once let on that he hears her coming. Jinx once juggled one of his cabbages in Lantern Square, and he has asked for it back, as a joke, every time they meet since.
+
+### The seeds
+
+Every autumn Old Parsnip saves seed from his best plants, dries it and keeps it in twists of paper in an old chest of drawers in his rooftop shed, each twist labelled in a shaky hand. For most of his life this was a hobby. Now, with fewer food carts reaching the city, people come up the stairs every week to ask him for seeds: workshop families, stall-keepers, a grandmother with a window box, a young couple with a single tub on a balcony. He gives them seed, and advice, and a stern lecture about watering, and he has started to worry that the drawers are emptying faster than he can fill them. Some of his oldest kinds came from Kaldemor's farms long ago, and he has no fresh seed of them at all.
+
+He is stubbornly hopeful all the same. Seeds, he says, are just patience in a paper twist.
+
+### What he wants and fears
+
+Old Parsnip wants every roof in the city green before he dies, and someone young to learn to keep the seed. He fears a hard winter with an empty chest of drawers.
+
+A quest might carry a parcel of fresh seed from Kaldemor's farms through the roads, help him build tubs on a new roof, or find out what has been digging up his beans at night.
 
 ## Relationships
 

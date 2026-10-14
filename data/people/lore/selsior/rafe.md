@@ -1,0 +1,23 @@
+Rafe is forty-six, the puppeteer of Theatre Row, and he is very hard to read. His face does very little. He speaks rarely, briefly and usually to the floor. But put a puppet on his hand and everything changes: the puppet blusters, sulks, flirts, weeps, falls in love and tells the children of the Row exactly what it thinks of them, and Rafe, behind it, is suddenly the most expressive man in the city. He is quiet, clever and kind, and he has long since stopped apologising for the fact that he says what he means best through a wooden head.
+
+### The booth
+
+His booth stands in a wide doorway at the bottom of the Row, between a cookshop and a theatre's stage door: a tall striped box with a painted proscenium, a curtain that rolls up on a string, and a bench in front for the smallest children. He plays it every afternoon, and twice on festival days. His company of puppets numbers over forty, all of them carved and painted by him in the room behind the booth where he lives: a king, a queen, a baker, a dragon, a goose who is cleverer than everyone, a highland warrior, a Magician with a beard that sparks, and a great many more.
+
+He learned the trade from an old travelling puppeteer who stopped on the Row one summer when Rafe was a boy and, when he left in the autumn, found that the boy had followed him. Rafe travelled with him for six years and settled on the Row at twenty-one, with a box of puppets the old man had given him and no words at all to say thank you. He has played the same doorway for twenty-five years. The old man is long dead, and Rafe still has his first puppet, a fox with a chipped nose, on a nail above his bed.
+
+### Lambert
+
+About twelve years ago he noticed that one boy from the rooms over a shop at the bottom of the Row was staying after every show. One afternoon, without saying a word, Rafe picked up three spare puppet heads and juggled them, and then handed them over. That was the first lesson. There were a great many after it, nearly all of them silent, and the boy is Lambert, now the best juggler in the plaza. Rafe taught him that the real trick is to make the crowd watch your face instead of your hands, which is a strange lesson from a man whose face does so little. Lambert still comes by the booth, and still brings him the first apple of every autumn.
+
+The children of the Row are his audience and, in their way, his family. Mab, the pie seller's daughter from the plaza, has watched so many shows that she can do all the voices, and Rafe has started, without comment, leaving the stool behind the booth free for her.
+
+### The Balrog
+
+His most famous puppet is the Balrog. The first one he made, for a show about the Last Stand at the Tree, was as tall as he is, with red-glass eyes and a mouth on a hinge, and the smallest children screamed until their parents carried them home. He made it smaller. The second one still made a baker's boy hide under the bench for the whole second half. He made it smaller again. The one he uses now is about the size of a cat, and it is still, the children agree, the most frightening thing on Theatre Row. Rafe does not entirely know why. He thinks that whatever he puts into it comes out of the wood whether he means it to or not.
+
+### What he wants and fears
+
+Rafe wants a full bench every afternoon and one more pupil like Lambert before his hands grow stiff. What he fears is a child who does not laugh at the end, when the Balrog goes back into its box.
+
+A quest might begin with the Balrog puppet going missing from its box overnight, or with Rafe asking someone to carry a message he cannot bring himself to say aloud, written in the voice of the fox.

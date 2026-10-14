@@ -15,9 +15,33 @@
 
 Patient, wry and proud of his joinery. He can tell a boat's age by knocking on it.
 
-## Story
+## Lore
 
-Bennet builds and mends the river boats and barges. He is designing a faster barge for the river trade and needs someone brave enough to test it.
+Bennet is forty-nine, the boatwright of the Riverside, and he can tell how old a boat is by knocking on it. He raps the hull twice with a knuckle, listens with his head on one side, and says "eleven years, oak, mended badly once at the stern," and then he goes and looks at the stern to prove it. He is patient, wry and proud of his joinery, and he believes that most of the trouble in the world comes from people who will not wait for glue to set.
+
+### The yard
+
+His boatyard sits on the Riverside bank below the city bridge, a long slope of mud, timber stacks and sawdust running down to a slipway, with a shed at the top that smells of pitch and wet oak all year round. He lives in a loft over the shed. He learned the trade there, as a boy of twelve, from old Ebbe, the boatwright who had the yard before him, who never said a word more than he needed and could cut a joint so tight that water gave up trying. Ebbe left Bennet the yard when he died, twenty-four years ago. Bennet has never married. He says a boatwright is already married to the river, and the river is a demanding wife who leaks.
+
+He builds and mends everything that floats on the city's stretch of the river: fishing skiffs, ferry planking, mill punts, and the big flat-bottomed barges that carry grain and stone and timber into Selsior. When Osmund's ferry needs a plank, Bennet fits it. When Agatha's skiff springs a seam, Bennet caulks it and charges her in eels.
+
+### Lucan
+
+His oldest friend is Lucan, the bargemaster, who booms where Bennet murmurs and bets where Bennet measures. Bennet built two of Lucan's three barges and mends all of them, and he can tell from the sound of Lucan's voice coming round the bend whether a barge has hit something. They have a standing wager about which of them will retire first. It is older than either of them will admit, and the stake has grown so large and so strange over the years, with additions made in taverns and amendments made at weddings, that neither can now remember what it is. Bennet suspects it includes a goat.
+
+### The fast barge
+
+Bennet is designing a faster barge for the river trade. Since the roads turned dangerous, merchants send their goods by water, and the river has never been busier; a barge that runs faster carries more in a season and spends less of it on the water. That is what Bennet tells the merchants. The design is longer and narrower than any barge on the river, with a keel he has argued about with himself for a whole winter, and the half-built hull stands on the slipway under a tarpaulin.
+
+The trouble is that he needs someone brave enough to take it out and run it hard. Lucan has said, loudly and in front of witnesses, that he will happily bet on Bennet's barge but will not be standing on it, and Bennet reminds him of this roughly every time they meet. The bargehands will not volunteer either. They are tired, and some of them are frightened, and one of them came out of the river last season with a bruise in the shape of a grip.
+
+There is another reason for the speed, and Bennet keeps it to himself. Tristan, Lucan's scout, has started asking Lucan to pass one stretch of the river at speed, without saying why. Bennet has known Tristan since he was a boy lying in the reeds, and he knows the scout does not ask for things lightly. So when Tristan came down to the yard one evening this spring and stood a long while looking at the half-built hull without a word, Bennet did not ask him anything. He simply took the drawings back to his bench and made the keel a little deeper.
+
+### What he wants and fears
+
+Bennet wants to see his barge launched, run flat out on the river and come home dry. He would also like to win the wager, whatever it is. What he fears is building the fastest boat on the river and finding that it still is not fast enough.
+
+A quest might begin with Bennet needing seasoned timber from upriver, past the quarries, where the bargehands no longer like to go, or with him needing a crew, any crew, brave enough to test the new barge on its first run.
 
 ## Relationships
 

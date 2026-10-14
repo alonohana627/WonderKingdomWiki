@@ -15,9 +15,31 @@
 
 Cool, quiet and secretly soft on children. Shade never misses and never brags.
 
-## Story
+## Lore
 
-Shade guides travelers and traders safely along the roads into the city, for a fee and a hot meal. The routes Shade trusted a few years ago are not safe anymore, and Shade is looking for new ones.
+Shade guides travelers and traders safely along the roads into Urbanograd, for a fee and a hot meal, and has never lost one. Shade is thirty-five, cool and quiet, dressed in road-dust greys with a belt of throwing knives across the chest, and has a way of standing so still at the Gate Walk that newcomers do not notice Shade until spoken to. Shade never misses and never brags. The first is a matter of practice; the second, Shade says, is a matter of not needing to.
+
+### A rooftop child
+
+Shade grew up in Urbanograd, on the Rooftops, the child of two street musicians who died within a year of each other when Shade was twelve. The rooftop folk fed Shade between them, the way they still feed their strays, and Shade learned early to be quiet, quick and difficult to find. It was a useful education. By sixteen Shade could cross the city from the Gate Walk to the Great Hall without touching a street, and could hit a weathervane with a pebble from three roofs away.
+
+At twenty, restless and too good at sneaking for city life, Shade went to Hatch. The old monster hunter was already settled at the Gate Walk and already grumbling about the roads, and he took Shade on for four seasons, spring to winter, on the roads between the towns. Hatch taught Shade to read tracks, to smell weather, to sleep light and to tell an animal that was hungry from one that was something worse. He says Shade is the best he ever taught. Shade says Hatch talks too much after the second cup, and goes to the Gate Walk every few days to listen to him do it.
+
+### The work
+
+Shade's trade is the last and most dangerous stretch of every journey: meeting caravans and travelers on the roads outside the walls and bringing them in by routes Shade has walked and trusts. Many of those routes were first walked by Hatch. That is the trouble. The routes Shade trusted a few years ago are not safe anymore: a ford where something now waits at dusk, a wooded cutting where the birds have gone silent, a hill path where the tracks have grown too large. Shade has been scouting new ones, longer and stranger, and comparing notes with Hatch when they meet.
+
+Shade's knives come from Ferro, the smith of odd metals, who names every blade before it leaves the forge. Shade has never told anyone the knives' names, but uses them, and Ferro knows it. Their dealings are short and wordless and very satisfactory to both.
+
+### Scrap
+
+Shade is secretly soft on children, and one child in particular has noticed. Scrap, the rooftop scamp who is Vane's daughter, wants to be an adventurer exactly like Shade, and practices sneaking on Shade daily. She has never once caught Shade unawares. Shade pretends not to see her anyway, leaves a careful gap in the conversation for her to overhear, and has quietly taught her how to fall from a low wall without breaking anything. Shade sees a good deal of a younger self on those rooftops, and would like Scrap to have a safer road to the same place, or a different place altogether.
+
+### What Shade wants and fears
+
+Shade wants one road into the city that stays safe for a whole year. Shade fears the day a traveler trusts Shade's route and the route has changed overnight, and, though Shade would never say it, the day Scrap follows Shade out of the gate.
+
+A quest might scout a new route along the roads with Shade, find out what has made an old ford unsafe, or bring in a caravan that set out before Shade could reach it.
 
 ## Relationships
 

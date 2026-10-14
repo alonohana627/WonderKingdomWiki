@@ -1,0 +1,25 @@
+"Cab for hire!" calls Tilda from the stand outside Selsior's great gate, and then, catching your eye, "Hello there. I drive the Selsior cab from the gate stand." She is forty-three, sun-browned and easy in her seat, with her sleeves rolled to the elbow and a straw hat she has worn so long it has taken the shape of her head. She is breezy, practical and full of road wisdom, and she never forgets a route once she has driven it. Ask her the way to anywhere a cab can go and she will tell you every bend, ford and milestone in order, and where the puddle is that never dries.
+
+### The cab and Thistle
+
+The Selsior cab is a tall, two-wheeled thing painted red with yellow wheels, with a folding hood, two brass lamps and a bench that seats two in comfort and three in friendship. It is drawn by Thistle, a grey gelding with opinions about bridges. Tilda took the cab over fourteen years ago from old Larkin, who had driven it from the gate stand for most of his life and taught her the job in his last two summers on the bench. When he died she bought the cab and the horse from his estate with every coin she had and a loan she paid off in three years.
+
+Before that she drove carriers' wagons for a city carrier from the age of seventeen, up and down the Royal Road and along the lesser roads between the towns, and she learned then the trick that made her name: drive a road once with your eyes open and you never need to ask the way on it again. She can recite the whole Royal Road from the gate stand to Kaldemor, turn by turn, with her eyes shut. Passengers have tested her. She has never lost.
+
+### The rules
+
+The cab runs between towns that have a taxi stand, and never into the wilds. And Tilda will drive a passenger only to a town they have walked to before, at least once, on their own feet. Newcomers think this is a strange rule for a driver who wants fares. Tilda has a saying for it: walk the road to Kaldemor once, and her cab will know the way home. What she means is that a person ought to know the road they are paying to skip. If a wheel comes off halfway, she says, she wants a passenger who knows which way to walk, not one who sits in the ditch and waits to be rescued.
+
+The rule about the wilds is older than Tilda, and she used to think it a little fussy. She does not any more. Lately, she says, it has never seemed wiser. Last autumn, coming home along the Royal Road past the Greenwood with the light going, Thistle stopped dead in the road and would not move, ears flat, for as long as it takes to say a slow prayer, while something large went through the trees beside them without once showing itself. Then he walked on as if nothing had happened. Tilda has not driven that stretch at dusk since. She leaves the far stands earlier now, and she tells her passengers it is because Thistle likes his supper.
+
+### The gate
+
+Her stand is just outside the gate, and the gate's regulars are her friends. On slow afternoons she leans against the cab and Hollis, the young gate guard, leans against the gate, and they trade the news of the road: who came in hurt, which carters are late, which passengers she turned away because they had never walked where they wanted to go. Biscuit, the gate dog, checks her stand every morning in case anyone has dropped anything near the cab overnight. Nobody ever has. Tilda has lately started dropping a crust there on purpose.
+
+Her cousin Perrin, the royal courier, is a good deal younger than she is and a good deal louder about it. He tells everyone he is the fastest courier in the kingdom. Tilda tells everyone, fondly, that she can read from the mud on his boots exactly which roads he took to get there, and that he takes the long way round more often than he admits. He has asked her to stop. She has not.
+
+### What she wants and fears
+
+Tilda wants every road with a stand on it open and every passenger delivered before dark. She would like, one day, to drive the cab to a town that does not have a stand yet, on the day it gets one. What she fears is the evening she has to choose between her rules and a passenger who must get home.
+
+A quest might begin with Tilda refusing a well-paying stranger who wants to be driven somewhere off the road, and asking someone to find out where he went on foot instead, or with Thistle stopping dead again, in broad daylight, on a road he has walked a thousand times.

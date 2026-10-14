@@ -1,0 +1,23 @@
+Ochre has painted half the walls around Lantern Square, and talks to all of them. "Morning, old girl," Ochre says to the long wall by the steps, and "You're looking peeling," to the one behind Ivo Sable's awning, and passers-by have long since stopped finding it strange. Ochre is thirty-eight, big-hearted and messy, speckled from head to boots with every colour in the city, and so often up a ladder that children in the square think of Ochre as a sort of weather.
+
+### Learning the walls
+
+Ochre was born in Urbanograd and grew up in the square, a child who drew on everything and was forgiven for it. At twelve Ochre started grinding colours for old Rosalba, the muralist who looked after the square's painted walls in those days, and at sixteen was trusted with a brush. Rosalba had learned from someone who had learned from the Walkers themselves, and she taught Ochre the most important rule of the square: the oldest pictures are not anybody's to improve. They are only to be kept. When Rosalba died, fifteen years ago, the walls came to Ochre the way such things come in Urbanograd, because Ochre was already up the ladder.
+
+When the Walkers first came to Old Grad, they painted every bare wall they could reach, and some of those first pictures still survive around the square: a cart full of laughing people, a long line of walkers with bundles, a lantern hung between two towers, a very rude cartoon of a guild master that the city would not part with for anything. Every spring, Ochre repaints them, stroke by stroke, over the faded lines, so they never vanish. It takes most of the season. Ochre has never once changed a line, though the guild master's nose is, Ochre admits, a great temptation.
+
+### Figgy
+
+Figgy, Ochre's daughter, is eight and draws on every flagstone in the square. She has chalk to the elbows, an opinion about everything and a fee of one copper for stepping on her pictures, and she thinks Ochre's colours are too careful. Ochre thinks she may be right. Figgy wants a real wall of her own, and Ochre has had to explain that the old walls belong to the Walkers' pictures. Figgy has pointed out that the Walkers are not using them. Ochre is still working on an answer, and is secretly looking for a wall to give her.
+
+### Splash
+
+Ochre's rival is Splash, the night painter whose unsigned murals turn up on the backs of chimneys and the undersides of bridges, where only rooftop folk can see them. Ochre says painting where nobody can see is like singing into a sack. Ochre also climbs up to look at every new one, usually the morning after, and stands there a long while. The two of them have never had a proper conversation, only a long exchange of pointed remarks passed through Figgy, who loves Splash's paintings and says so loudly whenever her mother can hear.
+
+### The Gate Walk
+
+Ochre's great ambition is to paint the whole history of the city along the walls of the Gate Walk, from the cart in Selsior's market square to the present day, so that every traveler who comes in through the gate walks through Urbanograd's story before reaching the city. Ochre has the drawings ready, a hundred sheets of them. What Ochre lacks is red. Good red paint is made from a red earth dug outside the walls and carted in, and with the roads dangerous the carts bring less every season. A history of Urbanograd without red, Ochre says, would be a history with all the shouting left out.
+
+Ochre has heard that Splash wants a painting seen from the Gate Walk too. Ochre is pretending not to have heard.
+
+A quest might bring a load of red earth safely in through the roads, broker a truce between Ochre and Splash over the Gate Walk, or help Ochre find Figgy a wall of her own.

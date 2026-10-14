@@ -15,9 +15,37 @@
 
 Calm, tidy and endlessly polite, with a habit of answering questions with the exact page and shelf where the answer can be found.
 
-## Story
+## Lore
 
-Ilwen keeps the Council's records, its meeting days and its guest list, and greets every visitor who climbs the Heart Tree's stair. He would like, just once, to take a holiday, but cannot think who would water the Council chamber's vines.
+Ilwen is Steward of the Heart Tree, and if you climb the great stair that winds around its trunk, he will be at the top of it, waiting to greet you. He is thirty-four, calm, tidy and endlessly polite, and he has a habit that visitors find either wonderful or maddening: ask him a question, and he will answer it with the exact page and shelf where the answer can be found. Ask him where the Eldest is, and he will tell you that too, along with when she will be free, what she will probably say, and which chair to sit in while you wait.
+
+### The steward's work
+
+Ilwen keeps the Grove Council's records: its minutes, its meeting days, its letters in and out, and its guest list. He knows who is coming up the stair this week and who came up it ten years ago, and why. He writes down everything the Council decides, in a small, even hand, and files it where he can find it again in the time it takes to say the date. He keeps the chamber swept, the lamps trimmed and the long table polished. He also waters the vines that grow over the walls and ceiling of the Council chamber, morning and evening, because nobody else remembers to, and because the one time somebody else did, they drowned half of them.
+
+He came to the Heart Tree at twenty-two as steward to old Eldest Ferris, who taught him that a council runs on paper as much as on wisdom, and that a good steward is the one nobody notices until he is gone. When Ferris died nine years ago and the elders chose Calyra, Ilwen stayed. He has served her ever since, and he likes her very much. She is patient and dry and lets everyone finish speaking, which makes his minutes far easier to write.
+
+### The holiday
+
+Ilwen has been Steward for twelve years and has never once taken a holiday. Calyra has been trying to make him take one for two years. She has suggested it, recommended it, put it on the Council's agenda as a joke and, once, very nearly ordered it. Ilwen would like, just once, to go. He has even chosen where: he has read every account in the Heart Tree of Kaldemor's harvest fair, and would like to see it for himself and eat something someone else has cooked. But he cannot think who would water the Council chamber's vines, and every time he tries to imagine handing the watering can to anyone else, he finds a reason to stay.
+
+### The people he serves
+
+Thessaly, the sharpest of the councillors, keeps her own ledger of every promise the Council makes. She checks it against his minutes after every meeting, and about once a season she finds a difference. Ilwen enjoys this more than he would ever admit. Her sister Briony brings him gossip and seedcake, in that order. He knows, because it is in his minutes, exactly how many times Seren, Warden of the Forest Edge, has come up the stair to ask for more guards, and exactly how many she has been given. He has never said the numbers aloud. He has started underlining them.
+
+He also keeps the guest list, which means he knows the rhythm of the forest's visitors: the chieftain of the Brenna, who comes every spring to see the Eldest, and the week the Council is set aside for it; the wilds naturalist Juniper, who comes up the stair with muddy boots to spread her notebooks across Caelum's floor; the hurt and the hopeful and the merely curious.
+
+### Wynne
+
+His friend is Wynne, Isaura's granddaughter, the young copyist of the old records. He met her on the stair the day she arrived from Selsior at fourteen, a quiet girl with a bag of books and a stubborn chin, and he showed her where everything was, down to the page and shelf. Now they eat lunch together on the landing of the great stair on fine days and talk about handwriting, ink and the shocking way some people treat a spine.
+
+Lately Wynne asked him, very sideways, whether the Heart Tree had any list of its oldest shelves older than the one in use. He told her exactly where such a list might be, and did not ask why. He is a steward; he knows when not to ask. But he has noticed that she has been quieter than usual since spring, and he has started leaving the stair landing free for her at lunch even on rainy days, in case she wants to talk.
+
+### What he wants and fears
+
+Ilwen wants one week away, and the vines alive when he comes back. He fears, very quietly, that the Council's records are filling with requests that have not been answered quickly enough, and that one day someone will turn to the right page and shelf and ask why nobody acted sooner.
+
+A quest might ask a traveller to water the Council chamber's vines for a week so Ilwen can finally take his holiday, to deliver the Council's letters to somewhere the roads have made difficult, or to help him find a misfiled record he is certain he never misfiled.
 
 ## Relationships
 

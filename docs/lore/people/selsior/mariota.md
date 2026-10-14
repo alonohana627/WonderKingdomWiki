@@ -15,9 +15,29 @@
 
 Bright, impatient and argumentative. She has opinions on everything and evidence for half of them.
 
-## Story
+## Lore
 
-Mariota studies the stars and the old histories at the Academy and teases her brother at the Knights' Court for reading about swords instead of using them. She wants to be the first to explain why the monsters changed.
+Mariota is nineteen, a student at the Royal Academy, and she has never in her life heard an opinion she did not want to argue with, including her own from the week before. She studies the stars and the old histories, which she says are the same subject looked at from opposite ends: one is the record of what happened down here, and the other is the record of what was happening up there at the time. She has opinions on everything and evidence for about half of them, and she is working, very hard and very loudly, on the other half.
+
+### A house full of books
+
+She and her younger brother Tobe grew up in the Scholars' Quarter, in two rooms over their father's bindery. Ranulf bound books for the Academy and the libraries, and the bindery was always full of them, half-sewn, waiting for covers, stacked on every chair. Their mother, Sabine, died of a fever twelve years ago, when Tobe was five and Mariota seven, and after that it was the three of them and the books. Mariota read the histories. Tobe read the manuals. They argued about which was more useful across the supper table every night, and Ranulf, who had bound both, refused to take sides.
+
+He died two winters ago, of a bad chest that would not clear. The bindery went to pay what was owed on it. Mariota had already won a place at the Academy by then, on the strength of an essay that argued with its own examiners, and Bartholomew, the Master, who welcomes students from every town and likes nothing better than one who answers back, made sure she kept it. Tobe found work fetching and shelving in a Scholars' Quarter library and read every book on swordsmanship in it. This spring he took everything he had read to the Knights' Court.
+
+### Stars and histories
+
+At the Academy, Mariota studies under Theobald, the stargazer, whose charts of the night sky go back sixty years. Theobald talks to the stars as if they owe him money and forgets to eat, and Mariota adores him and tells him so by correcting his arithmetic. Her friend Everard, who sleeps through lectures and passes every exam, drives her to distraction. She has worked out that he is far cleverer than he lets anyone see, and she has made it her business to catch him at it.
+
+What she wants is to be the first to explain why the monsters changed. Everyone in Selsior agrees that they have. The creatures on the roads are wilder than they were in the old books, and there are more of them every year. Mariota wants to know why, properly, with evidence, and she has decided that if the answer exists anywhere, it is written down somewhere already, in the sky or in a chronicle. So she has set herself to read both. She has been going through Theobald's charts year by year, looking for anything in the heavens that changed around the time the creatures did, and through the Academy's old histories, looking for any account of beasts turning strange before. She has not found anything she can prove. She has found three things she is fairly sure of and one she is afraid of, and she will tell anyone about the first three.
+
+### Tobe
+
+She teases Tobe without mercy for reading about swords instead of using them, and she visits the Court every week to see whether he has got past the third cut yet. He has not. She tells him that reading a book does not make you a swordsman, and he tells her that reading a chart does not make her an astronomer, and they are both right. Underneath it she is fiercely proud of him, and frightened for him in a way she would never let him see, because he is the only family she has left.
+
+### Hooks
+
+A quest might begin with Mariota hearing that an adventurer at the Crooked Lantern keeps notes on every monster she fights, and wanting them very badly. Or it might begin with the fourth thing, the one she has not told anyone, when she finally needs somebody to help her check it.
 
 ## Relationships
 

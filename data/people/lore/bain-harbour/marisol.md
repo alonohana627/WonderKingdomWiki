@@ -1,0 +1,29 @@
+Marisol keeps the spice shop on Merchant Street, and you can find it with your eyes shut: cinnamon, pepper, cloves and smoke-dried tea leaves drift out of the door and halfway down the street. She is forty-five, charming, sharp-eyed and impossible to haggle down, and she remembers the name of every customer's child. Sailors who have not been ashore for a season come in to buy a twist of pepper and find themselves telling her how their daughter is getting on with her letters, because Marisol asked, by name, before they reached the counter.
+
+### The shop
+
+Marisol came to Merchant Street at sixteen to sweep the floor of the spice shop for old Ferrand, a spice merchant who had kept it for most of his life and could tell a cargo's origin from a single sniff. She swept, then weighed, then bargained, and when Ferrand grew too old to climb his own ladder she bought the shop from him. She was twenty-four. That was twenty-one years ago, and Ferrand lived long enough to see her double his trade and to complain that she sold too cheap.
+
+She sells spices, dyes and teas from every corner of Veligor. Everything she sells comes in by sea. Pepper and cloves come on the Bright Morrow, because Captain Seraphine is fastest and spices lose their life in the hold; dyes come on whatever coaster has room; tea comes packed in lead-lined chests that Hobart, the warehouseman, complains about every time he has to count them. Poppy, the baker's daughter, brings Marisol a salt roll every morning, and Marisol always asks after Kit, and always remembers what Kit said last week.
+
+### Cordelia
+
+Marisol's business partner is Cordelia, the cloth merchant along the street, who dresses better than anyone in the harbour and wants everyone to know it. They have kept separate shops and a shared purse for twelve years. Together they hire cargo space by the hold rather than by the crate, which no merchant could afford alone, and split the cost and the risk down the middle. Cordelia brings the gossip and Marisol brings the sums, and they enjoy each other enormously. Cordelia dreams of opening a second shop. Marisol has promised to go halves on it once the cargoes settle down.
+
+### The council
+
+Marisol speaks for the merchants on the harbour council, and has done for ten years. She is the Harbour Master's firmest ally there. When the council chose Quenna eight years ago, it was Marisol who counted the votes in advance and told her she would win, and Quenna has relied on her ever since. They do not always agree. Marisol thinks Quenna decides too fast; Quenna thinks Marisol counts too long. Between them they usually get it right.
+
+### Late cargoes
+
+Lately some of Marisol's cargoes have arrived late, and some not at all. Three this spring were weeks behind, because the captains bringing them now hug the coast and keep out of deep water. A consignment of blue dye never came: the coaster carrying it turned back halfway and put into another harbour along the coast, and its master will not sail that stretch again until someone tells him what is out there. Last autumn, too, one of Kaldemor's harvest carts never reached the harbour, and Marisol has not forgotten that the empty cart would have gone home with her spices.
+
+She has not let anyone see how much this worries her. She smiles at customers, bargains as hard as ever, and tells Cordelia that delays are part of the trade. Privately she keeps a small book of every late and missing cargo, with the ship, the route and the days lost, and the list is getting longer.
+
+### What she wants and fears
+
+Marisol wants her shelves full and her customers' children growing up on Merchant Street. She fears that one day the sea will simply stop bringing what the harbour needs, and that she will be the first to know and the last to admit it.
+
+### Hooks
+
+A quest could fetch the missing blue dye from the harbour where it was left, ride along with one of Marisol's cargoes to see why it keeps coming late, or help her decide whether to show the council her book of missing cargoes.

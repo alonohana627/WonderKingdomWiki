@@ -1,0 +1,25 @@
+Benedict is seventy-three, Head Librarian of the Royal Academy, and he can find any book in the great library in less time than it takes you to describe it. Any book, that is, except one. He is hushed, fussy and passionately helpful, and he moves between the stacks in soft shoes, straightening spines as he passes, like a shepherd counting sheep in the dark.
+
+### A life among the shelves
+
+He came to the library as a boy to fetch and shelve, and he has hardly left it since. He learned the catalogue before he learned the city, and by the time he was thirty he could tell you not only where a book was but who had last borrowed it, what they had spilled on it and whether they had bent the corners. He has been Head Librarian for thirty years. The great library is the Academy's oldest treasure, gathered over centuries from all four peoples: Magician treatises, Commons almanacs, Savage songs written down by people who were not supposed to write them down, and the long, dry chronicles of the Aristocrat families.
+
+He also teaches. For decades Benedict has trained the copyists and scribes the palace needs, in a cold room at the back of the library with good north light, and he taught half the scribes now working in the palace to hold a pen properly. Petronella, the Royal Scribe, was the best pupil he ever had. She still sends him her finest pages to look at, and he still finds one letter on each to correct, which they both enjoy.
+
+### Ermengarde
+
+His sister Ermengarde mends and binds the Academy's books in a tiny shop beside the library, so close that Benedict can hear her laughing at her own jokes through the wall. She is placid where he is fussy, and fond of terrible puns, and she smells of glue and old leather. Every damaged book in the library goes through her hands, and every book comes back better, with a pun about it that Benedict pretends not to hear. They have worked side by side for most of their lives. He would not trust anyone else to touch a spine.
+
+Ranulf the bookbinder, who did the Academy's larger binding work, was a friend of them both. When he died two winters ago and his bindery was sold, Benedict gave Ranulf's boy Tobe work fetching and shelving in the library, the same work Benedict had done as a boy. Tobe read every book on swordsmanship in the place and then went off to the Knights' Court with all of them in his head. Benedict disapproves of swords and was secretly rather proud.
+
+### The missing volume
+
+The book Benedict cannot find is a volume of the Aristocrat war chronicles, the long record the old Aristocrat families kept of the Balrog War. The library holds the rest of the set, and they are full of armies, marches and burned towns, and strangely thin on the thing that burned them. Benedict has always believed the missing volume fills some of that gap. He believes it because he read the first pages of it himself, eighteen years ago, at a desk by the window, and then was called away, and when he came back it was gone.
+
+He lost it himself. That is the part he cannot bear. He has searched every shelf in the library at least once a year since, in order, with a list, and he has questioned every reader who was in the building that day, most of whom no longer remember being born. Thomasin, the historian, asks him about it more often than she used to, and lately she asks with a look he does not like.
+
+### What he wants and fears
+
+Benedict wants the book back on its shelf before he dies, and then he wants to read it to the end. What he fears is that he has spent eighteen years looking in the right building for something that left it the same afternoon.
+
+A quest might begin with a page in the right hand turning up somewhere it should not be, or with Benedict asking a traveller to look, discreetly, through the bookstalls and private libraries of another town for a binding he can describe down to the last stitch.

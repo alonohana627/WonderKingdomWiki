@@ -16,9 +16,39 @@
 
 Endlessly curious and happily blunt, Lumi asks questions nobody else dares and laughs at most of the answers.
 
-## Story
+## Lore
 
-Lumi joined the Grove School to learn the forest's ways and has become Liri's best friend. Lumi knows about Liri's plan to visit the Forest Edge and is torn between keeping the secret and telling Tansy.
+Lumi is a Glade Dweller from the Children's Glade, one of the Children of the Tree, and a student at the Grove School, and Lumi is very possibly the most curious person in Fairy Forest. Lumi is endlessly curious and happily blunt, asks the questions nobody else dares to ask, and laughs at most of the answers. The laughter is never unkind. It is the laughter of someone who has just been told something wonderful and slightly ridiculous, and who would like to be told a great deal more.
+
+### The questions
+
+Lumi joined the Grove School to learn the forest's ways, and has been asking about them ever since. Why do the lanterns along the outer paths burn brighter than the ones near the Heart Tree? Why does the Council need a ledger of its promises, if everyone on it means to keep them? Does a tree mind being listened to, and would it be rude not to listen back? Why do grown-ups say "we'll see" when they mean "no"?
+
+The teachers have learned to brace themselves. Aurel, the junior teacher, who writes out every lesson word for word, has never once had notes for a question of Lumi's, and has slowly come to understand that Lumi's laughter at his answers is how Lumi learns. Sorrel, who teaches listening, answers Lumi's questions with silence, and Lumi finds this the funniest answer of all, and then, after a while, goes quiet and actually listens. Sorrel considers this one of his finest achievements.
+
+Lumi is not always tactful. Lumi once asked Caelum, the seal scholar, in the middle of the Dewdrop Tea House, why he kept a drawer of wrong ideas instead of throwing them away, and then, before he could answer, said that it was the cleverest thing Lumi had ever heard of. Caelum did not know what to do with that and went home without his honey cake.
+
+### Liri
+
+Lumi's best friend is Liri, Tansy's daughter, who is nine, bright, bold and wants the exciting spells first and the listening never. The two sit together in every lesson, share every honey cake, and get into trouble roughly once a week, usually because Liri had an idea and Lumi asked the question that made it worse. Lumi thinks Liri is the bravest person in the forest. Liri thinks Lumi is the most interesting. Both are probably right.
+
+### Sefa
+
+Lumi's other great friend is Sefa, the glade storyteller, who trades stories with the forest's children in the Children's Glade every afternoon. Lumi comes most days, brings Sefa the news from school, and asks for a story in return. Sefa always gives one, and Lumi always asks afterwards whether it was true. Sefa never says. Lumi has decided that this is the best game in the forest and is keeping score.
+
+### The secret
+
+Liri has a plan. She is going to sneak out past the last lanterns to the Forest Edge and see a real monster, only for a moment, only from far away. She has worked out when the edge watch changes and which path has the fewest lanterns. She has told only Lumi.
+
+At first Lumi thought it was a wonderful plan, and asked a great many questions about it, all of which Liri had answers to. But Lumi has been listening, too: to the travellers at the Dewdrop who come in off the roads with bandaged arms, to the edge guards who eat standing up, to Sorrel saying the forest sounds uneasy at its edges. And Lumi has started asking questions Liri does not have answers to, and stopped asking them out loud.
+
+Now Lumi is torn. Telling Tansy would keep Liri safe, and might cost a best friend. Keeping the secret would keep the friend, and might cost far more. Lumi has noticed that Tansy has been watching Liri a little too carefully at supper, and wonders whether Tansy already knows. Lumi asked Sefa, without saying what the secret was, what a friend should do. Sefa told a story in reply. Lumi has been thinking about it for a week and still cannot decide whether it meant tell or don't.
+
+### What Lumi wants and fears
+
+Lumi wants to know everything about the forest and the people in it, and wants Liri to see her monster and come home laughing. Lumi fears, for the first time, a question with no good answer.
+
+A quest might ask a traveller to help Lumi decide whether to tell, to go along to the Edge and keep both friends safe, or to find some other way for Liri to see what she so badly wants to see, so that Lumi never has to choose.
 
 ## Relationships
 

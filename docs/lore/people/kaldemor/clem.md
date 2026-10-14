@@ -15,9 +15,37 @@
 
 Shy, gentle and happiest up a ladder among the apples. He goes red whenever Lia waves.
 
-## Story
+## Lore
 
-Clem looks after the orchards between the farms and the woods, and Hattie's bees keep his blossoms busy every spring. Something has been gnawing the roots of the trees nearest the woods, and it is not a snail.
+If you want to find Clem, look up. He is happiest at the top of a ladder among the apple boughs, where nobody can see him blush, and he blushes often. He is twenty-five, tall, shy and gentle, with leaves in his hair and grass on his knees, and he keeps the orchards that lie between the farms and the woods. He says more to his trees in a morning than to people in a week. When Lia waves at him across the square, he goes red to the ears, and the whole square has noticed, though the two of them pretend that nobody has.
+
+### The orchards
+
+Clem grew up in the orchard keeper's cottage at the end of the farm track, the only child of a mother who kept the trees before him. His father died when he was too small to remember him, and his mother taught him everything: how to graft and prune, how to tell a canker from a bruise, how to judge the day an apple is ready by the sound it makes when you twist it. She died five years ago, in the winter, and Clem has kept the orchards alone ever since. He has kept them well. Old Marta says his russets are the only apples worth the price, which from her is a medal.
+
+The trees nearest the farms are the oldest, planted long ago by Kaldemor's first settlers, who brought the cuttings with them. The newest rows, the ones Clem's mother planted, run out toward the edge of the woods. His apples go to Old Marta's stall, to Rosa's oven for her tarts and, pressed, into the cider that rides the harvest carts down to Bain Harbour each autumn.
+
+### Hattie's bees
+
+His neighbour across the hedge is Hattie the beekeeper, Wilbur's wife, and her hives stand at the edge of the farms where his orchard begins. Every spring her bees keep his blossom busy, and every autumn the apples prove it. Clem pays her in cider and in the first windfalls for her son Tam, who eats them with grim determination as a warrior should. Hattie is one of the few people Clem can talk to without going red, because she talks softly, the way he does, and because she has never once asked him about Lia.
+
+### Lia
+
+Everybody else has. Lia, the town guide, who meets every newcomer in the square and knows every piece of news before anyone else, has been courting Clem since last autumn's harvest dance. She asked him to dance while Jem the fiddler was playing, and he said yes before he had time to be frightened. Since then she walks out to the orchards most evenings with the day's news, and he listens to all of it, and he finds he likes the news far better when she is the one telling it. They both believe they are being discreet. Jem has already written a song about them, which Clem has begged him not to play.
+
+He means to ask her a question one day, a large one, and he has been practising it on a pear tree. The pear tree is very encouraging.
+
+### The roots
+
+This spring something began gnawing the roots of the trees nearest the woods. Clem found the earth turned up around the trunks in the mornings and the roots beneath scored and stripped, deep down, deeper than any rabbit digs. It is not a snail. Snails eat leaves and fallen fruit; they do not dig, and they leave a silver trail, and there is none. Whatever it is comes at night, works from below, and leaves the bark above ground untouched. Two young trees have already died. Clem has told Hale, and Hale nodded, and Clem did not know whether the nod meant he understood or that he was worried. With Hale, it might mean both.
+
+### What he wants and fears
+
+Clem wants a good crop, the old trees standing, and the courage to ask Lia his question somewhere other than a pear tree. He fears that whatever is under the orchard will work its way back from the woods row by row, toward the oldest trees, the ones the first settlers planted, and that he will not be able to stop it alone.
+
+### Hooks
+
+A traveller might be asked to sit up with Clem in the orchard on a moonless night, lantern shuttered, to see what comes for the roots. Or Clem, at last ready, might ask for help getting a single perfect apple from the topmost branch of the oldest tree in Kaldemor, the one he means to give Lia when he asks.
 
 ## Relationships
 

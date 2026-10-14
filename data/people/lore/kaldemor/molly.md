@@ -1,0 +1,25 @@
+You cannot leave the Sleepy Snail hungry. People have tried. Molly will see the edge of a plate from across the room, and she will be at your elbow with the pot before you have set down your spoon. She is fifty-two, round, quick and pink-cheeked, with flour to the elbows and a voice that carries from the kitchen to the stable yard, and she runs the inn at the edge of Kaldemor Market, where travellers stop for a last good night before the eastern countryside. She is bustling, motherly and nosy in the nicest possible way. By the time your soup is on the table, she will know where you are going, why, who is waiting for you there, and whether your boots will last the journey.
+
+### The Sleepy Snail
+
+The Sleepy Snail is a long, low inn of honey-coloured timber with a mossy roof, nine rooms upstairs, a big kitchen at the back and a common room with a fire that Molly has never let go out between the first frost and the last. Its sign shows a fat green snail asleep in a nightcap, and it was Molly's grandfather who first hung it, because, he said, nobody in Kaldemor had ever seen a snail hurry and nobody should be made to hurry under his roof. Molly's parents kept the inn after him, and Molly and her younger sister Hilda grew up in it, carrying trays before they could see over them. Their parents are both dead now. Molly took the inn when she was twenty-seven and has run it for twenty-five years.
+
+She has never married, and she says she has never had the time, since she has nine rooms of other people's children to worry about every night. Daisy painted the inn's doors, and once its shutters, the exact brown of Jem's fiddle. When Molly asked her why, Daisy said she had had some brown left over and went pink under the paint, and Molly, who misses nothing, has been watching both of them very closely ever since, with enormous satisfaction.
+
+### Jem and Hilda
+
+Jem the fiddler lodges in the room over Molly's kitchen and plays in the common room every night. In exchange she feeds him, rather more than he can eat, and scolds him for not finishing it. His parents moved away to Selsior, and Molly has quietly decided that somebody in Kaldemor must see that the boy eats vegetables, and that it may as well be her. She knows all about the song for Daisy. She has heard every one of the forty-three verses through the kitchen ceiling, and she has her favourite among the two he has not crossed out.
+
+Her sister Hilda keeps the town's storage, across the lane, and the two of them could hardly be less alike. Molly talks; Hilda listens. Molly knows everyone's business; Hilda knows where everyone's things are and will never say what they are. Molly sends every guest with a heavy pack across the lane to her sister, and tells them, "She will keep it safer than you would," which from Molly is very high praise.
+
+### Fewer from the east
+
+The Sleepy Snail has always been busiest in summer, when the traders and pedlars come in from the eastern countryside with wool, hides and cheese, and go out again with Kaldemor's pottery and tools. This summer there are fewer of them. Some rooms stand empty for a week. The travellers who do arrive come in late and tired, and they talk at her fire in low voices about things on the road: carts that went into the dark and did not come out, creatures that came at the wheels, lights in the trees where nobody lives. Molly would rather not believe a word of it. She feeds them, fusses over them, gives them the warmest rooms and the second helping, and goes down to the kitchen afterwards and stands very still for a minute before she starts the washing up.
+
+### What she wants and fears
+
+Molly wants every room full and every plate empty. She wants Jem to finish his song, and to be there when he plays it. She fears the night a traveller who promised to stop on the way back does not come back at all, and she keeps a list of those who have promised, folded small, in her apron pocket.
+
+### Hooks
+
+One of the travellers on Molly's folded list, a pedlar who stops every summer on his way east and back, is now three weeks late, and Molly would like a traveller to go and look for him along the road. Or a guest has left something odd in one of her rooms and gone, and Molly, who cannot bear not to know things, would like someone to find out what it is before she asks Hilda to keep it.

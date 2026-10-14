@@ -15,9 +15,33 @@
 
 Brisk and bossy in the kitchen, soft as bread dough everywhere else. She judges people by whether they wash their own bowl.
 
-## Story
+## Lore
 
-Mags feeds the Open Table, which can run until dawn, from one huge pot of stew that she claims has never been fully emptied since her grandmother's day. She would like someone to invent a stove that does not smoke.
+Mags cooks for the Great Hall, which means she cooks for the Open Table, which means she cooks for anyone in Urbanograd who has something to say and is prepared to say it until dawn. She is forty-eight, square and red-cheeked, brisk and bossy in her kitchen and soft as bread dough everywhere else. She judges people by one thing only: whether they wash their own bowl. Those who do are welcome forever. Those who do not are remembered.
+
+### The pot
+
+At the heart of the Great Hall's kitchen, over a fire that never quite goes out, sits one enormous iron pot of stew. Mags claims it has never been fully emptied since her grandmother's day. Each night she adds whatever there is: Old Parsnip's rooftop vegetables, beans, barley, a ham bone from the Night Market, whatever the farm carts brought in. Each night the Table eats most of it, and each morning she starts again on what is left. Some people in the city swear they can taste a hundred years of arguments in it.
+
+Her grandmother, Bettany Ferrow, cooked for the Table for nearly forty years and taught Mags everything in that kitchen, from how to keep a fire low all night to how to stop a hungry orator from talking with his mouth full. When Bettany's knees gave out twenty-two years ago, Mags took over the ladle; Bettany sat beside the fire and gave orders for four more years, until she died. Mags still talks to the pot as if her grandmother were listening.
+
+### Bastian
+
+Mags is married to Bastian Krell, the loudest voice at the Table, a man with an enormous voice, enormous opinions and an enormous heart. They married seventeen years ago, after he spent most of a winter's sessions arguing in favor of her stew in the middle of debates about something else entirely. She still claims she married him to stop him talking about it.
+
+These days he is campaigning, at length, for a covered bridge over Lantern Square so the Night Market can run in the rain. Mags supports the bridge in public and teases him about it at home. When he changes his mind, which he does loudly and without shame, she is the first to know, because he tries the new speech on her while she stirs.
+
+### Friends at the Table
+
+Rook, the Caller, is a grateful regular, and Mags is fond of Rook in the bossy way she is fond of everyone she feeds: she makes sure the Caller eats before the session, not during it. Old Parsnip, who grows vegetables in tubs and troughs across the rooftops, supplies most of her greens and talks to his cabbages as though they had opinions, which Mags finds perfectly reasonable.
+
+### The smoke
+
+The kitchen's chimney is as old as the fortress and draws badly, and on cold nights the whole hall fills with smoke. Mags would dearly like someone to invent a stove that does not smoke, and has said so loudly in the direction of Workshops Row more than once.
+
+She worries, too, about the farm carts. Fewer reach the city every season, and a pot that has never been empty takes a great deal of feeding. More and more of what goes in comes from the rooftop gardens.
+
+A quest might bring a cart of supplies through to the Great Hall's kitchen, carry Mags's challenge to an inventor on Workshops Row, or hunt down a lost ingredient from her grandmother's recipe.
 
 ## Relationships
 

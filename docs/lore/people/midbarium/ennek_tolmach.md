@@ -16,9 +16,31 @@
 
 Easygoing and confident, with a herder's eye for weather and a habit of whistling on dangerous ledges.
 
-## Story
+## Lore
 
-Ennek is Sennu's son and leads traders and travelers up the old Tolmach paths, as his family has since the founding. A spring on the south path that has run for as long as anyone remembers has gone dry this summer, and Ennek has not yet told his mother.
+Ennek is twenty-two, easygoing and confident, and he whistles on the most dangerous ledges in the highlands. Traders who climb to Midbarium with him for the first time find this alarming. Traders who have climbed with him before find it reassuring, because they have learned that Ennek only stops whistling when something is actually wrong.
+
+### A guide's son
+
+Ennek is the son of Sennu, chieftain of the Tolmach. His father, a herder named Torvo, was lost in a winter storm on the high pastures when Ennek was four, and Ennek remembers him mostly as a big laugh and a smell of wet wool. He grew up following his mother and his grandmother Mabbu from camp to camp, and Mabbu taught him the old paths the way she had taught Sennu: every turn, every overhang, every place a goat can stand and a man cannot, and above all every spring that runs in a dry year. Ennek can still recite the springs of the south path in order, the way Brenna children recite the long songs.
+
+The Tolmach have led travelers up into the mountains since the founding, when their guides first brought traders from Kaldemor and Selsior up the canyons. Ennek took his first caravan up alone at sixteen. He is good at it. He reads weather by the colour of the dust and the behaviour of the birds, he knows which traders will panic and which will simply go quiet, and he has a way of making the worst stretch of a climb sound like a pleasant walk. Corwell, keeper of the Trading Post, hires him for nearly every caravan that comes up from the lowlands, and the traders who make the climb every year now ask for him by name. His mother is quietly proud of this, and Ennek pretends not to know.
+
+### Family and friends
+
+His aunt Harra sells the herds' wool and cheese at the Trading Post, and Ennek often finds himself standing between her and Corwell while they haggle like old enemies who secretly enjoy it. Harra's son Kesh is his young cousin, a chatterbox who asks Ennek about every road he has walked and every traveler he has led. Ennek tells him the funny stories and leaves out the frightening ones, and suspects Kesh knows exactly what he is leaving out.
+
+Ennek's sweetheart is Ketta of the Uskari. They grew up teasing each other across the camps and the rim, and when she left home at seventeen to adventure across Veligor, it was Ennek who guided her down the canyon road. Last spring, leading a caravan up the south path, he came round a bend and found her sitting on a rock with a new scar and a pack full of stories, waiting for someone to walk home with. They have been sweethearts since the summer. She tells him every story but one, and he has never pressed her about the deep canyon cave. He has a secret of his own, after all.
+
+### The dry spring
+
+A few weeks ago, at the start of this summer, Ennek led a caravan down the south path and found the Greywater spring dry. It sits in a cleft halfway down the path and has run for as long as anyone remembers; Mabbu says it ran in the driest year of her girlhood, when spring after spring on the path failed around it. Now there is only damp stone and a few dead reeds. Ennek has been carrying extra water skins for his travelers ever since, and he has not yet told his mother.
+
+He tells himself he is waiting to be sure. The truth is that he knows what it will mean to Sennu, who has always said she fears the day a spring that has always run goes dry, and he does not want to be the one who brings her that day. He has started looking for where the water went.
+
+### Hooks
+
+A quest could follow Ennek up the cleft to find where the Greywater spring's water has gone, or help him find the words, and the courage, to tell his mother before somebody else does.
 
 ## Relationships
 

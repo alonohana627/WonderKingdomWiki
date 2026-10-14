@@ -15,9 +15,33 @@
 
 Booming, jolly and impossible to ignore, he cannot say anything quietly, not even good morning. He loves a good announcement more than a good dinner.
 
-## Story
+## Lore
 
-Rufus rings his handbell in the square every morning with the news, the fair days and the lost cats. These days more of his notices are road warnings, and he has started reading them a little more gently so as not to frighten the children.
+"GOOD MORNING, KALDEMOR!" It is the first thing the town hears every day, after the clock and before the cockerels, and some people in the farthest farms swear they hear it before the clock. Rufus does not know how to say anything quietly. He has tried. He is forty-four, big, red-bearded and barrel-chested, in a green coat with brass buttons and a hat with a feather that has seen better years, and he is the town crier of Kaldemor. He is booming, jolly and impossible to ignore, and he loves a good announcement more than a good dinner, which, for a man of his size, is saying something.
+
+### The bell
+
+Every morning at the stroke of eight, Rufus stands on the step of the signpost in the town square, rings his handbell three times, and reads the news. Fair days, market days and the price of flour. Births and weddings. Who has a cart going to Selsior and who has room on it. Lost cats, of which there are a great many in Kaldemor, and found cats, of which there are fewer. When the clock stopped this spring, Rufus rang the bell at eight anyway, by the sun, for nine mornings, and announced each time that the clock was being seen to and that Ewan sent his apologies. Ewan had sent no such thing. Rufus thought he would have, if he had thought of it.
+
+The bell was given to him by old Ludo, the crier before him, who rang it for thirty years and had a voice like a barn door in a gale. Rufus was Ludo's runner as a boy, sent round the farms with notices for anyone who lived out of earshot, and when Ludo's voice finally went, fifteen years ago, he handed Rufus the bell and said, "Louder." Rufus has done his best. Ludo died the next winter, and Rufus rang the bell for him on the morning of the burial so loudly that the whole town came out of doors, which was what Ludo would have wanted.
+
+Rufus was born in Kaldemor, the son of a carpenter and a market-woman, both dead, and grew up in the lanes behind the Market. He has never married. He says no one could stand the noise, and he is very likely right.
+
+### Mildred
+
+Every evening Mildred the town clerk writes out the next morning's notices in her neat, upright hand, and every morning Rufus reads them out with a great deal more feeling than she put in. He adds words. He adds exclamations. He once added a short poem about a lost goat. Mildred pretends to be appalled. Rufus pretends not to notice that she has started leaving a little more room at the bottom of the page.
+
+### Gently
+
+These days more of the notices are road warnings: snails on the meadow path, Shrooms in the woods, a stretch of the Royal Road to avoid after dark, the harvest carts to travel with guards. Rufus reads them all, because it is his job and because people need to hear them. But he has noticed the children in the square going quiet when he does, and Tam asking afterwards what the words meant, and so he has started reading the warnings a little more gently. Not quietly. He cannot do quietly. But slower, and kinder, and he follows every one with a lost cat or a fair day as fast as he can. This spring Mildred began writing the warnings in shorter, plainer words. Rufus has not asked her why. He thinks he knows.
+
+### What he wants and fears
+
+Rufus wants to announce something wonderful: the Snail King gone, the roads safe, the harvest carts home. He has the words ready and practises them in his head. He fears that one morning Mildred will hand him a notice he cannot read gently at all, and that he will have to stand in the square and read it anyway, in front of the children.
+
+### Hooks
+
+Rufus has a backlog of lost cats and would be delighted if a traveller found any of them, especially Mistress Whiskers, who has been missing three weeks and was last seen heading toward the woods. Another quest might ask a traveller to carry his announcements to the farthest farms, where folk have stopped coming in to hear them.
 
 ## Relationships
 

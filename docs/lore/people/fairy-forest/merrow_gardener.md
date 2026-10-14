@@ -15,9 +15,33 @@
 
 Big-hearted, slow-talking and fiercely protective of his beds of seedlings.
 
-## Story
+## Lore
 
-Merrow does the digging, weeding and watering that keeps the gardens alive. He is proud of his wife's remedies and quietly afraid of the Forest Edge, where she keeps wanting to go.
+Merrow is the gardener of the Herb Gardens, which means that every bed, terrace and seedling tray in them has passed through his big, careful hands at least once. He does the digging, weeding and watering that keeps the gardens alive, and he does it without hurry and without complaint. He is forty-one, big-hearted and slow-talking, and fiercely protective of his beds of seedlings. Students who cut across them on the way to the school learn very quickly not to do it twice.
+
+### The gardener
+
+Merrow grew up on the forest's lower paths, the son of a deadfall gatherer who collected fallen wood for the forest's hearths and never took a living branch. Both his parents are gone now. He was a slow scholar and a slower talker, and the Grove School found that his gift was small; but Hesper, Mistress of the Herb Gardens, watched him carry a bird's nest out of a bed he was meant to be clearing and set it carefully in a hedge, and offered him work the same afternoon. He has been in the gardens ever since, more than twenty years now.
+
+Hesper is his employer and, though neither of them would use the word, something close to a second mother. She is blunt with him and he is patient with her, and between them they keep the gardens in better order than any herbalist can remember.
+
+### Celandine
+
+Merrow's wife is Celandine, the herbalist who runs the remedy stall by the garden gate. They have been married twelve years. She is gentle, orderly and a little anxious, and labels everything twice; he grows half of what she brews, and is quietly, enormously proud of her remedies. He will tell any customer at the stall that his wife's salve is the best in the kingdom, and then go red and return to his digging. They have no children, and the seedlings, Celandine says, get all the fussing a child would.
+
+### Ailo
+
+Ailo, one of the Children of the Tree, came to help in the gardens and has become Merrow's close friend. Ailo is calm and unhurried and can work for hours without a word, and Merrow, who is the same, found that he had never worked so happily beside anyone. The two of them can spend a whole morning on one terrace and part at noon without having said ten words, both perfectly content. Hesper says the gardens have never grown so well. Merrow has never asked Ailo why. He thinks it would be rude, and besides, he is not sure he would understand the answer.
+
+### The Forest Edge
+
+Merrow is quietly afraid of the Forest Edge. Years ago, carrying compost to a garden plot near the outer paths, he saw the edge watch bring in a guard who had been badly hurt by something from the woods beyond, and he has not forgotten the guard's face or the sound of the stretcher. He goes nowhere near the Edge if he can help it.
+
+Celandine, though, wants to go there. There is a plant that grows only near the Forest Edge, and she is sure it would make a better remedy than anything in the gardens. She keeps asking. Merrow keeps begging her not to go. He knows she is right about the plant, and he knows he cannot stop her forever, and he cannot think what he will do on the day she decides to go anyway.
+
+### What he wants
+
+Merrow wants his wife safe, his seedlings undisturbed, and a quiet life in the gardens until he is too old to dig. A quest might ask a traveller to go to the Edge in Celandine's place, or with her; to help Merrow find the courage to go himself; or to track down whatever has been digging up his seedling beds at night.
 
 ## Relationships
 

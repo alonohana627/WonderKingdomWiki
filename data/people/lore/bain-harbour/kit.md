@@ -1,0 +1,25 @@
+Kit is nine years old, and you will usually hear him before you see him. He is the son of Alwyn the shipwright and Bryony the baker, the younger brother of Poppy, and the grandson of Dunstan, the master shipwright of Bain Harbour. He is noisy, fearless and covered in sawdust from his hair to his boots, and he spends every hour he can spare at the shipyard with his father and grandfather.
+
+### The boy in the yard
+
+Kit was carried down to the shipyard in a bread basket before he could walk, and he has more or less refused to leave since. He knows the names of every tool in the yard, and he knows which ones he is not allowed to touch, which is not the same as never touching them. He can tie fourteen knots, from a plain reef knot to a monkey's fist, and he will show you all of them, one after another, whether you have time or not. He learned most of them from his grandfather, who ties knots slowly and grumpily, and the last few from Wilmot the ropemaker on the waterfront, who ties them slowly and kindly and hums while he does it.
+
+His grandfather talks to the ships he builds and claims they answer. Kit believes this completely. He has asked every hull in the yard its name and opinions, and he reports their answers to anyone who will listen. Dunstan pretends to be annoyed by this and is in fact delighted.
+
+Kit's father does most of the heavy work now, and Kit follows him up and down the staging carrying nails, offcuts and advice. Peregrine, the apprentice, is his favourite person to talk to after his grandfather, because Peregrine has ideas even faster than Kit does.
+
+### The secret in the hull
+
+This summer Dunstan is building a new boat for the race around Veligor, and he will not let anyone see the plans, not even the Harbour Master who will sail her. Kit has seen more of the boat than almost anyone, because nobody notices a small boy with a bucket. One evening, when the yard was empty and the light was going, he crawled in under the half-planked hull with his father's smallest knife and carved his name inside it, low down near the keel where no one would look. It says KIT, in slightly crooked capitals. He has told nobody, not his sister, not his father, not even the ships. He thinks that if the boat wins, part of the win will be his.
+
+### School and home
+
+Kit goes to Maren's lessons on Merchant Street, though his mind is usually in the yard. Maren is strict about spelling, and Kit is the only child she has ever met who can spell "gunwale" and not "necessary". At home he shares a room with the smell of his mother's ovens, and he argues with Poppy about whose drawings of ships are more accurate. Poppy's are; Kit's have more sea monsters.
+
+### What he wants and fears
+
+Kit wants to build ships like his grandfather and sail them like the Harbour Master, both at once. He is not afraid of the sea, or of anything in it, and that is exactly what frightens his mother.
+
+### Hooks
+
+A quest might start when someone finds Kit's name inside the race boat and Kit needs help keeping it secret, or when Kit goes missing on the shore because he wanted to see one of the sailors' sea creatures for himself.

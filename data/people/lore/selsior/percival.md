@@ -1,0 +1,23 @@
+Percival is forty-one, the leading man of the Gilded Stage, and he enters every room as if it had been waiting for him, which, on Theatre Row, it usually has. He is tall, golden-voiced and dashing, with a jaw made for posters and a cloak he swirls without seeming to notice. He is also pompous, vain and capable of talking about himself for an entire supper without once asking how anyone else is. He is a better actor than he is a person. The difference between Percival and most people with that fault is that he knows it, and that for the last few years he has been quietly, clumsily trying to close the gap.
+
+### Every hero on the Row
+
+He came to Theatre Row at seventeen, the son of a ropemaker from the inner streets (both his parents are dead now), with a good voice, no money and a conviction that he was meant for great parts. For six years he carried spears, died in the first act and understudied everybody. Then a leading man on the Row broke his ankle on a staircase, and Percival went on as the hero that night and never went back to the spears. He has since played every hero the Row has ever written: kings and princes, lost heirs, bandit chiefs with good hearts, and at least three different founders of the kingdom. He came to the Gilded Stage thirteen years ago, when Lavinia lured him away from a rival house with the promise of the best parts in the city. She kept the promise. He has never let her forget that she made it.
+
+### Rosamund
+
+Ten years ago Lavinia cast him opposite Rosamund for the first time. They disagreed about one entrance in the first rehearsal, and they have been quarrelling ever since, on stage and off it, in the wings, in the dressing-room corridor and once, memorably, in a curtain call. The audiences love it. They come to watch the two of them fall in love on stage while knowing perfectly well they can barely share a staircase, and Lavinia sells tickets on it shamelessly. Tibb, the flyman, arranges every play so that they exit on opposite sides, and carries their messages to each other slowly and slightly edited.
+
+What nobody would believe is that Percival thinks Rosamund is the finest actress he has ever worked with, and that the quarrel is the only way he has ever found of keeping up with her. He has never told her. Nor has he ever been told what she privately thinks of him, which is much the same.
+
+### The Savage warrior
+
+Crispin is writing a play of the whole Balrog War, and Percival wants one part in it more than he has ever wanted anything: the Savage warrior who held the Balrog at the Tree, who stood in the front line for days so the Magicians could weave the seal. He has read every account of the Last Stand that the Academy will lend an actor, and has found that none of them agree. He has been running up the Row's stairs before breakfast to build his chest, and has twice been to the plaza to watch the Midbarium envoys walk, to learn how a highlander stands.
+
+The trouble is that Rosamund wants to play the Magician who wove the seal, will not share a stage with him, and Crispin cannot see how to write the Last Stand without both. Percival has, for the first time in his life, considered asking Rosamund what she would need from him to make it work. He has not yet done it. He is working on it.
+
+### What he wants and fears
+
+Percival wants to play the warrior so well that the audience forgets, for one night, that he is Percival. What he fears is that they never will.
+
+A quest might begin with Percival wanting someone to find him a real highland warrior's account of the Last Stand, or with an anonymous gift in his dressing room that looks very much like it came from Rosamund.

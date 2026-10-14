@@ -1,0 +1,23 @@
+Dina Finch directs the Old Barracks Troupe, and she directs everything else within earshot too. She gives notes at breakfast, notes on the stairs and notes to people who are not in the play at all, usually about their posture. She is fifty-two, broad-shouldered and loud, with a voice trained to reach the back of a market square without a single raised hand. Under the bluster she is one of the warmest people in Urbanograd, and every actor she has ever shouted at knows it.
+
+### Growing up in the crowd
+
+Dina was born in the city and saw her first Walkout Day play from her father's shoulders. She joined the troupe at nineteen as a stagehand who pushed the cart, moved up to small parts, and spent nine years playing Juna herself. When old Bellamy Stroud, who had directed the troupe for decades, died thirteen years ago, the company turned to Dina before the funeral bread was cold. She has run the Old Barracks Theatre ever since, from a cluttered office in what was once the fortress quartermaster's store.
+
+The troupe performs Juna Marrow's play every Walkout Day on a cart in the main square, as it was first performed, and Dina guards that tradition fiercely. The rest of the year the Old Barracks puts on whatever she likes: new comedies, old farces, and once, regrettably, a tragedy in which the dagger fell apart in the first act.
+
+### Her company
+
+Dex has played the pompous grandee for fifteen years, two years longer than Dina has been in charge, and she inherited him the way one inherits a beloved, noisy dog. She knows he wants a serious role. She has not yet found one he could play without the audience laughing, and she worries about telling him so. Rue won the part of Juna this spring, beating several older actresses, because Dina saw her freeze in the wings at the audition and then walk on and own the stage. Piper rewrites the songs every year, which drives Dina to despair; she cuts half of them in rehearsal and secretly hums the other half all summer. Thimble, Hambone and little Sprout round out the company that Dina calls her family, and she means it.
+
+Every Walkout Day morning, Quint opens the day by reading the Open Charter aloud before the play begins. Dina treats his reading as the overture and times the first entrance to the moment he rolls up the scroll.
+
+### Pip
+
+Dina's dearest project is not a play but a person. She has watched Pip Marrow grow up backstage and taken her on as a protégée, teaching her to cut a scene, to hear a joke land and to survive a bad night. Dina believes Pip may write something better than her great-grandmother's play one day, and she is careful never to say so aloud, because she knows the whole city already says it too often.
+
+### What she wants and fears
+
+Dina has announced, every year for a decade, that this year's play will be the funniest in ten years. She would like, just once, to be right. Under that she carries a quieter fear: fewer travelers reach the city each summer, and she remembers the year the queen stood in the crowd six years ago. She wonders how many more seasons the square will be full.
+
+A quest might help Dina recover a lost prop before Walkout Day, coax Dex into a serious audition, or carry a letter to a touring player who could join the troupe if the roads allowed it.

@@ -16,9 +16,31 @@
 
 Shy, gentle and easily overwhelmed by crowds, Niv is fiercely loyal to the few people Niv trusts.
 
-## Story
+## Lore
 
-Niv lives in a tree home Oriel tended and visits him almost daily. Niv often stands at the edge of the glade looking toward the World Tree and has never told anyone why.
+Niv is a Glade Dweller from the Children's Glade, one of the Children of the Tree, and one of the quietest people in Fairy Forest. Niv is shy, gentle and easily overwhelmed by crowds, and a market day on the Lantern Paths, with its noise and press and everyone talking at once, can send Niv home before noon. But the few people Niv trusts have learned that Niv's quiet is not weakness. Niv is fiercely loyal to them, and will stand between any one of them and trouble without a moment's thought.
+
+### Coming down
+
+Niv is one of the newer Children to settle in the forest, and like most newer Children, Niv was met by Halcy. Halcy, who was among the first to come down and has made a habit of helping those who came after, found Niv somewhere quiet to sleep, explained the forest's customs one at a time instead of all at once, and stayed close until Niv was ready to manage alone. Niv still finds that the hardest part of the forest is how many people there are in it, and how much they all want to say. Halcy has never once asked Niv to say more than Niv wanted to, and Niv has never forgotten that. Halcy still looks in on Niv often, usually on the way to somewhere else, and never staying longer than Niv can manage.
+
+### Oriel
+
+Not long after Niv came down from the Tree, Halcy brought Niv to Oriel, the Master Treewright, who tends the oldest living-tree homes around the Heart Tree. It seemed an unlikely match. Oriel is gruff and seventy-six and slow to trust anything that grew in less than a century, and he distrusts most new things on principle. He found, to his own surprise, that he did not distrust Niv at all.
+
+What suits Niv about Oriel is his silence. He does not ask how Niv is feeling. He does not fill the quiet. He walks the old homes, lays a hand on the bark and listens to the wood, and Niv walks beside him and listens too. Niv now lives in a tree home that Oriel tended, a small, sheltered one with a single round window, and visits him almost every day. Some days they say a dozen words between them. Some days they say none, and both count it a good day.
+
+Niv knows that Oriel has been worried lately, though Oriel has not said about what. He has been spending longer in a few of the oldest homes, standing very still with his hand on the bark, and coming out with his mouth set. Niv has not asked. Niv thinks a person is entitled to their own silence, which is the same thing Oriel thinks about Niv.
+
+### Looking toward the Tree
+
+Niv often stands at the edge of the glade, at the place where the trees thin, looking toward the World Tree. Sometimes it is a moment; sometimes it is an hour. Niv has never told anyone why. Halcy has noticed and has decided not to ask until Niv is ready to say. Oriel has noticed and has never asked at all. Other people in the glade have asked, kindly or curiously, and Niv has only smiled and gone home. Whether it is homesickness, or habit, or something else entirely, nobody in the forest knows, and Niv is not saying.
+
+### What Niv wants and fears
+
+Niv wants a quiet life among a few good people, and wants those people safe. Niv fears crowds, loud voices and sudden changes, and fears, though Niv has said this to nobody, anything happening to Oriel, who is old and works alone.
+
+A quest might ask a traveller to help Niv carry something through a crowded market day, to find out what has been troubling Oriel so that Niv can help, or simply to stand beside Niv at the edge of the glade for a while, saying nothing, which is a great compliment if Niv allows it.
 
 ## Relationships
 

@@ -15,9 +15,27 @@
 
 Wry, tireless and allergic to mornings. Moth knows which stall is where by smell alone.
 
-## Story
+## Lore
 
-Moth assigns the stalls each evening by drawing names from a hat, the way the first traders did, so no one owns the best corner for long. Moth has noticed fewer traders arriving from outside since the roads turned dangerous and worries about the winter.
+Moth wakes at noon, under protest, and is properly awake by dusk. That suits the job. Moth is the Keeper of the Night Market Stalls, the person who decides each evening who sets up where, and the Night Market does not begin until Moth arrives with a battered felt hat full of folded names. Moth is forty-nine, lean and rumpled, with ink on one thumb and a voice like a door that needs oiling. Moth is wry, tireless and allergic to mornings, and has been heard to say that sunrise is the city's only real mistake.
+
+### The hat
+
+The first traders of Urbanograd, in the Walkers' early years, quarrelled so badly over the best corners of the market that somebody put everyone's name in a hat and drew them out one by one, first name, first pick. It worked so well that nobody ever stopped. Every evening since, someone has drawn the names, so that no stall owns the best corner for long and newcomers have the same chance as old hands. The hat itself has been replaced more than once; the one Moth carries is the third that anyone remembers, and it is held together mostly by habit.
+
+Moth took over the hat sixteen years ago from old Bramble, a rope-seller who had kept it for most of a lifetime and who could recite every stall's position from the last thirty years. Bramble taught Moth the rules, which are few, and the exceptions, which are many: who must not be put next to whom, which stall needs to be near water, whose smoke goes where when the wind turns. Moth learned the rest by walking the market every night. Moth can now tell where every stall stands with eyes shut, by smell alone: Ladle's pepper and grilling meat, Saucer's spiced tea, the dusty paper of Dog-Ear's books, the sharp, odd smells of Crow's tonics, and, at the very end of the row, the warm wax of Glim's candle stubs.
+
+### Glim and Ladle
+
+Glim is Moth's daughter, and she runs her own little stall of paper lanterns and candle stubs at the far end of the market. Her name goes into the hat like everyone else's. Moth has never once fixed a draw for her, and she has never once asked, and both of them are proud of that. Glim is saving to buy a cart and dreams of taking her lanterns to other towns. Moth is proud of that too, and terrified of it, and has not yet found a way to say both at once.
+
+Hester Cray, whom the whole market calls Ladle, is Moth's friend, and her skewer stall is always the first lit and the last dark, wherever the hat puts it. The two of them share the last cup of hot cider most nights while the market packs up, and Moth pretends not to notice how many rooftop children Ladle feeds for nothing.
+
+### The empty corners
+
+Lately the draw has been getting shorter. Fewer traders are arriving from outside since the roads turned dangerous: the salt sellers, the wool carters, the spice peddlers who once came every month. Some corners now go empty for nights at a time, and Moth has started counting the names in the hat before each draw, which never used to be necessary. The Night Market feeds a good part of the city through the winter, and Moth is worried about what happens if the outside carts stop altogether. Moth has even wondered, privately, whether to break the old rule and promise the best corners to any outside trader brave enough to come. Moth has not done it yet, and is not sure the hat would forgive it.
+
+A quest might escort a trader's cart safely to the gate before winter, find out why a regular peddler has stopped coming, or recover the old hat when it vanishes on the night of the draw.
 
 ## Relationships
 

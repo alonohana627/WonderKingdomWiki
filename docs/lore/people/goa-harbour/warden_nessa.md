@@ -15,9 +15,35 @@
 
 Sharp-tongued, funny and fiercely competitive; she argues every point at the Wardens' table and then buys the first round.
 
-## Story
+## Lore
 
-Nessa was the other name spoken when the wardens chose their First Warden, and she backed Iska herself in the end. She wants the wardens to train more young pilots before the rougher seas of recent years catch them short-handed.
+Nessa is forty-two and a sea warden of Goa Harbour, one of the pilots who guide every ship through the inlet and who sit together at the long table in the Wardens' House to decide the town's business. She is sharp-tongued, funny and fiercely competitive. She argues every point at the Wardens' table, whether she agrees with it or not, to make sure it can survive an argument, and then she goes down to the Gap Inn and buys the first round for everyone she argued with.
+
+### Varro's other pupil
+
+Nessa grew up in the Fishers' Coves and was rowing a boat before she could swim. She came to the Inlet Quay at ten, determined to be a pilot, and Varro, the eldest of the wardens, took her on. She argued with every lesson he gave her, and then did exactly what he said. He was the only teacher she ever had who did not mind, and she has never forgotten it. She became a full warden at twenty-two, twenty years ago, and has piloted the gap ever since.
+
+Iska, a year younger, had already been learning from Varro for two years when Nessa arrived, and from the start the two girls were rivals: for Varro's attention, for the hardest ships, for the fastest crossings. They are friends now, and have been for most of their lives, but the rivalry never quite went away, and neither of them wants it to.
+
+### The choosing
+
+Seven years ago, when the wardens met to choose a new First Warden, two names were spoken: Iska's and Nessa's. Nessa wanted it. She knew she would be good at it, and she knew her friends were counting the voices around the table and finding them close. Then, before it came to a count, Nessa stood up and spoke for Iska herself. She has never fully explained why, and she makes a joke of it whenever anyone asks: that she wanted to keep her evenings free, or that she could not bear to stop arguing at the table and start chairing it. Varro made sure she knew afterward that he had thought it a near thing. She has told no one that this mattered to her more than the post would have.
+
+She is Iska's friendliest rival and her most honest critic. She argues with the First Warden at the table more fiercely than anyone, and defends her outside it more fiercely still.
+
+### Young pilots
+
+Nessa's great cause is the young pilots. The seas around Goa Harbour have grown rougher in recent years, the old wardens are retiring, and there are not enough apprentices on the pilot boats to replace them. She says so at nearly every meeting of the wardens, loudly enough that the children who sleep on the benches by the wall have heard her. She trained Kor herself, from his first year on the pilot boats until he took his first ship through alone, and she is proud of him and worried for him in equal measure, because he is the best young pilot she has seen in years and the most reckless. She wants a dozen more like him, only more careful.
+
+Iska agrees with her and has not yet found the time to act. Nessa has decided to stop waiting. She has begun taking quay children out in the pilot boats at slack water, one at a time, without asking the table first.
+
+### What she fears
+
+Nessa fears that the gap is getting harder to read, and that one rough season the wardens will be one pilot short on the wrong day. She does not fear losing an argument. She fears winning one too late.
+
+### Hooks
+
+A quest might help Nessa find and test new young pilots on the quay, carry her case to Iska in a way the First Warden cannot put off, or row with her through the gap on a rough day to prove a point she has been arguing for a year.
 
 ## Relationships
 

@@ -1,0 +1,27 @@
+Kenna is nineteen and the newest of the hunters of the wild coast, the small band led by Torva that keeps the monsters of the forest and the shore away from Goa Harbour's paths. She is restless, proud and quick to anger, and she is fiercely loyal to her friends; she will fight anyone who says a word against them, and quite often does. She wants, more than anything, to bring down a creature big enough to be talked about at the Gap Inn, and so far she has not.
+
+### The Forest Shore
+
+Kenna grew up on the Forest Shore among the timber crew families, in a house so close to the trees that the branches scraped the roof in a high wind. Her parents towed the log rafts round the point to the Inlet Quay, and when she was sixteen they went along the coast for steadier work at a timber camp far from Goa Harbour. Kenna refused to go. She lodged with a crew family, mended nets for her keep, and spent every spare hour watching Torva's hunters go out and come back. She was at the edge of the trees so often that the hunters stopped noticing her, which is exactly what she wanted.
+
+Last autumn Torva finally took her on. Kenna had expected to be tested with a monster. Instead Torva had her sit at the forest edge for three days straight and tell her afterward everything that had moved. Kenna still has not decided whether this was a lesson or a punishment.
+
+### Torva
+
+Kenna would follow Torva anywhere, and she says so often, which Torva ignores. What Kenna does not see is how much of herself Torva sees in her: the same temper, the same hunger to be talked about, the same stubborn refusal to be told. Torva keeps her on the safest paths and the dullest watches, and Kenna resents every one of them. Each morning Kenna reads Bethoc's sighting board at the Gap Inn after Torva has read it, and complains loudly that nothing on it is big enough. Bethoc tells her to be careful what she wishes for. Kenna is not.
+
+She is fond of Fionn, the stair runner, though she would never admit it. She grumbles to the other hunters every time he creeps after them to the last stump, and she has quietly started pressing clear prints into the mud there and naming them aloud when she knows he is listening, so that he learns to read them without ever knowing he has been seen.
+
+### Merrin and the race
+
+Kenna's rival is Merrin, the youngest of Haldor's timber cutters, and it has been that way since they were nine. That summer, ten years ago, the two girls raced at low tide along the Forest Shore, from the raft landing out to the end of the point and back. Kenna was ahead at the turn. Merrin came back over the weed-covered rocks instead of the sand, and won by a stride, while Kenna slipped trying to follow her and skinned both knees. Kenna has said ever since that going over the rocks was cheating. Merrin has said ever since that nobody told her she could not. Nobody had agreed any rules at all, which only makes it worse.
+
+They have been competing ever since, at everything: who can climb the tallest stump, who gets more work, who is talked about more at the Gap Inn. Kenna knows Merrin keeps a tally of who has felled the most trees. She suspects, correctly, that the race is the first line in it.
+
+### What she wants and fears
+
+Kenna wants a kill big enough to be chalked on Bethoc's board with her name beside it, and she wants Merrin to see it. She fears being ordinary, and she fears, though she would never say it, that she will freeze the first time she meets something truly big. Torva has told her that everyone does. Kenna did not believe her.
+
+### Hooks
+
+A quest might find Kenna gone into the deep forest alone, after whatever has been springing Caddoc's traps, and need to bring her back before Torva notices. Another might force Kenna and Merrin to work together on a cutting party, and see which of them breaks first.

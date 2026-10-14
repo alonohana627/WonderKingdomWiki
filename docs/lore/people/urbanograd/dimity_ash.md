@@ -15,9 +15,31 @@
 
 Precise, ink-stained and secretly delighted by every argument. She writes down the jokes as carefully as the decisions.
 
-## Story
+## Lore
 
-Dimity has kept the Table's record for twelve years, and her shelves hold every heckle and every vote. She is quietly worried that the oldest record books, from the first winters, are crumbling and nobody has copied them.
+Dimity Ash sits at a small sloping desk beside the Caller's chair in the Great Hall, and she writes down everything. Every motion, every vote, every speech, every heckle, every joke. Especially the jokes. She is forty, precise and permanently ink-stained, with a pen behind each ear and a third in her hand, and the whole city calls her Inkpot because she once knocked one over onto a visiting guild master from Selsior and recorded the moment in the minutes, word for word. She looks severe. She is, in fact, secretly delighted by every argument the Table has ever had.
+
+### The record
+
+Dimity has kept the Table's record for twelve years. The Open Table has no lord and no chieftain, only a Caller chosen each year and whoever turns up with something to say, so the record is the closest thing the city has to a memory. If someone claims the Table agreed to something nine years ago, it is Dimity who goes to the shelves and finds out whether it did. Rook, this year's Caller, leans on her constantly, and Dimity is fond of Rook, who listens properly and never asks her to leave the rude bits out.
+
+Her rule is simple: the record keeps what was said, not what people wish they had said. So the jokes go in as carefully as the decisions. Bastian Krell has filled more pages than anyone alive, and she has a private tally of the times he has changed his mind mid-speech. Tonight's quarrel over the covered bridge and Rivet's lift will be written up by dawn in her small, square hand, heckles and all.
+
+### How she came to the desk
+
+Dimity was born in Urbanograd, the daughter of a sign-painter and a printer's devil, both dead now, and grew up reading anything with letters on it, including the backs of other people's posters. At twenty she began copying out speeches for the old scribe, Mortimer Reed, whose eyesight was failing, and found she loved the Table more as a record than as a crowd. When Mortimer died twelve years ago, the Table did not argue about who should take the desk, which Dimity still considers the only unanimous decision in its history. She wrote that down too.
+
+### The crumbling books
+
+Her shelves hold every heckle and every vote since the city's early years. But the record books begin only after the first winter. Of the first winter itself there is nothing, and nobody knows why. The oldest books that do survive, from the city's first winters after that, were written on whatever the Walkers could find: scavenged paper, cheap ink, old ledgers turned upside down. They are crumbling. Pages come away at the spine, and ink has faded to brown ghosts, and nobody has ever copied them out.
+
+Dimity is quietly worried about it, more than she lets on. She has started copying the oldest volume herself, a page or two after each session, but it is slow work, and the Table keeps producing new arguments faster than she can save the old ones. Ozzie Lantry, the historian, is her fellow keeper of records, and the two of them fret over those books together. He wants the first winter; she wants to save what is left of the ones after it. They have agreed that if either finds anything in an old attic, the other hears first.
+
+### What she wants and fears
+
+Dimity wants the oldest books copied before they turn to dust, and a scribe's apprentice with a neat hand and a sense of humor. She fears opening a volume one day and finding a page gone, and with it a joke nobody alive remembers.
+
+A quest might bring her good paper and ink from outside the walls, help copy a crumbling book before it falls apart, or look into a strange gap she has noticed in one of the oldest volumes.
 
 ## Relationships
 

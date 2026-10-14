@@ -15,9 +15,33 @@
 
 Gruff, gentle-handed and slow to trust anything that grew in less than a century.
 
-## Story
+## Lore
 
-Oriel tends the oldest living-tree homes around the Heart Tree, some of which the first Magicians coaxed from the trunks. Lately a few of the oldest homes have been slow to wake in spring, and he wants to know why before anyone else notices.
+Oriel is the Master Treewright of Fairy Forest, and he tends the oldest living-tree homes around the Heart Tree: the rooms and stairways and sleeping-hollows that the first Magicians coaxed from the trunks long before the Age of Division ended, and that families still live in today. He is seventy-six, gruff, gentle-handed and slow to trust anything that grew in less than a century. That includes most people. It does not include trees.
+
+### Hands and bark
+
+Oriel was apprenticed young to old Master Brannoc, who held the forest's oldest homes before him and who died many years ago. Aspen came to Brannoc four years later, a talkative boy who could not keep still, and Oriel decided on the first day that he did not like him. They have been friends for more than half a century. Aspen talks; Oriel grunts; neither of them has ever found anyone else who understood the work so well. Aspen retired six years ago when his hands grew stiff, and Oriel has not forgiven him for it, because he now has nobody his own age to complain to about the young.
+
+Oriel's work is slow and almost silent. He spends his days walking the old homes, laying a hand on the bark, listening to the wood, coaxing a split to close or a new room to open over a season or a year. He has never cut a living branch in his life and says he never will. He never married. The trees, he says, are company enough, and they do not ask him how he is feeling.
+
+### Linnet
+
+When Aspen retired, the living homes along the Lantern Paths needed a keeper, and Oriel took on Linnet as his apprentice to keep them. She is patient, practical and a little too serious for her age, and she talks to the trees she tends as if they were old neighbours, which Oriel pretends to find foolish and privately thinks is exactly right. She hopes one day to grow a home from a seedling herself. Oriel has told her she is not ready. He has not told her that he thinks she will be, sooner than he would like.
+
+He knows about Faelan, the clumsy lantern apprentice who hums while he works and comes calling for Linnet far too often. Oriel disapproves of him on principle and has caught himself liking the boy anyway.
+
+### Niv
+
+Niv, one of the Children of the Tree, lives in a tree home Oriel tended, and visits him almost every day. Halcy brought Niv to him not long after Niv came down from the Tree, and Oriel, who distrusts most new things, found that he did not distrust Niv at all. Niv is shy and gentle and easily overwhelmed, and Oriel's silence suits Niv better than anyone's conversation. They sit together in the old homes while he works, and Niv sometimes stays beside him for a whole morning, listening to the wood as he does. Oriel has seen Niv standing at the edge of the glade looking toward the World Tree, and has never asked why. He thinks a person is entitled to their own silence.
+
+### The homes that will not wake
+
+Lately a few of the oldest homes around the Heart Tree have been slow to wake in spring. Their buds come late, their sap runs thin, and the rooms feel colder than they should. It is only a handful, and only the very oldest, the ones the first Magicians shaped. Nobody else has noticed yet. Oriel wants to know why before anyone does.
+
+He has thought of disease, of drought, of old age. None of them fits. He has thought, late at night, of the forest's roots, which are said to reach all the way to the World Tree's, and of what else lies under the World Tree. He has put that thought away each time, and each time it comes back.
+
+A quest might ask a traveller to fetch soil or water from a distant root, to help Oriel quietly examine a sleeping home without alarming the family inside, or to keep Aspen from noticing, since Aspen would tell everyone by supper.
 
 ## Relationships
 

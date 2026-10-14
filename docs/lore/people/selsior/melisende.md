@@ -15,9 +15,33 @@
 
 Polished, patient and fluent in every town's manners. She never raises her voice and never loses an argument.
 
-## Story
+## Lore
 
-Melisende hosts the envoys every town keeps at the palace, and she knows which ones want highland tea, which want sea salt on their bread and which want the windows open. She advises the queen whenever two towns quarrel over trade.
+Melisende is fifty-one, Mistress of the Envoys' Hall, and she has never been seen to hurry, raise her voice or lose an argument. She hosts the envoys that every town keeps at the palace, and she knows each of them better than their own households do: who takes highland tea and who takes it with honey, who wants sea salt on the bread, who wants the windows open in winter and who wants them shut in summer, and who will say yes to anything after a good supper and no to everything before one.
+
+### Raised among the envoys
+
+She was born in Selsior, in one of the old envoys' houses near the plaza, where her father kept the household of an envoy and her mother kept its books. Both are dead now. As a girl she carried trays through rooms where the four peoples' manners met and collided, and she learned early that what looks like rudeness in one town is courtesy in another. A highlander who sits down without being asked is paying you a compliment. A harbour captain who interrupts you is agreeing with you. A Fairy Forest visitor who says nothing for a long time is not bored but thinking. Melisende learned all of it, the way other children learn songs, and she has added Urbanograd's habits since, which she admits took longer.
+
+She came into palace service at twenty, in the old king's reign, as a junior clerk of the Envoys' Hall, and she rose the way water rises, quietly and everywhere at once. Queen Aveline made her Mistress of the Hall fourteen years ago, two years into the reign. Melisende has never married. She says the Hall has guests enough for any family.
+
+### The Hall
+
+The Envoys' Hall is a long wing of the palace with a dining room, a garden court and a set of rooms for every town, each furnished the way that town likes it. Melisende runs it like a household and like a negotiation, which she says are the same thing. She seats envoys at supper so that the right people quarrel early and the wrong people never meet before noon. She knows which disputes are really about trade and which are about someone's grandmother. When two towns fall out over trade, the queen sends for her, and Melisende tells her, in a few calm sentences, what each side actually wants, which is very rarely what it says.
+
+Aveline listens to everyone to the end and then decides in one sentence. Melisende says the sentence is usually the one nobody else thought to say, and she means it as the highest compliment she has. Privately she believes the queen is the best listener she has ever served, and she would rather lose an argument than tell her so.
+
+### Petronella
+
+Her closest friend in the palace is Petronella, the Royal Scribe, who copies every royal letter and decree into the palace books. They take supper together most weeks in the garden court, after the envoys have gone in. Melisende tells Petronella which envoy said what and why; Petronella tells Melisende which words in the treaty letters mean more than they seem to, and uses a great many long ones doing it. Melisende is the only person in the palace who never corrects Petronella's vocabulary and the only one who knows about the history she is secretly writing.
+
+### What has changed
+
+The quarrels have grown smaller lately. Towns that used to argue over the price of wool now argue over who will guard the carts that carry it, and then agree to share the cost. Melisende takes it as a sign of how much the kingdom holds together, and also as a sign of what it is holding together against. What worries her is the empty chairs: envoys who are late back from their home towns because the roads are slow, and messages that arrive with the seals cracked from rough travel.
+
+What she wants is a Hall with every room full on the same night, which has not happened in some years. What she fears is the quarrel that cannot be settled over supper.
+
+A quest might begin with an envoy who should have arrived a week ago and has not, or with Melisende needing a traveller to carry a gift to another town that must arrive before the envoy who is carrying the complaint.
 
 ## Relationships
 

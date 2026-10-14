@@ -15,9 +15,39 @@
 
 Lazy, greedy and dignified. She sleeps in the sun on the fish market steps and accepts tribute from all who pass.
 
-## Story
+## Lore
 
-Barnacle belongs to nobody and to everybody. The fishmongers say she will not go near the water's edge since the Disturbance began, and that she is smarter than all of them.
+Barnacle is the harbour cat of Bain Harbour. She is a large, well-fed tabby with a white chest, one torn ear and the bearing of a duchess, and she belongs to nobody and to everybody. She is lazy, greedy and dignified. She sleeps in the sun on the fish market steps and accepts tribute from all who pass, and she has never once said thank you.
+
+### How she came
+
+Nobody knows exactly where Barnacle came from. The most common story is that about seven years ago a scrawny striped kitten walked down the gangplank of a coasting ship that had just tied up, crossed the quay without looking left or right, climbed the fish market steps and lay down in the sun as if she had booked the place. The ship sailed on the next tide without her, and nobody aboard seemed to miss her.
+
+Hesketh, the oyster seller, says he named her, on account of the way she stuck to the steps. Gwennol, the fishmonger at the next stall, says loudly that she named her and that Hesketh has never had an idea of his own in thirty years. The two of them have argued about it ever since, which is to say about as often as they argue about everything else. Barnacle answers to neither of them, and to anyone holding a fish.
+
+### Her day
+
+Barnacle's day runs on a strict schedule of her own design. At dawn she is at the Fish Market as the boats come in, sitting very straight and very still beside whichever stall is gutting first. Hesketh feeds her better than he feeds himself: the best of the scraps, an oyster now and then, and once, famously, half of his own dinner. She eats it with an air of doing him a favour. Bree, the fishmonger's daughter, slips her fish when nobody is looking, which Barnacle permits.
+
+By mid-morning she has moved to the warmest step, beside Wenna the net-mender, who gives her fish heads and calls her the only creature in the market with any sense. Barnacle sleeps there through the middle of the day, belly to the sun, while the whole market steps around her. Jowan of the Harbour Watch salutes her when he passes. She does not return it.
+
+In the evening she visits the back door of the Salt and Bread, where the kitchen sometimes has something for her and sometimes does not, and at night she goes to work. She hunts rats in the harbour warehouses, and old Hobart the warehouseman leaves a side door open a crack for her. He says she is the only member of staff who never miscounts.
+
+### The water's edge
+
+For most of her life Barnacle hunted along the tideline too. She would pick her way over the slipway at low tide after crabs and small fish left by the water, and sit at the very end of the quay watching the boats come in, with her tail hanging over the edge.
+
+Then, a little over a year ago, she stopped. One morning on the slipway she froze, stared at the water, flattened her ears and went back up the steps at a run, and she has not been closer to the sea than the top step since. She will not walk the quay. She will not go down to the slipway even when the tide leaves fish flapping on it. If a bucket of seawater is set down near her, she moves.
+
+The fishmongers have noticed. They say she has not gone near the water's edge since whatever she saw that morning, and that she is smarter than all of them. Bree finds it suspicious and has said so to everyone. Some of the older fishermen have quietly started to watch where Barnacle will and will not sit, the way their grandparents watched the gulls.
+
+### What she wants
+
+Barnacle wants sun, fish and a lap at a time of her own choosing. She fears nothing on land, including dogs, dockworkers and Captain Seraphine. What she fears in the water, she cannot say.
+
+### Hooks
+
+A quest could follow Barnacle on her night rounds through the warehouses, find out what she saw on the slipway the morning she stopped going down, or settle once and for all whether Hesketh or Gwennol gave her her name.
 
 ## Relationships
 

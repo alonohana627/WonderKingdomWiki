@@ -15,9 +15,31 @@
 
 Dry, patient and quick to laugh, with a voice that can cut through a shouting hall without ever sounding angry. Rook hates making speeches and loves listening to them.
 
-## Story
+## Lore
 
-The Open Table chose Rook as this year's Caller, which means convening the Table, keeping order and making sure the quiet ones get a turn; it does not mean ruling anyone, and Rook reminds people of that often. Rook keeps up a long, warm exchange of letters with the capital and reads the funniest parts aloud at the Table.
+Rook Tallow makes candles. That is the first thing Rook tells anyone who calls Rook the leader of Urbanograd, and it is meant as a correction. Rook is forty-one, a chandler with a narrow workshop on Workshops Row that smells of beeswax and lamp oil, and this year the Open Table chose Rook as its Caller. Being Caller means convening the Table, keeping order and making sure the quiet ones get a turn. It does not mean ruling anyone, and Rook reminds people of that often, usually just after someone has asked Rook to rule on something.
+
+### A Walker's great-grandchild
+
+Rook was born in Urbanograd and has never wanted to live anywhere else. Rook's great-grandmother was one of the Walkers who left Selsior a hundred years ago and patched the roofs of Old Grad, and the family has made candles and lamp wicks in the same workshop ever since. Rook grew up sitting under the benches at the Open Table, listening to arguments that ran until dawn, and found them more exciting than any play on Theatre Row.
+
+Rook is dry, patient and quick to laugh, with a voice that can cut through a shouting hall without ever sounding angry. Rook hates making speeches and loves listening to them, which is exactly why the Table chose Rook this spring; this is the first time Rook has been Caller, and Rook has said loudly that it will be the last.
+
+### The Table and its people
+
+The Great Hall is where Rook spends most evenings now. Dimity Ash, the Table's scribe, sits beside the Caller's chair and keeps the record; Rook and Dimity are colleagues in the truest sense, and Rook leans on her memory of twelve years of votes. Bastian Krell, the loudest voice at the Table, has spoken at every gathering for twenty years and is currently campaigning, at length, for a covered bridge over Lantern Square. He is Rook's favourite heckler, and Rook is his most patient listener. Quint, keeper of the Charter Scroll, is Rook's old friend and adviser, and the person Rook goes to when the Table cannot decide whether something is a matter of principle or merely of noise. Mags feeds the Table from her endless pot of stew, and Rook is grateful for every bowl. Brindle, captain of the Gate Watch, reports to the Table and is Rook's friend, and Rook has heard Brindle's request for more volunteers more times this year than any other. Rook buys tea every night from Saucer at the Night Market, and is fond enough of Nana Gristle on her bench in Lantern Square to listen happily while she scolds.
+
+### Letters to the capital
+
+Nine years ago, before Rook was anything but a chandler with opinions, Rook wrote an indignant letter to Queen Aveline about Guard patrols that stopped short of the road to Urbanograd. Rook expected no answer. Instead the queen wrote back herself, three pages, agreeing with half of it and arguing with the rest. The patrols were extended the next year, and the letters never stopped.
+
+They write roughly every fortnight and argue about nearly everything: guilds, theatre, the Great Bell, whether a kingdom needs a crown at all. Rook thinks Aveline is the only person who argues fairly, conceding a point the moment it is fairly made, and the best correspondent Rook has ever had. They have met in person only once, on Walkout Day six years ago, when the queen came to watch Juna Marrow's play standing in the crowd like anyone else. Rook found her an upturned crate to sit on and has never let her forget it. Rook reads the funniest parts of her letters aloud at the Table, with her blessing, and suspects she now writes some of them on purpose.
+
+### What Rook fears
+
+Fewer food carts reach the city each year, and the Gate Watch reports monsters closer to the walls than ever. Rook fears the day the Table has to decide something hard and fast, because the Table was never built to be fast.
+
+A quest might deliver a late letter to the capital, help the Table find volunteers for the Gate Watch, or settle Bastian's bridge once and for all.
 
 ## Relationships
 

@@ -15,9 +15,35 @@
 
 Fierce, inventive and never satisfied; she rebuilds the race boat every winter whether it needs it or not.
 
-## Story
+## Lore
 
-Tamsin builds and keeps Goa Harbour's race boat, the Gap Runner, and has sworn this is the summer it finally beats Bain Harbour. She wants timber from the deep forest, which is exactly where Haldor will not send his crews.
+Tamsin is forty, the boatwright of the Inlet Quay, and the builder and keeper of Goa Harbour's race boat, the Gap Runner. She is fierce, inventive and never satisfied. Every winter she hauls the Gap Runner up onto the slip and rebuilds some part of her, whether she needs it or not, and every spring she launches a boat she swears is faster than the last. She has sworn that this is the summer it finally beats Bain Harbour. She has sworn it before.
+
+### The yard and the old master
+
+Tamsin grew up on the Inlet Quay, the daughter of a rope-maker who died when she was small, and she spent her childhood under the hulls in the boatyard, asking how everything fitted together. Her best friend in those years was Calder, a quiet boy from the coves who would hold the other end of a plank for as long as she needed, and he is her best friend still.
+
+The yard then belonged to old Fergus, the boatwright who built Goa Harbour's previous race boat, the Grey Heron. He took Tamsin on at twelve because she would not go away, and taught her everything he knew in the gruff, sideways way of a man who did not like to be thanked. The Grey Heron carried Iska to every one of Goa Harbour's three wins as skipper. In the last of them, six summers ago, the old boat crossed the line first with her keel sprung, and she never sailed again. Fergus died that winter. Before he went, he told Tamsin the next boat was hers to build and that she was to make it better than his.
+
+### The Gap Runner
+
+Tamsin built the Gap Runner the winter after Goa's last win, and in the five summers since, she has never beaten Bain Harbour. Twice she has lost by a single length, and Tamsin can describe every one of those lost feet of water in detail, at length, to anyone who sits still. She has changed the mast, the keel, the hull's line and the set of the sails, and she does not believe the fault lies with Iska, the skipper, or with the crew. She believes it lies with the timber.
+
+The best boat timber on this coast grows in the deep forest, tall, close-grained and slow. That is exactly where Haldor, the head of the timber crews, will no longer send his cutters, because the monsters have twice driven them back this year. Tamsin and Haldor have had the same argument so many times that the quay hands can recite both sides. She thinks he is overcautious; he thinks she would trade a cutter's life for a length of keel. Neither is entirely wrong, and both know it, which makes the argument worse.
+
+### The crew and the friend
+
+Jory, who crewed the Gap Runner for the first time last summer, works in her yard whenever he is not hauling cargo, and she works him hard. He never complains. She thinks he is the best thing to happen to the boat in years and has told him so exactly once, by accident. Iska she trusts completely, as a skipper and as a friend, though she has never forgiven her for one tack in the race two summers ago.
+
+Calder brings her his drawings of the deep-water boat he wants to build one day. Tamsin tells him precisely what is wrong with each of them, and has promised to help him build it once the Gap Runner wins. She means it. She also suspects she is using the promise to make herself win.
+
+### What she fears
+
+Tamsin fears that the race will not wait for her: that the seas will grow too rough to run it, or that she will grow too old to rebuild the boat one more winter, before the Gap Runner ever crosses the line first. She fears, too, that Fergus would be disappointed.
+
+### Hooks
+
+A quest might escort a timber party into the deep forest for the one tree Tamsin wants, help her test the rebuilt Gap Runner in rough water, or carry a peace offering between her and Haldor.
 
 ## Relationships
 
