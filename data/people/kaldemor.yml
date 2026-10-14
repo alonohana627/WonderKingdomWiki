@@ -114,6 +114,7 @@ npcs:
     name: Old Marta
     title: Grocer
     role: merchant
+    menu: true
     place: Kaldemor Market
     age: elder
     game: marta
@@ -125,6 +126,7 @@ npcs:
     name: Hilda
     title: Storage Keeper
     role: service
+    menu: true
     place: Kaldemor Market
     age: adult
     game: hilda
@@ -273,6 +275,7 @@ npcs:
     name: Hattie
     title: Beekeeper
     role: merchant
+    menu: true
     place: Farms
     age: adult
     sells: Honey, beeswax and candles

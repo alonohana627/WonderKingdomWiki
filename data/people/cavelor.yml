@@ -58,6 +58,7 @@ npcs:
     name: Corvan
     title: Keeper of the Stores
     role: merchant
+    menu: true
     place: Upper Stair
     age: adult
     sells: Dried mushrooms, root-fruit, lamp oil and lantern glass

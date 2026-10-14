@@ -142,6 +142,7 @@ npcs:
     name: Brodie
     title: Fishmonger
     role: merchant
+    menu: true
     place: Lantern Market
     age: adult
     sells: Fresh fish, smoked fish and salted fish for the road
@@ -181,6 +182,7 @@ npcs:
     name: Greer
     title: Fur Trader
     role: merchant
+    menu: true
     place: Lantern Market
     age: adult
     sells: Furs, pelts, fur-lined cloaks and hoods
@@ -191,6 +193,7 @@ npcs:
     name: Morag
     title: Wool Trader
     role: merchant
+    menu: true
     place: Lantern Market
     age: elder
     sells: Highland wool, knitted jumpers, blankets and sea-mittens
@@ -238,6 +241,7 @@ npcs:
     name: Gwenna
     title: Outfitter
     role: merchant
+    menu: true
     place: Lantern Market
     age: adult
     sells: Rope, grappling hooks, torches, waxed cloaks and travel food

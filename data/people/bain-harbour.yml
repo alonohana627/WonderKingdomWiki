@@ -177,6 +177,7 @@ npcs:
     name: Bryony
     title: Baker of Merchant Street
     role: merchant
+    menu: true
     place: Merchant Street
     age: adult
     sells: Bread, salt rolls and sailors' hard biscuits
@@ -233,6 +234,7 @@ npcs:
     name: Gwennol
     title: Fishmonger
     role: merchant
+    menu: true
     place: Fish Market
     age: adult
     sells: Fresh fish, smoked fish and crab
@@ -270,6 +272,7 @@ npcs:
     name: Hesketh
     title: Oyster Seller
     role: merchant
+    menu: true
     place: Fish Market
     age: elder
     sells: Oysters, cockles and mussels
@@ -280,6 +283,7 @@ npcs:
     name: Merriwether
     title: Ship's Chandler
     role: merchant
+    menu: true
     place: Waterfront
     age: adult
     sells: Rope, tar, lanterns, hooks and ship's stores
@@ -290,6 +294,7 @@ npcs:
     name: Cordelia
     title: Cloth Merchant
     role: merchant
+    menu: true
     place: Merchant Street
     age: adult
     sells: Woollens, oilskins and bright cloth

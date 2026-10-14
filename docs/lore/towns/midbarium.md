@@ -53,7 +53,7 @@ Hospitality is sacred in the highlands, where a traveler turned away might not s
 For all its rugged looks, Midbarium is not hostile, primitive or grim, and it holds nothing against outsiders. Today it is a peaceful, welcoming town whose people are proud of both their ancestral traditions and their place in Wonder Kingdom.
 
 !!! tip "People"
-    Everyone who lives here in the first release: [People of Midbarium](../people/midbarium.md).
+    Everyone who lives here in the first release: [People of Midbarium](../people/midbarium/index.md).
 
 !!! abstract "Design notes"
     The geography and look are inspired by MapleStory's Perion. Midbarium is rural and mountainous, ruled by the chieftains of four families and the Old One, with a dry highland and desert feel. It should draw on highland, canyon and steppe cultures, not on Middle Eastern or Arabian desert cultures. Still open: who the current chieftains and Old One are, and how a family decides between rivals when it chooses a chieftain.

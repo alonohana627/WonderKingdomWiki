@@ -109,6 +109,7 @@ npcs:
     name: Harra
     title: Wool and Cheese Seller
     role: merchant
+    menu: true
     place: Trading Post
     age: adult
     family: Tolmach
@@ -247,6 +248,7 @@ npcs:
     name: Corwell
     title: Keeper of the Trading Post
     role: merchant
+    menu: true
     place: Trading Post
     age: adult
     family: none

@@ -33,7 +33,7 @@ The forest's schools teach magic to anyone with the gift, from any town in the k
 The forest has its own friends in the wider kingdom, too. The Brenna of Midbarium have been welcome here since the days when the Savages and the Magicians were allies, and the friendship has outlasted the war that made it.
 
 !!! tip "People"
-    Everyone who lives here in the first release: [People of Fairy Forest](../people/fairy-forest.md).
+    Everyone who lives here in the first release: [People of Fairy Forest](../people/fairy-forest/index.md).
 
 !!! abstract "Design notes"
     The atmosphere is inspired by MapleStory's Ellinia. New with this page: magic gathering in the forest through the World Tree's roots, homes grown from living trees, and the Magicians designing the seal. The nature, appearance, abilities and origins of the Children of the Tree are still to be decided.

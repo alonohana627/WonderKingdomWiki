@@ -182,6 +182,7 @@ npcs:
     name: Dyna
     title: Tailor of Loud Clothes
     role: merchant
+    menu: true
     place: Workshops Row
     age: adult
     sells: Patchwork coats, bright scarves and stage clothes
@@ -217,6 +218,7 @@ npcs:
     name: "Hester 'Ladle' Cray"
     title: Skewer Seller
     role: merchant
+    menu: true
     place: Night Market
     age: adult
     sells: Grilled skewers, pepper buns and hot cider
@@ -226,6 +228,7 @@ npcs:
     name: Velvet
     title: Trader of Curios
     role: merchant
+    menu: true
     place: Night Market
     age: adult
     sells: Curios, trinkets and oddities from across Veligor
@@ -235,6 +238,7 @@ npcs:
     name: Crow
     title: Tonic Seller
     role: merchant
+    menu: true
     place: Night Market
     age: adult
     sells: Healing tonics, mana draughts and remedies
@@ -244,6 +248,7 @@ npcs:
     name: Nix
     title: Mask Maker
     role: merchant
+    menu: true
     place: Night Market
     age: young
     sells: Masks, face paint and Walkout Day costumes
@@ -253,6 +258,7 @@ npcs:
     name: "Wendel 'Dog-Ear' Tuck"
     title: Seller of Old Books and Banned Plays
     role: merchant
+    menu: true
     place: Night Market
     age: elder
     sells: Second-hand books, play scripts and song sheets
@@ -262,6 +268,7 @@ npcs:
     name: Glim
     title: Paper Lantern Seller
     role: merchant
+    menu: true
     place: Night Market
     age: young
     sells: Paper lanterns and candle stubs
@@ -271,6 +278,7 @@ npcs:
     name: Remy Marlo
     title: Smoked Fish Seller
     role: merchant
+    menu: true
     place: Night Market
     age: adult
     sells: Smoked fish, sea-salt crisps and pickled kelp
@@ -280,6 +288,7 @@ npcs:
     name: Saucer
     title: Tea Stall Keeper
     role: merchant
+    menu: true
     place: Night Market
     age: elder
     sells: Spiced tea, honey cakes and fortune leaves
@@ -289,6 +298,7 @@ npcs:
     name: Crumb
     title: Baker from the Farmlands
     role: merchant
+    menu: true
     place: Night Market
     age: adult
     sells: Bread, rolls and sweet buns

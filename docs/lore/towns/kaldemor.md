@@ -43,7 +43,7 @@ The people of Kaldemor value creativity, practical know-how, friendliness, coope
 Kaldemor is no poor backwater. It is a prosperous, happy town whose people love the life they have made. Where Selsior stands for the excitement and variety of the great city, Kaldemor stands for the joy of creating, growing and belonging to a close-knit community.
 
 !!! tip "People"
-    Everyone who lives here in the first release: [People of Kaldemor](../people/kaldemor.md).
+    Everyone who lives here in the first release: [People of Kaldemor](../people/kaldemor/index.md).
 
 !!! info "In the game"
     Kaldemor is in the game today. See [Kaldemor in the world guide](../../world/index.md#kaldemor) for its maps, NPCs, quests and hunting grounds.

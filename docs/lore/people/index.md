@@ -2,33 +2,33 @@
 
 # People
 
-Everyone in Wonder Kingdom's first release, town by town. Each page lists who lives there, their personality, their story and who they are close to.
+Everyone in Wonder Kingdom's first release, town by town.
 
 | Town | People |
 |---|---|
-| [Selsior](selsior.md) | 100 |
-| [Kaldemor](kaldemor.md) | 40 |
-| [Midbarium](midbarium.md) | 25 |
-| [Fairy Forest](fairy-forest.md) | 35 |
-| [Urbanograd](urbanograd.md) | 60 |
-| [Cavelor](cavelor.md) | 15 |
-| [Bain Harbour](bain-harbour.md) | 45 |
-| [Goa Harbour](goa-harbour.md) | 45 |
+| [Selsior](selsior/index.md) | 100 |
+| [Kaldemor](kaldemor/index.md) | 40 |
+| [Midbarium](midbarium/index.md) | 25 |
+| [Fairy Forest](fairy-forest/index.md) | 35 |
+| [Urbanograd](urbanograd/index.md) | 60 |
+| [Cavelor](cavelor/index.md) | 15 |
+| [Bain Harbour](bain-harbour/index.md) | 45 |
+| [Goa Harbour](goa-harbour/index.md) | 45 |
 
 ## Who leads where
 
 | Town | Leader | Title |
 |---|---|---|
-| Selsior | [Aveline](selsior.md#queen-aveline) | Queen of Wonder Kingdom |
-| Selsior | [Rhys](selsior.md#rhys) | Captain of the Royal Guard |
-| Kaldemor | [Tobin](kaldemor.md#tobin) | Mayor of Kaldemor |
-| Midbarium | [Hask](midbarium.md#old-one-hask) | The Old One |
-| Midbarium | [Dorrek](midbarium.md#dorrek-kragvar) | Chieftain of the Kragvar |
-| Midbarium | [Sennu](midbarium.md#sennu-tolmach) | Chieftain of the Tolmach |
-| Midbarium | [Tavi](midbarium.md#tavi-uskari) | Chieftain of the Uskari |
-| Midbarium | [Odda](midbarium.md#odda-brenna) | Chieftain of the Brenna |
-| Fairy Forest | [Calyra](fairy-forest.md#eldest-calyra) | Eldest of the Grove |
-| Urbanograd | [Rook](urbanograd.md#rook-tallow) | Caller of the Open Table |
-| Cavelor | [Marrun](cavelor.md#keeper-marrun) | Keeper of the Oath |
-| Bain Harbour | [Quenna](bain-harbour.md#harbour-master-quenna) | Harbour Master |
-| Goa Harbour | [Iska](goa-harbour.md#first-warden-iska) | First Warden |
+| Selsior | [Aveline](selsior/queen_aveline.md) | Queen of Wonder Kingdom |
+| Selsior | [Rhys](selsior/rhys.md) | Captain of the Royal Guard |
+| Kaldemor | [Tobin](kaldemor/tobin.md) | Mayor of Kaldemor |
+| Midbarium | [Hask](midbarium/old_one_hask.md) | The Old One |
+| Midbarium | [Dorrek](midbarium/dorrek_kragvar.md) | Chieftain of the Kragvar |
+| Midbarium | [Sennu](midbarium/sennu_tolmach.md) | Chieftain of the Tolmach |
+| Midbarium | [Tavi](midbarium/tavi_uskari.md) | Chieftain of the Uskari |
+| Midbarium | [Odda](midbarium/odda_brenna.md) | Chieftain of the Brenna |
+| Fairy Forest | [Calyra](fairy-forest/eldest_calyra.md) | Eldest of the Grove |
+| Urbanograd | [Rook](urbanograd/rook_tallow.md) | Caller of the Open Table |
+| Cavelor | [Marrun](cavelor/keeper_marrun.md) | Keeper of the Oath |
+| Bain Harbour | [Quenna](bain-harbour/harbour_master_quenna.md) | Harbour Master |
+| Goa Harbour | [Iska](goa-harbour/first_warden_iska.md) | First Warden |

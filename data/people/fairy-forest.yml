@@ -87,6 +87,7 @@ npcs:
     name: Galen
     title: Staff and Wand Seller
     role: merchant
+    menu: true
     place: Grove School
     age: adult
     sells: Staves, wands, spell scrolls and practice robes
@@ -134,6 +135,7 @@ npcs:
     name: Celandine
     title: Herbalist
     role: merchant
+    menu: true
     place: Herb Gardens
     age: adult
     sells: Healing salves, herb teas and potions
@@ -181,6 +183,7 @@ npcs:
     name: Vesper
     title: Lantern Seller
     role: merchant
+    menu: true
     place: Lantern Paths
     age: adult
     sells: Lanterns, glow-oil and travelling lights

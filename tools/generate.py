@@ -1204,7 +1204,10 @@ class Wiki:
         lines += [f"      - {p}" for p in lore_order() if "/" not in p.removeprefix("lore/")]
         for folder in sorted(d for d in (DOCS / "lore").iterdir() if d.is_dir()):
             lines.append(f"      - {folder.name.replace('-', ' ').title()}:")
-            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")]
+            # Pages directly in the folder, and the index of each subfolder (a town's people);
+            # the rest are reached through those indexes, not the navigation.
+            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")
+                      and (p.count("/") == 2 or (p.count("/") == 3 and p.endswith("/index.md")))]
         for section in order:
             pages = self.nav[section]
             if isinstance(pages, str):
