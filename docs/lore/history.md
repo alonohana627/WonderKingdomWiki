@@ -2,137 +2,61 @@
 
 ## The Age of Division
 
-Long before Wonder Kingdom existed, Veligor was inhabited by four major peoples.
-
-Each developed its own culture, traditions, values, and understanding of how society should function.
+Long before Wonder Kingdom, four peoples shared Veligor, and each had its own idea of how life ought to be lived.
 
 ### The Savages
 
-The Savages inhabited the rugged wilderness and mountainous regions of Veligor.
-
-They valued physical strength, resilience, personal independence, ancestral traditions, and their connection to the natural world.
-
-Their communities developed around survival, cooperation, and respect for those who demonstrated courage and perseverance.
-
-They resisted attempts by outside authorities to control their territories or impose unfamiliar social structures.
+The Savages held the rugged wilds and the mountains. They prized strength, endurance and independence, honored their ancestors, and lived close to the land. Their communities were built around survival and cooperation, and respect went to whoever showed courage and perseverance. They fought off every outside authority that tried to rule their territory or press strange customs on them.
 
 ### The Magicians
 
-The Magicians dedicated themselves to understanding the supernatural forces of Veligor.
-
-They were particularly interested in the World Tree, ancient magical environments, and the relationship between magic and nature.
-
-Their societies valued knowledge, magical ability, preservation, and the study of forces that ordinary people did not fully understand.
-
-They opposed attempts to exploit or control locations they considered magically significant.
+The Magicians gave their lives to understanding the supernatural forces of Veligor, above all the World Tree, the old places where magic ran deep, and the bond between magic and nature. They valued knowledge, magical skill and preservation, and they stood against anyone who tried to exploit or seize the places they held sacred.
 
 ### The Commons
 
-The Commons consisted primarily of farmers, merchants, craftsmen, settlers, and other ordinary inhabitants of Veligor.
-
-Their communities emphasized cooperation, practical skills, agriculture, commerce, stability, and prosperity.
-
-They established villages, farms, workshops, trade routes, and settlements that supported everyday life.
-
-They sought greater security and stability across the island.
+The Commons were the farmers, merchants, craftsmen and settlers who kept ordinary life running. They built villages, farms, workshops and trade routes, and they valued cooperation, practical skill, honest work and prosperity. What they wanted most was safety and stability across the island.
 
 ### The Aristocrats
 
-The Aristocrats established fortified settlements, political institutions, systems of law, and organized leadership structures.
-
-They valued governance, order, administration, and the development of large, structured communities.
-
-They believed that centralized organization could create a more stable and prosperous Veligor.
+The Aristocrats raised fortified settlements, wrote laws and built the first real institutions of government. They believed that order, administration and strong central leadership were the way to a stable and prosperous Veligor.
 
 ### The Ancient Conflict
 
-For generations, the peoples of Veligor were divided into two broad alliances:
+For generations the island was split into two loose alliances: **the Savages and the Magicians** on one side, **the Commons and the Aristocrats** on the other.
 
-- The Savages and Magicians.
-- The Commons and Aristocrats.
+They fought over land, over who had the right to rule, over whose traditions should prevail, and over access to the island's most important natural and magical places. The quarrels hardened into long wars. Each side had real strengths, but neither could win a lasting peace, and Veligor never became one civilization.
 
-Their disagreements involved territory, political authority, cultural traditions, and access to important natural and magical locations.
+It took a far greater threat to end it.
 
-These conflicts escalated into prolonged struggles that prevented Veligor from becoming a united civilization.
+## The Balrog War
 
-Although each group possessed its own strengths, none could establish lasting peace.
+The ancient conflict was cut short by the arrival of **the Balrog**, a being of immense power and destruction.
 
-The conflict continued until the appearance of a threat greater than anything the island had previously encountered.
+It threatened every people on the island at once. Settlements burned, armies were broken, and even the mightiest warriors and magicians could barely stand against it. For the first time, all four peoples faced an enemy none of them could beat alone, and next to that danger their old grievances suddenly seemed very small.
 
-## The Coming of the Balrog
+So they united, and each gave what it did best:
 
-The ancient conflict between Veligor's peoples was interrupted by the appearance of **the Balrog**, an immensely powerful and destructive being.
+- **The Savages** sent their strongest warriors, whose courage and strength carried the fight to the Balrog itself.
+- **The Magicians** brought their knowledge of ancient magic, which in the end made it possible to imprison the creature.
+- **The Commons** gathered supplies, forged equipment and kept the united armies fed and moving.
+- **The Aristocrats** supplied military organization and leadership, and coordinated the four forces as one.
 
-The Balrog threatened every civilization on the island.
+Together they defeated the Balrog. But it could not be destroyed. Instead, the alliance wove a great magical seal and bound the creature deep within the roots of the World Tree at the heart of Veligor.
 
-Settlements were devastated, armies were destroyed, and even the most powerful warriors and magicians struggled to resist it.
-
-For the first time, the four peoples faced an enemy that none could defeat independently.
-
-Their old disagreements became insignificant compared with the danger threatening their collective survival.
-
-Recognizing this, the four peoples agreed to unite their forces.
-
-Each contributed essential abilities and resources.
-
-**The Savages** provided their strongest warriors, whose courage and physical prowess proved invaluable in confronting the Balrog directly.
-
-**The Magicians** provided their knowledge of ancient magic and supernatural forces, ultimately making the Balrog's imprisonment possible.
-
-**The Commons** organized supplies, built equipment, maintained logistical networks, and supported the united armies.
-
-**The Aristocrats** contributed military organization, leadership, administration, and coordination between the different forces.
-
-Together, the four peoples fought the Balrog.
-
-Their cooperation ultimately allowed them to defeat the creature.
-
-However, the Balrog could not be permanently destroyed.
-
-Instead, the united forces developed a powerful magical seal capable of imprisoning it beneath the enormous World Tree at the center of Veligor.
-
-The Balrog was sealed deep within the tree's ancient roots.
-
-This victory marked the end of the ancient conflict and the beginning of a new era.
+That victory ended the Age of Division.
 
 ## The Founding of Wonder Kingdom
 
-Following the defeat and imprisonment of the Balrog, the leaders of the four peoples gathered to establish a lasting peace.
+After the Balrog was sealed away, the leaders of the four peoples met to make the peace last. They signed a treaty that formally ended their old wars and joined them into a single realm: **Wonder Kingdom**.
 
-They signed a historic treaty that formally ended their old conflicts and established a united kingdom.
+The founding treaty declared that every people of Veligor could live together in peace, whatever their ancestry, culture, station or magical gifts. The kingdom was built on the same cooperation that had won the war.
 
-This kingdom became known as **Wonder Kingdom**.
-
-The founding treaty established the principle that all peoples of Veligor could coexist peacefully, regardless of their ancestry, cultural background, social position, or magical abilities.
-
-The kingdom was founded upon the cooperation that had made victory against the Balrog possible.
-
-Over the following generations, the four peoples gradually developed a shared identity.
-
-Their original cultures were not erased. Instead, they continued evolving within the new kingdom.
-
-Communities traded with one another, established relationships, exchanged knowledge, and participated in the development of a common civilization.
-
-The ancient hostilities gradually disappeared.
-
-Eventually, Wonder Kingdom became a genuinely peaceful and prosperous society.
-
-Its inhabitants no longer regarded other communities as historical enemies.
-
-The unity created by the founding treaty became a natural part of everyday life.
+Over the generations that followed, the four peoples grew a shared identity without giving up their own. Their cultures kept living and changing inside the new kingdom. Towns traded, friendships crossed the old lines, and knowledge passed freely from one community to the next. The old hostilities faded until nobody thought of their neighbors as ancestral enemies anymore. The unity the treaty had promised simply became the way people lived.
 
 ### The Meaning of Unity
 
-Wonder Kingdom is not a civilization held together by fear, coercion, or temporary political compromise.
+Wonder Kingdom is not held together by fear, force or a fragile political bargain. Its unity is real.
 
-Its unity is genuine.
+Its people understand and value one another across their differences. Each town keeps its own customs and way of life, and those differences are a source of pride rather than friction. Everyone is proud of the shared history and of the civilization their ancestors built. The old wars are remembered as history, but they no longer shape how communities treat each other.
 
-Its people understand and appreciate one another despite their cultural differences.
-
-Different towns maintain their own traditions and lifestyles, but these differences do not create widespread hostility.
-
-The kingdom's inhabitants are proud of their shared history and the civilization their ancestors established.
-
-The old conflicts remain part of historical knowledge, but they no longer define relationships between communities.
-
-This applies to every settlement on Veligor, including Urbanograd, whose unconventional culture is accepted throughout the kingdom.
+That holds for every settlement on Veligor, including [Urbanograd](towns/urbanograd.md), whose unconventional culture is accepted across the kingdom.

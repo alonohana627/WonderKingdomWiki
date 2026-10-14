@@ -1,41 +1,19 @@
-# Cavelor — The Underground City of Guardians
+# Cavelor
 
-Cavelor is a small, ancient underground city located deep beneath the World Tree.
+*The Underground City of Guardians*
 
-It was established following the original battle against the Balrog.
-
-After the creature was imprisoned, some of the strongest warriors and guardians of that era remained beneath the tree to protect the magical seal.
-
-These individuals became the founders of Cavelor.
+Cavelor is a small and very old city hidden deep beneath the [World Tree](../world-tree.md). It was founded right after the first war against the Balrog, when some of the greatest warriors and guardians of that age chose to stay below and keep watch over the seal.
 
 ## Origins
 
-The original guardians understood that defeating the Balrog did not eliminate the threat permanently.
-
-They chose to remain near its prison, maintaining vigilance over the ancient seal.
-
-Over generations, their descendants established a permanent underground society.
-
-They developed homes, infrastructure, traditions, and institutions suited to life beneath Veligor.
+The first guardians knew that beating the Balrog had not ended the danger for good. So they stayed beside its prison and kept watch. Over the generations their descendants turned that vigil into a home, with houses, halls, roads, traditions and institutions made for life beneath Veligor.
 
 ## Cultural Identity
 
-Cavelor's cultural identity centers on responsibility, vigilance, discipline, endurance, and the preservation of historical knowledge.
+Cavelor's people live by responsibility, vigilance, discipline and endurance. They keep the traditions of the first guardians and guard the records of the Balrog, the ancient battle and the magic that holds the prison shut.
 
-Its inhabitants maintain traditions inherited from the original guardians.
-
-They preserve records and knowledge concerning the Balrog, the ancient battle, and the magical protections surrounding its prison.
-
-Despite its serious historical responsibility, Cavelor is not an inherently unhappy or oppressive settlement.
-
-Its inhabitants have developed their own functioning community and way of life.
+Their duty is a solemn one, but Cavelor is not a gloomy or oppressive place. Its people have built a real community with a life of its own.
 
 ## Rediscovery
 
-For generations, Cavelor remained largely isolated from the rest of Wonder Kingdom.
-
-Fifty years ago, the Great World Tree Expedition reached its underground chambers and established contact with its inhabitants.
-
-This rediscovery reconnected Cavelor with the surface civilization.
-
-The settlement remains culturally distinctive while belonging to the same united kingdom.
+For generations, Cavelor had almost no contact with the rest of the kingdom. Then, fifty years ago, the [Great World Tree Expedition](../expedition.md) reached its halls and met its people, reconnecting the hidden city with the world above. Cavelor is still very much its own place, but it is part of the same united kingdom.

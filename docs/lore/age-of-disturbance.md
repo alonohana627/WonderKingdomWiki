@@ -1,53 +1,24 @@
 # The Age of Disturbance
 
-The fifty years following the expedition are provisionally known as **the Age of Disturbance**.
+The fifty years since the expedition are known as **the Age of Disturbance**. Through the damaged seal, the Balrog's influence has been creeping out of its prison and across Veligor, and its effects grow harder to ignore every year. Above all, the island's wilderness has become far more dangerous.
 
-During this period, the Balrog's influence began spreading beyond its prison through the damaged magical seal.
+## Wild Creatures Turn Aggressive
 
-The effects became increasingly noticeable throughout Veligor.
+Creatures that once kept away from travelers, or simply went about their lives, began attacking anyone who wandered into their territory. Monsters became common in the forests, plains, mountains and caves.
 
-The most significant consequence was the transformation of the island's wilderness into a considerably more dangerous environment.
-
-## The Growing Aggression of Wildlife
-
-Wild creatures became increasingly aggressive.
-
-Animals and other creatures that previously avoided travelers or behaved relatively peacefully began attacking people who entered their territories.
-
-Monsters became common throughout forests, plains, mountains, caves, and other wilderness regions.
-
-The exact effects varied by location.
-
-Some areas experienced relatively minor disturbances, while others became home to extremely dangerous creatures.
-
-The kingdom's inhabited settlements remained peaceful, but journeys through the surrounding wilderness became more hazardous.
+It is not the same everywhere. Some places have seen only small changes, while others have become home to truly dangerous creatures. The towns themselves are still peaceful, but every road between them has grown riskier.
 
 ## The Nature of Monsters
 
-The monsters encountered throughout the game are connected to the weakening Balrog seal.
+The monsters roaming Veligor are tied to the weakening seal. The spread of the Balrog's influence is why such a peaceful land is now full of hostile creatures.
 
-The spread of the Balrog's influence explains why Veligor contains so many aggressive creatures despite the peaceful nature of its civilization.
+That does not mean the Balrog commands every one of them. Some are ordinary animals whose nature it has twisted. Others are magical beings changed by a changing land.
 
-However, not every monster must be directly controlled by the Balrog.
+## Life Under the Disturbance
 
-Some may be ordinary creatures whose behavior has been altered by its influence.
+The growing danger in the wilds has made travel, exploration, farming and any work outside the towns harder. Yet Wonder Kingdom carries on. Its towns are still prosperous and welcoming, and its people work together against the threat.
 
-Others may be magical beings affected by the changing environment.
+The kingdom has not fallen into fear, hostility or division. The monsters are simply a new challenge, met by a civilization that was already united.
 
-The possibility of entirely new creatures appearing as a result of the disturbance remains open.
-
-The precise mechanism is not yet established.
-
-## The Effect on the Kingdom
-
-The increasing danger of the wilderness has affected travel, exploration, agriculture, and activity outside established settlements.
-
-Nevertheless, Wonder Kingdom continues to function successfully.
-
-Its settlements remain prosperous and welcoming.
-
-Its people cooperate in responding to the growing danger.
-
-The kingdom does not collapse into fear, hostility, or political division.
-
-Instead, the monster threat becomes a common challenge faced by an already united civilization.
+!!! abstract "Design notes"
+    "The Age of Disturbance" is a provisional name. Exactly how the Balrog's influence creates or changes monsters is not settled, including whether entirely new creatures can appear.

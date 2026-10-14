@@ -1,31 +1,18 @@
-# Fairy Forest — The Magical Woodland
+# Fairy Forest
 
-Fairy Forest is a magical woodland settlement surrounded by ancient trees, enchanted vegetation, supernatural creatures, and environments rich in magical energy.
+*The Magical Woodland*
 
-It is historically associated with the Magicians, one of the four founding peoples.
-
-Its general atmosphere is inspired by the magical woodland identity of MapleStory's Ellinia.
+Fairy Forest is a settlement hidden among ancient trees, where enchanted plants grow, strange creatures wander and the air hums with magic. It is the historic home of the Magicians, one of the four founding peoples.
 
 ## Environment and Culture
 
-The inhabitants of Fairy Forest maintain a close relationship with magic and nature.
-
-Magical knowledge, preservation of natural environments, and understanding supernatural phenomena are important aspects of the region's cultural identity.
-
-The settlement exists harmoniously within its forest environment.
-
-Its architecture and inhabited spaces are closely integrated with the surrounding woodland.
+The people of Fairy Forest live close to both magic and nature. Magical learning, care for the living forest and the study of supernatural wonders are at the heart of who they are. The settlement does not stand apart from the woods; its homes and gathering places are woven into the forest itself.
 
 ## The Children of the Tree
 
-Fifty years ago, explorers discovered a mysterious group of magical beings living inside the upper regions of the World Tree.
+Fifty years ago, the [Great World Tree Expedition](../expedition.md) found a mysterious people of magical beings living high in the upper reaches of the World Tree. They came to be known as **the Children of the Tree**.
 
-These beings became known as the **Children of the Tree**.
+After that first meeting, the Children slowly came down from the Tree and settled in Fairy Forest. They have since become part of its community and made friends across the kingdom, and their presence gives the forest much of its unique magic.
 
-Following contact with the expedition, the Children gradually migrated into Fairy Forest.
-
-They became part of its community and developed relationships with the kingdom's other inhabitants.
-
-Their presence contributes to Fairy Forest's distinctive magical identity.
-
-The precise nature, appearance, abilities, and origins of the Children of the Tree remain to be developed.
+!!! abstract "Design notes"
+    The atmosphere is inspired by MapleStory's Ellinia. The nature, appearance, abilities and origins of the Children of the Tree are still to be decided.

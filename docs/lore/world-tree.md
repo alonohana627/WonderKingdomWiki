@@ -1,45 +1,21 @@
 # The World Tree
 
-At the center of Veligor stands the enormous World Tree.
-
-The tree is one of the island's most important geographical, historical, and magical landmarks.
-
-Its extraordinary size and internal structure distinguish it from ordinary vegetation.
-
-The World Tree contains vast internal environments that can be explored both upward and downward.
+At the heart of Veligor stands the World Tree, one of the island's great landmarks in every sense: geographic, historical and magical. It is no ordinary tree. Its size is staggering, and inside it lie vast worlds of their own, reaching both up into its crown and down into the earth.
 
 ## The Upper World Tree
 
-The upper regions contain expansive chambers, ancient branches, magical vegetation, and unusual ecosystems.
+High in the Tree lie great chambers, ancient branches, strange magical plants and whole ecosystems found nowhere else, home to wondrous magical creatures.
 
-These regions are home to extraordinary magical creatures and environments.
-
-Historically, the Children of the Tree inhabited this part of the tree.
-
-Their civilization remained largely unknown to the surface population until the expedition fifty years ago.
-
-Following their discovery, many Children migrated to Fairy Forest.
+This was the home of the [Children of the Tree](towns/fairy-forest.md#the-children-of-the-tree). The people of the surface knew almost nothing of them until the [expedition](expedition.md) fifty years ago. Since then, many of the Children have moved to Fairy Forest.
 
 ## The Lower World Tree
 
-Beneath the surface, the World Tree's roots extend deep underground.
+Below the ground, the Tree's roots run deep, carving passages through ancient caverns and buried places. The hidden city of [Cavelor](towns/cavelor.md) lies down here.
 
-These roots form passages through ancient caverns and subterranean environments.
-
-The underground settlement of Cavelor exists within this region.
-
-Deeper still lies the Balrog's prison.
+Deeper still is the Balrog's prison.
 
 ## The Ancient Seal
 
-The Balrog was imprisoned beneath the World Tree following its defeat by the four united peoples.
+When the four united peoples defeated the Balrog, they bound it beneath the World Tree with a seal made from powerful magic and the combined strength of the whole alliance. For generations it held.
 
-The seal was established using powerful magic and the combined efforts of the original alliance.
-
-For generations, it successfully prevented the creature from escaping.
-
-The World Tree therefore serves two contrasting purposes.
-
-It is a source of natural beauty, magical wonder, and extraordinary life.
-
-At the same time, its deepest roots contain the greatest ancient threat to Wonder Kingdom.
+So the World Tree has two faces. It is a source of natural beauty, magical wonder and extraordinary life, and in its deepest roots it holds the greatest ancient danger Wonder Kingdom has ever known.

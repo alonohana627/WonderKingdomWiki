@@ -1,25 +1,15 @@
-# Bain Harbour — The Coastal Town
+# Bain Harbour
 
-Bain Harbour is a prosperous harbour settlement located on one side of Veligor.
+*The Coastal Town*
 
-Its cultural atmosphere resembles aspects of both Selsior and Kaldemor.
-
-It combines elements of conventional urban life, cheerful craftsmanship, commercial activity, and coastal living.
+Bain Harbour is a prosperous port on one coast of Veligor. It feels like a little of Selsior and a little of Kaldemor, with town life, cheerful craftsmanship and busy trade all meeting the sea.
 
 ## Environment and Identity
 
-Bain Harbour contains docks, coastal buildings, markets, maritime workshops, and facilities supporting travel and trade.
-
-Its architectural and cultural characteristics reflect a combination of metropolitan and pastoral influences.
-
-The town is welcoming, prosperous, and socially lively.
+Bain Harbour is a town of docks and waterfront houses, markets and shipwrights' workshops, and everything travelers and traders need. Its look and spirit blend city and countryside. It is welcoming, prosperous and always sociable.
 
 ## Independence
 
-Bain Harbour is **not the designated harbour of Selsior or Kaldemor**.
+Bain Harbour is **not Selsior's port, nor Kaldemor's**. It is a town in its own right, with its own history, people and identity. What it shares with those towns is a feeling, not a chain of command, and it belongs to Wonder Kingdom on equal terms with every other settlement.
 
-It is a separate settlement with its own history, community, and identity.
-
-Its similarities to those towns are cultural and atmospheric rather than administrative.
-
-Bain Harbour belongs to Wonder Kingdom on equal terms with its other settlements.
+It lies on the opposite side of the island from [Goa Harbour](goa-harbour.md). The two ports are very different, but they are friends, not rivals.

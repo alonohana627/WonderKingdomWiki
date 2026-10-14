@@ -12,8 +12,10 @@
   `content/`, the fix is to move it into `content/` in GameLib, not to read or
   copy it from the code.
 - **Lore** is owned by this wiki, in `docs/lore/`, written by hand.
-  Keep the author's wording; don't add new canon (lore principle 20: undecided
-  details stay undecided). The lore navigation follows the links in
+  The text can be edited and written creatively, but the main themes and the
+  established facts stay the same (see `docs/lore/principles.md`). Open
+  questions and real-world inspirations go in "Design notes" boxes, not in the
+  in-world text. The lore navigation follows the links in
   `docs/lore/index.md`; town pages live in `docs/lore/towns/`, and a town that
   is also a game region gets a link to and from its world page.
 

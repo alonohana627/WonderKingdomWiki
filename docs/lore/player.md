@@ -1,37 +1,18 @@
 # The Player's Place in the World
 
-The player character is a native inhabitant of Wonder Kingdom.
+The player character is a child of Wonder Kingdom. They were born and raised here and belong here. They are not a stranger from a distant land, and they do not need to earn anyone's acceptance. Wonder Kingdom is their home.
 
-They were born and raised within its civilization and naturally belong to its society.
-
-They are not an outsider arriving from an unknown land.
-
-They are not someone who must earn acceptance into the kingdom.
-
-Wonder Kingdom is their home.
-
-The player begins their journey as a member of the peaceful generation that inherited the achievements of the kingdom's founders.
+They begin their journey as one of the peaceful generation, heirs to everything the kingdom's founders achieved.
 
 ## Adventure and Exploration
 
-Throughout their journey, the player explores Veligor's settlements, wilderness regions, caves, forests, mountains, and ancient locations.
+Along the way, the player explores Veligor's towns and wilds, its caves, forests, mountains and ancient places. They fight monsters stirred up by the weakening seal. They meet people from every community, learn their traditions and come to know the kingdom's history.
 
-They encounter monsters affected by the Balrog's weakening seal.
-
-They meet inhabitants of different communities, learn about their traditions, and become familiar with the kingdom's history.
-
-The player can participate in local stories and activities that have no direct connection to the Balrog.
-
-Wonder Kingdom is a functioning world with its own everyday concerns, interests, achievements, and adventures.
-
-The central threat exists within this larger setting rather than defining every aspect of it.
+Not every story is about the Balrog. The player can join in local tales and everyday adventures that have nothing to do with it. Wonder Kingdom is a living world with its own concerns, interests, triumphs and adventures, and the great threat sits within that world rather than defining all of it.
 
 ## Discovering the Past
 
-As the player progresses, they gradually encounter deeper historical knowledge.
+As the player goes further, they uncover more of the past: the founding of the kingdom, the ancient battle, the World Tree, the Great Expedition and the guardians of Cavelor. Piece by piece, these lead to the larger story, until the player learns what the damaged seal means and how far the Balrog's influence has already reached.
 
-The founding of Wonder Kingdom, the ancient battle, the World Tree, the Great Expedition, and the guardians of Cavelor provide the foundation for the larger narrative.
-
-The player eventually discovers the significance of the damaged seal and the growing influence of the Balrog.
-
-The exact story progression, quest structure, and player's ultimate role in confronting the ancient threat remain to be defined.
+!!! abstract "Design notes"
+    The exact story progression, quest structure and the player's final role against the Balrog are still to be decided.

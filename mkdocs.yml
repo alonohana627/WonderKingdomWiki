@@ -62,11 +62,11 @@ nav:
       - lore/principles.md
       - lore/timeline.md
       - Towns:
+          - lore/towns/urbanograd.md
           - lore/towns/selsior.md
           - lore/towns/kaldemor.md
           - lore/towns/midbarium.md
           - lore/towns/fairy-forest.md
-          - lore/towns/urbanograd.md
           - lore/towns/bain-harbour.md
           - lore/towns/goa-harbour.md
           - lore/towns/cavelor.md

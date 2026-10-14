@@ -1,31 +1,13 @@
 # The Central Narrative
 
-The history of Wonder Kingdom is fundamentally a story about unity, peace, and the responsibility of later generations to preserve what their ancestors achieved.
+At its heart, the story of Wonder Kingdom is about unity, peace, and the duty each generation has to protect what the one before it built.
 
-The first generation faced the Balrog while divided by generations of conflict.
+The first generation faced the Balrog while torn apart by generations of war. Only by setting their differences aside could they defeat it, and their victory gave birth to Wonder Kingdom. Over the centuries, the kingdom became exactly the peaceful land its founders dreamed of.
 
-Only by overcoming their differences could they defeat the creature.
+Today's generation does not carry those old divisions. Its people already understand one another, and their communities are truly united. They inherited a world where different traditions live side by side, naturally and peacefully.
 
-Their victory resulted in the founding of Wonder Kingdom.
+But they also inherited an old responsibility: keeping the Balrog locked away. The accident of the Great World Tree Expedition has been slowly wearing down the protections the founders built, and the monsters spreading through Veligor's wilds are only the first sign of the Balrog's growing reach.
 
-Over the centuries, the kingdom became the peaceful society its founders had envisioned.
+So the central conflict is not about rebuilding a broken society. It is about **protecting a happy, peaceful civilization from an ancient danger that has begun to return**.
 
-The current generation does not face the same social divisions.
-
-Its inhabitants already understand one another.
-
-Their communities are genuinely united.
-
-They have inherited a civilization in which different traditions coexist naturally and peacefully.
-
-However, they also inherited the ancient responsibility of keeping the Balrog imprisoned.
-
-The accidental damage caused by the Great World Tree Expedition has gradually weakened the protections established by the founders.
-
-The monster threat spreading through Veligor's wilderness is an early consequence of the Balrog's growing influence.
-
-The central conflict is therefore not about rebuilding a divided society.
-
-It is about **protecting an already successful and peaceful civilization from an ancient danger that has begun returning**.
-
-Wonder Kingdom is a world worth protecting because it is genuinely good, not because its inhabitants must first repair a broken society.
+Wonder Kingdom is worth protecting because it is genuinely good, not because its people first have to fix it.

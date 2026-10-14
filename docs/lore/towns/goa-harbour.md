@@ -1,29 +1,15 @@
-# Goa Harbour — The Wilderness Harbour
+# Goa Harbour
 
-Goa Harbour is a coastal settlement located on the opposite side of Veligor from Bain Harbour.
+*The Wilderness Harbour*
 
-Its cultural identity resembles aspects of Midbarium and Fairy Forest.
-
-It combines rugged highland influences with magical woodland traditions and maritime life.
+Goa Harbour is a port on the far side of Veligor from [Bain Harbour](bain-harbour.md). It feels like a little of Midbarium and a little of Fairy Forest, with highland ruggedness and woodland magic meeting the sea.
 
 ## Environment and Identity
 
-Goa Harbour has a more rustic and nature-oriented atmosphere than Bain Harbour.
-
-Its architecture and surrounding environment reflect the influence of mountain landscapes, forests, and coastal terrain.
-
-Its inhabitants maintain maritime traditions while also reflecting the independent and magical characteristics associated with nearby regional cultures.
-
-The settlement is adventurous, welcoming, and distinct from the island's other towns.
+Goa Harbour is rougher and wilder than Bain Harbour, shaped by the mountains, forests and rocky shores around it. Its people keep proud seafaring traditions, along with the independent spirit and touch of magic of the neighboring regions. It is an adventurous, welcoming place unlike any other town on the island.
 
 ## Independence
 
-Goa Harbour is **not the designated harbour of Midbarium or Fairy Forest**.
+Goa Harbour is **not Midbarium's port, nor Fairy Forest's**. It has its own people, traditions and history, and its resemblance to those towns is cultural, not political.
 
-It has its own identity, inhabitants, traditions, and history.
-
-Its resemblance to those settlements is cultural rather than political or administrative.
-
-Bain Harbour and Goa Harbour are not rivals.
-
-Both are peaceful and prosperous parts of Wonder Kingdom.
+Bain Harbour and Goa Harbour are not rivals. Both are peaceful, prosperous parts of Wonder Kingdom.

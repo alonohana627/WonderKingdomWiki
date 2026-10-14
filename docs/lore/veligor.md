@@ -1,24 +1,23 @@
-# Veligor — The Island of Wonder Kingdom
+# Veligor
 
-Veligor is a large island containing the principal settlements and environments of Wonder Kingdom.
+Veligor is a large island and the home of Wonder Kingdom. Its land is wonderfully varied: fertile plains, high mountains, enchanted forests, long coastlines, quiet farmland, ancient ruins, deep caverns and wide stretches of wilderness.
 
-Its geography is diverse, with fertile plains, mountainous highlands, magical forests, coastal regions, rural settlements, ancient ruins, underground caverns, and extensive wilderness areas.
+Near its center rises the enormous [World Tree](world-tree.md), visible from much of the island and one of its best-known landmarks.
 
-The enormous World Tree stands near the center of the island and serves as one of its most recognizable landmarks.
-
-The island's settlements are connected through roads, pathways, and regional trade networks.
-
-Although the surrounding wilderness has become increasingly dangerous, the inhabited settlements remain lively, functional, and prosperous.
-
-Each town possesses a distinct cultural and environmental identity.
+Roads, footpaths and trade routes link the island's towns. The wilds between them have grown dangerous, but the towns themselves are as lively, busy and prosperous as ever, and each has a character all its own.
 
 ## Towns
 
-- [Selsior](towns/selsior.md)
-- [Kaldemor](towns/kaldemor.md)
-- [Midbarium](towns/midbarium.md)
-- [Fairy Forest](towns/fairy-forest.md)
-- [Urbanograd](towns/urbanograd.md)
-- [Bain Harbour](towns/bain-harbour.md)
-- [Goa Harbour](towns/goa-harbour.md)
-- [Cavelor](towns/cavelor.md)
+| Town | Known as | Character |
+|---|---|---|
+| [Selsior](towns/selsior.md) | The City of Everything | The bustling, joyful capital |
+| [Kaldemor](towns/kaldemor.md) | The Town of Joyful Craftsmanship | A cheerful pastoral town of makers and farmers |
+| [Midbarium](towns/midbarium.md) | The Highland Settlement | A rugged mountain town with Savage roots |
+| [Fairy Forest](towns/fairy-forest.md) | The Magical Woodland | A forest settlement with Magician roots |
+| [Urbanograd](towns/urbanograd.md) | The Town of Societal Rebels | A century-old home of free spirits |
+| [Bain Harbour](towns/bain-harbour.md) | The Coastal Town | A lively, prosperous port |
+| [Goa Harbour](towns/goa-harbour.md) | The Wilderness Harbour | A rustic port on the far coast |
+| [Cavelor](towns/cavelor.md) | The Underground City of Guardians | The hidden city beneath the World Tree |
+
+!!! note "Beyond Veligor"
+    Veligor is where the story begins, not necessarily the whole world. Other islands and kingdoms may appear later.
