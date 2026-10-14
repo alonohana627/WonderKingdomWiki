@@ -32,6 +32,21 @@ The forest's schools teach magic to anyone with the gift, from any town in the k
 
 The forest has its own friends in the wider kingdom, too. The Brenna of Midbarium have been welcome here since the days when the Savages and the Magicians were allies, and the friendship has outlasted the war that made it.
 
+## Leadership Today
+
+[Calyra](../people/fairy-forest/eldest_calyra.md) has been Eldest of the Grove for nine years and leads the Grove Council from the Heart Tree. She taught at the Grove School for forty years. When old Eldest Ferris died, the forest's teachers and elders gathered to choose one of their own, and Calyra was chosen over [Thessaly](../people/fairy-forest/thessaly_councillor.md) by a handful of voices.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Thessaly](../people/fairy-forest/thessaly_councillor.md) | Grove Councillor |
+| [Briony](../people/fairy-forest/briony_councillor.md) | Grove Councillor |
+| [Ilwen](../people/fairy-forest/ilwen_steward.md) | Steward of the Heart Tree |
+| [Isaura](../people/fairy-forest/isaura_records.md) | Keeper of the Old Records, who studies the seal's history |
+| [Seren](../people/fairy-forest/seren_warden.md) | Warden of the Forest Edge |
+| [Sorrel](../people/fairy-forest/sorrel_teacher.md) | Teacher of Listening |
+
 !!! tip "People"
     Everyone who lives here in the first release: [People of Fairy Forest](../people/fairy-forest/index.md).
 

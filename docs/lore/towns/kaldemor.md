@@ -42,6 +42,21 @@ The people of Kaldemor value creativity, practical know-how, friendliness, coope
 
 Kaldemor is no poor backwater. It is a prosperous, happy town whose people love the life they have made. Where Selsior stands for the excitement and variety of the great city, Kaldemor stands for the joy of creating, growing and belonging to a close-knit community.
 
+## Leadership Today
+
+[Mayor Tobin](../people/kaldemor/tobin.md) has led Kaldemor for thirty years. He was the town's cooper until, at forty-one, the townspeople chose him to follow old Mayor Hettie, mostly because he already knew everyone and nobody could imagine a town meeting without him talking at it. He is a widower; his wife Primrose, a potter, died twelve years ago. Every autumn he settles the price of Kaldemor's harvest with Bain Harbour's Harbour Master.
+
+## Notable People
+
+| Name | Role |
+|---|---|
+| [Mildred](../people/kaldemor/mildred.md) | Town Clerk, keeper of the mayor's letters and ledgers |
+| [Hale](../people/kaldemor/hale.md) | Park Ranger, who watches the fields and the hollow past the woods |
+| [Quill](../people/kaldemor/quill.md) | Drillmaster, who runs the Kaldemor Gauntlet |
+| [Ewan](../people/kaldemor/ewan.md) | Clockkeeper for forty years |
+| [Lia](../people/kaldemor/lia.md) | Town Guide |
+| [Rosa](../people/kaldemor/rosa.md) | Baker, keeper of the terrace oven |
+
 !!! tip "People"
     Everyone who lives here in the first release: [People of Kaldemor](../people/kaldemor/index.md).
 
