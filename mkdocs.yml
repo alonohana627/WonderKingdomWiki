@@ -190,18 +190,18 @@ nav:
       - maps/kaldemor_field.md
       - maps/kaldemor_hills.md
       - maps/kaldemor_woods.md
-      - maps/royal_road_1.md
-      - maps/royal_road_2.md
-      - maps/greenwood_clearing.md
-      - maps/royal_road_3.md
-      - maps/selsior_gate.md
-      - maps/selsior.md
-      - maps/selsior_market.md
-      - maps/selsior_court.md
-      - maps/snail_kings_hollow.md
       - maps/gauntlet_course.md
       - maps/gauntlet_holdout.md
+      - maps/snail_kings_hollow.md
       - maps/gauntlet_yard.md
+      - maps/royal_road_1.md
+      - maps/royal_road_2.md
+      - maps/royal_road_3.md
+      - maps/greenwood_clearing.md
+      - maps/selsior_market.md
+      - maps/selsior_court.md
+      - maps/selsior.md
+      - maps/selsior_gate.md
   - Professions:
       - professions/index.md
       - professions/gathering.md

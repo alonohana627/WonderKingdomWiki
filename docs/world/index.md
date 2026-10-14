@@ -18,6 +18,10 @@ Lore: [Kaldemor](../lore/towns/kaldemor.md)
 | [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1 |
 | [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 1 |
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | Hunting | 2 |
+| [The Hanging Course](../maps/gauntlet_course.md) | Run | 3 |
+| [The Last Stand](../maps/gauntlet_holdout.md) | Run | 3 |
+| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Boss | 3 |
+| [The Training Yard](../maps/gauntlet_yard.md) | Run | 3 |
 
 Regional mastery, earned by making discoveries here:
 
@@ -30,8 +34,8 @@ Regional mastery, earned by making discoveries here:
 |---|---|---|
 | [Kaldemor Reach](../maps/royal_road_1.md) | Road | 3 |
 | [The Crossing](../maps/royal_road_2.md) | Road | 4 |
-| [Greenwood Clearing](../maps/greenwood_clearing.md) | Hunting | 6 |
 | [Selsior Approach](../maps/royal_road_3.md) | Road | 5 |
+| [Greenwood Clearing](../maps/greenwood_clearing.md) | Hunting | 6 |
 
 Regional mastery, earned by making discoveries here:
 
@@ -44,24 +48,15 @@ Lore: [Selsior](../lore/towns/selsior.md)
 
 | Map | Kind | Level |
 |---|---|---|
-| [Selsior Gate](../maps/selsior_gate.md) | Town | - |
-| [Selsior](../maps/selsior.md) | Town | - |
 | [Crown Market](../maps/selsior_market.md) | Town | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - |
+| [Selsior](../maps/selsior.md) | Town | - |
+| [Selsior Gate](../maps/selsior_gate.md) | Town | - |
 
 Regional mastery, earned by making discoveries here:
 
 - **Capital Eyes** (1 discoveries): 300 mesos
 - **Selsior Insider** (2 discoveries): Skill: [Capital Eyes](../skills/passives.md#capital-eyes)
-
-### Other maps
-
-| Map | Kind |
-|---|---|
-| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Boss |
-| [The Hanging Course](../maps/gauntlet_course.md) | Run |
-| [The Last Stand](../maps/gauntlet_holdout.md) | Run |
-| [The Training Yard](../maps/gauntlet_yard.md) | Run |
 
 ## Taxis
 

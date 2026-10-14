@@ -167,6 +167,10 @@ class Wiki:
             self.maps[p.stem] = load(p)
             self.map_paths[p.stem] = p.relative_to(c).as_posix()
         self.regions = load(c / "world" / "regions.json")
+        for rid, r in self.regions.items():  # newer content lists a region's maps only on the maps themselves
+            r.setdefault("maps", sorted(
+                (m for m, plan in self.maps.items() if plan.get("region") == rid),
+                key=lambda m: (self.maps[m]["purpose"] != "town", self.maps[m].get("difficulty") or 0, self.maps[m]["name"])))
         self.discoveries = load(c / "world" / "discoveries.json")
         self.taxis = load(c / "world" / "taxis.json")
 
