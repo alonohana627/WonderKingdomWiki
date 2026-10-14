@@ -28,6 +28,12 @@ new lore pages under `docs/lore/` and rerun it to put them in the navigation.
 ## Publishing
 
 Every push to `main` builds the site with `mkdocs build --strict` and publishes
-it to GitHub Pages (`.github/workflows/pages.yml`). Pull requests run the same
-build without publishing. The workflow builds the committed pages; rerun
-`tools/generate.py` locally and commit when the game data changes.
+it to GitHub Pages from the `gh-pages` branch (`.github/workflows/pages.yml`).
+
+Every pull request gets its own preview site at
+`https://alonohana627.github.io/WonderKingdomWiki/pr-preview/pr-<number>/`,
+linked in a comment on the pull request. The preview updates with each push
+and is removed when the pull request closes.
+
+The workflow builds the committed pages; rerun `tools/generate.py` locally and
+commit when the game data changes.
