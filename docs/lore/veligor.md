@@ -12,7 +12,7 @@ Roads, footpaths and trade routes link the island's towns. The wilds between the
 |---|---|---|
 | [Selsior](towns/selsior.md) | The City of Everything | The bustling, joyful capital |
 | [Kaldemor](towns/kaldemor.md) | The Town of Joyful Craftsmanship | A cheerful pastoral town of makers and farmers |
-| [Midbarium](towns/midbarium.md) | The Highland Settlement | A rugged mountain town with Savage roots |
+| [Midbarium](towns/midbarium.md) | The Highland Settlement | A rural highland town of clans and chieftains |
 | [Fairy Forest](towns/fairy-forest.md) | The Magical Woodland | A forest settlement with Magician roots |
 | [Urbanograd](towns/urbanograd.md) | The Town of Societal Rebels | A century-old home of free spirits |
 | [Bain Harbour](towns/bain-harbour.md) | The Coastal Town | A lively, prosperous port |
