@@ -8,8 +8,8 @@ world, its story and everything you can find, fight and make in it.
 
 - **Lore** is written here. This wiki is the source of truth for the story,
   the history and the people of Wonder Kingdom.
-- **Game data** (items, skills, jobs, monsters, bosses, NPCs, quests, shops,
-  maps, professions, runs) is generated from the game's content files in GameLib, which
+- **Game data** (items, skills, jobs, monsters, bosses, NPCs, quests, maps,
+  professions) is generated from the game's content files in GameLib, which
   is the source of truth for how the game plays. Those pages are rebuilt by
   `tools/generate.py`, so fix game data in GameLib, not here.
 

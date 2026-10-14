@@ -6,9 +6,7 @@ It is a [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) site.
 
 ## Sources of truth
 
-- **Lore** lives here, in `docs/lore/`, written by hand. It can be edited
-  freely as long as the main themes and the
-  [worldbuilding principles](docs/lore/principles.md) stay the same.
+- **Lore** lives here, in `docs/lore/`, written by hand.
 - **Game data** lives in GameLib (`games/wonder_kingdom/content/`). Every other
   section of `docs/` (items, skills, jobs, monsters, bosses, NPCs, quests,
   shops, world, maps, professions, runs, game systems) is generated from it by
@@ -24,12 +22,8 @@ mkdocs serve                      # preview at http://127.0.0.1:8000
 mkdocs build --strict             # what to run before committing
 ```
 
-The generator also rewrites the `nav:` block at the end of `mkdocs.yml`. To add
-a lore page, put it under `docs/lore/` (towns go in `docs/lore/towns/`), link it
-from `docs/lore/index.md` or the page it belongs under, and rerun the generator:
-the Lore navigation follows those links in order.
-
-See [AGENTS.md](AGENTS.md) for what belongs on a page.
+The generator also rewrites the `nav:` block at the end of `mkdocs.yml`, so add
+new lore pages under `docs/lore/` and rerun it to put them in the navigation.
 
 ## Publishing
 
