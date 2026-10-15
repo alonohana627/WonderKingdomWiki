@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest.md) |
-| Where | [Fairy Forest](../maps/fairy_forest.md) |
+| Where | [The Heart Tree](../maps/heart_tree.md) |
 | Story | [Oriel in the lore](../lore/people/fairy-forest/oriel_treewright.md) |
 | Services | Quests |
 

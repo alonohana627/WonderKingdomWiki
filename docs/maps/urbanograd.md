@@ -11,15 +11,15 @@
 ## Exits
 
 - [Gate Meadows](../maps/gate_meadows.md)
+- [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md)
 - [The Great Hall](../maps/urbanograd_great_hall.md)
 - [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md)
+- [Margo's Workshop](../maps/urbanograd_workshop.md)
 - [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md)
 - [Ferro's Forge](../maps/urbanograd_forge.md)
-- [Margo's Workshop](../maps/urbanograd_workshop.md)
-- [The Night Market](../maps/urbanograd_night_market.md)
 - [Cobble's Shop](../maps/urbanograd_bootmaker.md)
+- [The Night Market](../maps/urbanograd_night_market.md)
 - [Patch's Herb House](../maps/urbanograd_herb_house.md)
-- [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md)
 - [Hex's Shop](../maps/urbanograd_hex_shop.md)
 
 ## NPCs

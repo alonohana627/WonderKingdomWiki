@@ -101,7 +101,7 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 |  |  |
 |---|---|
 | Region | [Fairy Forest](../world/index.md#fairy-forest) |
-| Where | [Fairy Forest](../maps/fairy_forest.md) |
+| Where | [The Heart Tree](../maps/heart_tree.md) |
 | Size | Common |
 | Reward | 400 EXP, 300 mesos |
 
@@ -262,7 +262,7 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 | Reward | 150 EXP |
 
 ??? quote "What you see"
-    From the high west ledge you can see over every roof in Kaldemor to the far end of the main street. Somebody has left a tin cup up here, as if they come often.
+    From the high west terrace you can see over every roof in Kaldemor to the far end of the main street. Somebody has left a tin cup up here, as if they come often.
 
 ## The High Causeway {#the-greenmarsh-causeway}
 

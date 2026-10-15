@@ -95,11 +95,7 @@
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | [The Royal Road](../world/index.md#royal-road) | Road | 2-8 | 4 | [Shroom](../monsters/shroom.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
 | [The Crossing](../maps/the_crossing.md) | [The Royal Road](../world/index.md#royal-road) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
 | [The Greenwood](../maps/the_greenwood.md) | [The Royal Road](../world/index.md#royal-road) | Road | 10-15 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md), [Horny Mushroom](../monsters/horny_mushroom.md) |
-| [A Lane House](../maps/old_quarter_house_a.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [A Lane House](../maps/old_quarter_house_b.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [A Market House](../maps/market_house.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [A Riverside House](../maps/riverside_house_a.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [A Riverside House](../maps/riverside_house_b.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [An Empty House](../maps/old_quarter_house_a.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
@@ -113,6 +109,7 @@
 | [The Academy Library](../maps/academy_library.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Crooked Lantern](../maps/crooked_lantern.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Dyer's House](../maps/riverside_house_b.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Gilded Stage](../maps/gilded_stage.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
@@ -155,6 +152,7 @@
 | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Glade's Story House](../maps/glade_book_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Heart Tree](../maps/heart_tree.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Old Records](../maps/old_records.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Oldest Home](../maps/oriels_old_home.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |

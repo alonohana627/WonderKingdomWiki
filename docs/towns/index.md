@@ -6,10 +6,10 @@ Each town and the lands around it: its roads and hunting grounds, theme dungeon,
 
 | Town | Levels | Maps | Quests | NPCs | Bosses |
 |---|---|---|---|---|---|
-| [Selsior](../towns/selsior.md) | 7-70 | 45 | 207 | 111 | 4 |
+| [Selsior](../towns/selsior.md) | 7-70 | 42 | 207 | 111 | 4 |
 | [Kaldemor](../towns/kaldemor.md) | 1-70 | 42 | 61 | 41 | 4 |
 | [Midbarium](../towns/midbarium.md) | 15-70 | 42 | 86 | 34 | 4 |
-| [Fairy Forest](../towns/fairy_forest.md) | 9-70 | 45 | 91 | 55 | 4 |
+| [Fairy Forest](../towns/fairy_forest.md) | 9-70 | 46 | 91 | 55 | 4 |
 | [Urbanograd](../towns/urbanograd.md) | 14-70 | 39 | 152 | 62 | 4 |
 | [Bain Harbour](../towns/bain_harbour.md) | 13-70 | 49 | 98 | 50 | 4 |
 | [Goa Harbour](../towns/goa_harbour.md) | 11-70 | 35 | 107 | 45 | 4 |

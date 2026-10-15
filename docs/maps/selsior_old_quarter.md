@@ -13,9 +13,8 @@
 
 - [Royal Plaza](../maps/selsior.md)
 - [The Old Drains](../maps/old_drains.md)
-- [A Lane House](../maps/old_quarter_house_a.md)
+- [An Empty House](../maps/old_quarter_house_a.md)
 - [The Crooked Lantern](../maps/crooked_lantern.md)
-- [A Lane House](../maps/old_quarter_house_b.md)
 
 ## NPCs
 

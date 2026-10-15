@@ -15,7 +15,7 @@
 ## Objectives
 
 - Gather 2 [Tree Branch](../items/tree_branch.md)
-- Look at the cracked high bridge in [Fairy Forest](../maps/fairy_forest.md)
+- Look at the cracked high bridge in [The Heart Tree](../maps/heart_tree.md)
 
 ## Rewards
 

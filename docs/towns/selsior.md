@@ -12,11 +12,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [A Lane House](../maps/old_quarter_house_a.md) | Town | - | - | - |
-| [A Lane House](../maps/old_quarter_house_b.md) | Town | - | - | - |
-| [A Market House](../maps/market_house.md) | Town | - | - | - |
-| [A Riverside House](../maps/riverside_house_a.md) | Town | - | - | - |
-| [A Riverside House](../maps/riverside_house_b.md) | Town | - | - | - |
+| [An Empty House](../maps/old_quarter_house_a.md) | Town | - | - | - |
 | [Crown Market](../maps/selsior_market.md) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - | - |
@@ -30,6 +26,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Academy Library](../maps/academy_library.md) | Town | - | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - | - |
 | [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - | - |
+| [The Dyer's House](../maps/riverside_house_b.md) | Town | - | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - | - |
 | [The Gilded Stage](../maps/gilded_stage.md) | Town | - | - | - |

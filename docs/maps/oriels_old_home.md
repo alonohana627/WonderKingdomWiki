@@ -11,7 +11,7 @@
 
 ## Exits
 
-- [Fairy Forest](../maps/fairy_forest.md)
+- [The Heart Tree](../maps/heart_tree.md)
 
 ## NPCs
 

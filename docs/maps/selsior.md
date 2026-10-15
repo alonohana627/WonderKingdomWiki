@@ -18,7 +18,6 @@
 - [Theatre Row](../maps/selsior_theatre.md)
 - [Palace](../maps/selsior_palace.md)
 - [Old Quarter](../maps/selsior_old_quarter.md)
-- [The Captain's Hall](../maps/knights_hall.md)
 - [Knights' Court](../maps/selsior_court.md)
 
 ## NPCs

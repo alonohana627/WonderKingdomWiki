@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Capguard](../monsters/capguard.md) | 53 | 7 |
-| [Spore Puff](../monsters/spore_puff.md) | 55 | 6 |
+| [Capguard](../monsters/capguard.md) | 53 | 10 |
+| [Spore Puff](../monsters/spore_puff.md) | 55 | 9 |
 
 ## Gathering
 

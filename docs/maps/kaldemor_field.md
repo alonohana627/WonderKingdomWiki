@@ -16,7 +16,6 @@
 
 - [Kaldemor](../maps/kaldemor.md)
 - [The Cider Lanes](../maps/cider_lanes.md)
-- [Kaldemor](../maps/kaldemor.md)
 - [The Forest's Hem](../maps/forests_hem.md)
 
 ## Monsters

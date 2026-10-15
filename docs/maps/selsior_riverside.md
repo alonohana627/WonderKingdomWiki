@@ -12,8 +12,7 @@
 ## Exits
 
 - [Royal Plaza](../maps/selsior.md)
-- [A Riverside House](../maps/riverside_house_a.md)
-- [A Riverside House](../maps/riverside_house_b.md)
+- [The Dyer's House](../maps/riverside_house_b.md)
 
 ## NPCs
 

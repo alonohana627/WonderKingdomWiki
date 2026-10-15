@@ -15,7 +15,7 @@
 
 ## Objectives
 
-- Look at the oldest home's root-wall in [Fairy Forest](../maps/fairy_forest.md)
+- Look at the oldest home's root-wall in [The Heart Tree](../maps/heart_tree.md)
 
 ## Rewards
 
