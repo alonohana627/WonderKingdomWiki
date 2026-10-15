@@ -2,6 +2,12 @@
 
 Written by NPC lore writers so later writers stay consistent. Not shown on the wiki.
 
+## The town's look (2026-10-15, Lith Harbor reshape)
+
+- Goa Harbour is a busy timber port, not a town in the trees. The Inlet Quay is the harbour front: wooden quays and piers on piles, timber stacks, warehouses on the water, ships at anchor in the inlet. The Wardens' House stands at the quay's head, at the foot of the cliffs. The Lantern Market (with the Gap Inn) is the market street behind the quay, colourful painted timber houses. The Fishers' Coves (boats on shingle, net lofts, drying racks, smokehouses) lie under the cliffs at the seaward end; the Forest Shore (raft landing, timber crews) is round the point at the other end. Wooded hills rise behind the town.
+- The Cliff Stairs (the Long Stair, the rope lift, the rope bridges) are the way up the cliff above the quay to the clifftop quarter (a row of timber houses along the top) and Gull Heath. Houses stand on rock: on the Long Stair's landings, on the lower cliff above the quay ("cliff houses") and in the clifftop quarter. The rope bridges carry the cliff paths across clefts in the cliff face; they do not join houses.
+- Changed: Kestra's bridges and Gorm's description of them no longer "join the cliff houses"; Fionn runs from the quay to "the highest house in the clifftop quarter" (was "the highest cliff house").
+
 ## Arlo (arlo_child)
 
 - Age 9. Only child of Iska and Dunmor. Born in the family's cliff house above the Inlet Quay.
@@ -203,6 +209,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 ## Fionn (fionn_child)
 
 - Age 10. Son of Duncan and Ishbel (see Hamish); remembers only a blue shawl and a song about a gull. Lives with Hamish beside the lift windlass since age 3.
+- Runs messages from the Inlet Quay to the highest house in the clifftop quarter and back.
 - Shortcuts: the gap behind the smokehouse (drops two landings), the ledge under the third rope bridge, a goat path that halves the Long Stair.
 - Saving coppers in a tin under the floorboards for a bow, hoping Torva will then take him into the trees.
 - The hunters privately think him a very good tracker.
@@ -236,6 +243,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 - Age 23. Grew up in a cliff house above the Inlet Quay. Mother Shona, a cove net-maker, taught her knots; died of a fever when Kestra was 15 (8 years ago; invented, dead). Father not mentioned.
 - Joined Gorm's crew at 14 as a rope-carrier; rigging her own bridges by 16; best rigger on the crew by about 19.
+- Her bridges carry the cliff paths across the clefts above the harbour, from low spans over the quay to the highest bridge just below the clifftop quarter (they do not join houses).
 - Walks every bridge each morning; splices rope at the top of the Cliff Stairs in the afternoons.
 - The chewing: highest bridge only, from below, seaward side, strands bitten through one by one. First found this spring (a few days after Fionn's sighting); has recurred repeatedly since; she has never seen the culprit.
 - Has sat out on the highest bridge after dark (Gorm forbids it; Ruan doesn't know). Tarran has promised her a lantern to light the cliff face beneath the bridge.

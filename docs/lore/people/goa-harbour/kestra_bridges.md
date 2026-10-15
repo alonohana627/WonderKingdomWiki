@@ -17,7 +17,7 @@ Fearless, light-footed and impatient with anyone who looks down.
 
 ## Lore
 
-Kestra is twenty-three and strings the rope bridges that join the cliff houses of Goa Harbour, from the low spans above the quay to the highest bridge near the top of the cliffs. She is fearless, light-footed and impatient with anyone who looks down. She can cross any bridge in the town blindfold, and has, more than once, to win a bet. She will not wear a safety line, and she does not intend to start.
+Kestra is twenty-three and strings the rope bridges that carry Goa Harbour's cliff paths across the clefts above the harbour, from the low spans over the quay to the highest bridge just below the clifftop quarter. She is fearless, light-footed and impatient with anyone who looks down. She can cross any bridge in the town blindfold, and has, more than once, to win a bet. She will not wear a safety line, and she does not intend to start.
 
 ### Rope and stone
 
