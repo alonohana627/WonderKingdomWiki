@@ -14,13 +14,13 @@ Their daughter Marigold is ten and has been on stage since she could walk; Rosam
 
 ### The Magician and Percival
 
-Crispin's new play is about the Balrog War, and Rosamund is determined to play the Magician who wove the seal. Crispin had always imagined it as a quiet part. Rosamund does not do quiet parts, and with every draft it gets less quiet. She wants it because it is the person who ends the war, not the person who waits for someone else to, and because she is forty and has played enough sweethearts for one lifetime.
+Crispin's new play is about the Balrog War, and Rosamund is determined to play the play's Magician, who stands for all the Magicians who wove the seal together. Crispin had always imagined it as a quiet part. Rosamund does not do quiet parts, and with every draft it gets less quiet. She wants it because it is the person who ends the war, not the person who waits for someone else to, and because she is forty and has played enough sweethearts for one lifetime.
 
-She will not, under any circumstances, share the stage with Percival in it. They have quarrelled on and off the stage for ten years, ever since Lavinia first cast them opposite each other, and audiences love it, and Lavinia sells tickets on it, and Rosamund is tired of it. Percival wants to play the Savage warrior who held the Balrog at the Tree. Crispin cannot see how to write the Last Stand without both of them in it. Rosamund says that is his problem. Privately she admits that Percival is a very good actor, and that this is the most annoying thing about him.
+She will not, under any circumstances, share the stage with Percival in it. They have quarrelled on and off the stage for ten years, ever since Lavinia first cast them opposite each other, and audiences love it, and Lavinia sells tickets on it, and Rosamund is tired of it. Percival wants to play the play's Savage warrior, who stands for the whole front line that held the Balrog at the Tree. Crispin cannot see how to write the Last Stand without both of them in it. Rosamund says that is his problem. Privately she admits that Percival is a very good actor, and that this is the most annoying thing about him.
 
 ### What she wants and fears
 
-Rosamund wants the part, and she wants to play it so well that people stop calling the Magician a legend and start wondering about her as a person. What she fears is that Lavinia has bet everything on this play, that Crispin cannot find his ending, and that she will not be able to save either of them by being brilliant.
+Rosamund wants the part, and she wants to play it so well that people stop playing the Magician as a legend and start playing her as a person. What she fears is that Lavinia has bet everything on this play, that Crispin cannot find his ending, and that she will not be able to save either of them by being brilliant.
 
 ### Hooks
 

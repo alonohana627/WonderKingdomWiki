@@ -1,6 +1,6 @@
 # The World Tree
 
-At the heart of Veligor stands the World Tree, one of the island's great landmarks in every sense: geographic, historical and magical. It is no ordinary tree. Its size is staggering, and inside it lie vast worlds of their own, reaching both up into its crown and down into the earth.
+North of Selsior, near the heart of Veligor, stands the World Tree, one of the island's great landmarks in every sense: geographic, historical and magical. It is no ordinary tree. Its size is staggering, and inside it lie vast worlds of their own, reaching both up into its crown and down into the earth.
 
 ## The Upper World Tree
 

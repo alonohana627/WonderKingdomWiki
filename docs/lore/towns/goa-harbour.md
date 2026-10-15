@@ -2,7 +2,7 @@
 
 *The Wilderness Harbour*
 
-Goa Harbour is a port on the far side of Veligor from [Bain Harbour](bain-harbour.md). It feels like a little of Midbarium and a little of Fairy Forest, with highland ruggedness and woodland magic meeting the sea.
+Goa Harbour is a port on the west coast of Veligor, on the far side of the island from [Bain Harbour](bain-harbour.md). It feels like a little of Midbarium and a little of Fairy Forest, with highland ruggedness and woodland magic meeting the sea.
 
 ## History
 
@@ -24,7 +24,7 @@ When the kingdom was founded, Goa Harbour opened to the whole island. Timber fro
 
 Goa Harbour is rougher and wilder than Bain Harbour, shaped by the mountains, forests and rocky shores around it. Its houses are built of timber and stone and climb the cliffs above the water, joined by rope bridges and carved stairways much like Midbarium's, while lanterns of the forest's making light its quays at night.
 
-Its people keep proud seafaring traditions, along with the independent spirit and touch of magic of the neighboring regions. They are adventurous and welcoming, and the town is unlike any other on the island. It is also a natural home for adventurers: since the Age of Disturbance began, the wild coast and forests around it have filled with monsters, and Goa Harbour's people have never been the sort to wait for help.
+Its people keep proud seafaring traditions, along with the independent spirit of the highlands and a touch of the forests' magic. They are adventurous and welcoming, and the town is unlike any other on the island. It is also a natural home for adventurers: since the Age of Disturbance began, the wild coast and forests around it have filled with monsters, and Goa Harbour's people have never been the sort to wait for help.
 
 ## Independence
 
@@ -51,4 +51,4 @@ Bain Harbour and Goa Harbour are not rivals. Both are peaceful, prosperous parts
     Everyone who lives here in the first release: [People of Goa Harbour](../people/goa-harbour/index.md).
 
 !!! abstract "Design notes"
-    New with this page: the shared Savage and Magician camp, the sea wardens and the First Warden, the meaning of the name "Goa", and the summer race with Bain Harbour.
+    New with this page: the shared Savage and Magician camp, the sea wardens and the First Warden, the meaning of the name "Goa", and the summer race with Bain Harbour. Goa Harbour is on the west coast, as the game's world map has it.

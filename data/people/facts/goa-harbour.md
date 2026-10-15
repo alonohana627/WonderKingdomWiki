@@ -36,7 +36,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 - Age 76. Born to a cove family. Sea warden since 20 (56 years). Has never lost a ship in the gap.
 - Wife Maili, a cove fisher, died of a fever 14 years ago (invented, dead). No children. Keeps her oilskin by his door; walks the quay again at dusk on her death's anniversary.
-- Began teaching Iska when she was 7 (34 years ago). Also taught Nessa. Voted for Iska as First Warden.
+- Began teaching Iska when she was 7 (34 years ago). Also taught Nessa. Spoke for Iska as First Warden.
 - Served beside Ysmay for 40 years. Ailsa is the other colleague left from his early years.
 - Stopped piloting ships through the gap 5 years ago (knees).
 - Has sensed the tides shifting (eddies out of place) but has not asked Ailsa and does not know of her Tide Book worries.

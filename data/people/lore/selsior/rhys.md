@@ -1,5 +1,7 @@
 Rhys came to the Knights' Court at eighteen with a borrowed sword and a great deal more confidence than skill. Aubrey, then the Guard's finest Grand Swordmaster, watched him swing for about a minute and told him he fought like a man chopping firewood. Rhys spent the next two years learning to stop, and he says he is still learning. He is forty now, a Grand Swordmaster himself these ten years, and the queen made him Captain of the Royal Guard eight years ago.
 
+Fifteen years ago, when Queen Aveline swore her alliance with Cavelor, Rhys was a young Swordsman in the guard that escorted her down the Upper Stair, and he watched the serving Swordmasters swear the new Swordmaster's oath in the Oath Hall. When he passed the Swordmaster's trial himself, he went back down and swore it before Keeper Marrun. He still remembers the cold, the lanterns and the old Keeper's voice, and he sends every new Swordmaster down to swear it with a few plain words of warning about the stairs.
+
 ### The season with Tavi
 
 The spring Rhys was nineteen, a young Uskari from the rim of Midbarium walked into the Court and asked to train. Tavi was eighteen, had left home to go adventuring, and wanted to learn what the capital's swordsmen knew that the highland hunters did not. The Guard is open to anyone who can keep up, and Aubrey, who thought both young people were too fierce for their own good, paired them together so they would wear each other down.

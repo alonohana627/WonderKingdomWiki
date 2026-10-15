@@ -2,7 +2,7 @@ Rook Tallow makes candles. That is the first thing Rook tells anyone who calls R
 
 ### A Walker's great-grandchild
 
-Rook was born in Urbanograd and has never wanted to live anywhere else. Rook's great-grandmother was one of the Walkers who left Selsior a hundred years ago and patched the roofs of Old Grad, and the family has made candles and lamp wicks in the same workshop ever since. Rook grew up sitting under the benches at the Open Table, listening to arguments that ran until dawn, and found them more exciting than any play on Theatre Row.
+Rook was born in Urbanograd and has never wanted to live anywhere else. Rook's great-grandmother was one of the Walkers who left Selsior a hundred years ago and patched the roofs of Old Grad, and the family has made candles and lamp wicks in the same workshop ever since. Rook grew up sitting under the benches at the Open Table, listening to arguments that ran until dawn, and found them more exciting than any play at the Old Barracks.
 
 Rook is dry, patient and quick to laugh, with a voice that can cut through a shouting hall without ever sounding angry. Rook hates making speeches and loves listening to them, which is exactly why the Table chose Rook this spring; this is the first time Rook has been Caller, and Rook has said loudly that it will be the last.
 

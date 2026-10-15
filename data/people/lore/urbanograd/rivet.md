@@ -8,7 +8,7 @@ The lift went up three years ago, when Rivet was nineteen. It is not pretty. It 
 
 ### Margo
 
-Margo Venn and Rivet argue about everything: gears against ropes, springs against counterweights, sparks against sense. Margo builds things that dazzle and then, eventually, work; Rivet builds things that work and never see the point of dazzling. The whole Row has heard them shouting across the street, and the whole Row knows that neither would manage without the other. When the lift jammed last winter, with a crate of lantern glass stuck halfway up, Margo was the first one up the ropes to help, complaining the whole way. Rivet has never quite thanked her, and has quietly rehung her workshop door the last time she blew it off, without being asked.
+Margo Venn and Rivet argue about everything: gears against ropes, springs against counterweights, sparks against sense. Margo builds things that dazzle and then, eventually, work; Rivet builds things that work and never sees the point of dazzling. The whole Row has heard them shouting across the street, and the whole Row knows that neither would manage without the other. When the lift jammed last winter, with a crate of lantern glass stuck halfway up, Margo was the first one up the ropes to help, complaining the whole way. Rivet has never quite thanked her, and has quietly rehung her workshop door the last time she blew it off, without being asked.
 
 Rivet has no idea that Margo's apprentice, Bolt, thinks some of Rivet's ideas are better than his teacher's. If Rivet found out, the gloating would last a month.
 

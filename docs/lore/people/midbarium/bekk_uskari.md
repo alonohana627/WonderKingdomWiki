@@ -28,7 +28,7 @@ Skarra raised him on the rim among the patrols, and he could climb before he cou
 
 ### The admiring crowd
 
-Children follow Bekk because he lets them. He shows them handholds, teaches them knots, and tells them stories of the trail that are thrilling and mostly true. His most devoted follower is Korrin, the Kragvar chieftain's youngest son, who wants to join the trail watch himself, ties his boots exactly the way Bekk does and has started squinting at the horizon the way Bekk does, as if something is always about to appear on it. Bekk noticed the boots weeks ago and has said nothing, because he remembers doing the same thing to older scouts when he was nine. He makes sure Korrin's knots are tied properly, and pretends not to.
+Children follow Bekk because he lets them. He shows them handholds, teaches them knots, and tells them stories of the trail that are thrilling and mostly true. His most devoted follower is Korrin, the Kragvar chieftain's youngest child, who wants to join the trail watch himself, ties his boots exactly the way Bekk does and has started squinting at the horizon the way Bekk does, as if something is always about to appear on it. Bekk noticed the boots weeks ago and has said nothing, because he remembers doing the same thing to older scouts when he was nine. He makes sure Korrin's knots are tied properly, and pretends not to.
 
 ### The beast on the high pastures
 

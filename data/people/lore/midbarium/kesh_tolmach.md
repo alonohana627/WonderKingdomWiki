@@ -14,7 +14,7 @@ At the Trading Post, Kesh runs errands between his mother's stall and Corwell's 
 
 ### Korrin and the lookout
 
-Kesh's best friend is Korrin, the youngest son of the Kragvar chieftain. Their families share water on the terraces, and the boys met as small children hiding under the same cistern lid from their respective parents. Korrin climbs and Kesh talks, and between them they get into a remarkable amount of trouble.
+Kesh's best friend is Korrin, the youngest child of the Kragvar chieftain. Their families share water on the terraces, and the boys met as small children hiding under the same cistern lid from their respective parents. Korrin climbs and Kesh talks, and between them they get into a remarkable amount of trouble.
 
 Above the terraces they have a secret lookout, a ledge with a little stone wall the two of them built, where they watch for monsters coming up the canyons. So far they have mostly seen eagles. Kesh keeps a count of them with notches on a stick, which he learned from watching Korrin's mother keep her cistern tallies. He also keeps a second, much shorter stick, for things he cannot name. It has two notches, both for something moving on the far canyon bridge after dark.
 

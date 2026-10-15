@@ -2,7 +2,7 @@
 
 *The Coastal Town*
 
-Bain Harbour is a prosperous port on one coast of Veligor. It feels like a little of Selsior and a little of Kaldemor, with town life, cheerful craftsmanship and busy trade all meeting the sea.
+Bain Harbour is a prosperous port on the east coast of Veligor. It feels like a little of Selsior and a little of Kaldemor, with town life, cheerful craftsmanship and busy trade all meeting the sea.
 
 ## History
 
@@ -30,7 +30,7 @@ Since the Age of Disturbance began, the sea around Veligor has grown rougher and
 
 Bain Harbour is **not Selsior's port, nor Kaldemor's**. It is a town in its own right, with its own history, people and identity. What it shares with those towns is a feeling, not a chain of command, and it belongs to Wonder Kingdom on equal terms with every other settlement.
 
-It lies on the opposite side of the island from [Goa Harbour](goa-harbour.md). The two ports are very different, but they are friends, not rivals, and they hold a friendly boat race between them every summer that goes all the way around Veligor.
+It lies on the east coast, on the opposite side of the island from [Goa Harbour](goa-harbour.md) on the west. The two ports are very different, but they are friends, not rivals, and they hold a friendly boat race between them every summer that goes all the way around Veligor.
 
 ## Leadership Today
 
@@ -51,4 +51,4 @@ It lies on the opposite side of the island from [Goa Harbour](goa-harbour.md). T
     Everyone who lives here in the first release: [People of Bain Harbour](../people/bain-harbour/index.md).
 
 !!! abstract "Design notes"
-    New with this page: the fishing cove origin, Old Bain, the harbour council, the summer race around Veligor, and sea creatures stirred up by the Disturbance. Still open: which coast Bain Harbour is on.
+    New with this page: the fishing cove origin, Old Bain, the harbour council, the summer race around Veligor, and sea creatures stirred up by the Disturbance. Bain Harbour is on the east coast, as the game's world map has it.

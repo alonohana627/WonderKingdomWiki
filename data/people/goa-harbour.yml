@@ -72,7 +72,7 @@ npcs:
     place: Cliff Stairs
     age: adult
     personality: Steady, broad-shouldered and few-worded; he trusts a good rope more than a good speech.
-    story: Ruan leads the small watch that guards the cliff stairs and the paths down from the forest. Since the Disturbance began, creatures have started climbing the cliffs at night, and he wants more lanterns on the high landings.
+    story: Ruan leads the small watch that guards the cliff stairs and the paths down from the forest. Since the first climber three winters ago, creatures have come up the cliffs at night more and more often, and he wants more lanterns on the high landings.
 
   - id: moira_watch
     name: Moira

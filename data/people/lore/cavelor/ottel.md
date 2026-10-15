@@ -8,7 +8,7 @@ He collects interesting stones. He has dozens, sorted into boxes his father coun
 
 ### The trouble with the sun
 
-The trouble began when Doran came back from the surface last autumn and told everyone that the sun was bigger than the whole of Cavelor and brighter than every lantern in the city lit at once. Ottel thought about this very carefully and decided it was not possible. Nothing could be that big and still hang in the air. Nothing could be that bright without burning everyone up. He told Doran so, in front of Annick and three Wardens, and he has not changed his mind since.
+The trouble began when Doran came back from the surface last autumn and told everyone that the sun was bigger than the whole of Cavelor and brighter than every lantern in the city lit at once. Ottel thought about this very carefully and decided it was not possible. Nothing could be that big and still hang in the air. Nothing could be that bright without burning everyone up. He told Doran so, in front of Annick and three Wardens, and he has not changed his mind since, not even when the Swordmasters who come down to swear their oath in the Oath Hall agree with Doran.
 
 Doran, unfortunately, will not give up. Every time they meet, he has a new piece of evidence: the sunburn on his ears, the way surface people squint, the size of the shadows. Ottel answers every one of them. He has decided, privately, that if the sun is real he will give it his best stone, because something that big should have a present, and if it is not real he will keep the stone. Either way he wins.
 

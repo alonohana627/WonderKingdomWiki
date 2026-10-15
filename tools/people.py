@@ -232,7 +232,9 @@ class Registry:
         out = [f"# {n['name']}\n", f"*{n['title']}*\n"]
         facts = [["Town", f"[{self.towns[town]['name']}](../../towns/{town}.md)"], ["Where", n["place"]]]
         if not n.get("menu"):
-            facts += [["Role", ROLES[n["role"]]], ["Age", n["age"].title()]]
+            facts.append(["Role", ROLES[n["role"]]])
+            if n.get("kind") != "Child of the Tree":  # their age is an open question
+                facts.append(["Age", n["age"].title()])
             if n.get("family"):
                 facts.append(["Family", n["family"]])
             if n.get("kind"):

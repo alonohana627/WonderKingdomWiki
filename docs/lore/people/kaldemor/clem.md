@@ -31,7 +31,7 @@ His neighbour across the hedge is Hattie the beekeeper, Wilbur's wife, and her h
 
 ### Lia
 
-Everybody else has. Lia, the town guide, who meets every newcomer in the square and knows every piece of news before anyone else, has been courting Clem since last autumn's harvest dance. She asked him to dance while Jem the fiddler was playing, and he said yes before he had time to be frightened. Since then she walks out to the orchards most evenings with the day's news, and he listens to all of it, and he finds he likes the news far better when she is the one telling it. They both believe they are being discreet. Jem has already written a song about them, which Clem has begged him not to play.
+Everybody else has. Lia, the town guide, who greets every visitor in the square and knows every piece of news before anyone else, has been courting Clem since last autumn's harvest dance. She asked him to dance while Jem the fiddler was playing, and he said yes before he had time to be frightened. Since then she walks out to the orchards most evenings with the day's news, and he listens to all of it, and he finds he likes the news far better when she is the one telling it. They both believe they are being discreet. Jem has already written a song about them, which Clem has begged him not to play.
 
 He means to ask her a question one day, a large one, and he has been practising it on a pear tree. The pear tree is very encouraging.
 

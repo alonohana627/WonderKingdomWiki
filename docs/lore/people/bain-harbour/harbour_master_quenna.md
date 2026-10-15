@@ -35,7 +35,7 @@ Since they became skippers against each other, Bain Harbour has won nine races t
 
 ### Home
 
-Quenna is married to Ambrose, who draws the charts every captain sails by. Since the Disturbance began to touch the sea, the captains have brought him marks for places where something was seen in the water, and Quenna is one of very few people who knows about the separate chart he keeps locked in a drawer; she shares its worst marks with Iska each summer. Their son Jowan joined the Harbour Watch last spring and wants desperately to prove he did not get the post because of her. She knows he would rather be crewing in the race, and she has not yet decided whether to let him. She is also the one person Halloran, the captain of the Watch, has told why a watch now stands on the outer pier at night, and she has kept it to herself.
+Quenna is married to Ambrose, who draws the charts every captain sails by. Since the deep water turned strange, the captains have brought him marks for places where something was seen in the water, and Quenna is one of very few people who knows about the separate chart he keeps locked in a drawer; she shares its worst marks with Iska each summer. Their son Jowan joined the Harbour Watch last spring and wants desperately to prove he did not get the post because of her. She knows he would rather be crewing in the race, and she has not yet decided whether to let him. She is also the one person Halloran, the captain of the Watch, has told why a watch now stands on the outer pier at night, and she has kept it to herself.
 
 At the council she relies on Captain Corwin, Marisol the spice merchant and Ottilie, her clerk, and she trusts Mabyn, who keeps the hall door, with anything at all.
 

@@ -9,7 +9,6 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Children's Glade |
 | Role | Performer |
-| Age | Adult |
 | Kind | Child of the Tree |
 
 ## Personality

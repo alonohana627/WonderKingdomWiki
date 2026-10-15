@@ -21,7 +21,7 @@ Bartholomew is seventy-seven, the Master of the Royal Academy, and if you ask hi
 
 ### A shepherd's boy among the Magicians
 
-He did not grow up among books. He was a shepherd's son from the open downs north of the capital, and he came to Selsior at fourteen with a letter from a village schoolteacher and no idea what an academy was. The Royal Academy was founded by the city's first Magicians, and in those days it still felt to a farm boy like a house full of old wizards who all knew something he did not. He decided, within a week, that the way to catch up was to ask them all questions. He has never stopped.
+He did not grow up among books. He was a shepherd's son from the open downs beyond the capital, and he came to Selsior at fourteen with a letter from a village schoolteacher and no idea what an academy was. The Royal Academy was founded by the city's first Magicians, and in those days it still felt to a farm boy like a house full of old wizards who all knew something he did not. He decided, within a week, that the way to catch up was to ask them all questions. He has never stopped.
 
 He studied there for ten years and began teaching at twenty-four. He was a teacher for most of his life before the other masters made him Master of the Academy, twenty-one years ago, and he still teaches a class every season, because he says a Master who does not teach is just a man with a large office. His office is indeed large, and it is buried under papers, and somewhere in it is a chair for visitors that nobody has found in years.
 

@@ -9,7 +9,6 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Herb Gardens |
 | Role | Worker |
-| Age | Adult |
 | Kind | Child of the Tree |
 
 ## Personality

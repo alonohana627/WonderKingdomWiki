@@ -18,8 +18,8 @@ npcs:
     place: Town Square
     age: young
     game: lia
-    personality: Bright, quick and endlessly patient with newcomers, she answers the same question for the tenth time as if it were the first. She always knows the latest news in town before anyone else.
-    story: Lia meets every newcomer in the square and shows them the way to the Market, the Park and the fields beyond. She was the one who first spread word that the clock tower had stopped. She is courting Clem the orchard keeper and pretends nobody has noticed.
+    personality: Bright, quick and endlessly patient with visitors and young adventurers, she answers the same question for the tenth time as if it were the first. She always knows the latest news in town before anyone else.
+    story: Lia knows everyone in Kaldemor, greets every visitor in the square and shows them the way to the Market, the Park and the fields beyond. She was the one who first spread word that the clock tower had stopped. She is courting Clem the orchard keeper and pretends nobody has noticed.
 
   - id: tam
     name: Tam

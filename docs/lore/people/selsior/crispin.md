@@ -35,7 +35,7 @@ He has drafted five endings so far. In one the Balrog speaks. In another it neve
 
 ### The family business
 
-Crispin's wife is Rosamund, the most famous actress in Selsior, and their daughter Marigold has been on stage since she could walk. Rosamund is determined to play the Magician who wove the seal, which Crispin had always imagined as a quiet part, and which is getting less quiet with every draft. She will not share the stage with Percival, who wants the Savage warrior who held the Balrog at the Tree, and Crispin cannot see how to write the Last Stand without the two of them in it. Marigold, meanwhile, wants a part, any part, and has hinted that she knows where he keeps his discarded endings. Crispin loves all three of the people making his life impossible, and he writes better when he is anxious, so in a sense they are helping.
+Crispin's wife is Rosamund, the most famous actress in Selsior, and their daughter Marigold has been on stage since she could walk. Rosamund is determined to play the play's Magician, who stands for the Magicians who wove the seal together, which Crispin had always imagined as a quiet part, and which is getting less quiet with every draft. She will not share the stage with Percival, who wants the play's Savage warrior, standing for the whole front line that held the Balrog at the Tree, and Crispin cannot see how to write the Last Stand without the two of them in it. Marigold, meanwhile, wants a part, any part, and has hinted that she knows where he keeps his discarded endings. Crispin loves all three of the people making his life impossible, and he writes better when he is anxious, so in a sense they are helping.
 
 ### What he fears
 

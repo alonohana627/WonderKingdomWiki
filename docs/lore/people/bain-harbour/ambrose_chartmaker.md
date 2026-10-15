@@ -34,7 +34,7 @@ Their son, Jowan, joined the Harbour Watch last spring. He has his mother's need
 
 ### The locked drawer
 
-Since the Disturbance began to touch the sea, captains have been bringing Ambrose a new kind of mark: a place where something was seen in the water. A shape under the keel. A pale light far out. A net torn clean through. At first he added them to the ordinary charts, until he realised that frightened sailors were steering around them and missing the channels. So he started a separate chart, and he keeps it locked in a drawer in his workroom.
+Since the deep water turned strange, captains have been bringing Ambrose a new kind of mark: a place where something was seen in the water. A shape under the keel. A pale light far out. A net torn clean through. At first he added them to the ordinary charts, until he realised that frightened sailors were steering around them and missing the channels. So he started a separate chart, and he keeps it locked in a drawer in his workroom.
 
 Very few people know about it. Quenna does, and each summer she takes the worst of its marks to the race and shares them with Goa Harbour's First Warden. Some of the captains know, because they bring the marks. Ambrose does not know what the marks mean, and he refuses to guess on paper. He has noticed only that there are more of them each year, and that they seem to be creeping closer to the headland.
 

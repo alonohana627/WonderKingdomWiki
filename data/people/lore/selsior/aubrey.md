@@ -4,6 +4,8 @@ Aubrey is seventy-six, the oldest Grand Swordmaster in the Royal Guard, and most
 
 He came to the Knights' Court at eighteen, in the year King Bertram was crowned, a carpenter's son from the inner streets with long arms and no patience. He has said many times that he was the worst recruit of his intake and the only one too stubborn to leave. He earned the Swordsman's rank, then the Swordmaster's, and at thirty-five he passed the trial for Grand Swordmaster, the youngest in the Guard then. For the next three decades he was the finest blade at the Court and taught most of the warriors who now hold rank in it.
 
+He was already an old Grand Swordmaster when Queen Aveline made her alliance with Cavelor, and he went down the Upper Stair with the other serving Swordmasters and Grand Swordmasters to swear the new oath in the Oath Hall. He complained about his knees the whole way down and never once about the oath.
+
 He never married. He says the Court was his house and the recruits were noisy enough to count as children. He still keeps his old room off the cloister, and Helewise, the quartermaster, keeps his name on the roll because nobody has ever dared take it off.
 
 ### Rhys

@@ -8,7 +8,7 @@ He married Maili, a fisher from the coves, when he was young, and they had no ch
 
 ### The teacher
 
-If Varro has children, the wardens say, they are the pilots. He taught Iska when she was barely tall enough to see over a gunwale, a fierce little girl of seven who asked the same question until the water answered it. He taught Nessa too, who argued with every lesson and then did exactly what he said. He is proud of both of them and has told neither, though he did vote for Iska when the wardens chose their First Warden, and he made sure Nessa knew he thought it a near thing.
+If Varro has children, the wardens say, they are the pilots. He taught Iska when she was barely tall enough to see over a gunwale, a fierce little girl of seven who asked the same question until the water answered it. He taught Nessa too, who argued with every lesson and then did exactly what he said. He is proud of both of them and has told neither, though he did speak for Iska when the wardens chose their First Warden, and he made sure Nessa knew he thought it a near thing.
 
 Ysmay, Iska's mother, served beside him for forty years, and they are old friends in the way of people who have shouted at each other across a deck in a gale. These days she criticises the pilots from her window above the Cliff Stairs and he criticises them from the end of the quay, and they compare notes. Ailsa, the keeper of the Tide Book, is the other old colleague left from his early years. He trusts her memory more than his own.
 
@@ -24,4 +24,4 @@ The water is not behaving. Nothing Varro can point to, nothing he could write in
 
 ### Hooks
 
-Varro would trust a capable stranger to row him out to the mouth of the gap at slack water, so he can look at the eddies close to for the first time in five years. A quest might also carry his questions to Ailsa, or test a line through the gap that only he remembers.
+Varro would trust someone capable to row him out to the mouth of the gap at slack water, so he can look at the eddies close to for the first time in five years. A quest might also carry his questions to Ailsa, or test a line through the gap that only he remembers.

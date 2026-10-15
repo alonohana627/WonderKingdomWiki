@@ -12,9 +12,9 @@ What nobody would believe is that Percival thinks Rosamund is the finest actress
 
 ### The Savage warrior
 
-Crispin is writing a play of the whole Balrog War, and Percival wants one part in it more than he has ever wanted anything: the Savage warrior who held the Balrog at the Tree, who stood in the front line for days so the Magicians could weave the seal. He has read every account of the Last Stand that the Academy will lend an actor, and has found that none of them agree. He has been running up the Row's stairs before breakfast to build his chest, and has twice been to the plaza to watch the Midbarium envoys walk, to learn how a highlander stands.
+Crispin is writing a play of the whole Balrog War, and Percival wants one part in it more than he has ever wanted anything: the play's Savage warrior, who stands for the whole front line that held the Balrog at the Tree for days so the Magicians could weave the seal. He has read every account of the Last Stand that the Academy will lend an actor, and has found that none of them agree. He has been running up the Row's stairs before breakfast to build his chest, and has twice been to the plaza to watch the Midbarium envoys walk, to learn how a highlander stands.
 
-The trouble is that Rosamund wants to play the Magician who wove the seal, will not share a stage with him, and Crispin cannot see how to write the Last Stand without both. Percival has, for the first time in his life, considered asking Rosamund what she would need from him to make it work. He has not yet done it. He is working on it.
+The trouble is that Rosamund wants to play the play's Magician, who stands for the Magicians who wove the seal, will not share a stage with him, and Crispin cannot see how to write the Last Stand without both. Percival has, for the first time in his life, considered asking Rosamund what she would need from him to make it work. He has not yet done it. He is working on it.
 
 ### What he wants and fears
 

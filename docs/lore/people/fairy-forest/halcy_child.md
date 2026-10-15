@@ -9,7 +9,6 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Children's Glade |
 | Role | Merchant |
-| Age | Adult |
 | Kind | Child of the Tree |
 | Sells | Woven baskets and glade-flower garlands |
 

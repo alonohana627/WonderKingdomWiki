@@ -21,7 +21,7 @@
 - Advance to [Swordmaster](../jobs/swordmaster.md)
 
 !!! note "Placeholder"
-    A stand-in until the higher fields exist: it asks for the strongest monsters there are today, the Greenwood Clearing's. Its hunt moves to the region of level 70 when that is built (IMPL 9.4-9.5).
+    A stand-in until the higher fields exist: it asks for the strongest monsters there are today, the Greenwood Clearing's. Its hunt moves to the region of level 70 when that is built (WORLD M5).
 
 ??? quote "Dialogue"
 

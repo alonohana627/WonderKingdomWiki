@@ -20,6 +20,8 @@ For most of fifty years, the surface listened kindly and did little. The old kin
 
 She has kept that promise. Their letters have passed each month since, she has come down twice more, and four years ago Marrun went up to Selsior for the first and only time, stood under the Great Bell and found the sky far too large. He says she is the first person on the surface who listened to him to the end. He worries that she carries too much, and that he is the one who keeps handing it to her.
 
+The alliance brought something else down the Upper Stair. Since that first year, every warrior of the Royal Guard who passes the Swordmaster's trial comes down to the Oath Hall to swear the Swordmaster's oath before the Keeper: to stand with the guardians if the seal ever fails, and to carry Cavelor's warnings to the surface. Marrun hears every one of those oaths himself. He watches each young Swordmaster's face when they first see the Deep Watch, and he keeps a page in his own hand of every name that has sworn.
+
 ### What he fears
 
 Marrun fears the day he has to send word that a letter cannot answer. He does not know how long the seal will hold, or what might mend it, and he will not pretend otherwise.

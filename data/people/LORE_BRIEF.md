@@ -54,7 +54,7 @@ No `#` or `##` headings. No emojis.
   lore; then record it.
 - **Open questions stay open** (lore principle 20): the Balrog's nature, how
   to fix the seal, the Children of the Tree's nature and appearance, how the
-  monarch is chosen, which coast each harbour is on, and the rest listed in the
+  monarch is chosen, and the rest listed in the
   pages' design notes. Characters may wonder, guess or fear; they may not know.
 - Agree with each NPC's short `story` and `personality`; expand them, don't
   replace them.

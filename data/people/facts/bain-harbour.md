@@ -122,7 +122,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Joined the Harbour Watch at 22 (25 years ago); captain 11 years. The Watch is a handful of people; has a launch built by Dunstan. Halloran is unmarried.
 - Drinks at the end of the Salt and Bread bar nearest the door.
 - Outer pier secret (told only to Quenna): one morning this spring at low tide he found the Watch's launch hanging from a mooring line pulled taut straight down, and long fresh grooves in the pilings below the waterline. Line went slack before help came. Has posted a night watch on the outer pier since and stands most of it himself.
-- Refused Jowan the outer pier watch 3 times so as not to put Quenna's son over that water (Quenna knows what is under it). Quenna's lore states she keeps the secret. Has not told Delphine; has not asked Brisa for her list.
+- Refused Jowan the outer pier watch 3 times so as not to put Quenna's son over that water (Quenna knows what he found). Quenna's lore states she keeps the secret. Has not told Delphine; has not asked Brisa for her list.
 
 ## Keziah (keziah)
 

@@ -90,7 +90,7 @@ npcs:
     place: Upper Stair
     age: young
     personality: Bright, restless and impossible to keep quiet about the sky. He squints at every lantern now and calls it "almost as good as noon".
-    story: Doran went up with one of Marrun's messengers last year and saw the sun, the sea of grass and the towns of the surface for the first time. He loves all of it, and he feels guilty about how much he wants to go back while the seal grows weaker below.
+    story: Doran went up with one of Marrun's messengers last year and saw the sun, the sea of grass and Selsior for the first time. He loves all of it, and he feels guilty about how much he wants to go back while the seal grows weaker below.
 
   - id: varn_tunnelscout
     name: Varn

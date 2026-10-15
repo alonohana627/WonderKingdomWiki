@@ -20,7 +20,7 @@ A few weeks later, about three hundred people walked out of Selsior's gates toge
 
 ### The Empty City
 
-The Walkers did not build Urbanograd from nothing. They settled in **Old Grad**, the ruins of a walled stronghold built by the Aristocrats in the Age of Division and abandoned after the founding of the kingdom, when nobody needed fortresses anymore. For generations it had stood empty: crumbling towers, roofless halls and a maze of narrow streets slowly being taken back by weeds.
+The Walkers did not build Urbanograd from nothing. They settled in **Old Grad**, in the west of the island: the ruins of a walled stronghold built by the Aristocrats in the Age of Division and abandoned after the founding of the kingdom, when nobody needed fortresses anymore. For generations it had stood empty: crumbling towers, roofless halls and a maze of narrow streets slowly being taken back by weeds.
 
 The Walkers saw something else in it. They patched the roofs with whatever they could find, strung lanterns between the towers, painted every bare wall and turned the old barracks into workshops, theatres and homes. They added the name the city still carries: **Urbanograd**, roughly "the city of Grad", half a joke about the grand old fortress and half a promise of what it would become.
 
@@ -73,4 +73,4 @@ Urbanograd still has no lord. Each year the Open Table chooses a **Caller** to c
     Everyone who lives here in the first release: [People of Urbanograd](../people/urbanograd/index.md).
 
 !!! abstract "Design notes"
-    The atmosphere is inspired by MapleStory's Kerning City. Juna Marrow, the Walkers, Old Grad, the Open Charter and the Open Table are new with this page. Still open: where on Veligor Urbanograd lies, and what the city looks like beyond its fortress core.
+    The atmosphere is inspired by MapleStory's Kerning City. Juna Marrow, the Walkers, Old Grad, the Open Charter and the Open Table are new with this page. Urbanograd lies in the west of the island, as the game's world map has it. Still open: what the city looks like beyond its fortress core.
