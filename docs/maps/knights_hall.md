@@ -11,8 +11,6 @@
 
 ## Exits
 
-- [Crown Market](../maps/selsior_market.md)
-- [Royal Plaza](../maps/selsior.md)
 - [Knights' Court](../maps/selsior_court.md)
 
 ## NPCs

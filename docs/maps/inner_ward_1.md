@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Crowncap](../monsters/crowncap.md) | 66 | 7 |
-| [Wallcreeper Cap](../monsters/wallcreeper_cap.md) | 61 | 10 |
+| [Crowncap](../monsters/crowncap.md) | 66 | 10 |
+| [Wallcreeper Cap](../monsters/wallcreeper_cap.md) | 61 | 14 |
 
 ## Gathering
 

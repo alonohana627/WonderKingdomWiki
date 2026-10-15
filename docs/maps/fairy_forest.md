@@ -12,23 +12,21 @@
 
 - [The Glimmer Path](../maps/glimmer_path.md)
 - [The Bloomwood](../maps/bloomwood.md)
+- [The Heart Tree](../maps/heart_tree.md)
 - [Children's Glade](../maps/childrens_glade.md)
-- [The Hushed Grove](../maps/hushed_grove.md)
 - [The Young Woods](../maps/young_woods.md)
-- [The Old Records](../maps/old_records.md)
+- [The Hushed Grove](../maps/hushed_grove.md)
 - [Grove School](../maps/grove_school.md)
-- [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md)
 - [Hesper's Cottage](../maps/hesper_cottage.md)
 - [The Dewdrop Tea House](../maps/dewdrop_tea_house.md)
 - [Celandine's Remedy House](../maps/remedy_house.md)
 - [Galen's Staves and Scrolls](../maps/galens_shop.md)
-- [The Oldest Home](../maps/oriels_old_home.md)
 - [Merrow and Celandine's Home](../maps/gardeners_home.md)
 - [Ondine's Lantern Workshop](../maps/lantern_workshop.md)
 
 ## NPCs
 
-- [Forest Cab](../npcs/fairy_forest_cab.md) (Taxi)
+- [Wren](../npcs/fairy_forest_cab.md) (Wing-Courier)
 - [Seren](../npcs/seren_warden.md) (Warden of the Forest Edge)
 - [Thorne](../npcs/thorne_guard.md) (Edge Guard)
 - [Kestrel](../npcs/kestrel_adventurer.md) (Wandering Magician)
@@ -44,10 +42,3 @@
 - [Faelan](../npcs/faelan_apprentice.md) (Lantern-maker's Apprentice)
 - [Vesper](../npcs/vesper_lanternseller.md) (Lantern Seller)
 - [Lyra](../npcs/lyra_singer.md) (Singer of the Old Songs)
-- [Linnet](../npcs/linnet_treewright.md) (Keeper of Living Homes)
-- [Oriel](../npcs/oriel_treewright.md) (Master Treewright)
-- [Ilwen](../npcs/ilwen_steward.md) (Steward of the Heart Tree)
-
-## Discoveries
-
-- [The Heart Tree's Crown](../world/discoveries.md#heart-tree-crown)

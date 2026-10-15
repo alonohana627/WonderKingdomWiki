@@ -12,8 +12,6 @@
 ## Exits
 
 - [Royal Plaza](../maps/selsior.md)
-- [A Market House](../maps/market_house.md)
-- [The Captain's Hall](../maps/knights_hall.md)
 - [Selene's Forge](../maps/selenes_forge.md)
 
 ## NPCs

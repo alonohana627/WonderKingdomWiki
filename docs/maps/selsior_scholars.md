@@ -12,8 +12,8 @@
 ## Exits
 
 - [Royal Plaza](../maps/selsior.md)
-- [The Academy Library](../maps/academy_library.md)
 - [Prudence's Workshop](../maps/alchemists_workshop.md)
+- [The Academy Library](../maps/academy_library.md)
 
 ## NPCs
 

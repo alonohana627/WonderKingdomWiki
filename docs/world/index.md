@@ -137,11 +137,7 @@ Lore: [Selsior](../lore/towns/selsior.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
-| [A Lane House](../maps/old_quarter_house_a.md) | Town | - | - |
-| [A Lane House](../maps/old_quarter_house_b.md) | Town | - | - |
-| [A Market House](../maps/market_house.md) | Town | - | - |
-| [A Riverside House](../maps/riverside_house_a.md) | Town | - | - |
-| [A Riverside House](../maps/riverside_house_b.md) | Town | - | - |
+| [An Empty House](../maps/old_quarter_house_a.md) | Town | - | - |
 | [Crown Market](../maps/selsior_market.md) | Town | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - |
@@ -155,6 +151,7 @@ Lore: [Selsior](../lore/towns/selsior.md)
 | [The Academy Library](../maps/academy_library.md) | Town | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - |
 | [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - |
+| [The Dyer's House](../maps/riverside_house_b.md) | Town | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - |
 | [The Gilded Stage](../maps/gilded_stage.md) | Town | - | - |
@@ -209,6 +206,7 @@ Lore: [Fairy Forest](../lore/towns/fairy-forest.md)
 | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Town | - | 0 |
 | [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | Town | - | 0 |
 | [The Glade's Story House](../maps/glade_book_house.md) | Town | - | 0 |
+| [The Heart Tree](../maps/heart_tree.md) | Town | - | 0 |
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Town | - | 0 |
 | [The Old Records](../maps/old_records.md) | Town | - | 0 |
 | [The Oldest Home](../maps/oriels_old_home.md) | Town | - | 0 |
@@ -413,7 +411,7 @@ A taxi ride between towns costs 150 mesos.
 |---|---|---|
 | Bain Harbour | `harbour_cabman` | [Bain Harbour](../maps/bain_harbour.md) |
 | Kaldemor | [Pell](../npcs/pell.md) | [Kaldemor](../maps/kaldemor.md) |
-| Fairy Forest | [Forest Cab](../npcs/fairy_forest_cab.md) | [Fairy Forest](../maps/fairy_forest.md) |
+| Fairy Forest | [Wren](../npcs/fairy_forest_cab.md) | [Fairy Forest](../maps/fairy_forest.md) |
 | Selsior | [Tilda](../npcs/tilda.md) | [Selsior Gate](../maps/selsior_gate.md) |
 | Midbarium | [Ennek](../npcs/ennek_tolmach.md) | [Midbarium](../maps/midbarium.md) |
 | Urbanograd | [Gate Walk Carter](../npcs/urbanograd_carter.md) | [Urbanograd](../maps/urbanograd.md) |

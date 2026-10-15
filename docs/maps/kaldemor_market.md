@@ -12,7 +12,6 @@
 ## Exits
 
 - [Kaldemor](../maps/kaldemor.md)
-- [Kaldemor](../maps/kaldemor.md)
 - [Mushroom Park](../maps/kaldemor_park.md)
 - [Gareth's Smithy](../maps/gareths_smithy.md)
 - [Hilda's Storehouse](../maps/hildas_storehouse.md)
