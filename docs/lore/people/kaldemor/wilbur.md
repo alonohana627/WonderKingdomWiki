@@ -10,6 +10,7 @@
 | Where | Farms |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Wilbur](../../../npcs/wilbur.md) |
 
 ## Personality
 

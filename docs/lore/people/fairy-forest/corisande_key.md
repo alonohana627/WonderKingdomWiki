@@ -10,6 +10,7 @@
 | Where | Lantern Paths |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Corisande](../../../npcs/corisande_key.md) |
 
 ## Personality
 

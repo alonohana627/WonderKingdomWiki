@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Official |
 | Age | Elder |
+| In the game | [Osbert](../../../npcs/osbert.md) |
 
 ## Personality
 

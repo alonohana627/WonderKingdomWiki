@@ -11,6 +11,7 @@
 | Role | Ruler |
 | Age | Elder |
 | Family | Brenna |
+| In the game | [Odda](../../../npcs/odda_brenna.md) |
 
 ## Personality
 

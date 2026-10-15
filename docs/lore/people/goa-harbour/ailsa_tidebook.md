@@ -10,6 +10,7 @@
 | Where | Wardens' House |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Ailsa](../../../npcs/ailsa_tidebook.md) |
 
 ## Personality
 

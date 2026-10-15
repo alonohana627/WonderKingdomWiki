@@ -12,6 +12,7 @@
 
 ## How to get
 
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 40 mesos
 - Made with [Cooking](../professions/cooking.md) (level 1)
 
 ## Used for

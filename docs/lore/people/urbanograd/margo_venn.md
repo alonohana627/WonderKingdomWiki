@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Gadgets, spring-traps and sparking lamps |
+| In the game | [Margo 'Sparks' Venn](../../../npcs/margo_venn.md) |
 
 ## Personality
 

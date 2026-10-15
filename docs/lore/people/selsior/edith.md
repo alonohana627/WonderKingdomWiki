@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Edith](../../../npcs/edith.md) |
 
 ## Personality
 

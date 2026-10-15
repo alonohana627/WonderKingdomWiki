@@ -9,12 +9,12 @@
 | Type | Equipment |
 | Slot | Bottom |
 | Required level | 10 |
-| Stats | Defense +16 |
+| Stats | Defense +12 |
 | Upgrade slots | 8 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (0.3%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos

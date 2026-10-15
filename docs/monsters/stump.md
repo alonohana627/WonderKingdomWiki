@@ -5,18 +5,19 @@
 |  |  |
 |---|---|
 | Level | 10 |
-| HP | 130 |
-| EXP | 22 |
+| HP | 286 |
+| EXP | 20 |
 | Touch damage | 36 |
-| Defense / Magic Defense | 20 / 20 |
+| Defense / Magic Defense | 100 / 100 |
 | Aggressive | No |
 
 ## Where to find
 
-- [Greenwood Clearing](../maps/greenwood_clearing.md)
-- [Kaldemor Reach](../maps/royal_road_1.md)
-- [The Crossing](../maps/royal_road_2.md)
-- [Selsior Approach](../maps/royal_road_3.md)
+- [The Glimmer Path](../maps/glimmer_path.md)
+- [Kaldemor Hills](../maps/kaldemor_hills.md)
+- [The Crossing](../maps/the_crossing.md)
+- [The Greenwood](../maps/the_greenwood.md)
+- [The Rootlands](../maps/rootlands.md)
 
 ## Drops
 
@@ -26,9 +27,9 @@
 | [Tree Branch](../items/tree_branch.md) | 55% | 1 |
 | [Red Potion](../items/red_potion.md) | 6% | 1 |
 | [Orange Potion](../items/orange_potion.md) | 2% | 1 |
-| [Scroll for Shoes for Jump 100%](../items/scroll_shoes_jump.md) | 0.4% | 1 |
-| [Scroll for One-Handed Axe for ATT 100%](../items/scroll_one_handed_axe_att.md) | 0.3% | 1 |
-| [Scroll for Two-handed Axe for ATT 100%](../items/scroll_two_handed_axe_att.md) | 0.3% | 1 |
+| [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) | 0.4% | 1 |
+| [Scroll for One-Handed Axe for ATT 60%](../items/scroll_one_handed_axe_att.md) | 0.3% | 1 |
+| [Scroll for Two-handed Axe for ATT 60%](../items/scroll_two_handed_axe_att.md) | 0.3% | 1 |
 | [Long Sword](../items/long_sword.md) | 0.2% | 1 |
 | [Steel Axe](../items/steel_axe.md) | 0.2% | 1 |
 | [Viking Sword](../items/viking_sword.md) | 0.1% | 1 |
@@ -46,3 +47,8 @@
 | [Waist Warmer](../items/waist_warmer.md) | 0.1% | 1 |
 | [Ring of Alchemist](../items/ring_of_alchemist.md) | 0.08% | 1 |
 | [Ring of Moon Stone: 1 Carat](../items/ring_of_moon_stone_1.md) | 0.06% | 1 |
+
+## Quests
+
+- [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md)
+- [Bounty: The Rootlands](../quests/edric_bounty_rootlands.md)

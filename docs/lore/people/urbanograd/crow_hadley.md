@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Healing tonics, mana draughts and remedies |
+| In the game | [Crow](../../../npcs/crow_hadley.md) |
 
 ## Relationships
 

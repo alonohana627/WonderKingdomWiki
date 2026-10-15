@@ -10,6 +10,7 @@
 | Where | Shipyard |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Alwyn](../../../npcs/alwyn.md) |
 
 ## Personality
 

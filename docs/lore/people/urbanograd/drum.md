@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Drum](../../../npcs/drum.md) |
 
 ## Personality
 

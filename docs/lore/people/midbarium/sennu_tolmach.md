@@ -11,6 +11,7 @@
 | Role | Ruler |
 | Age | Adult |
 | Family | Tolmach |
+| In the game | [Sennu](../../../npcs/sennu_tolmach.md) |
 
 ## Personality
 

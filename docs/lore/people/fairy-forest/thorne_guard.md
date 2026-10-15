@@ -10,6 +10,7 @@
 | Where | Forest Edge |
 | Role | Guard |
 | Age | Young |
+| In the game | [Thorne](../../../npcs/thorne_guard.md) |
 
 ## Personality
 

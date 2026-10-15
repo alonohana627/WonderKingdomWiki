@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Bartholomew](../../../npcs/bartholomew.md) |
 
 ## Personality
 

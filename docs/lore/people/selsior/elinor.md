@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Resident |
 | Age | Young |
+| In the game | [Elinor](../../../npcs/elinor.md) |
 
 ## Personality
 

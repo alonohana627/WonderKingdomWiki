@@ -24,7 +24,13 @@ Skill numbers come from formulas of the skill level; each table below works them
 | [Heavenly Severance](../skills/sword_saint.md#heavenly-severance) | Sword Saint | Attack | 30 | A cut from the sky that parts the field in two: everything far in front of you falls to it, wave after wave. |
 | [Infinite Blade Dance](../skills/sword_saint.md#infinite-blade-dance) | Sword Saint | Attack | 30 | A swarm of blades answers your sword and dances through every enemy near you, again and again. |
 | [Warrior's Resolve](../skills/buffs.md#warriors-resolve) | Buff | Buff | 1 | Steel yourself for the fight. Using it again starts the time over. |
+| [Courier's Stride](../skills/tutors.md#couriers-stride) | Taught | Buff | 1 | A royal courier's burst of running speed, taught by Perrin: for a few breaths you run faster than any boots allow, then it needs a moment. |
+| [Rooftop Dash](../skills/tutors.md#rooftop-dash) | Taught | Rush | 1 | Kite's rooftop trick: a low, fast burst along the ground that stops at the edge, the way the runners cross a roof before the next gap. |
+| [Sure Footing](../skills/tutors.md#sure-footing) | Taught | Passive | 1 | Ennek's lesson on the canyon ledges: plant your feet and lean into the rock. A hit throws you back far less, and never off a rope or ladder. |
+| [Sea Legs](../skills/tutors.md#sea-legs) | Taught | Passive | 1 | Garrow's dockhands' trick: keep your footing on anything that moves, and be up again before a second blow lands. |
+| [Blink](../skills/tutors.md#blink) | Taught | Blink | 1 | Step forward in the blink of an eye, the way you face: the Grove School teaches it to anyone patient enough to sit through a listening lesson. It never passes a wall. |
 | [Rope Up](../skills/tutors.md#rope-up) | Taught | Rise | 1 | Throw yourself up onto the rope, ladder or ledge above. |
+| [Rope Slide](../skills/tutors.md#rope-slide) | Taught | Slide | 1 | On a rope or ladder: let go of everything but the rope and slide down it fast, off its end. |
 | [Snail Hide](../skills/passives.md#snail-hide) | Passive | Passive | 1 | A hundred snails taught you where it hurts least. |
 | [Mushroom Lore](../skills/passives.md#mushroom-lore) | Passive | Passive | 1 | You know the woods' mushrooms by their smell, and it clears your head. |
 | [Pig Sense](../skills/passives.md#pig-sense) | Passive | Passive | 1 | You can tell where a pig will charge before it does. |
@@ -36,3 +42,10 @@ Skill numbers come from formulas of the skill level; each table below works them
 | [Roadwise](../skills/passives.md#roadwise) | Passive | Passive | 1 | The royal road has shown you its crossings and its hiding places; little on it surprises you. |
 | [Capital Eyes](../skills/passives.md#capital-eyes) | Passive | Passive | 1 | You see the capital the way its guards do: where a hand is going before it moves. |
 | [Pathfinder](../skills/passives.md#pathfinder) | Passive | Passive | 1 | Five finds have taught you what a hidden place looks like from the outside. |
+| [Highland Lungs](../skills/passives.md#highland-lungs) | Passive | Passive | 1 | You have walked the high ridges until the thin air stopped bothering you. |
+| [Warden-Friend](../skills/passives.md#warden-friend) | Passive | Passive | 1 | The wardens of the sea count you as one of their own, and it steadies you. |
+| [Cave Sense](../skills/passives.md#cave-sense) | Passive | Passive | 1 | You know which way the water moves in a dark place, and which way out. |
+| [Brush and Sinew](../skills/passives.md#brush-and-sinew) | Passive | Passive | 1 | Two hundred foxes taught you to watch the dust, not the fox. |
+| [Climbers' Grip](../skills/passives.md#climbers-grip) | Passive | Passive | 1 | You have pulled enough newts off the cliffs to keep your own feet on them. |
+| [Salt-Hardened](../skills/passives.md#salt-hardened) | Passive | Passive | 1 | Stone and weed and salt water have made you hard to move. |
+| [Gap Inn Regular](../skills/passives.md#gap-inn-regular) | Passive | Passive | 1 | Bethoc keeps a bowl of stew back for you, and a seat by the fire. |

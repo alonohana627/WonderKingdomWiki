@@ -18,3 +18,9 @@
 | [Tonic](../items/tonic.md) | weakness |
 | [Holy Water](../items/holy_water.md) | curse, seal |
 | [All Cure Potion](../items/all_cure_potion.md) | poison, seal, darkness, weakness, curse |
+| [Sting Salve](../items/sting_salve.md) | poison |
+| [Mintleaf Salve](../items/mintleaf_salve.md) | poison, bleeding |
+| [Sea-Herb Tonic](../items/sea_herb_tonic.md) | poison |
+| [Bluecap Poultice](../items/bluecap_poultice.md) | poison |
+| [Spore Draught](../items/spore_draught.md) | poison, slow |
+| [Bonesetter's Draught](../items/bonesetters_draught.md) | poison |

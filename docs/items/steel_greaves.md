@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Shoe |
 | Required level | 10 |
-| Stats | Defense +10, Speed +10, Jump +5 |
+| Stats | Defense +8, Speed +10, Jump +5 |
 | Upgrade slots | 6 |
 | Sells for | 250 mesos |
 
@@ -17,5 +17,13 @@
 
 - Dropped by [The Snail King](../bosses/snail_king.md) (Hard) (10%)
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.2%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
+- Dropped by [Bog-Lurcher](../monsters/bog_lurcher.md) (0.075%)
+- Dropped by [Pool Octopus](../monsters/pool_octopus.md) (0.075%)
+- Dropped by [Seep Toad](../monsters/seep_toad.md) (0.075%)
+- Dropped by [Stack Rat](../monsters/stack_rat.md) (0.075%)
+- Dropped by [Verge Adder](../monsters/verge_adder.md) (0.075%)
+- Dropped by [Young Gloomeye](../monsters/young_gloomeye.md) (0.075%)
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
+- Sold at [Simkin's Boots](../shops/simkin_boots.md) for 500 mesos
+- Sold at [Cobble's Boots](../shops/urbanograd_cobble.md) for 500 mesos

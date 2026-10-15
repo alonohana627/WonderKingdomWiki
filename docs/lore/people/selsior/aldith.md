@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Healer |
 | Age | Elder |
+| In the game | [Aldith](../../../npcs/aldith.md) |
 
 ## Personality
 

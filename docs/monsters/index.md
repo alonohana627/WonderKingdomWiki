@@ -2,23 +2,200 @@
 
 # Monsters
 
-| Monster | Level | HP | EXP | Touch damage | Found in |
-|---|---|---|---|---|---|
-| [Snail](../monsters/snail.md) | 1 | 15 | 3 | 8 | [Kaldemor Field](../maps/kaldemor_field.md) |
-| [Blue Snail](../monsters/blue_snail.md) | 2 | 20 | 4 | 10 | [Kaldemor Field](../maps/kaldemor_field.md) |
-| [Shroom](../monsters/shroom.md) | 2 | 25 | 5 | 12 | [Kaldemor Woods](../maps/kaldemor_woods.md) |
-| [Red Snail](../monsters/red_snail.md) | 4 | 45 | 8 | 14 | [Kaldemor Field](../maps/kaldemor_field.md), [Kaldemor Hills](../maps/kaldemor_hills.md) |
-| [Pig](../monsters/pig.md) | 7 | 90 | 14 | 25 | [Kaldemor Hills](../maps/kaldemor_hills.md), [Kaldemor Reach](../maps/royal_road_1.md) |
-| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 80 | 15 | 28 | [Kaldemor Woods](../maps/kaldemor_woods.md), [Kaldemor Reach](../maps/royal_road_1.md) |
-| [Stump](../monsters/stump.md) | 10 | 130 | 22 | 36 | [Greenwood Clearing](../maps/greenwood_clearing.md), [Kaldemor Reach](../maps/royal_road_1.md), [The Crossing](../maps/royal_road_2.md), [Selsior Approach](../maps/royal_road_3.md) |
-| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 150 | 26 | 42 | [Greenwood Clearing](../maps/greenwood_clearing.md), [The Crossing](../maps/royal_road_2.md), [Selsior Approach](../maps/royal_road_3.md) |
-| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 230 | 36 | 52 | [Greenwood Clearing](../maps/greenwood_clearing.md) |
-| [Mano](../monsters/mano.md) | 15 | 6,000 | 2,000 | 38 | - |
-| [Axe Stump](../monsters/axe_stump.md) | 21 | 360 | 56 | 74 | [Greenwood Clearing](../maps/greenwood_clearing.md) |
+| Monster | Level | HP | EXP | Touch damage | Towns | Found in |
+|---|---|---|---|---|---|---|
+| [Snail](../monsters/snail.md) | 1 | 40 | 1 | 8 | [Kaldemor](../towns/kaldemor.md) | [Kaldemor Field](../maps/kaldemor_field.md) |
+| [Blue Snail](../monsters/blue_snail.md) | 2 | 53 | 1 | 10 | [Kaldemor](../towns/kaldemor.md) | [Kaldemor Field](../maps/kaldemor_field.md) |
+| [Shroom](../monsters/shroom.md) | 2 | 50 | 1 | 12 | [Kaldemor](../towns/kaldemor.md) | [Kaldemor Field](../maps/kaldemor_field.md), [Kaldemor Woods](../maps/kaldemor_woods.md) |
+| [Red Snail](../monsters/red_snail.md) | 4 | 80 | 2 | 14 | [Kaldemor](../towns/kaldemor.md) | [Kaldemor Field](../maps/kaldemor_field.md) |
+| [Pig](../monsters/pig.md) | 7 | 110 | 8 | 25 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md) | [Kaldemor Hills](../maps/kaldemor_hills.md), [The Crossing](../maps/the_crossing.md), [The Hedge Lanes](../maps/hedge_lanes.md) |
+| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 123 | 11 | 28 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md) | [Kaldemor Hills](../maps/kaldemor_hills.md), [Kaldemor Woods](../maps/kaldemor_woods.md), [The Hedge Lanes](../maps/hedge_lanes.md) |
+| [Orchard Snail](../monsters/orchard_snail.md) | 8 | 166 | 11 | 28 | [Kaldemor](../towns/kaldemor.md) | [The Cider Lanes](../maps/cider_lanes.md) |
+| [Orchard Pig](../monsters/orchard_pig.md) | 9 | 191 | 15 | 31 | [Kaldemor](../towns/kaldemor.md) | [The Cider Lanes](../maps/cider_lanes.md), [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
+| [Slime](../monsters/slime.md) | 9 | 137 | 15 | 36 | [Selsior](../towns/selsior.md), [Fairy Forest](../towns/fairy_forest.md) | [The Forest's Hem](../maps/forests_hem.md), [The Glimmer Path](../maps/glimmer_path.md), [The Hedge Lanes](../maps/hedge_lanes.md) |
+| [Marsh Slime](../monsters/marsh_slime.md) | 10 | 235 | 20 | 34 | [Kaldemor](../towns/kaldemor.md) | [The Greenmarsh](../maps/the_greenmarsh.md) |
+| [Mud Octopus](../monsters/mud_octopus.md) | 10 | 252 | 20 | 34 | [Kaldemor](../towns/kaldemor.md) | [The Greenmarsh](../maps/the_greenmarsh.md) |
+| [Stump](../monsters/stump.md) | 10 | 286 | 20 | 36 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md), [Fairy Forest](../towns/fairy_forest.md) | [The Glimmer Path](../maps/glimmer_path.md), [Kaldemor Hills](../maps/kaldemor_hills.md), [The Crossing](../maps/the_crossing.md), [The Greenwood](../maps/the_greenwood.md), [The Rootlands](../maps/rootlands.md) |
+| [Bubbling](../monsters/bubbling.md) | 11 | 259 | 25 | 42 | [Fairy Forest](../towns/fairy_forest.md) | [The Bloomwood](../maps/bloomwood.md), [The Forest's Hem](../maps/forests_hem.md) |
+| [Reed Snake](../monsters/reed_snake.md) | 11 | 276 | 25 | 37 | [Kaldemor](../towns/kaldemor.md) | [The Greenmarsh](../maps/the_greenmarsh.md) |
+| [Ribbon Pig](../monsters/ribbon_pig.md) | 11 | 259 | 25 | 39 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md), [Goa Harbour](../towns/goa_harbour.md) | [Gorse Downs](../maps/gorse_downs.md), [The Crossing](../maps/the_crossing.md), [The Waystone Meadows](../maps/waystone_meadows.md) |
+| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 277 | 32 | 42 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md), [Fairy Forest](../towns/fairy_forest.md) | [The Glimmer Path](../maps/glimmer_path.md), [The Greenwood](../maps/the_greenwood.md), [The Waystone Meadows](../maps/waystone_meadows.md) |
+| [Shingle Crab](../monsters/shingle_crab.md) | 12 | 343 | 32 | 40 | [Kaldemor](../towns/kaldemor.md) | [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
+| [Glimmerwing](../monsters/glimmerwing.md) | 13 | 298 | 39 | 49 | [Fairy Forest](../towns/fairy_forest.md) | [The Bloomwood](../maps/bloomwood.md), [The Bloomwood, South](../maps/bloomwood_south.md) |
+| [Scrub Wolf](../monsters/scrub_wolf.md) | 13 | 369 | 39 | 49 | [Bain Harbour](../towns/bain_harbour.md) | [The Chalk Downs](../maps/chalk_downs.md) |
+| [Stack Rat](../monsters/stack_rat.md) | 14 | 339 | 48 | 54 | [Urbanograd](../towns/urbanograd.md) | [The Halfway Stone](../maps/halfway_stone.md) |
+| [Bluff Wildcat](../monsters/bluff_wildcat.md) | 15 | 418 | 58 | 56 | [Bain Harbour](../towns/bain_harbour.md) | [Baysight Hill](../maps/baysight_hill.md) |
+| [Dust Boggle](../monsters/dust_boggle.md) | 15 | 335 | 58 | 52 | [Midbarium](../towns/midbarium.md) | [The Canyon Road](../maps/canyon_road.md), [The South Path](../maps/south_path.md) |
+| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 358 | 58 | 52 | [Selsior](../towns/selsior.md) | [The Waystone Meadows](../maps/waystone_meadows.md) |
+| [Mano](../monsters/mano.md) | 15 | 6,000 | 2,000 | 38 | - | - |
+| [Pool Octopus](../monsters/pool_octopus.md) | 15 | 336 | 58 | 58 | [Urbanograd](../towns/urbanograd.md) | [The Halfway Stone](../maps/halfway_stone.md) |
+| [Ditch Eye](../monsters/ditch_eye.md) | 16 | 356 | 69 | 59 | [Goa Harbour](../towns/goa_harbour.md) | [Gorse Downs](../maps/gorse_downs.md) |
+| [Young Gloomeye](../monsters/young_gloomeye.md) | 16 | 356 | 69 | 61 | [Urbanograd](../towns/urbanograd.md) | [Gate Meadows](../maps/gate_meadows.md) |
+| [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) | 17 | 375 | 81 | 63 | [Fairy Forest](../towns/fairy_forest.md) | [The Bloomwood, South](../maps/bloomwood_south.md) |
+| [Dark Stump](../monsters/dark_stump.md) | 17 | 548 | 81 | 57 | [Selsior](../towns/selsior.md), [Urbanograd](../towns/urbanograd.md), [Goa Harbour](../towns/goa_harbour.md) | [Saltwood Road](../maps/saltwood_road.md), [The Rootlands](../maps/rootlands.md), [Western Descent](../maps/western_descent.md) |
+| [Dune Cat](../monsters/dune_cat.md) | 17 | 491 | 81 | 63 | [Bain Harbour](../towns/bain_harbour.md) | [The Dune Reach](../maps/dune_reach.md) |
+| [Lorang](../monsters/lorang.md) | 17 | 453 | 81 | 63 | [Goa Harbour](../towns/goa_harbour.md) | [The Gullwalk](../maps/gullwalk.md), [Seaward Woods](../maps/seaward_woods.md) |
+| [Ridge Stump](../monsters/ridge_stump.md) | 17 | 450 | 81 | 60 | [Midbarium](../towns/midbarium.md) | [The North Ridge](../maps/north_ridge.md), [The South Path](../maps/south_path.md) |
+| [Seep Toad](../monsters/seep_toad.md) | 17 | 375 | 81 | 64 | [Urbanograd](../towns/urbanograd.md) | [Seepwater Foothills](../maps/seepwater_foothills.md) |
+| [Verge Adder](../monsters/verge_adder.md) | 17 | 375 | 81 | 64 | [Urbanograd](../towns/urbanograd.md) | [Gate Meadows](../maps/gate_meadows.md) |
+| [Bog-Lurcher](../monsters/bog_lurcher.md) | 18 | 476 | 94 | 68 | [Urbanograd](../towns/urbanograd.md) | [Seepwater Foothills](../maps/seepwater_foothills.md) |
+| [Edge Lizard](../monsters/edge_lizard.md) | 18 | 420 | 94 | 63 | [Midbarium](../towns/midbarium.md) | [The Edgewood](../maps/edgewood.md) |
+| [Lupin](../monsters/lupin.md) | 18 | 422 | 94 | 66 | [Goa Harbour](../towns/goa_harbour.md) | [Seaward Woods](../maps/seaward_woods.md) |
+| [Zombie Mushroom](../monsters/zombie_mushroom.md) | 18 | 395 | 94 | 66 | [Goa Harbour](../towns/goa_harbour.md) | [Saltwood Road](../maps/saltwood_road.md) |
+| [Firefly Slime](../monsters/firefly_slime.md) | 19 | 414 | 109 | 70 | [Fairy Forest](../towns/fairy_forest.md) | [Shimmerwater, the First Path](../maps/shimmerwater_path_1.md), [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) |
+| [Grey Tom](../monsters/grey_tom.md) | 19 | 603 | 109 | 70 | [Bain Harbour](../towns/bain_harbour.md) | [The Long Sands](../maps/long_sands.md) |
+| [Kestrel](../monsters/kestrel.md) | 19 | 414 | 109 | 70 | [Goa Harbour](../towns/goa_harbour.md) | [The Gullwalk](../maps/gullwalk.md) |
+| [Ligator](../monsters/ligator.md) | 19 | 500 | 109 | 70 | [Goa Harbour](../towns/goa_harbour.md) | [Dusk Ford](../maps/dusk_ford.md) |
+| [Snapping Lizard](../monsters/snapping_lizard.md) | 19 | 440 | 109 | 66 | [Midbarium](../towns/midbarium.md) | [The Young Woods](../maps/young_woods.md) |
+| [Blind Bat](../monsters/blind_bat.md) | 20 | 605 | 124 | 73 | [Goa Harbour](../towns/goa_harbour.md) | [Gwenna's Drop](../maps/gwennas_drop.md), [The Long Echo](../maps/long_echo.md), [The Still Pool](../maps/still_pool.md) |
+| [Cave Crab](../monsters/cave_crab.md) | 20 | 730 | 124 | 73 | [Goa Harbour](../towns/goa_harbour.md) | [Gwenna's Drop](../maps/gwennas_drop.md), [The Mouths](../maps/sounding_mouths.md) |
+| [Cave Octopus](../monsters/cave_octopus.md) | 20 | 647 | 124 | 73 | [Goa Harbour](../towns/goa_harbour.md) | [Gwenna's Drop](../maps/gwennas_drop.md), [The Long Echo](../maps/long_echo.md), [The Still Pool](../maps/still_pool.md) |
+| [Dust Wisp](../monsters/dust_wisp.md) | 20 | 605 | 124 | 73 | [Fairy Forest](../towns/fairy_forest.md) | [The Hushed Grove](../maps/hushed_grove.md) |
+| [Glowjelly](../monsters/glowjelly.md) | 20 | 605 | 124 | 73 | [Goa Harbour](../towns/goa_harbour.md) | [The Long Echo](../maps/long_echo.md), [The Mouths](../maps/sounding_mouths.md), [The Still Pool](../maps/still_pool.md) |
+| [Jr. Necki](../monsters/jr_necki.md) | 20 | 605 | 124 | 73 | [Goa Harbour](../towns/goa_harbour.md) | [Dusk Ford](../maps/dusk_ford.md) |
+| [Axe Stump](../monsters/axe_stump.md) | 21 | 761 | 141 | 74 | [Selsior](../towns/selsior.md), [Midbarium](../towns/midbarium.md), [Urbanograd](../towns/urbanograd.md) | [The Long Ridge](../maps/long_ridge.md), [The Rootlands](../maps/rootlands.md), [Western Descent](../maps/western_descent.md) |
+| [Cave Bat](../monsters/cave_bat.md) | 21 | 628 | 141 | 76 | [Bain Harbour](../towns/bain_harbour.md) | [The Main Deck](../maps/saltgrace_deck.md), [The Rigging](../maps/saltgrace_rigging.md) |
+| [Rooting Piglet](../monsters/rooting_piglet.md) | 21 | 642 | 141 | 67 | [Kaldemor](../towns/kaldemor.md) | [The Boarwood](../maps/boarwood.md) |
+| [Wild Bee](../monsters/wild_bee.md) | 21 | 642 | 141 | 69 | [Selsior](../towns/selsior.md) | [Downs Edge](../maps/downs_edge.md), [The Thyme Banks](../maps/thyme_banks.md) |
+| [Bootcrab](../monsters/bootcrab.md) | 22 | 701 | 160 | 80 | [Bain Harbour](../towns/bain_harbour.md) | [The First Locks](../maps/first_locks.md), [The Pinch](../maps/the_pinch.md) |
+| [Drain Rat](../monsters/drain_rat.md) | 22 | 661 | 160 | 72 | [Selsior](../towns/selsior.md) | [The Old Drains](../maps/old_drains.md) |
+| [Drakeling](../monsters/drakeling.md) | 22 | 703 | 160 | 77 | [Midbarium](../towns/midbarium.md) | [The Cliff Gallery](../maps/cliff_gallery.md), [The Dustfall Mouth](../maps/dustfall_mouth.md) |
+| [Gnarled Stump](../monsters/gnarled_stump.md) | 22 | 794 | 160 | 77 | [Midbarium](../towns/midbarium.md) | [The Long Ridge](../maps/long_ridge.md), [Windworn Hill](../maps/windworn_hill.md) |
+| [Hedge Boar](../monsters/hedge_boar.md) | 22 | 733 | 160 | 70 | [Kaldemor](../towns/kaldemor.md) | [The Boarwood](../maps/boarwood.md) |
+| [Hull Louse](../monsters/hull_louse.md) | 22 | 656 | 160 | 80 | [Bain Harbour](../towns/bain_harbour.md) | [The Main Deck](../maps/saltgrace_deck.md), [The Main Deck, Aft](../maps/saltgrace_deck_aft.md), [The Lower Deck](../maps/saltgrace_lower_deck.md), [The Rigging](../maps/saltgrace_rigging.md) |
+| [Lampbat](../monsters/lampbat.md) | 22 | 659 | 160 | 82 | [Urbanograd](../towns/urbanograd.md) | [The Outworks: Tower Cellars](../maps/outworks_cellars.md), [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md), [The Outworks: Outer Ditch](../maps/outworks_ditch.md) |
+| [Shimmer Slime](../monsters/fairy_slime.md) | 22 | 659 | 160 | 80 | [Fairy Forest](../towns/fairy_forest.md) | [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) |
+| [Snapping Book](../monsters/snapping_book.md) | 22 | 705 | 160 | 80 | [Fairy Forest](../towns/fairy_forest.md) | [The Shadowed Grove](../maps/shadowed_grove.md), [The Stilled Grove](../maps/stilled_grove.md) |
+| [Wrack Boar](../monsters/wrack_boar.md) | 22 | 705 | 160 | 80 | [Goa Harbour](../towns/goa_harbour.md) | [Strandwood Edge](../maps/strandwood_edge.md) |
+| [Barnacle Crab](../monsters/barnacle_crab.md) | 24 | 858 | 201 | 87 | [Bain Harbour](../towns/bain_harbour.md) | [The Main Deck, Aft](../maps/saltgrace_deck_aft.md), [The Galley](../maps/saltgrace_galley.md), [The Holds](../maps/saltgrace_holds.md) |
+| [Cave Drake](../monsters/cave_drake.md) | 24 | 761 | 201 | 84 | [Midbarium](../towns/midbarium.md) | [The Cliff Gallery](../maps/cliff_gallery.md), [The Cold Draught](../maps/cold_draught.md) |
+| [Downs Boar](../monsters/downs_boar.md) | 24 | 836 | 201 | 78 | [Selsior](../towns/selsior.md) | [Downs Edge](../maps/downs_edge.md), [The Thyme Banks](../maps/thyme_banks.md) |
+| [Drain Stirge](../monsters/drain_stirge.md) | 24 | 715 | 201 | 78 | [Selsior](../towns/selsior.md) | [The Old Drains](../maps/old_drains.md) |
+| [Driftstump](../monsters/driftstump.md) | 24 | 861 | 201 | 87 | [Goa Harbour](../towns/goa_harbour.md) | [Strandwood Edge](../maps/strandwood_edge.md), [Strandwood Rocks](../maps/strandwood_rocks.md) |
+| [Flying Book](../monsters/flying_book.md) | 24 | 763 | 201 | 87 | [Fairy Forest](../towns/fairy_forest.md) | [The Hushed Grove](../maps/hushed_grove.md), [The Shadowed Grove](../maps/shadowed_grove.md) |
+| [Snapjaw](../monsters/snapjaw.md) | 24 | 760 | 201 | 87 | [Bain Harbour](../towns/bain_harbour.md) | [The First Locks](../maps/first_locks.md) |
+| [Cistern Bubbling](../monsters/cistern_bubbling.md) | 25 | 741 | 223 | 81 | [Selsior](../towns/selsior.md) | [The Cisterns](../maps/cisterns.md) |
+| [Gloomeye](../monsters/gloomeye.md) | 25 | 792 | 223 | 92 | [Urbanograd](../towns/urbanograd.md) | [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md), [The Outworks: Outer Ditch](../maps/outworks_ditch.md) |
+| [Strand Fox Cub](../monsters/strand_fox_cub.md) | 25 | 741 | 223 | 90 | [Goa Harbour](../towns/goa_harbour.md) | [Strandwood Rocks](../maps/strandwood_rocks.md) |
+| [Water Sprite](../monsters/water_sprite.md) | 25 | 792 | 223 | 90 | [Fairy Forest](../towns/fairy_forest.md) | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) |
+| [Bilge Eel](../monsters/bilge_eel.md) | 26 | 819 | 247 | 93 | [Bain Harbour](../towns/bain_harbour.md) | [The Galley](../maps/saltgrace_galley.md), [The Lower Deck](../maps/saltgrace_lower_deck.md) |
+| [Black Drain Rat](../monsters/black_drain_rat.md) | 26 | 768 | 247 | 84 | [Selsior](../towns/selsior.md) | [The Buried Street](../maps/buried_street.md), [The Cisterns](../maps/cisterns.md) |
+| [Dark Axe Stump](../monsters/dark_axe_stump.md) | 26 | 924 | 247 | 91 | [Midbarium](../towns/midbarium.md) | [The Broken Ground](../maps/broken_ground.md) |
+| [Frost Drake](../monsters/frost_drake.md) | 26 | 819 | 247 | 91 | [Midbarium](../towns/midbarium.md) | [The Chill Caves](../maps/chill_caves.md), [The Cold Draught](../maps/cold_draught.md) |
+| [Glass Jelly](../monsters/glass_jelly.md) | 26 | 819 | 247 | 93 | [Bain Harbour](../towns/bain_harbour.md) | [The Timber Ponds](../maps/timber_ponds.md) |
+| [Hollowmaw](../monsters/hollowmaw.md) | 26 | 18,000 | 9,000 | 109 | - | - |
+| [Ink Imp](../monsters/ink_imp.md) | 26 | 768 | 247 | 93 | [Fairy Forest](../towns/fairy_forest.md) | [The Shadowed Grove](../maps/shadowed_grove.md), [The Stilled Grove](../maps/stilled_grove.md) |
+| [Forest Sprite](../monsters/forest_sprite.md) | 27 | 850 | 273 | 97 | [Fairy Forest](../towns/fairy_forest.md) | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) |
+| [Strand Fox](../monsters/strand_fox.md) | 27 | 795 | 273 | 97 | [Goa Harbour](../towns/goa_harbour.md) | [Strandwood Rocks](../maps/strandwood_rocks.md) |
+| [Tusker](../monsters/tusker.md) | 27 | 1,084 | 273 | 85 | [Kaldemor](../towns/kaldemor.md) | [The Deep Boarwood](../maps/boarwood_deep.md) |
+| [Chalk Hive Bee](../monsters/chalk_hive_bee.md) | 28 | 1,088 | 300 | 90 | [Selsior](../towns/selsior.md) | [The Chalk Hives](../maps/chalk_hives.md) |
+| [Ditch Rat](../monsters/ditch_rat.md) | 28 | 879 | 300 | 103 | [Urbanograd](../towns/urbanograd.md) | [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) |
+| [Ironback Crab](../monsters/ironback_crab.md) | 28 | 992 | 300 | 100 | [Bain Harbour](../towns/bain_harbour.md) | [The Pinch](../maps/the_pinch.md), [The Timber Ponds](../maps/timber_ponds.md) |
+| [Pale Stump](../monsters/pale_stump.md) | 28 | 820 | 300 | 98 | [Midbarium](../towns/midbarium.md) | [The Broken Ground](../maps/broken_ground.md) |
+| [Tunnel Bat](../monsters/tunnel_bat.md) | 28 | 822 | 300 | 90 | [Selsior](../towns/selsior.md) | [The Buried Street](../maps/buried_street.md), [The Cisterns](../maps/cisterns.md) |
+| [Wreck Mimic](../monsters/wreck_mimic.md) | 28 | 992 | 300 | 100 | [Bain Harbour](../towns/bain_harbour.md) | [The Holds](../maps/saltgrace_holds.md), [The Lower Deck](../maps/saltgrace_lower_deck.md) |
+| [Gnarltusk](../monsters/gnarltusk.md) | 30 | 22,000 | 9,000 | 94 | - | - |
+| [Old Brushtail](../monsters/old_brushtail.md) | 30 | 24,880 | 14,320 | 107 | - | - |
+| [Old Gnarl](../monsters/old_gnarl.md) | 30 | 24,000 | 15,000 | 126 | - | - |
+| [Queen Amberwing](../monsters/queen_amberwing.md) | 30 | 23,052 | 14,301 | 158 | - | - |
+| [The Blightstone](../monsters/blightstone.md) | 30 | 30,098 | 12,530 | 139 | - | - |
+| [The Bootbreaker](../monsters/bootbreaker.md) | 30 | 30,030 | 12,530 | 139 | - | - |
+| [The Delver](../monsters/delver.md) | 30 | 23,052 | 14,301 | 158 | - | - |
+| [The Gloamwing](../monsters/gloamwing.md) | 30 | 34,398 | 358 | 145 | - | - |
+| [The Unbound](../monsters/the_unbound.md) | 30 | 31,990 | 12,530 | 139 | - | - |
+| [Evil Eye](../monsters/evil_eye.md) | 31 | 1,283 | 389 | 110 | [Fairy Forest](../towns/fairy_forest.md) | [The High Shore](../maps/high_shore_1.md), [The High Shore, Upper Banks](../maps/high_shore_2.md) |
+| [Horny Mushroom](../monsters/deepwood_horny.md) | 31 | 1,300 | 389 | 97 | [Kaldemor](../towns/kaldemor.md) | [The Humming Trail](../maps/humming_trail.md) |
+| [Cliff Gnawer](../monsters/cliff_gnawer.md) | 32 | 1,319 | 422 | 112 | [Midbarium](../towns/midbarium.md) | [The Far Anchor](../maps/far_anchor.md) |
+| [Reed Ligator](../monsters/reed_ligator.md) | 32 | 1,361 | 422 | 138 | [Selsior](../towns/selsior.md) | [The Long Reach Banks](../maps/reach_banks.md), [The Reed Beds](../maps/reed_beds.md) |
+| [Shore Crab](../monsters/shore_crab.md) | 32 | 1,491 | 422 | 114 | [Goa Harbour](../towns/goa_harbour.md) | [The Saltface](../maps/saltface.md), [The Undercliff](../maps/undercliff.md) |
+| [Bristle Boar](../monsters/bristle_boar.md) | 33 | 1,359 | 457 | 120 | [Urbanograd](../towns/urbanograd.md) | [Bristlewood Edge](../maps/bristlewood_edge.md), [The Tusk Path](../maps/tusk_path.md) |
+| [Hoarder Shroom](../monsters/hoarder_shroom.md) | 33 | 1,333 | 457 | 103 | [Kaldemor](../towns/kaldemor.md) | [The Humming Trail](../maps/humming_trail.md), [Windflower Glade](../maps/windflower_glade.md) |
+| [Sawbill Fry](../monsters/sawbill_fry.md) | 33 | 1,271 | 457 | 117 | [Bain Harbour](../towns/bain_harbour.md) | [The Salt Reach](../maps/salt_reach.md) |
+| [Curse Eye](../monsters/curse_eye.md) | 34 | 1,398 | 493 | 121 | [Fairy Forest](../towns/fairy_forest.md) | [The High Shore, Upper Banks](../maps/high_shore_2.md), [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) |
+| [Wild Boar](../monsters/wild_boar.md) | 34 | 1,397 | 493 | 119 | [Midbarium](../towns/midbarium.md) | [The Boar Runs](../maps/boar_runs.md), [The Far Anchor](../maps/far_anchor.md) |
+| [Windflower Cap](../monsters/windflower_cap.md) | 35 | 1,563 | 531 | 109 | [Kaldemor](../towns/kaldemor.md) | [Windflower Glade](../maps/windflower_glade.md) |
+| [Bank Lorang](../monsters/bank_lorang.md) | 37 | 1,935 | 611 | 153 | [Selsior](../towns/selsior.md) | [The Long Reach Banks](../maps/reach_banks.md) |
+| [Barkback](../monsters/barkback.md) | 37 | 1,709 | 611 | 134 | [Urbanograd](../towns/urbanograd.md) | [Bristlewood Edge](../maps/bristlewood_edge.md), [The Silent Cutting](../maps/silent_cutting.md) |
+| [Cold Eye](../monsters/cold_eye.md) | 37 | 1,513 | 611 | 131 | [Fairy Forest](../towns/fairy_forest.md) | [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) |
+| [Sawbill](../monsters/sawbill.md) | 38 | 1,554 | 654 | 134 | [Bain Harbour](../towns/bain_harbour.md) | [The Salt Reach](../maps/salt_reach.md), [The Sea Locks](../maps/sea_locks.md) |
+| [Scarred Boar](../monsters/scarred_boar.md) | 38 | 1,550 | 654 | 133 | [Midbarium](../towns/midbarium.md) | [The Boar Runs](../maps/boar_runs.md), [The Ironback Flats](../maps/ironback_flats.md) |
+| [Sea Newt](../monsters/sea_newt.md) | 38 | 1,552 | 654 | 134 | [Goa Harbour](../towns/goa_harbour.md) | [The Saltface](../maps/saltface.md), [The Undercliff](../maps/undercliff.md), [The Wrack Ledges](../maps/wrack_ledges.md) |
+| [Bluecap](../monsters/bluecap.md) | 40 | 1,968 | 744 | 124 | [Kaldemor](../towns/kaldemor.md) | [The Bluecap Groves](../maps/bluecap_groves.md), [The Bluecap Groves](../maps/bluecap_groves_deep.md) |
+| [The Inkmother](../monsters/inkmother.md) | 40 | 41,360 | 29,760 | 141 | - | - |
+| [Bank Clang](../monsters/bank_clang.md) | 41 | 2,327 | 792 | 165 | [Selsior](../towns/selsior.md) | [The Long Reach Banks](../maps/reach_banks.md) |
+| [Sharpened Lupin](../monsters/sharpened_lupin.md) | 41 | 2,117 | 792 | 144 | [Fairy Forest](../towns/fairy_forest.md) | [The Hollow Oak, Boughs](../maps/hollow_oak_boughs.md) |
+| [Flint Hog](../monsters/flint_hog.md) | 42 | 2,441 | 841 | 147 | [Midbarium](../towns/midbarium.md) | [The Hot Rocks](../maps/hot_rocks.md), [The Ironback Flats](../maps/ironback_flats.md) |
+| [Ironhide Hog](../monsters/ironhide_hog.md) | 42 | 2,445 | 841 | 152 | [Urbanograd](../towns/urbanograd.md) | [The Reedwater Bottoms](../maps/reedwater_bottoms.md), [The Tusk Path](../maps/tusk_path.md) |
+| [Sea Slater](../monsters/sea_slater.md) | 42 | 2,026 | 841 | 148 | [Goa Harbour](../towns/goa_harbour.md) | [The Undercliff](../maps/undercliff.md), [The Wrack Ledges](../maps/wrack_ledges.md) |
+| [Spitting Sawbill](../monsters/spitting_sawbill.md) | 43 | 2,217 | 892 | 151 | [Bain Harbour](../towns/bain_harbour.md) | [The Sea Locks](../maps/sea_locks.md), [The Gullet](../maps/the_gullet.md) |
+| [Gloomfur Lupin](../monsters/gloomfur_lupin.md) | 44 | 2,264 | 945 | 155 | [Fairy Forest](../towns/fairy_forest.md) | [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) |
+| [Creeping Slime](../monsters/creeping_slime.md) | 45 | 2,312 | 999 | 162 | [Urbanograd](../towns/urbanograd.md) | [Low Grad: the Undercroft](../maps/lowgrad_undercroft.md) |
+| [Darkstone Golem](../monsters/darkstone_golem.md) | 45 | 2,611 | 999 | 162 | [Urbanograd](../towns/urbanograd.md) | [Low Grad: the Warm Quarry](../maps/lowgrad_warm_quarry.md) |
+| [Dust Drifter](../monsters/dust_drifter.md) | 45 | 2,163 | 999 | 162 | [Urbanograd](../towns/urbanograd.md) | [Low Grad: the Undercroft](../maps/lowgrad_undercroft.md) |
+| [Floodwell Eel](../monsters/floodwell_eel.md) | 45 | 2,312 | 999 | 162 | [Urbanograd](../towns/urbanograd.md) | [Low Grad: the Floodwells](../maps/lowgrad_floodwells.md) |
+| [The Holdfast](../monsters/holdfast.md) | 45 | 63,380 | 34,965 | 205 | - | - |
+| [The Warmstone Colossus](../monsters/warmstone_colossus.md) | 45 | 63,938 | 999 | 212 | - | - |
+| [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) | 45 | 2,163 | 999 | 162 | [Urbanograd](../towns/urbanograd.md) | [Low Grad: the Deep Roads](../maps/lowgrad_deep_roads.md) |
+| [Iron Boar](../monsters/iron_boar.md) | 46 | 2,662 | 1,055 | 161 | [Midbarium](../towns/midbarium.md) | [The Hot Rocks](../maps/hot_rocks.md) |
+| [Paleveil Cap](../monsters/paleveil_cap.md) | 46 | 2,595 | 1,055 | 142 | [Kaldemor](../towns/kaldemor.md) | [Breezy Hollow](../maps/breezy_hollow.md) |
+| [Saltgull](../monsters/saltgull.md) | 46 | 2,209 | 1,055 | 161 | [Goa Harbour](../towns/goa_harbour.md) | [The Wrack Ledges](../maps/wrack_ledges.md) |
+| [Undercut Croco](../monsters/undercut_croco.md) | 46 | 2,595 | 1,055 | 180 | [Selsior](../towns/selsior.md) | [The Undercut](../maps/the_undercut.md) |
+| [Pale Sawbill](../monsters/pale_sawbill.md) | 47 | 2,413 | 1,113 | 165 | [Bain Harbour](../towns/bain_harbour.md) | [The Gullet](../maps/the_gullet.md) |
+| [Reed-Lurker](../monsters/reed_lurker.md) | 47 | 2,410 | 1,113 | 170 | [Urbanograd](../towns/urbanograd.md) | [The Reedwater Bottoms](../maps/reedwater_bottoms.md), [Reedwater Bottoms: Zip's Bank](../maps/reedwater_deep.md) |
+| [Surgeon Eye](../monsters/surgeon_eye.md) | 47 | 2,721 | 1,113 | 165 | [Fairy Forest](../towns/fairy_forest.md) | [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) |
+| [Bluecap Mother](../monsters/bluecap_mother.md) | 50 | 45,000 | 65,000 | 154 | - | - |
+| [Grimhorn](../monsters/grimhorn.md) | 50 | 110,000 | 60,000 | 210 | - | - |
+| [Hackleback](../monsters/hackleback.md) | 50 | 86,333 | 1,297 | 235 | - | - |
+| [Longjaw](../monsters/longjaw.md) | 50 | 57,951 | 64,831 | 230 | - | - |
+| [Old Grizzlemane](../monsters/old_grizzlemane.md) | 50 | 115,974 | 45,395 | 228 | - | - |
+| [The Gapclaw](../monsters/gapclaw.md) | 50 | 124,900 | 51,880 | 175 | - | - |
+| [The Ripsaw](../monsters/ripsaw.md) | 50 | 66,867 | 45,395 | 228 | - | - |
+| [Gloaming Wisp](../monsters/deep_forest_wisp.md) | 51 | 5,954 | 1,362 | 178 | [Fairy Forest](../towns/fairy_forest.md) | [The Deepening, I](../maps/deepening_1.md), [The Deepening, II](../maps/deepening_2.md) |
+| [Dusk Wolf](../monsters/dusk_wolf.md) | 52 | 6,480 | 1,429 | 182 | [Bain Harbour](../towns/bain_harbour.md) | [The Timber Path](../maps/timber_path.md) |
+| [Saltdead Stump](../monsters/saltdead_stump.md) | 52 | 7,320 | 1,429 | 183 | [Goa Harbour](../towns/goa_harbour.md) | [The Greystrand](../maps/drowned_strand.md), [The Forest Jaw](../maps/forest_jaw.md) |
+| [Swollen Stump](../monsters/swollen_stump.md) | 52 | 6,477 | 1,429 | 182 | [Midbarium](../towns/midbarium.md) | [The Dry Hills](../maps/dry_hills.md), [The Grey Road](../maps/grey_road.md), [The Weathered Rocks](../maps/weathered_rocks.md) |
+| [Capguard](../monsters/capguard.md) | 53 | 6,943 | 1,497 | 163 | [Kaldemor](../towns/kaldemor.md) | [The Keep Road](../maps/keep_road.md), [The Keep Road](../maps/keep_road_2.md) |
+| [Rubble Golem](../monsters/rubble_golem.md) | 53 | 7,839 | 1,497 | 201 | [Selsior](../towns/selsior.md) | [The Spoil Heaps](../maps/spoil_heaps.md) |
+| [Duskhawk](../monsters/duskhawk.md) | 54 | 6,288 | 1,567 | 194 | [Urbanograd](../towns/urbanograd.md) | [Beacon Line](../maps/beacon_line.md), [Lower Downs](../maps/lower_downs.md), [The Crest](../maps/the_crest.md) |
+| [Raider Boar](../monsters/raider_boar.md) | 55 | 6,837 | 1,639 | 192 | [Midbarium](../towns/midbarium.md) | [The Grey Road](../maps/grey_road.md), [The Lonely Rocks](../maps/lonely_rocks.md), [The Weathered Rocks](../maps/weathered_rocks.md) |
+| [Spore Puff](../monsters/spore_puff.md) | 55 | 6,974 | 1,639 | 169 | [Kaldemor](../towns/kaldemor.md) | [The Battlements](../maps/battlements_1.md), [The Battlements](../maps/battlements_2.md), [The Keep Road](../maps/keep_road_2.md) |
+| [Thorny Bramble](../monsters/thorny_bramble.md) | 55 | 6,841 | 1,639 | 192 | [Fairy Forest](../towns/fairy_forest.md) | [The Deepening, II](../maps/deepening_2.md), [The Deepening, III](../maps/deepening_3.md) |
+| [Jaw Crab](../monsters/jaw_crab.md) | 56 | 7,859 | 1,713 | 200 | [Goa Harbour](../towns/goa_harbour.md) | [The Forest Jaw](../maps/forest_jaw.md) |
+| [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) | 57 | 7,488 | 1,788 | 175 | [Kaldemor](../towns/kaldemor.md) | [The Battlements](../maps/battlements_1.md), [The Battlements](../maps/battlements_2.md), [The Battlements](../maps/battlements_3.md) |
+| [Swollen Dark Stump](../monsters/swollen_dark_stump.md) | 57 | 7,991 | 1,788 | 200 | [Midbarium](../towns/midbarium.md) | [The Lonely Rocks](../maps/lonely_rocks.md), [The Weathered Rocks](../maps/weathered_rocks.md) |
+| [Whipshade](../monsters/whipshade.md) | 57 | 6,623 | 1,788 | 199 | [Bain Harbour](../towns/bain_harbour.md) | [The Crossways](../maps/crossways.md), [The Rim](../maps/the_rim.md) |
+| [Forest Howlet](../monsters/forest_howlet.md) | 58 | 7,199 | 1,866 | 202 | [Fairy Forest](../towns/fairy_forest.md) | [The Deepening, III](../maps/deepening_3.md), [The Deepening, IV](../maps/deepening_4.md) |
+| [Quarry Golem](../monsters/quarry_golem.md) | 58 | 9,364 | 1,866 | 216 | [Selsior](../towns/selsior.md) | [The Terraced Cuts](../maps/terraced_cuts.md) |
+| [Downs Howler](../monsters/downs_wolf.md) | 59 | 7,319 | 1,945 | 212 | [Urbanograd](../towns/urbanograd.md) | [Beacon Line](../maps/beacon_line.md), [Ram Hills](../maps/ram_hills.md), [The Crest](../maps/the_crest.md) |
+| [Night Howlet](../monsters/night_howlet.md) | 60 | 8,947 | 2,026 | 209 | [Fairy Forest](../towns/fairy_forest.md) | [The Deepening, IV](../maps/deepening_4.md) |
+| [War Mask](../monsters/war_mask.md) | 60 | 8,941 | 2,026 | 210 | [Midbarium](../towns/midbarium.md) | [The War Camp Ruins](../maps/war_camp_ruins.md) |
+| [Wallcreeper Cap](../monsters/wallcreeper_cap.md) | 61 | 9,228 | 2,109 | 187 | [Kaldemor](../towns/kaldemor.md) | [The Battlements](../maps/battlements_2.md), [The Battlements](../maps/battlements_3.md), [The Inner Ward](../maps/inner_ward_1.md), [The Inner Ward](../maps/inner_ward_2.md) |
+| [Wrackgolem](../monsters/wrackgolem.md) | 61 | 10,264 | 2,109 | 221 | [Goa Harbour](../towns/goa_harbour.md) | [The Greystrand](../maps/drowned_strand.md), [The Skerries](../maps/skerries.md) |
+| [Bone Hound](../monsters/bone_hound.md) | 62 | 9,231 | 2,193 | 217 | [Midbarium](../towns/midbarium.md) | [The War Camp Ruins](../maps/war_camp_ruins.md) |
+| [Forest Glimmerfox](../monsters/forest_glimmerfox.md) | 62 | 9,234 | 2,193 | 216 | [Fairy Forest](../towns/fairy_forest.md) | [The Deepening, V](../maps/deepening_5.md) |
+| [Hookshade](../monsters/hookshade.md) | 62 | 8,942 | 2,193 | 216 | [Bain Harbour](../towns/bain_harbour.md) | [The Cliff Edge](../maps/cliff_edge.md), [The Rim](../maps/the_rim.md) |
+| [Dark Quarry Golem](../monsters/dark_quarry_golem.md) | 63 | 11,186 | 2,280 | 231 | [Selsior](../towns/selsior.md) | [The Deep Cut](../maps/deep_cut.md) |
+| [Millstone Ram](../monsters/millstone_ram.md) | 64 | 10,750 | 2,368 | 229 | [Urbanograd](../towns/urbanograd.md) | [Ram Hills](../maps/ram_hills.md), [The Crest](../maps/the_crest.md) |
+| [Night Glimmerfox](../monsters/night_glimmerfox.md) | 64 | 9,522 | 2,368 | 223 | [Fairy Forest](../towns/fairy_forest.md) | [The Twilit Wood, I](../maps/twilit_wood_1.md), [The Twilit Wood, II](../maps/twilit_wood_2.md) |
+| [Swollen Axe Stump](../monsters/swollen_axe_stump.md) | 65 | 10,909 | 2,458 | 228 | [Midbarium](../towns/midbarium.md) | [The Deserted Ridge](../maps/deserted_ridge.md), [The Red Ravine](../maps/red_ravine.md) |
+| [Blue Spring Sprite](../monsters/blue_spring_sprite.md) | 66 | 9,809 | 2,550 | 229 | [Fairy Forest](../towns/fairy_forest.md) | [The Twilit Wood, II](../maps/twilit_wood_2.md), [The Twilit Wood, III](../maps/twilit_wood_3.md) |
+| [Crowncap](../monsters/crowncap.md) | 66 | 12,445 | 2,550 | 202 | [Kaldemor](../towns/kaldemor.md) | [The Inner Ward](../maps/inner_ward_1.md), [The Inner Ward](../maps/inner_ward_2.md) |
+| [Glimshade](../monsters/glimshade.md) | 66 | 9,518 | 2,550 | 229 | [Bain Harbour](../towns/bain_harbour.md) | [The Old Fellings](../maps/old_fellings.md), [The Rim](../maps/the_rim.md) |
+| [Grey Bull](../monsters/grey_bull.md) | 66 | 9,809 | 2,550 | 242 | [Goa Harbour](../towns/goa_harbour.md) | [The Skerries](../maps/skerries.md) |
+| [Cut Golem](../monsters/cut_golem.md) | 67 | 12,896 | 2,644 | 243 | [Selsior](../towns/selsior.md) | [The Deep Cut](../maps/deep_cut.md) |
+| [Stone Hulk](../monsters/stone_hulk.md) | 67 | 11,230 | 2,644 | 234 | [Midbarium](../towns/midbarium.md) | [The Red Ravine](../maps/red_ravine.md) |
+| [Deep Spring Sprite](../monsters/deep_spring_sprite.md) | 68 | 11,398 | 2,740 | 236 | [Fairy Forest](../towns/fairy_forest.md) | [The Twilit Wood, III](../maps/twilit_wood_3.md) |
+| [Old Cairn, the Ancient of the Quarries](../monsters/old_cairn.md) | 70 | 266,448 | 176,161 | 302 | - | - |
+| [Stormcrest](../monsters/stormcrest.md) | 70 | 175,755 | 2,937 | 325 | - | - |
+| [The Cap King](../monsters/cap_king.md) | 70 | 120,000 | 180,000 | 190 | - | - |
+| [The Deep Lantern](../monsters/deep_lantern.md) | 70 | 181,536 | 102,795 | 316 | - | - |
+| [The Knotbriar](../monsters/knotbriar.md) | 70 | 348,580 | 102,795 | 316 | - | - |
+| [The Rootdrinker](../monsters/rootdrinker.md) | 70 | 240,000 | 150,000 | 294 | - | - |
+| [The Undertow](../monsters/undertow.md) | 70 | 326,900 | 117,480 | 259 | - | - |
 
 ## Elite and Epic monsters
 
-Each defeat raises the chance that the next monster to appear is **Elite** by 1.5% (up to 30%). After 3 elites, an **Epic** monster appears.
+Each defeat raises the chance that the next monster to appear is **Elite** by 0.2% (up to 5%). After 3 elites, an **Epic** monster appears.
 
 |  | Elite | Epic |
 |---|---|---|

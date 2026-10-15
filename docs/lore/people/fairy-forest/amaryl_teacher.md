@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Amaryl](../../../npcs/amaryl_teacher.md) |
 
 ## Personality
 

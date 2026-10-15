@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | One-Handed Sword |
 | Required level | 20 |
-| Stats | Attack +68 |
+| Stats | Attack +64 |
 | Upgrade slots | 8 |
 | Sells for | 450 mesos |
 
@@ -18,4 +18,28 @@
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.15%)
 - Dropped by [Stump](../monsters/stump.md) (0.1%)
+- Dropped by [Bluff Wildcat](../monsters/bluff_wildcat.md) (0.12%)
+- Dropped by [Dune Cat](../monsters/dune_cat.md) (0.12%)
+- Dropped by [Grey Tom](../monsters/grey_tom.md) (0.12%)
+- Dropped by [Scrub Wolf](../monsters/scrub_wolf.md) (0.12%)
+- Dropped by [Dust Wisp](../monsters/dust_wisp.md) (0.08%)
+- Dropped by [Shimmer Slime](../monsters/fairy_slime.md) (0.08%)
+- Dropped by [Flying Book](../monsters/flying_book.md) (0.08%)
+- Dropped by [Ink Imp](../monsters/ink_imp.md) (0.08%)
+- Dropped by [Snapping Book](../monsters/snapping_book.md) (0.08%)
+- Dropped by [Wrack Boar](../monsters/wrack_boar.md) (0.15%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.15%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
+- Dropped by [Ditch Rat](../monsters/ditch_rat.md) (0.09%)
+- Dropped by [Gloomeye](../monsters/gloomeye.md) (0.09%)
+- Dropped by [Lampbat](../monsters/lampbat.md) (0.09%)
+- Sold at [Zirra's Bench](../shops/midbarium_zirra.md) for 900 mesos
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 900 mesos
+- Sold at [Ferro's Forge](../shops/urbanograd_ferro.md) for 900 mesos

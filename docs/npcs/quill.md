@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Quill in the lore](../lore/people/kaldemor/quill.md) |
 | Services | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) |
 
 > Chin up, *Player*. Eyes front.

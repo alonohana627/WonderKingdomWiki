@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Ulric](../../../npcs/ulric_stonecarver.md) |
 
 ## Personality
 

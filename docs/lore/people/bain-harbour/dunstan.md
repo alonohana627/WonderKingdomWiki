@@ -10,6 +10,7 @@
 | Where | Shipyard |
 | Role | Council |
 | Age | Elder |
+| In the game | [Dunstan](../../../npcs/dunstan.md) |
 
 ## Personality
 

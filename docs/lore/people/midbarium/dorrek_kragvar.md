@@ -11,6 +11,7 @@
 | Role | Ruler |
 | Age | Adult |
 | Family | Kragvar |
+| In the game | [Dorrek](../../../npcs/dorrek_kragvar.md) |
 
 ## Personality
 

@@ -6,13 +6,24 @@
 |---|---|
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Town |
+| Town | [Selsior](../towns/selsior.md) |
 
 ## Exits
 
-- [Selsior](../maps/selsior.md)
+- [Royal Plaza](../maps/selsior.md)
+- [The Hedge Lanes](../maps/hedge_lanes.md)
+- [The Captain's Hall](../maps/knights_hall.md)
 
 ## NPCs
 
+- [Bertrand](../npcs/bertrand.md) (Drill Sergeant)
 - [Pim](../npcs/pim.md) (Recruit)
 - [Tobe](../npcs/tobe.md) (Recruit)
-- [Rhys](../npcs/rhys.md) (Captain of the Royal Guard)
+- [Avice](../npcs/avice.md) (Recruit)
+- [Rowena](../npcs/rowena.md) (Swordmaster of the Guard)
+- [Edric](../npcs/edric.md) (Lieutenant of the Road Patrol)
+- [Aylwin](../npcs/aylwin.md) (Road Patrol Guard)
+- [Wystan](../npcs/wystan.md) (Stablemaster)
+- [Aubrey](../npcs/aubrey.md) (Old Grand Swordmaster)
+- [Guard of the Court](../npcs/court_guard_hal.md)
+- [Guard of the Court](../npcs/court_guard_mira.md)

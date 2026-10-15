@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Tobin in the lore](../lore/people/kaldemor/tobin.md) |
 | Services | Quests |
 
 > Welcome to Kaldemor, *Player*!
@@ -19,11 +21,13 @@
 
 ## Quests
 
-- [Welcome Home](../quests/welcome_home.md) (completes)
 - [Settling In](../quests/settling_in.md) (gives)
-- [Snail Trouble](../quests/snail_trouble.md) (gives)
 - [Shells for the Mayor](../quests/shells_for_the_mayor.md) (completes)
+- [Snail Trouble](../quests/snail_trouble.md) (gives)
 - [Strength of a Warrior](../quests/strength_of_a_warrior.md) (gives)
+- [The Cart That Never Came](../quests/the_cart_that_never_came.md) (gives)
+- [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md) (gives)
+- [Welcome Home](../quests/welcome_home.md) (completes)
 
 ??? quote "Dialogue"
 

@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Wystan](../../../npcs/wystan.md) |
 
 ## Personality
 

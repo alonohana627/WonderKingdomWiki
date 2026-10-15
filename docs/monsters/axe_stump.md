@@ -5,30 +5,37 @@
 |  |  |
 |---|---|
 | Level | 21 |
-| HP | 360 |
-| EXP | 56 |
+| HP | 761 |
+| EXP | 141 |
 | Touch damage | 74 |
-| Defense / Magic Defense | 30 / 30 |
+| Defense / Magic Defense | 210 / 210 |
 | Aggressive | Yes |
+
+## Attacks
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 110 | 4 s |
 
 ## Where to find
 
-- [Greenwood Clearing](../maps/greenwood_clearing.md)
+- [The Long Ridge](../maps/long_ridge.md)
+- [The Rootlands](../maps/rootlands.md)
+- [Western Descent](../maps/western_descent.md)
 
 ## Drops
 
 | Drop | Chance | Amount |
 |---|---|---|
 | Mesos | 75% | 40-74 |
-| [Guard's Trial Seal](../items/trial_seal.md) | 25% | 1 |
 | [Firewood](../items/firewood.md) | 55% | 1 |
 | [Orange Potion](../items/orange_potion.md) | 6% | 1 |
 | [White Potion](../items/white_potion.md) | 4% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 5% | 1 |
-| [Scroll for One-Handed Axe for ATT 100%](../items/scroll_one_handed_axe_att.md) | 0.5% | 1 |
-| [Scroll for Two-handed Axe for ATT 100%](../items/scroll_two_handed_axe_att.md) | 0.5% | 1 |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 0.4% | 1 |
-| [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) | 0.3% | 1 |
+| [Scroll for One-Handed Axe for ATT 60%](../items/scroll_one_handed_axe_att.md) | 0.5% | 1 |
+| [Scroll for Two-handed Axe for ATT 60%](../items/scroll_two_handed_axe_att.md) | 0.5% | 1 |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 0.4% | 1 |
+| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 0.3% | 1 |
 | [Contra Axe](../items/contra_axe.md) | 0.2% | 1 |
 | [Two-handed Axe](../items/two_handed_axe.md) | 0.15% | 1 |
 | [Blue Kendo Robe](../items/blue_kendo_robe.md) | 0.1% | 1 |
@@ -57,7 +64,10 @@
 
 ## Quests
 
-- [The Swordsman's Trial](../quests/swordsmans_trial.md)
-- [The Swordmaster's Trial](../quests/swordmasters_trial.md)
+- [The Ridge Bounty](../quests/skarra_ridge_bounty.md)
+- [Touched on the Ridges](../quests/skarra_ridge_elites.md)
+- [Three Goats' Tracks](../quests/yarrek_three_goats.md)
+- [Bounty: The Rootlands](../quests/edric_bounty_rootlands.md)
 - [The Grand Swordmaster's Trial](../quests/grand_swordmasters_trial.md)
 - [The Sword Saint's Trial](../quests/sword_saints_trial.md)
+- [The Swordmaster's Trial](../quests/swordmasters_trial.md)

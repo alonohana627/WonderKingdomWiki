@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 12 mesos
 - Gathered from Fern Clump ([Gathering](../professions/gathering.md) level 7)
 
 ## Used for

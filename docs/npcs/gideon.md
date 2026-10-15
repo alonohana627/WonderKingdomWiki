@@ -6,12 +6,36 @@
 
 |  |  |
 |---|---|
-| Where | [Selsior](../maps/selsior.md) |
-
-> Ha! You climbed all the way up here for an old herald, *Player*?
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Gideon in the lore](../lore/people/selsior/gideon.md) |
+| Services | Quests |
 
 ## Says
 
-- "From up here you can hear every bell in Selsior."
-- "I cried the king's news in this square for forty years."
-- "Nobody climbs the ladder to hear me any more."
+- "Ha! A visitor! Mind the top rung, it wobbles."
+- "That is the market's opening bell. And that one is the gatehouse."
+- "I cried the king's news in that square for forty years."
+- "The pigeons have heard all my stories. They never laugh in the right places."
+
+## Quests
+
+- [A Bell He Does Not Know](../quests/gideon_a_bell_he_does_not_know.md) (gives)
+- [Down the Ladder](../quests/gideon_down_the_ladder.md) (gives)
+- [Word for Clement](../quests/gideon_word_for_clement.md) (gives)
+
+??? quote "Dialogue"
+
+    - Ha! *Player*! Aldous kept the bench warm, you know. Smiled twice that evening. Twice!
+    - **Gideon**, Royal Herald for forty years, retired sixteen! Every piece of royal news in this city came out of this mouth first. Laws, roads, fairs, births and deaths.
+    - I cried the Great World Tree Expedition off the palace steps fifty years ago. Biggest crowd I ever had! And when the news of what it found came back, the hardest to make them believe. Ha!
+    - Every bell in Selsior! The clock tower bells the palace children race, the drill bell at the **Knights' Court**, the market's opening bell, the one on the gatehouse.
+    - And the **Great Bell**, which does not ring. I heard it twice, at King Bertram's crowning and at Queen Aveline's. The sound went straight into my chest and stayed there.
+    - There is [Clement](../npcs/clement.md), the herald now. He climbs up every week, for a social call, he says. Then a proclamation falls out of his sleeve. Ha!
+    - He is far better than he believes, and I tell him so loud enough for the plaza to hear. Otherwise... well. The ladder is long, and the young have places to be.
+    - Come back up any time, *Player*! I have sixty years of stories, and I have only told you two.
+    - Ha! You climbed all the way up here for an old herald, *Player*? Sit, sit. The pigeons will make room.
+        - *Choice:* Who are you?
+        - *Choice:* What can you hear from up here?
+        - *Choice:* Do you get many visitors?
+        - *Choice:* I should go.

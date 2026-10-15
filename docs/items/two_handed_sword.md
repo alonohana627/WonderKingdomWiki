@@ -10,11 +10,29 @@
 | Slot | Weapon |
 | Weapon type | Two-Handed Sword |
 | Required level | 20 |
-| Stats | Attack +72 |
+| Stats | Attack +68 |
 | Upgrade slots | 8 |
 | Sells for | 500 mesos |
 
 ## How to get
 
+- Dropped by [Bubbling](../monsters/bubbling.md) (0.08%)
+- Dropped by [Slime](../monsters/slime.md) (0.08%)
 - Dropped by [Stump](../monsters/stump.md) (0.08%)
+- Dropped by [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) (0.08%)
+- Dropped by [Firefly Slime](../monsters/firefly_slime.md) (0.08%)
+- Dropped by [Forest Sprite](../monsters/forest_sprite.md) (0.08%)
+- Dropped by [Glimmerwing](../monsters/glimmerwing.md) (0.08%)
+- Dropped by [Water Sprite](../monsters/water_sprite.md) (0.08%)
+- Dropped by [Wrack Boar](../monsters/wrack_boar.md) (0.1%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.12%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 1,000 mesos
+- Sold at [Ferro's Forge](../shops/urbanograd_ferro.md) for 1,000 mesos

@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Benedict](../../../npcs/benedict.md) |
 
 ## Personality
 

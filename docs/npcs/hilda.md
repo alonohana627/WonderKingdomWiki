@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Hilda in the lore](../lore/people/kaldemor/hilda.md) |
 | Services | Storage |
 
 > Your things are safe with me, *Player*.

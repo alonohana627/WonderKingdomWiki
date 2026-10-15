@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Lantern glass, bottles and glass beads |
+| In the game | [Tinsel](../../../npcs/tinsel.md) |
 
 ## Personality
 

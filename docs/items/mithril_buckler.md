@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Shield |
 | Required level | 20 |
-| Stats | Defense +32 |
+| Stats | Defense +17 |
 | Upgrade slots | 8 |
 | Sells for | 500 mesos |
 
@@ -18,4 +18,19 @@
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.06%)
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.08%)
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.05%)
+- Dropped by [Dust Wisp](../monsters/dust_wisp.md) (0.08%)
+- Dropped by [Shimmer Slime](../monsters/fairy_slime.md) (0.08%)
+- Dropped by [Flying Book](../monsters/flying_book.md) (0.08%)
+- Dropped by [Ink Imp](../monsters/ink_imp.md) (0.08%)
+- Dropped by [Snapping Book](../monsters/snapping_book.md) (0.08%)
+- Dropped by [Strand Fox](../monsters/strand_fox.md) (0.08%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.1%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,000 mesos

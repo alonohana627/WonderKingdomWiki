@@ -5,16 +5,23 @@
 |  |  |
 |---|---|
 | Level | 7 |
-| HP | 90 |
-| EXP | 14 |
+| HP | 110 |
+| EXP | 8 |
 | Touch damage | 25 |
-| Defense / Magic Defense | 6 / 6 |
+| Defense / Magic Defense | 28 / 28 |
 | Aggressive | No |
+
+## Attacks
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Melee | Physical | 30 | 4 s |
 
 ## Where to find
 
 - [Kaldemor Hills](../maps/kaldemor_hills.md)
-- [Kaldemor Reach](../maps/royal_road_1.md)
+- [The Crossing](../maps/the_crossing.md)
+- [The Hedge Lanes](../maps/hedge_lanes.md)
 
 ## Drops
 
@@ -24,14 +31,22 @@
 | [Pig's Ribbon](../items/pigs_ribbon.md) | 45% | 1 |
 | [Pig's Head](../items/pigs_head.md) | 15% | 1 |
 | [Orange Potion](../items/orange_potion.md) | 8% | 1 |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 0.3% | 1 |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 0.3% | 1 |
 | [SP Reset Scroll](../items/sp_reset_scroll.md) | 0.15% | 1 |
 | [AP Reset Scroll](../items/ap_reset_scroll.md) | 0.15% | 1 |
-| [Scroll for Spear for ATT 100%](../items/scroll_spear_att.md) | 0.3% | 1 |
-| [Scroll for Topwear for DEF](../items/scroll_topwear_def.md) | 0.3% | 1 |
+| [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 0.3% | 1 |
+| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 0.3% | 1 |
 | [Steel Shield](../items/steel_shield.md) | 0.3% | 1 |
 | [Steel Corporal](../items/steel_corporal.md) | 0.3% | 1 |
 | [Steel Corporal Pants](../items/steel_corporal_pants.md) | 0.3% | 1 |
 | [Wooden Samurai Sword](../items/samurai_sword.md) | 0.2% | 1 |
 | [Steel Fingerless Gloves](../items/steel_fingerless_gloves.md) | 0.25% | 1 |
 | [Steel Fitted Mail](../items/steel_fitted_mail.md) | 0.2% | 1 |
+
+## Quests
+
+- [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md)
+- [Bounty: The Hedge Lanes](../quests/edric_bounty_hedge_lanes.md)
+- [Heavier Than a Broom](../quests/hodge_heavier_than_a_broom.md)
+- [As Far as a Courier Rides](../quests/peterkin_as_far_as_a_courier_rides.md)
+- [One More Round](../quests/pim_one_more_round.md)

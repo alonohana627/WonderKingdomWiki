@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Young |
+| In the game | [Everard](../../../npcs/everard.md) |
 
 ## Personality
 

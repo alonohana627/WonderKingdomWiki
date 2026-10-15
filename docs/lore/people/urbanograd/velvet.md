@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Curios, trinkets and oddities from across Veligor |
+| In the game | [Velvet](../../../npcs/velvet.md) |
 
 ## Relationships
 

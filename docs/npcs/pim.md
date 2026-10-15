@@ -6,11 +6,33 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior.md) |
 | Where | [Knights' Court](../maps/selsior_court.md) |
-
-> Recruit Pim, reporting! Er... at ease, *Player*?
+| Story | [Pim in the lore](../lore/people/selsior/pim.md) |
+| Services | Quests |
 
 ## Says
 
-- "Again! One more round of drills!"
-- "Captain Rhys says my guard is full of holes."
+- "Recruit Pim, reporting! Oh. You're not the Captain."
+- "One more round! Just one! Then maybe one more."
+- "Guard full of holes. Closing one a day, Captain!"
+- "That statue had a very sergeant-ish face. Anyone would have saluted."
+
+## Quests
+
+- [One More Round](../quests/pim_one_more_round.md) (gives)
+- [Too Early for Patrol](../quests/pim_too_early_for_patrol.md) (gives)
+
+??? quote "Dialogue"
+
+    - Recruit **Pim**, reporting! Er, at ease, *Player*. Is that right? I think that is right for you.
+        - *Choice:* Who are you?
+        - *Choice:* How is life at the Court?
+        - *Choice:* Anything on your mind?
+        - *Choice:* Carry on, recruit.
+    - I joined the Guard at dawn on my sixteenth birthday, this spring! I had a whole speech ready. I forgot most of it. They let me in anyway.
+    - My gran said a full house is a happy house. The Guard is the biggest family in the city, so it must be the happiest. That is how I see it.
+    - Sergeant **Bertrand** bellows at me more than anyone. I think it is an honour. **Tobe** tells me what I did wrong, and **Avice** is better than me at everything, so I watch her. For strategy.
+    - Captain **Rhys** says my guard is full of holes. I wrote it down and pinned it over my bunk. Every evening I close one.
+    - If you ever have an hour after drill, *Player*, I would not say no to a sparring partner. Just one round. Or ten.
+    - Recruit Pim, dismissed! Er, no. You are dismissed. I mean, goodbye!

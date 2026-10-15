@@ -6,8 +6,10 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Kaldemor](../maps/kaldemor.md) |
-| Services | Taxi |
+| Story | [Pell in the lore](../lore/people/kaldemor/pell.md) |
+| Services | Taxi, Quests |
 
 > Cab for hire, *Player*!
 
@@ -15,6 +17,10 @@
 
 - "Cabs run to any town you have walked to once. Not before."
 - "The road to Selsior is long on foot. My cab is quicker."
+
+## Quests
+
+- [The Stretch at Dusk](../quests/the_stretch_at_dusk.md) (gives)
 
 ??? quote "Dialogue"
 

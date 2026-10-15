@@ -11,6 +11,7 @@
 | Role | Healer |
 | Age | Elder |
 | Sells | Herbs, poultices and teas |
+| In the game | [Bess](../../../npcs/bess.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Workshops |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Percy](../../../npcs/percy.md) |
 
 ## Personality
 

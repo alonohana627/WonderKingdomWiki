@@ -6,11 +6,33 @@
 
 |  |  |
 |---|---|
-| Where | [Crown Market](../maps/selsior_market.md) |
-
-> Mind the baskets, *Player*!
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Maud in the lore](../lore/people/selsior/maud.md) |
+| Services | Quests |
 
 ## Says
 
-- "Eggs, bread, and the best fruit in Selsior."
+- "Mind the baskets!"
+- "Eggs first, while they are warm. Then bread. Then fruit."
+- "Biscuit! I have nothing for you. ... Oh, fine."
 - "The market opens at dawn and closes when the stalls run out."
+
+## Quests
+
+- [A Theory for Margery](../quests/maud_a_theory_for_margery.md) (gives)
+- [Mushrooms for the Pie](../quests/maud_mushrooms_for_the_pie.md) (gives)
+
+??? quote "Dialogue"
+
+    - Rope! She sold you rope! Twenty-two years, *Player*, and that is still all anyone gets. Mind the baskets.
+    - **Maud**, housekeeper to [Dame Orsa](../npcs/orsa.md) these twenty-two years. She keeps the shop, I keep everything else, and we argue about all of it over breakfast.
+    - Like my mother taught me: a market is a war fought politely. Eggs first, bread from [Margery](../npcs/margery.md)'s stall before the city wakes, then fruit, which is never at the same stall two days running.
+    - Lately the carts come later, and some mornings a stall I have known for years is simply not there. I do not like it, *Player*. Not one bit.
+    - Twenty-two years and I do not know! No medal, no letter, no portrait. That is suspicious in itself. My latest theory is pirates. Not a word to her.
+    - Off you go. And mind the baskets on your way!
+    - Mind the baskets, *Player*! Walk with me, I have a list. What is it?
+        - *Choice:* Who are you?
+        - *Choice:* How do you shop?
+        - *Choice:* What did Dame Orsa do for the crown?
+        - *Choice:* Goodbye.

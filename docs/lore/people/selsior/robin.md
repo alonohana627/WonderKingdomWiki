@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Child |
 | Age | Child |
+| In the game | [Robin](../../../npcs/robin.md) |
 
 ## Personality
 

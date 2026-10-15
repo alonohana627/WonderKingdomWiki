@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Worker |
 | Age | Young |
+| In the game | [Lettice](../../../npcs/lettice.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Thaddeus](../../../npcs/thaddeus.md) |
 
 ## Personality
 

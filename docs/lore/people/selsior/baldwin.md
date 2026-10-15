@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Baldwin](../../../npcs/baldwin.md) |
 
 ## Personality
 

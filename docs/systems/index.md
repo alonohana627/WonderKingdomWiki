@@ -5,7 +5,9 @@
 How the game's rules work, from its data files.
 
 - [Experience](experience.md)
+- [Gear Tiers](gear.md)
 - [Standing](standing.md)
+- [Honor](honor.md)
 - [Accomplishments](accomplishments.md)
 - [Weapons](weapons.md)
 - [Status Effects](statuses.md)

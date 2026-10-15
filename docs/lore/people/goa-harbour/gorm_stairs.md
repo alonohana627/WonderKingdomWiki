@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Gorm](../../../npcs/gorm_stairs.md) |
 
 ## Personality
 

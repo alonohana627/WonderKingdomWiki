@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Elder |
 | Sells | Quay lanterns, hand lanterns and storm lanterns |
+| In the game | [Gunna](../../../npcs/gunna_lanterns.md) |
 
 ## Personality
 

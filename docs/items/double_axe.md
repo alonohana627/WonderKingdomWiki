@@ -10,12 +10,12 @@
 | Slot | Weapon |
 | Weapon type | One-Handed Axe |
 | Required level | 10 |
-| Stats | Attack +34 |
+| Stats | Attack +46 |
 | Upgrade slots | 8 |
 | Sells for | 150 mesos |
 
 ## How to get
 
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.25%)
-- Sold at [Selene's Arms](../shops/selsior_arms.md) for 300 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 300 mesos
+- Sold at [Selene's Arms](../shops/selsior_arms.md) for 300 mesos

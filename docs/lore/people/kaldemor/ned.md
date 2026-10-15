@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Elder |
 | Sells | Boots and shoes |
+| In the game | [Ned](../../../npcs/ned.md) |
 
 ## Personality
 

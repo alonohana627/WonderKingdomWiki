@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Child |
 | Age | Child |
+| In the game | [Figgy](../../../npcs/figgy.md) |
 
 ## Personality
 

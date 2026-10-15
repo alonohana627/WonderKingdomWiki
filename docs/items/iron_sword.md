@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | One-Handed Sword |
 | Required level | 10 |
-| Stats | Attack +38 |
+| Stats | Attack +51 |
 | Upgrade slots | 8 |
 | Sells for | 260 mesos |
 

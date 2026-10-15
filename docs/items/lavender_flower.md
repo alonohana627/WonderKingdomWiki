@@ -11,12 +11,16 @@
 
 ## How to get
 
+- Sold at [Emmeline's Flower Stall](../shops/emmeline_flowers.md) for 12 mesos
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 12 mesos
 - Gathered from Lavender Patch ([Herbalism](../professions/herbalism.md) level 3)
 
 ## Used for
 
 - [Antidote](../items/antidote.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Orange Potion](../items/orange_potion.md) ([Alchemy](../professions/alchemy.md), x3)
+- [Bluecap Poultice](../items/bluecap_poultice.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Mushroom Rice Ball](../items/mushroom_rice_ball.md) ([Cooking](../professions/cooking.md), x1)
 - [Lavender Tea](../items/lavender_tea.md) ([Cooking](../professions/cooking.md), x2)
 - [Town Return Scroll](../items/town_return_scroll.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Rest for the Scholars](../quests/calyra_scholars_rest.md) (bring 6)

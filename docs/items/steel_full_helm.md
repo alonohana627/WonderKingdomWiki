@@ -9,12 +9,18 @@
 | Type | Equipment |
 | Slot | Hat |
 | Required level | 10 |
-| Stats | Defense +18 |
+| Stats | Defense +14 |
 | Upgrade slots | 8 |
 | Sells for | 300 mesos |
 
 ## How to get
 
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.25%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 600 mesos
+- Dropped by [Bog-Lurcher](../monsters/bog_lurcher.md) (0.105%)
+- Dropped by [Pool Octopus](../monsters/pool_octopus.md) (0.105%)
+- Dropped by [Seep Toad](../monsters/seep_toad.md) (0.105%)
+- Dropped by [Stack Rat](../monsters/stack_rat.md) (0.105%)
+- Dropped by [Verge Adder](../monsters/verge_adder.md) (0.105%)
+- Dropped by [Young Gloomeye](../monsters/young_gloomeye.md) (0.105%)
 - Sold at [Gareth's Smithy](../shops/smith.md) for 600 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 600 mesos

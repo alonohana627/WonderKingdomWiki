@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Ruler |
 | Age | Adult |
+| In the game | [Rook](../../../npcs/rook_tallow.md) |
 
 ## Personality
 

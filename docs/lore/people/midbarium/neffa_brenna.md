@@ -11,6 +11,7 @@
 | Role | Child |
 | Age | Child |
 | Family | Brenna |
+| In the game | [Neffa](../../../npcs/neffa_brenna.md) |
 
 ## Personality
 

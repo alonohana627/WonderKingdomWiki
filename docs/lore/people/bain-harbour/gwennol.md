@@ -9,6 +9,7 @@
 | Town | [Bain Harbour](../../towns/bain-harbour.md) |
 | Where | Fish Market |
 | Sells | Fresh fish, smoked fish and crab |
+| In the game | [Gwennol](../../../npcs/gwennol.md) |
 
 ## Relationships
 

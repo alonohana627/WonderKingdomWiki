@@ -10,6 +10,7 @@
 | Where | Wardens' House |
 | Role | Official |
 | Age | Adult |
+| In the game | [Halvard](../../../npcs/halvard_clerk.md) |
 
 ## Personality
 

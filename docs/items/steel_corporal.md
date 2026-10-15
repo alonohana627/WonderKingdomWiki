@@ -9,12 +9,24 @@
 | Type | Equipment |
 | Slot | Top |
 | Required level | 10 |
-| Stats | Defense +20 |
+| Stats | Defense +15 |
 | Upgrade slots | 8 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (0.3%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
+- Dropped by [Marsh Slime](../monsters/marsh_slime.md) (0.15%)
+- Dropped by [Mud Octopus](../monsters/mud_octopus.md) (0.15%)
+- Dropped by [Orchard Pig](../monsters/orchard_pig.md) (0.15%)
+- Dropped by [Orchard Snail](../monsters/orchard_snail.md) (0.15%)
+- Dropped by [Reed Snake](../monsters/reed_snake.md) (0.15%)
+- Dropped by [Shingle Crab](../monsters/shingle_crab.md) (0.15%)
+- Dropped by [Bog-Lurcher](../monsters/bog_lurcher.md) (0.09%)
+- Dropped by [Pool Octopus](../monsters/pool_octopus.md) (0.09%)
+- Dropped by [Seep Toad](../monsters/seep_toad.md) (0.09%)
+- Dropped by [Stack Rat](../monsters/stack_rat.md) (0.09%)
+- Dropped by [Verge Adder](../monsters/verge_adder.md) (0.09%)
+- Dropped by [Young Gloomeye](../monsters/young_gloomeye.md) (0.09%)
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos

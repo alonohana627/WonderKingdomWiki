@@ -9,12 +9,12 @@
 | Type | Equipment |
 | Slot | Glove |
 | Required level | 10 |
-| Stats | Attack +2, Defense +6 |
+| Stats | Attack +2, Defense +5 |
 | Upgrade slots | 6 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (0.25%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos

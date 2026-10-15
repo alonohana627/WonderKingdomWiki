@@ -12,6 +12,7 @@
 | Age | Elder |
 | Family | Uskari |
 | Sells | Bows, arrows, climbing ropes and hunting knives |
+| In the game | [Zirra](../../../npcs/zirra_uskari.md) |
 
 ## Personality
 

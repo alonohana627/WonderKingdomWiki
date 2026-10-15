@@ -15,9 +15,9 @@
 
 ## Used for
 
-- [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for One-Handed Axe for ATT 100%](../items/scroll_one_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Two-handed Axe for ATT 100%](../items/scroll_two_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Spear for ATT 100%](../items/scroll_spear_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for One-Handed Axe for ATT 60%](../items/scroll_one_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Two-handed Axe for ATT 60%](../items/scroll_two_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
 - [Copper Ingot](../items/copper_ingot.md) ([Smithing](../professions/smithing.md), x4)

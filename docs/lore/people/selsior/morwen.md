@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Morwen](../../../npcs/morwen.md) |
 
 ## Personality
 

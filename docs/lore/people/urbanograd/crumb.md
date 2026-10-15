@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Bread, rolls and sweet buns |
+| In the game | [Crumb](../../../npcs/crumb.md) |
 
 ## Relationships
 

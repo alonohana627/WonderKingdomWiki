@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Young |
+| In the game | [Mariota](../../../npcs/mariota.md) |
 
 ## Personality
 

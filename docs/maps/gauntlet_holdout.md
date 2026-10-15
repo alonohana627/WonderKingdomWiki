@@ -6,12 +6,13 @@
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Run |
-| Level | 3 |
+| Difficulty | 3 |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
 
 ## Exits
 
-- [Kaldemor Park](../maps/kaldemor_park.md)
+- [Kaldemor](../maps/kaldemor.md)
 
 ## Encounters
 

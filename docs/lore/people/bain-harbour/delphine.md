@@ -11,6 +11,7 @@
 | Role | Service |
 | Age | Adult |
 | Sells | Hot meals, ale and rooms by the night |
+| In the game | [Delphine](../../../npcs/delphine.md) |
 
 ## Personality
 

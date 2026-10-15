@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Worker |
 | Age | Young |
+| In the game | [Lowen](../../../npcs/lowen.md) |
 
 ## Personality
 

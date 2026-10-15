@@ -12,7 +12,7 @@
 | Attack type | Physical |
 | HP per level | 32 |
 | MP per level | 10 |
-| Skill points per level | 3 (from level 2) |
+| Skill points per level | 1.5 (from level 161) |
 | Weapons | One-Handed Sword, Two-Handed Sword |
 | Skills | [Sword Saint Skills](../skills/sword_saint.md) |
 

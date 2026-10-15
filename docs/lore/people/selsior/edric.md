@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Edric](../../../npcs/edric.md) |
 
 ## Personality
 

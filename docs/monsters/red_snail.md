@@ -5,16 +5,16 @@
 |  |  |
 |---|---|
 | Level | 4 |
-| HP | 45 |
-| EXP | 8 |
+| HP | 80 |
+| MP | 20 |
+| EXP | 2 |
 | Touch damage | 14 |
-| Defense / Magic Defense | 4 / 4 |
+| Defense / Magic Defense | 24 / 24 |
 | Aggressive | No |
 
 ## Where to find
 
 - [Kaldemor Field](../maps/kaldemor_field.md)
-- [Kaldemor Hills](../maps/kaldemor_hills.md)
 
 ## Drops
 
@@ -24,8 +24,8 @@
 | [Red Snail Shell](../items/red_snail_shell.md) | 50% | 1 |
 | [Red Potion](../items/red_potion.md) | 8% | 1-2 |
 | [Blue Potion](../items/blue_potion.md) | 4% | 1 |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 0.4% | 1 |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 0.3% | 1 |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 0.4% | 1 |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 0.3% | 1 |
 | [Iron Axe](../items/iron_axe.md) | 0.4% | 1 |
 | [Spear](../items/spear.md) | 0.4% | 1 |
 | [Long Sword](../items/long_sword.md) | 0.2% | 1 |

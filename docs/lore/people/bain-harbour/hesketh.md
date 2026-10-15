@@ -9,6 +9,7 @@
 | Town | [Bain Harbour](../../towns/bain-harbour.md) |
 | Where | Fish Market |
 | Sells | Oysters, cockles and mussels |
+| In the game | [Hesketh](../../../npcs/hesketh.md) |
 
 ## Relationships
 

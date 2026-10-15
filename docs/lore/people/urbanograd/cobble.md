@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Elder |
 | Sells | Boots, rooftop slippers and repairs |
+| In the game | [Cobble](../../../npcs/cobble.md) |
 
 ## Personality
 

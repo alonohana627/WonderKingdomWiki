@@ -10,6 +10,7 @@
 | Where | Farms |
 | Role | Child |
 | Age | Child |
+| In the game | [Dottie](../../../npcs/dottie.md) |
 
 ## Personality
 

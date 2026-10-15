@@ -9,10 +9,19 @@
 | Type | Equipment |
 | Slot | Earring |
 | Required level | 20 |
-| Stats | Defense +6, Magic Defense +4 |
+| Stats | Defense +3, Magic Defense +2 |
 | Sells for | 300 mesos |
 
 ## How to get
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.08%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 600 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 600 mesos

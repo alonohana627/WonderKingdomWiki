@@ -9,6 +9,7 @@
 | Town | [Midbarium](../../towns/midbarium.md) |
 | Where | Trading Post |
 | Sells | Wool, hides, goat cheese and travel rations |
+| In the game | [Harra](../../../npcs/harra_tolmach.md) |
 
 ## Relationships
 

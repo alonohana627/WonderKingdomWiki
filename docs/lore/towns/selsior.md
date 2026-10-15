@@ -128,7 +128,7 @@ In the first year of her reign, Aveline became the first reigning monarch to wal
     Everyone who lives here in the first release: [People of Selsior](../people/selsior/index.md).
 
 !!! info "In the game"
-    Selsior is in the game today. See [Selsior in the world guide](../../world/index.md#selsior) for its maps, NPCs and shops.
+    Selsior is in the game. Its [town guide](../../towns/selsior.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/selsior_quests.md) are laid out line by line.
 
 !!! abstract "Design notes"
     Classic medieval fantasy architecture. Joyful, bustling and cosmopolitan. New with this page: the Treaty Field and the treaty signed where the plaza now stands, the Great Bell cast from all four peoples' metal, and the crown's role as keeper of the treaty. New with "The Lands Around Selsior": the Tree Gate and the Bridge Gate, the river running from north to south past the city's west side, the World Tree Road's three stretches, the Selsior Downs, the Long Reach, the Upstream Quarries, and the Old Drains over the first city's buried foundations. Still open: how monarchs are chosen; whether the golems of the quarries are new creatures or slept in the stone all along; why the monster changes come in waves; and what drove the Delver up.

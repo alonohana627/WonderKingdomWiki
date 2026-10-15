@@ -16,3 +16,4 @@
 
 - Dropped by [Stump](../monsters/stump.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 400 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 400 mesos

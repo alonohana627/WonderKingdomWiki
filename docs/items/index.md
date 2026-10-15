@@ -2,7 +2,7 @@
 
 # Items
 
-Wonder Kingdom has 150 items. Prices are what a shop pays you; shops sell for more.
+Wonder Kingdom has 664 items. Prices are what a shop pays you; shops sell for more.
 
 Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 
@@ -12,74 +12,219 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Bronze Axe](../items/bronze_axe.md) | - | Attack +24 | 8 | Common |
-| [Copper Sword](../items/copper_sword.md) | - | Attack +22 | 8 | Common |
-| [Hand Axe](../items/hand_axe.md) | - | Attack +17 | 8 | Common |
-| [Iron Axe](../items/iron_axe.md) | - | Attack +18 | 8 | Common |
-| [Spear](../items/spear.md) | - | Attack +17 | 8 | Common |
-| [Sword](../items/sword.md) | - | Attack +17 | 8 | Common |
-| [Wooden Sword](../items/wooden_sword.md) | - | Attack +18 | 8 | Common |
-| [Double Axe](../items/double_axe.md) | 10 | Attack +34 | 8 | Common |
-| [Fish Spear](../items/fish_spear.md) | 10 | Attack +34 | 8 | Common |
-| [Iron Sword](../items/iron_sword.md) | 10 | Attack +38 | 8 | Common |
-| [Long Sword](../items/long_sword.md) | 10 | Attack +34 | 8 | Common |
-| [Steel Axe](../items/steel_axe.md) | 10 | Attack +36 | 8 | Common |
-| [Wooden Samurai Sword](../items/samurai_sword.md) | 10 | Attack +36 | 8 | Common |
-| [Bamboo Spear](../items/bamboo_spear.md) | 20 | Attack +68 | 8 | Common |
-| [Contra Axe](../items/contra_axe.md) | 20 | Attack +68 | 8 | Common |
-| [Two-handed Axe](../items/two_handed_axe.md) | 20 | Attack +72 | 8 | Common |
-| [Two-handed Sword](../items/two_handed_sword.md) | 20 | Attack +72 | 8 | Common |
-| [Viking Sword](../items/viking_sword.md) | 20 | Attack +68 | 8 | Common |
-| [Blue Axe](../items/blue_axe.md) | 30 | Attack +144 | 8 | Common |
-| [Fireman's Axe](../items/fireman_axe.md) | 30 | Attack +136 | 8 | Common |
-| [Forked Spear](../items/forked_spear.md) | 30 | Attack +136 | 8 | Common |
-| [Gladius](../items/gladius.md) | 30 | Attack +136, STR +2 | 8 | Uncommon |
-| [Scimitar](../items/scimitar.md) | 30 | Attack +144 | 8 | Common |
+| [Bronze Axe](../items/bronze_axe.md) | - | Attack +42 | 8 | Common |
+| [Copper Sword](../items/copper_sword.md) | - | Attack +39 | 8 | Common |
+| [Hand Axe](../items/hand_axe.md) | - | Attack +30 | 8 | Common |
+| [Iron Axe](../items/iron_axe.md) | - | Attack +32 | 8 | Common |
+| [Spear](../items/spear.md) | - | Attack +30 | 8 | Common |
+| [Sword](../items/sword.md) | - | Attack +30 | 8 | Common |
+| [Wooden Sword](../items/wooden_sword.md) | - | Attack +32 | 8 | Common |
+| [Double Axe](../items/double_axe.md) | 10 | Attack +46 | 8 | Common |
+| [Fish Spear](../items/fish_spear.md) | 10 | Attack +46 | 8 | Common |
+| [Iron Sword](../items/iron_sword.md) | 10 | Attack +51 | 8 | Common |
+| [Long Sword](../items/long_sword.md) | 10 | Attack +46 | 8 | Common |
+| [Steel Axe](../items/steel_axe.md) | 10 | Attack +49 | 8 | Common |
+| [Wooden Samurai Sword](../items/samurai_sword.md) | 10 | Attack +49 | 8 | Common |
+| [Bamboo Spear](../items/bamboo_spear.md) | 20 | Attack +64 | 8 | Common |
+| [Contra Axe](../items/contra_axe.md) | 20 | Attack +64 | 8 | Common |
+| [Gate Watch Saber](../items/gate_watch_saber.md) | 20 | Attack +64 | 7 | Common |
+| [Two-handed Axe](../items/two_handed_axe.md) | 20 | Attack +68 | 8 | Common |
+| [Two-handed Sword](../items/two_handed_sword.md) | 20 | Attack +68 | 8 | Common |
+| [Viking Sword](../items/viking_sword.md) | 20 | Attack +64 | 8 | Common |
+| [Blue Axe](../items/blue_axe.md) | 30 | Attack +90 | 8 | Common |
+| [Fireman's Axe](../items/fireman_axe.md) | 30 | Attack +84 | 8 | Common |
+| [Forked Spear](../items/forked_spear.md) | 30 | Attack +84 | 8 | Common |
+| [Gladius](../items/gladius.md) | 30 | Attack +84, STR +2 | 8 | Uncommon |
+| [Gnarltusk's Tusk](../items/gnarltusks_tusk.md) | 30 | Attack +88, STR +3, Max HP +40 | 8 | Rare |
+| [Gnarlwood Axe](../items/gnarlwood_axe.md) | 30 | Attack +88 | 7 | Uncommon |
+| [Gnarlwood Greatsword](../items/gnarlwood_greatsword.md) | 30 | Attack +94 | 7 | Uncommon |
+| [Lamplighter's Cutlass](../items/lamplighters_cutlass.md) | 30 | Attack +84, DEX +2 | 7 | Uncommon |
+| [Scimitar](../items/scimitar.md) | 30 | Attack +90 | 8 | Common |
+| [Cutlass](../items/cutlass.md) | 35 | Attack +94 | 8 | Common |
+| [Blue Counter](../items/blue_counter.md) | 40 | Attack +106 | 8 | Common |
+| [Dankke](../items/dankke.md) | 40 | Attack +104 | 8 | Common |
+| [Far Slope Greatsword](../items/far_slope_greatsword.md) | 40 | Attack +113 | 7 | Common |
+| [Ironbark Spear](../items/ironbark_spear.md) | 40 | Attack +106 | 8 | Common |
+| [Kragvar Cleaver](../items/kragvar_cleaver.md) | 40 | Attack +106 | 7 | Common |
+| [Nakamaki](../items/nakamaki.md) | 40 | Attack +104 | 8 | Common |
+| [Niam](../items/niam.md) | 40 | Attack +112 | 8 | Common |
+| [Sabretooth](../items/sabretooth.md) | 40 | Attack +113 | 8 | Common |
+| [Tolmach Herder's Axe](../items/tolmach_herders_axe.md) | 40 | Attack +106 | 7 | Common |
+| [Traus](../items/traus.md) | 40 | Attack +106 | 8 | Common |
+| [Uskari Rim Spear](../items/uskari_rim_spear.md) | 40 | Attack +106 | 7 | Common |
+| [Walkout Katar](../items/walkout_katar.md) | 40 | Attack +106 | 7 | Common |
+| [Zard](../items/zard.md) | 40 | Attack +113 | 8 | Common |
+| [Zeco](../items/zeco.md) | 40 | Attack +106 | 8 | Common |
+| [Sawtooth Cutlass](../items/sawtooth_cutlass.md) | 45 | Attack +118 | 7 | Uncommon |
+| [Buck](../items/buck.md) | 50 | Attack +130 | 8 | Common |
+| [Hornbreaker](../items/hornbreaker.md) | 50 | Attack +146 | 7 | Rare |
+| [Jeweled Katar](../items/jeweled_katar.md) | 50 | Attack +130 | 8 | Common |
+| [Lion's Fang](../items/lions_fang.md) | 50 | Attack +139 | 8 | Common |
+| [Ripsaw Blade](../items/ripsaw_blade.md) | 50 | Attack +136, STR +3 | 7 | Rare |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 50 | Attack +130 | 8 | Common |
+| [The Rising](../items/the_rising.md) | 50 | Attack +139 | 8 | Common |
+| [Tuskbreaker](../items/tuskbreaker.md) | 50 | Attack +130, STR +3 | 7 | Rare |
+| [War Camp Blade](../items/war_camp_blade.md) | 50 | Attack +130 | 7 | Common |
+| [Storm Greatsword](../items/storm_greatsword.md) | 55 | Attack +152 | 7 | Common |
+| [Stormwalker Spear](../items/stormwalker_spear.md) | 55 | Attack +143 | 7 | Common |
+| [Withered Reach Axe](../items/withered_reach_axe.md) | 55 | Attack +143 | 7 | Common |
+| [Fordwarden's Traus](../items/fordwardens_traus.md) | 60 | Attack +156 | 7 | Common |
+| [Hawkhead](../items/hawkhead.md) | 60 | Attack +156 | 8 | Common |
+| [Hollowmaw Blade](../items/hollowmaw_blade.md) | 60 | Attack +164, STR +3 | 7 | Epic |
+| [Holy Spear](../items/holy_spear.md) | 60 | Attack +156 | 8 | Common |
+| [Neocora](../items/neocora.md) | 60 | Attack +156 | 8 | Common |
+| [Rootwood Axe](../items/rootwood_axe.md) | 60 | Attack +164 | 7 | Rare |
+| [Rootwood Greatsword](../items/rootwood_greatsword.md) | 60 | Attack +175 | 7 | Rare |
+| [Sparta](../items/sparta.md) | 60 | Attack +166 | 8 | Common |
+| [The Shining](../items/the_shining.md) | 60 | Attack +166 | 8 | Common |
+| [Inkblade](../items/inkblade.md) | 64 | Attack +164 | 7 | Uncommon |
+| [Chrono](../items/chrono.md) | 70 | Attack +196 | 8 | Common |
+| [Doombringer](../items/doombringer.md) | 70 | Attack +196 | 8 | Common |
+| [Mikhail](../items/mikhail.md) | 70 | Attack +184 | 8 | Common |
+| [Red Katana](../items/red_katana.md) | 70 | Attack +184 | 8 | Common |
+| [Redemption](../items/redemption.md) | 70 | Attack +184 | 8 | Common |
+| [Stonecap Sword](../items/stonecap_sword.md) | 70 | Attack +170, STR +4, DEX +2 | 8 | Rare |
+| [Stormcrest Greatsword](../items/stormcrest_greatsword.md) | 70 | Attack +196, STR +4 | 7 | Rare |
+| [Undertow Fang](../items/undertow_fang.md) | 70 | Attack +192, STR +4 | 7 | Rare |
+| [Blue Screamer](../items/blue_screamer.md) | 80 | Attack +228 | 8 | Common |
+| [Gaea](../items/gaea.md) | 80 | Attack +214 | 8 | Common |
+| [Helios](../items/helios.md) | 80 | Attack +228 | 8 | Common |
+| [Khan](../items/khan.md) | 80 | Attack +214 | 8 | Common |
+| [Omega Spear](../items/omega_spear.md) | 80 | Attack +214 | 8 | Common |
+| [Berzerker](../items/berzerker.md) | 90 | Attack +262 | 8 | Common |
+| [Colonian Axe](../items/colonian_axe.md) | 90 | Attack +262 | 8 | Common |
+| [Fairfrozen](../items/fairfrozen.md) | 90 | Attack +246 | 8 | Common |
+| [Fraute](../items/fraute.md) | 90 | Attack +246 | 8 | Common |
+| [Vifennis](../items/vifennis.md) | 90 | Attack +246 | 8 | Common |
+| [Kopis](../items/kopis.md) | 100 | Attack +280 | 8 | Common |
+| [Pinaka](../items/pinaka.md) | 100 | Attack +280 | 8 | Common |
+| [Tavar](../items/tavar.md) | 100 | Attack +299 | 8 | Common |
+| [The Beheader](../items/the_beheader.md) | 100 | Attack +299 | 8 | Common |
+| [Tomahawk](../items/tomahawk.md) | 100 | Attack +280 | 8 | Common |
+| [Dragon Axe](../items/dragon_axe.md) | 110 | Attack +316 | 8 | Common |
+| [Dragon Battle Axe](../items/dragon_battle_axe.md) | 110 | Attack +337 | 8 | Common |
+| [Dragon Carabella](../items/dragon_carabella.md) | 110 | Attack +316 | 8 | Common |
+| [Dragon Claymore](../items/dragon_claymore.md) | 110 | Attack +337 | 8 | Common |
+| [Dragon Faltizan](../items/dragon_faltizan.md) | 110 | Attack +316 | 8 | Common |
+| [Timeless Alchupiz](../items/timeless_alchupiz.md) | 120 | Attack +354 | 8 | Common |
+| [Timeless Bardiche](../items/timeless_bardiche.md) | 120 | Attack +354 | 8 | Common |
+| [Timeless Executioner](../items/timeless_executioner.md) | 120 | Attack +354 | 8 | Common |
+| [Timeless Nibleheim](../items/timeless_nibleheim.md) | 120 | Attack +378 | 8 | Common |
+| [Timeless Tabarzin](../items/timeless_tabarzin.md) | 120 | Attack +378 | 8 | Common |
 
 ### Hats
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
+| [Glade-Flower Garland](../items/glade_flower_garland.md) | - | Defense +5, Max HP +20 | 5 | Common |
 | [Red Headband](../items/red_headband.md) | - | Defense +9 | 8 | Common |
-| [Bronze Helmet](../items/bronze_helmet.md) | 5 | Defense +12 | 8 | Common |
-| [Steel Full Helm](../items/steel_full_helm.md) | 10 | Defense +18 | 8 | Common |
-| [Mithril Viking Helm](../items/mithril_viking_helm.md) | 20 | Defense +36 | 8 | Common |
-| [Iron Burgernet Helm](../items/iron_burgernet_helm.md) | 30 | Defense +72, Max HP +30 | 8 | Uncommon |
+| [Bronze Helmet](../items/bronze_helmet.md) | 5 | Defense +11 | 8 | Common |
+| [Steel Full Helm](../items/steel_full_helm.md) | 10 | Defense +14 | 8 | Common |
+| [Cove Fisher's Hat](../items/cove_fishers_hat.md) | 20 | Defense +19, Max HP +30 | 7 | Uncommon |
+| [Mithril Viking Helm](../items/mithril_viking_helm.md) | 20 | Defense +19 | 8 | Common |
+| [Strand Fox Hood](../items/strand_fox_hood.md) | 25 | Defense +22, DEX +2 | 7 | Common |
+| [Iron Burgernet Helm](../items/iron_burgernet_helm.md) | 30 | Defense +25, Max HP +30 | 8 | Uncommon |
+| [Steel Sharp Helm](../items/steel_sharp_helm.md) | 35 | Defense +29 | 8 | Common |
+| [Gate Watch Helm](../items/gate_watch_helm.md) | 40 | Defense +32 | 7 | Common |
+| [Steel Nordic Helm](../items/steel_nordic_helm.md) | 40 | Defense +32 | 8 | Common |
+| [Trail Watch Helm](../items/trail_watch_helm.md) | 40 | Defense +32 | 7 | Common |
+| [Saltface Helm](../items/saltface_helm.md) | 45 | Defense +35, Max HP +60 | 7 | Common |
+| [Bluecap Mother's Cap](../items/bluecap_mothers_cap.md) | 50 | Defense +42, Max HP +120, STR +3, DEX +3 | 8 | Rare |
+| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 50 | Defense +39 | 8 | Common |
+| [Grimhorn Helm](../items/grimhorn_helm.md) | 50 | Defense +43, Max HP +80 | 7 | Rare |
+| [Wall Iron Helm](../items/wall_iron_helm.md) | 55 | Defense +38, Max HP +60 | 8 | Uncommon |
+| [War Mask Visor](../items/war_mask_visor.md) | 55 | Defense +43 | 7 | Common |
+| [Nordic Watch Helm](../items/nordic_watch_helm.md) | 60 | Defense +47, Max HP +50 | 7 | Common |
+| [Red Crested Helmet](../items/red_crested_helmet.md) | 60 | Defense +47 | 8 | Common |
+| [Rootwood Helm](../items/rootwood_helm.md) | 60 | Defense +51, Max HP +100 | 7 | Rare |
+| [Silver Planet](../items/silver_planet.md) | 70 | Defense +55 | 8 | Common |
+| [Dark Dragon Barbute](../items/dark_dragon_barbute.md) | 80 | Defense +64 | 8 | Common |
+| [Silver Grace Helmet](../items/silver_grace_helmet.md) | 90 | Defense +74 | 8 | Common |
+| [Dark Valhalla Helmet](../items/dark_valhalla_helmet.md) | 100 | Defense +84 | 8 | Common |
+| [Blue Dragon Helmet](../items/blue_dragon_helmet.md) | 110 | Defense +95 | 8 | Common |
+| [Timeless Fennel](../items/timeless_fennel.md) | 120 | Defense +106 | 8 | Common |
 
 ### Tops
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
 | [White Undershirt](../items/white_undershirt.md) | - | Defense +10 | 8 | Common |
-| [Steel Corporal](../items/steel_corporal.md) | 10 | Defense +20 | 8 | Common |
-| [Blue Sergeant](../items/blue_sergeant.md) | 20 | Defense +40 | 8 | Common |
-| [Silver Master Sergeant](../items/silver_master_sergeant.md) | 30 | Defense +80 | 8 | Common |
+| [Steel Corporal](../items/steel_corporal.md) | 10 | Defense +15 | 8 | Common |
+| [Blue Sergeant](../items/blue_sergeant.md) | 20 | Defense +21 | 8 | Common |
+| [Silver Master Sergeant](../items/silver_master_sergeant.md) | 30 | Defense +28 | 8 | Common |
+| [Highland Jumper](../items/highland_jumper.md) | 35 | Defense +32, Max HP +50 | 7 | Common |
+| [Blue Jangoon Armor](../items/blue_jangoon_armor.md) | 40 | Defense +35 | 8 | Common |
+| [Drumhide Jerkin](../items/drumhide_jerkin.md) | 40 | Defense +35 | 7 | Common |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 50 | Defense +43 | 8 | Common |
+| [Old Camp Shouldermail](../items/old_camp_shouldermail.md) | 50 | Defense +43 | 7 | Common |
+| [Reach Warden Mail](../items/reach_warden_mail.md) | 60 | Defense +52 | 7 | Common |
+| [Red Orientican](../items/red_orientican.md) | 60 | Defense +52 | 8 | Common |
+| [Mithril Platine](../items/mithril_platine.md) | 70 | Defense +61 | 8 | Common |
+| [Blue Commodore](../items/blue_commodore.md) | 90 | Defense +82 | 8 | Common |
+| [Blue Neos](../items/blue_neos.md) | 100 | Defense +93 | 8 | Common |
+| [Black Neos](../items/black_neos.md) | 110 | Defense +105 | 8 | Common |
 
 ### Bottoms
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
 | [Blue Jean Shorts](../items/blue_jean_shorts.md) | - | Defense +8 | 8 | Common |
-| [Steel Corporal Pants](../items/steel_corporal_pants.md) | 10 | Defense +16 | 8 | Common |
-| [Steel Sergeant Kilt](../items/steel_sergeant_kilt.md) | 20 | Defense +32 | 8 | Common |
-| [Silver Master Sergeant Kilt](../items/silver_master_sergeant_kilt.md) | 30 | Defense +64 | 8 | Common |
+| [Steel Corporal Pants](../items/steel_corporal_pants.md) | 10 | Defense +12 | 8 | Common |
+| [Steel Sergeant Kilt](../items/steel_sergeant_kilt.md) | 20 | Defense +17 | 8 | Common |
+| [Silver Master Sergeant Kilt](../items/silver_master_sergeant_kilt.md) | 30 | Defense +22 | 8 | Common |
+| [Black Jangoon Pants](../items/black_jangoon_pants.md) | 40 | Defense +28 | 8 | Common |
+| [Herder's Breeches](../items/herders_breeches.md) | 40 | Defense +28 | 7 | Common |
+| [Blue Shouldermail Pants](../items/blue_shouldermail_pants.md) | 50 | Defense +35 | 8 | Common |
+| [Old Camp Greaves](../items/old_camp_greaves.md) | 50 | Defense +35 | 7 | Common |
+| [Reach Warden Greaves](../items/reach_warden_greaves.md) | 60 | Defense +42 | 7 | Common |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 60 | Defense +42 | 8 | Common |
+| [Mithril Platine Pants](../items/mithril_platine_pants.md) | 70 | Defense +49 | 8 | Common |
+| [Blue Commodore Pants](../items/blue_commodore_pants.md) | 90 | Defense +66 | 8 | Common |
+| [Blue Neos Pants](../items/blue_neos_pants.md) | 100 | Defense +75 | 8 | Common |
+| [Black Neos Pants](../items/black_neos_pants.md) | 110 | Defense +84 | 8 | Common |
 
 ### Overalls
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Steel Fitted Mail](../items/steel_fitted_mail.md) | 10 | Defense +36 | 11 | Common |
-| [Blue Kendo Robe](../items/blue_kendo_robe.md) | 20 | Defense +72 | 11 | Common |
-| [Blue Dragon Armor](../items/blue_dragon_armor.md) | 30 | Defense +144, STR +2, DEX +2 | 11 | Rare |
+| [Steel Fitted Mail](../items/steel_fitted_mail.md) | 10 | Defense +28 | 11 | Common |
+| [Blue Kendo Robe](../items/blue_kendo_robe.md) | 20 | Defense +38 | 11 | Common |
+| [Grove School Practice Robe](../items/grove_school_robe.md) | 20 | Defense +38, Max MP +40 | 10 | Common |
+| [Blue Dragon Armor](../items/blue_dragon_armor.md) | 30 | Defense +50, STR +2, DEX +2 | 11 | Rare |
+| [Dyna's Patchwork Coat](../items/dynas_patchwork_coat.md) | 30 | Defense +50, Max HP +40 | 7 | Common |
+| [Emerald Fitted Mail](../items/emerald_fitted_mail.md) | 40 | Defense +62 | 11 | Common |
+| [Pilot's Oilskin](../items/pilots_oilskin.md) | 40 | Defense +64, Max HP +60, DEX +2 | 7 | Uncommon |
+| [Drakescale Armour](../items/drakescale_armour.md) | 50 | Defense +82 | 7 | Rare |
+| [Dyna's Stage Coat](../items/dynas_stage_coat.md) | 50 | Defense +78, Max HP +80 | 7 | Common |
+| [Grey Bull Coat](../items/grey_bull_coat.md) | 60 | Defense +94, Max HP +90, STR +2 | 7 | Uncommon |
+| [Dark Battle Lord](../items/dark_battle_lord.md) | 80 | Defense +128 | 8 | Common |
+| [Timeless Taragon](../items/timeless_taragon.md) | 120 | Defense +212 | 8 | Common |
 
 ### Shoes
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
 | [Red Rubber Boots](../items/red_rubber_boots.md) | - | Defense +5, Speed +3 | 6 | Common |
-| [Steel Greaves](../items/steel_greaves.md) | 10 | Defense +10, Speed +10, Jump +5 | 6 | Common |
-| [Brown High Boots](../items/brown_high_boots.md) | 20 | Defense +20, Speed +12, Jump +6 | 6 | Common |
-| [Emerald Battle Greaves](../items/emerald_battle_greaves.md) | 30 | Defense +40, Speed +14, Jump +8 | 6 | Common |
+| [Steel Greaves](../items/steel_greaves.md) | 10 | Defense +8, Speed +10, Jump +5 | 6 | Common |
+| [Brown High Boots](../items/brown_high_boots.md) | 20 | Defense +11, Speed +12, Jump +6 | 6 | Common |
+| [Rooftop Runners](../items/rooftop_runners.md) | 20 | Defense +11, Speed +14, Jump +8 | 7 | Common |
+| [Emerald Battle Greaves](../items/emerald_battle_greaves.md) | 30 | Defense +14, Speed +14, Jump +8 | 6 | Common |
+| [Ridgewalker Boots](../items/ridgewalker_boots.md) | 30 | Defense +14, Speed +12, Jump +8 | 7 | Uncommon |
+| [Mithril War Boots](../items/mithril_war_boots.md) | 35 | Defense +16, Speed +14, Jump +8 | 6 | Common |
+| [Blue Jangoon Shoes](../items/blue_jangoon_shoes.md) | 40 | Defense +18, Speed +15, Jump +8 | 8 | Common |
+| [Cliff-Runner Boots](../items/cliff_runner_boots.md) | 40 | Defense +18, Speed +14, Jump +10 | 7 | Uncommon |
+| [Gutter Boots](../items/gutter_boots.md) | 40 | Defense +18, Speed +15, Jump +9 | 7 | Common |
+| [Trail Watch Boots](../items/trail_watch_boots.md) | 40 | Defense +18, Speed +10, Jump +6 | 7 | Common |
+| [Gold Hildon Boots](../items/gold_hildon_boots.md) | 50 | Defense +22, Speed +15, Jump +9 | 8 | Common |
+| [Stormwalker Boots](../items/stormwalker_boots.md) | 55 | Defense +24, Speed +12, Jump +8 | 7 | Common |
+| [Black Camel Boots](../items/black_camel_boots.md) | 60 | Defense +26, Speed +16, Jump +9 | 8 | Common |
+| [Marsh Boots](../items/marsh_boots.md) | 60 | Defense +26, Speed +16, Jump +10 | 7 | Common |
+| [Dark Carzen Boots](../items/dark_carzen_boots.md) | 70 | Defense +31, Speed +16, Jump +10 | 8 | Common |
+| [Dark Rivers Boots](../items/dark_rivers_boots.md) | 80 | Defense +36, Speed +17, Jump +10 | 8 | Common |
+| [Dark War Greave](../items/dark_war_greave.md) | 90 | Defense +41, Speed +17, Jump +11 | 8 | Common |
+| [Dark Crescent Boots](../items/dark_crescent_boots.md) | 100 | Defense +47, Speed +18, Jump +11 | 8 | Common |
+| [Blue Dragon Boots](../items/blue_dragon_boots.md) | 110 | Defense +53, Speed +18, Jump +12 | 8 | Common |
+| [Timeless Grabbe](../items/timeless_grabbe.md) | 120 | Defense +59, Speed +20, Jump +12 | 8 | Common |
 
 ### Gloves
 
@@ -87,19 +232,51 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 |---|---|---|---|---|
 | [Work Gloves](../items/work_gloves.md) | - | Defense +3 | 6 | Common |
 | [Old Pocket Watch](../items/old_pocket_watch.md) | 5 | Defense +5, Speed +4 | 6 | Uncommon |
-| [Steel Fingerless Gloves](../items/steel_fingerless_gloves.md) | 10 | Attack +2, Defense +6 | 6 | Common |
-| [Venon](../items/venon_gloves.md) | 20 | Attack +3, Defense +12 | 6 | Common |
-| [Steel Missel](../items/steel_missel.md) | 30 | Attack +5, Defense +24 | 6 | Common |
+| [Steel Fingerless Gloves](../items/steel_fingerless_gloves.md) | 10 | Attack +2, Defense +5 | 6 | Common |
+| [Venon](../items/venon_gloves.md) | 20 | Attack +3, Defense +6 | 6 | Common |
+| [Steel Missel](../items/steel_missel.md) | 30 | Attack +5, Defense +8 | 6 | Common |
+| [Sea-Mittens](../items/sea_mittens.md) | 35 | Attack +6, Defense +9 | 7 | Common |
+| [Climber's Gloves](../items/climbers_gloves.md) | 40 | Defense +11, Attack +7 | 7 | Common |
+| [Dark Knuckle](../items/dark_knuckle.md) | 40 | Attack +7, Defense +11 | 6 | Common |
+| [Mithril Brist](../items/mithril_brist.md) | 40 | Attack +7, Defense +10 | 6 | Common |
+| [Workshop Gauntlets](../items/workshop_gauntlets.md) | 40 | Attack +7, Defense +11 | 7 | Common |
+| [Gapclaw Gauntlets](../items/gapclaw_gauntlets.md) | 50 | Attack +10, Defense +13, STR +3 | 7 | Rare |
+| [Gold Brist](../items/gold_brist.md) | 50 | Attack +8, Defense +13 | 6 | Common |
+| [Red Ravine Gauntlets](../items/red_ravine_gauntlets.md) | 55 | Defense +14, Attack +9 | 7 | Common |
+| [Dark Clench](../items/dark_clench.md) | 60 | Attack +10, Defense +16 | 6 | Common |
+| [Dark Husk](../items/dark_husk.md) | 70 | Attack +12, Defense +18 | 6 | Common |
+| [Dark Emperor](../items/dark_emperor.md) | 80 | Attack +13, Defense +21 | 6 | Common |
+| [Dark Imperial](../items/dark_imperial.md) | 90 | Attack +15, Defense +25 | 6 | Common |
+| [Dark Korben](../items/dark_korben.md) | 100 | Attack +17, Defense +28 | 6 | Common |
+| [Blue Dragon Gauntlet](../items/blue_dragon_gauntlet.md) | 110 | Attack +18, Defense +32 | 6 | Common |
+| [Timeless Bergamot](../items/timeless_bergamot.md) | 120 | Attack +20, Defense +35 | 6 | Common |
 
 ### Capes
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
 | [Newcomer Cape](../items/newcomer_cape.md) | - | Defense +4 | 6 | Common |
-| [Agent Cape](../items/agent_cape.md) | 10 | Defense +8 | 6 | Common |
-| [Snail King's Shell](../items/snail_kings_shell.md) | 12 | Defense +26, Max HP +60, STR +2 | 5 | Rare |
-| [Maple Cape](../items/maple_cape.md) | 20 | Defense +16 | 6 | Common |
-| [Red Adventurer Cape](../items/red_adventurer_cape.md) | 30 | Defense +32, Speed +10, Jump +10, Critical Rate +2 | 6 | Common |
+| [Agent Cape](../items/agent_cape.md) | 10 | Defense +6 | 6 | Common |
+| [Snail King's Shell](../items/snail_kings_shell.md) | 12 | Defense +19, Max HP +60, STR +2 | 5 | Rare |
+| [Maple Cape](../items/maple_cape.md) | 20 | Defense +9 | 6 | Common |
+| [Brushtail Wrap](../items/brushtail_wrap.md) | 30 | Defense +14, DEX +3, Speed +4 | 7 | Rare |
+| [Fur-Lined Cloak](../items/fur_lined_cloak.md) | 30 | Defense +11, Max HP +40 | 7 | Common |
+| [Red Adventurer Cape](../items/red_adventurer_cape.md) | 30 | Defense +11, Speed +10, Jump +10, Critical Rate +2 | 6 | Common |
+| [Barnacled Hull Cape](../items/barnacled_hull_cape.md) | 40 | Defense +18, Max HP +80, Magic Defense +6 | 6 | Rare |
+| [Blue Justice Cape](../items/blue_justice_cape.md) | 40 | Defense +14 | 6 | Common |
+| [Blue Magic Cape](../items/blue_magic_cape.md) | 50 | Defense +17 | 6 | Common |
+| [Grimhide Cape](../items/grimhide_cape.md) | 50 | Defense +19, Max HP +60 | 7 | Rare |
+| [Grizzled Mane Cape](../items/grizzled_mane_cape.md) | 50 | Defense +21, STR +3, Max HP +80 | 7 | Rare |
+| [Walkout Cape](../items/walkout_cape.md) | 50 | Defense +17, STR +2 | 7 | Common |
+| [Dry Storm Cape](../items/dry_storm_cape.md) | 55 | Defense +19 | 7 | Common |
+| [Black Gaia Cape](../items/black_gaia_cape.md) | 60 | Defense +21 | 6 | Common |
+| [Lantern-Light Cape](../items/lantern_light_cape.md) | 65 | Defense +26, Max HP +120, Magic Defense +10 | 7 | Rare |
+| [Green Seraph Cape](../items/green_seraph_cape.md) | 70 | Defense +25 | 6 | Common |
+| [Black Giles Cape](../items/black_giles_cape.md) | 80 | Defense +29 | 6 | Common |
+| [Blue Musketeer Cape](../items/blue_musketeer_cape.md) | 90 | Defense +33 | 6 | Common |
+| [Clockwork Cape](../items/clockwork_cape.md) | 100 | Defense +37 | 6 | Common |
+| [Sirius Cape](../items/sirius_cape.md) | 110 | Defense +42 | 6 | Common |
+| [Timeless Moonlight](../items/timeless_moonlight.md) | 120 | Defense +47 | 6 | Common |
 
 ### Shields
 
@@ -107,18 +284,40 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 |---|---|---|---|---|
 | [Bronze Shield](../items/bronze_shield.md) | - | Defense +11 | 8 | Common |
 | [Wooden Buckler](../items/wooden_buckler.md) | - | Defense +8 | 8 | Common |
-| [Steel Shield](../items/steel_shield.md) | 10 | Defense +16 | 8 | Common |
-| [Mithril Buckler](../items/mithril_buckler.md) | 20 | Defense +32 | 8 | Common |
-| [Cross Shield](../items/cross_shield.md) | 30 | Defense +64 | 8 | Common |
+| [Steel Shield](../items/steel_shield.md) | 10 | Defense +12 | 8 | Common |
+| [Mithril Buckler](../items/mithril_buckler.md) | 20 | Defense +17 | 8 | Common |
+| [Crabshell Buckler](../items/crabshell_buckler.md) | 30 | Defense +28, Max HP +60 | 8 | Rare |
+| [Cross Shield](../items/cross_shield.md) | 30 | Defense +22 | 8 | Common |
+| [Mossleaf Shield](../items/mossleaf_shield.md) | 30 | Defense +28, Max HP +60 | 8 | Rare |
+| [Far Slope Shield](../items/far_slope_shield.md) | 40 | Defense +28 | 7 | Common |
+| [Steel Tower Shield](../items/steel_tower_shield.md) | 40 | Defense +28 | 8 | Common |
+| [Skull Shield](../items/skull_shield.md) | 50 | Defense +35 | 8 | Common |
+| [Reach Warden Shield](../items/reach_warden_shield.md) | 55 | Defense +38 | 7 | Common |
+| [Wall Iron Shield](../items/wall_iron_shield.md) | 55 | Defense +32, STR +2 | 8 | Uncommon |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 60 | Defense +42 | 8 | Common |
+| [Heartwood Shield](../items/heartwood_shield.md) | 60 | Defense +46, Max HP +120 | 7 | Rare |
+| [Gold Ancient Shield](../items/gold_ancient_shield.md) | 70 | Defense +49 | 8 | Common |
+| [Gold Aquila Shield](../items/gold_aquila_shield.md) | 80 | Defense +57 | 8 | Common |
+| [Gold Kalkan](../items/gold_kalkan.md) | 90 | Defense +66 | 8 | Common |
+| [Blue Hoflon](../items/blue_hoflon.md) | 100 | Defense +75 | 8 | Common |
+| [Blue Dragon Shield](../items/blue_dragon_shield.md) | 110 | Defense +84 | 8 | Common |
+| [Timeless Kite Shield](../items/timeless_kite_shield.md) | 120 | Defense +94 | 8 | Common |
 
 ### Earrings
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Single Earring](../items/single_earring.md) | 15 | Max MP +20, Magic Defense +3 | - | Common |
-| [Weighted Earrings](../items/weighted_earrings.md) | 20 | Defense +6, Magic Defense +4 | - | Common |
-| [Gold Earrings](../items/gold_earrings.md) | 25 | Max HP +30, Magic Defense +6 | - | Common |
-| [Emerald Earrings](../items/emerald_earrings.md) | 30 | Max HP +40, Max MP +20, Magic Defense +10 | - | Uncommon |
+| [Single Earring](../items/single_earring.md) | 15 | Max MP +20, Magic Defense +2 | - | Common |
+| [Weighted Earrings](../items/weighted_earrings.md) | 20 | Defense +3, Magic Defense +2 | - | Common |
+| [Gold Earrings](../items/gold_earrings.md) | 25 | Max HP +30, Magic Defense +3 | - | Common |
+| [Shimmerwater Earrings](../items/shimmerwater_earrings.md) | 25 | Max HP +40, Magic Defense +6 | - | Uncommon |
+| [Lock-Keeper's Earrings](../items/lockkeepers_earrings.md) | 28 | Max HP +45, Defense +3, Magic Defense +5 | - | Uncommon |
+| [Emerald Earrings](../items/emerald_earrings.md) | 30 | Max HP +40, Max MP +20, Magic Defense +4 | - | Uncommon |
+| [Sea Gate Earrings](../items/sea_gate_earrings.md) | 45 | Max HP +70, Defense +4, Magic Defense +9 | - | Uncommon |
+| [Holdfast Fang Earrings](../items/holdfast_fang_earrings.md) | 50 | STR +2, Max HP +70, Defense +4, Magic Defense +8 | - | Epic |
+| [Shade Hook Earrings](../items/shade_hook_earrings.md) | 55 | Max HP +85, Defense +5, Magic Defense +11 | - | Uncommon |
+| [Howlet Earrings](../items/howlet_earrings.md) | 60 | Max HP +90, DEX +2, Magic Defense +12 | - | Uncommon |
+| [Heartroot Earrings](../items/heartroot_earrings.md) | 70 | Max HP +160, STR +4, DEX +4, Defense +10, Magic Defense +16 | - | Epic |
 
 ### Rings
 
@@ -127,45 +326,50 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 | [Ring of Alchemist](../items/ring_of_alchemist.md) | 10 | STR +1, DEX +1, INT +1, LUK +1 | - | Common |
 | [Ring of Moon Stone: 1 Carat](../items/ring_of_moon_stone_1.md) | 10 | STR +1, DEX +1, INT +1, LUK +1, Speed +2 | - | Common |
 | [Ring of Shining Star: 2 Carats](../items/ring_of_shining_star_2.md) | 20 | STR +2, DEX +2, INT +2, LUK +2, Jump +1 | - | Common |
+| [Saltgrace Signet](../items/saltgrace_signet.md) | 25 | STR +2, DEX +2, Max HP +40 | - | Uncommon |
 | [Ring of Moon Stone: 3 Carats](../items/ring_of_moon_stone_3.md) | 30 | STR +3, DEX +3, INT +3, LUK +3, Speed +2 | - | Uncommon |
 
 ### Pendants
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Bow-tie (Green)](../items/bow_tie_green.md) | 20 | Defense +4, Magic Defense +4 | - | Common |
-| [Bow-tie (Yellow)](../items/bow_tie_yellow.md) | 25 | Defense +5, Magic Defense +3 | - | Common |
-| [Spiegelmann's Necklace](../items/spiegelmann_necklace.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Defense +18, Magic Defense +18 | - | Uncommon |
+| [Bow-tie (Green)](../items/bow_tie_green.md) | 20 | Defense +2, Magic Defense +2 | - | Common |
+| [Bow-tie (Yellow)](../items/bow_tie_yellow.md) | 25 | Defense +2, Magic Defense +1 | - | Common |
+| [Bound-Page Pendant](../items/bound_page_pendant.md) | 30 | Max HP +60, Max MP +60, Defense +6, Magic Defense +6 | - | Rare |
+| [Spiegelmann's Necklace](../items/spiegelmann_necklace.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Defense +6, Magic Defense +6 | - | Uncommon |
+| [Purser's Chain](../items/pursers_chain.md) | 35 | Max HP +60, Defense +5, Magic Defense +5 | - | Uncommon |
+| [Sounding Charm](../items/sounding_lantern_charm.md) | 40 | STR +2, DEX +2, Defense +6, Max HP +50 | 7 | Uncommon |
 
 ### Belts
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Waist Warmer](../items/waist_warmer.md) | 10 | Max HP +20, Defense +6 | - | Common |
-| [Red Waist Warmer](../items/red_waist_warmer.md) | 20 | STR +2, Defense +10 | - | Common |
-| [Blue Waist Warmer](../items/blue_waist_warmer.md) | 30 | LUK +2, Max MP +30, Magic Defense +12 | - | Uncommon |
+| [Waist Warmer](../items/waist_warmer.md) | 10 | Max HP +20, Defense +5 | - | Common |
+| [Red Waist Warmer](../items/red_waist_warmer.md) | 20 | STR +2, Defense +5 | - | Common |
+| [Blue Waist Warmer](../items/blue_waist_warmer.md) | 30 | LUK +2, Max MP +30, Magic Defense +4 | - | Uncommon |
 
 ### Shoulders
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Moon Bunny Epaulette](../items/moon_bunny_epaulette.md) | 15 | Defense +8, Attack +1 | - | Common |
-| [Brave Lion Toenail](../items/brave_lion_toenail.md) | 20 | STR +2, Defense +12 | - | Common |
-| [Curbrock's Shoulder Accessory](../items/curbrocks_shoulder_accessory.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Defense +16 | - | Uncommon |
+| [Moon Bunny Epaulette](../items/moon_bunny_epaulette.md) | 15 | Defense +5, Attack +1 | - | Common |
+| [Brave Lion Toenail](../items/brave_lion_toenail.md) | 20 | STR +2, Defense +6 | - | Common |
+| [Curbrock's Shoulder Accessory](../items/curbrocks_shoulder_accessory.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Defense +6 | - | Uncommon |
 
 ### Face Accessories
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Shabby Mask](../items/shabby_mask.md) | 20 | Max HP +25, Defense +4 | - | Common |
-| [Green Mask](../items/green_mask.md) | 30 | Max HP +40, Max MP +20, Defense +8 | - | Uncommon |
+| [Shabby Mask](../items/shabby_mask.md) | 20 | Max HP +25, Defense +2 | - | Common |
+| [Green Mask](../items/green_mask.md) | 30 | Max HP +40, Max MP +20, Defense +3 | - | Uncommon |
 
 ### Eye Accessories
 
 | Item | Level | Stats | Slots | Rarity |
 |---|---|---|---|---|
-| [Broken Cyclops Eye](../items/broken_cyclops_eye.md) | 10 | Max HP +30, Defense +5 | - | Common |
-| [Cyclops Eye Lv. 1](../items/cyclops_eye.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Max HP +50, Max MP +50, Defense +15 | - | Uncommon |
+| [Broken Cyclops Eye](../items/broken_cyclops_eye.md) | 10 | Max HP +30, Defense +4 | - | Common |
+| [Cyclops Eye Lv. 1](../items/cyclops_eye.md) | 30 | STR +1, DEX +1, INT +1, LUK +1, Max HP +50, Max MP +50, Defense +5 | - | Uncommon |
+| [Deep Lantern's Eye](../items/deep_lantern_eye.md) | 68 | DEX +4, STR +3, Max HP +100 | - | Epic |
 
 ## Consumables
 
@@ -174,88 +378,398 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 | [AP Reset Scroll](../items/ap_reset_scroll.md) | 100 | Moves one ability point from STR to DEX. It cannot take back what you started with. |
 | [All Cure Potion](../items/all_cure_potion.md) | 100 | Cures poison, seal, darkness, weakness and curse. |
 | [Antidote](../items/antidote.md) | 25 | Cures the state of being poisoned. |
+| [Apple Pasty](../items/apple_pasty.md) | 30 | A flaky pasty of plaza apples. Restores 60 HP and 40 MP. |
 | [Blue Potion](../items/blue_potion.md) | 100 | A potion made from blue herbs. Restores 100 MP. |
+| [Bluecap Poultice](../items/bluecap_poultice.md) | 220 | Bess's poultice of Bluecap spore sacs and wild spores, as she and Bram brewed it. Restores 500 HP and cures poison. |
+| [Bonesetter's Draught](../items/bonesetters_draught.md) | 1,100 | Lessa's own draught for the badly hurt. Restores 60% of HP and cures poison. |
+| [Brodie's Smoked Fish](../items/brodies_smoked_fish.md) | 60 | Brodie's smoked fish, named and wrapped. Recovers 250 HP. |
+| [Bunch of Daisies](../items/bunch_of_daisies.md) | 25 | A cheerful bunch from the flower stall. Restores 50 MP. |
+| [Cockle Broth](../items/cockle_broth.md) | 140 | Cockles simmered with a little pepper from Marisol's shop. Restores 400 MP. |
+| [Crow's Mana Draught](../items/crows_mana_draught.md) | 220 | A dark draught for tired minds. Restores 600 MP. |
+| [Crow's Strong Tonic](../items/crows_strong_tonic.md) | 360 | Crow's strongest tonic, still unlabelled. Restores 2000 HP. |
+| [Crow's Tonic](../items/crows_tonic.md) | 180 | An unlabelled bottle from Crow's stall. Restores 1000 HP. |
+| [Crown Loaf](../items/crown_loaf.md) | 40 | A round loaf scored with the crown. Restores 100 HP. |
+| [Crumb's Sweet Bun](../items/sweet_bun.md) | 80 | A sticky bun Crumb bakes at dawn, out of habit. Restores 300 HP and 200 MP. |
+| [Dew Tea](../items/dew_tea.md) | 70 | Tansy's tea, brewed from leaf-dew gathered at dawn. Restores 160 MP. |
+| [Dragon Loaf](../items/dragon_loaf.md) | 110 | Crumb's dragon-shaped loaf, crust and all. Restores 800 HP. |
 | [EXP Potion](../items/exp_potion.md) | 100 | A fantastical brew that is all learning. Gives 500 EXP. |
 | [Elixir](../items/elixir.md) | 1,500 | A rare potion of legend. Restores half of your HP and MP. |
 | [Eyedrop](../items/eyedrop.md) | 25 | Cures darkness: the world is clear again. |
+| [Fairy Forest Herb Tea](../items/herb_tea.md) | 70 | Rosalind's tea of Fairy Forest herbs. Restores 150 MP. |
+| [Festival Garland](../items/festival_garland.md) | 120 | Emmeline's garland of plaza flowers. Wearing it a while lifts the step: Speed +6 for 5 minutes. |
+| [Fire Grill Skewer](../items/fire_grill_skewer.md) | 60 | Ladle's skewer, hot off the grill. Restores 400 HP. |
+| [Fish Cake](../items/fish_cake.md) | 30 | A fried fish cake from the Lantern Market. Recovers 120 HP. |
+| [Fresh Butter](../items/fresh_butter.md) | 50 | A pat of fresh butter. Restores 90 MP. |
+| [Fried Shrimp](../items/fried_shrimp.md) | 180 | Hesketh's shrimp, fried in a paper cone. He says it is better than anything on the next stall. Restores 350 HP and 350 MP. |
+| [Gap Inn Stew](../items/gap_inn_stew.md) | 180 | A bowl of Bethoc's hot stew. Recovers 600 HP and 200 MP, and keeps the cold out for a while. |
+| [Glow-Oil](../items/glow_oil.md) | 260 | Ondine's brightest oil in a stoppered flask. Weapon Attack +8 for 4 minutes. |
+| [Goat Cheese](../items/goat_cheese.md) | 90 | A wedge of hard Tolmach goat cheese. Restores 450 HP. |
+| [Goat's Milk](../items/goats_milk.md) | 80 | A skin of fresh goat's milk from the Tolmach camps. Restores 250 MP. |
+| [Gwennol's Fish Cake](../items/gwennols_fish_cake.md) | 200 | Gwennol's flaked fish and potato, fried golden at the back of her stall. Restores 500 HP and 200 MP. |
+| [Harbour Fish Cake](../items/harbour_fish_cake.md) | 70 | Fish from both harbours, pressed and fried. Restores 150 HP. |
+| [Harbour Loaf](../items/harbour_loaf.md) | 260 | A long crusty loaf to share along the waterfront. Restores 300 HP and a fifth of your HP. |
 | [Herb Salad](../items/herb_salad.md) | 20 | Fresh marjoram tossed in oil. Restores 70 MP. |
+| [Highland Salve](../items/highland_salve.md) | 450 | A Brenna salve of highland herbs, rubbed in and felt at once. Restores 1200 HP. |
 | [Holy Water](../items/holy_water.md) | 60 | Allows you to recover from the state of curse or of being sealed up. |
+| [Honey Cake](../items/honey_cake.md) | 110 | A small, sticky cake from the Dewdrop Tea House. Restores 320 HP. |
+| [Honey Cake](../items/crown_honey_cake.md) | 90 | Margery's honey cake, baked the Kaldemor way. Restores 200 HP and 60 MP. |
+| [Hot Cider](../items/hot_cider.md) | 60 | Spiced cider from Piers's kettle. Restores 120 MP. |
+| [Hot Cider](../items/spiced_cider.md) | 70 | Spiced cider from Ladle's stall. Restores 250 MP. |
 | [Hunter's Bento](../items/hunters_bento.md) | 150 | A packed lunch for a long day in the fields. Restores 250 HP and 100 MP, and Defense +8 for 5 minutes. |
 | [Lavender Tea](../items/lavender_tea.md) | 60 | A warm cup of lavender and rosemary. Restores 130 MP. |
 | [Mandarin Dango](../items/mandarin_dango.md) | 90 | Sticky dumplings glazed with mandarin. Restores 120 HP and 80 MP, and quickens the step for 5 minutes. |
+| [Meat Pie](../items/meat_pie.md) | 45 | Piers's meat pie, hot from the plaza oven. Restores 120 HP. |
+| [Mintleaf Salve](../items/mintleaf_salve.md) | 90 | Celandine's salve, labelled twice. Restores 200 HP and cures poison and bleeding. |
 | [Mushroom Ramen](../items/mushroom_ramen.md) | 260 | A rich ramen of horny mushrooms and lemon balm. Restores 400 HP and 150 MP, and Attack +4, Defense +4 for 5 minutes. |
 | [Mushroom Rice Ball](../items/mushroom_rice_ball.md) | 35 | A rice ball with a mushroom filling and a lavender leaf. Restores 90 HP. |
 | [Orange Potion](../items/orange_potion.md) | 80 | A strong potion made from red herbs. Restores 150 HP. |
+| [Pepper Bun](../items/pepper_bun.md) | 45 | A soft bun with a peppery bite. Restores 250 HP and 100 MP. |
+| [Pepper Crab](../items/pepper_crab.md) | 350 | A whole crab steamed in sea water and rubbed with pepper from Marisol's shop. Eat it slowly. Defense +15 for 10 minutes. |
+| [Pickled Kelp](../items/pickled_kelp.md) | 200 | Remy's pickled kelp. Restores 800 HP and 400 MP, and you feel braver for 5 minutes (+6 defense). |
 | [Red Potion](../items/red_potion.md) | 25 | A potion made from red herbs. Restores 50 HP. |
+| [Return Scroll to Goa Harbour](../items/return_scroll_goa.md) | 300 | Takes you back to Goa Harbour's Inlet Quay. |
+| [Rimwort Tonic](../items/rimwort_tonic.md) | 400 | A grey, bitter tonic of rimwort that clears the head. Restores 600 MP. |
 | [Roast Pork](../items/roast_pork.md) | 70 | A pig's head roasted over firewood with rosemary. Restores 200 HP. |
 | [SP Reset Scroll](../items/sp_reset_scroll.md) | 100 | Takes back every skill point spent on your job's attacks. They return to level 1, and the points can be spent again. |
+| [Sailor's Biscuit](../items/sailors_biscuit.md) | 90 | Hard as a deck plank and keeps a whole voyage; every ship out of Bain carries a sack. Restores 400 HP. |
+| [Salt Roll](../items/salt_roll.md) | 40 | Bryony's salt roll, still warm from the oven on Merchant Street. Restores 200 HP. |
+| [Salted Fish](../items/salted_fish.md) | 40 | Salted fish for the road. It keeps for months. Recovers 160 HP. |
+| [Sea-Herb Salve](../items/sea_herb_salve.md) | 220 | One of Elspeth's salves, from the first camp's recipe. Recovers 900 HP. |
+| [Sea-Herb Tonic](../items/sea_herb_tonic.md) | 200 | A bitter green tonic. Recovers 400 MP and cures poison. |
+| [Sea-Salt Crisps](../items/sea_salt_crisps.md) | 90 | Thin, salty crisps. Restores 500 MP. |
+| [Smoked Fish](../items/smoked_fish.md) | 140 | Remy's smoked fish from the coast. Restores 1200 HP. |
+| [Smoked Mackerel](../items/smoked_mackerel.md) | 120 | Gwennol's smokehouse mackerel, oily and good. Restores 250 MP. |
+| [Smoked River Eel](../items/smoked_eel.md) | 110 | Silas's smoked eel from the river. Restores 260 HP. |
 | [Speed Potion](../items/speed_potion.md) | 125 | Increases speed. Speed +8 for 3 minutes. |
+| [Spore Draught](../items/spore_draught.md) | 320 | Bram's draught for the dust of Stonecap Keep, brewed from Spore Puff sacs and lemon balm. Restores 800 HP and clears poison and a slow. |
+| [Steamed Crab](../items/steamed_crab.md) | 110 | A whole steamed crab, cracked. Recovers 450 HP. |
+| [Sting Salve](../items/sting_salve.md) | 120 | Clemence's salve, made from glass jelly stingers. Cures poison and restores 300 HP. |
 | [Tonic](../items/tonic.md) | 40 | Cures the state of weakness. |
 | [Town Return Scroll](../items/town_return_scroll.md) | 200 | Read it to be taken back to the town this place belongs to. |
+| [Travel Ration](../items/travel_ration.md) | 220 | Dried meat, cheese and flatbread wrapped for the trail. Restores 700 HP and 200 MP. |
+| [Travelling Light](../items/travelling_light.md) | 180 | One of Vesper's little road lanterns. Hung from the belt, it steadies the step: Speed +6 and Defense +10 for 5 minutes. |
 | [Use Slot Expansion Coupon](../items/use_slot_coupon.md) | 100 | Adds a row of 4 slots to the Use tab, up to 96 slots. |
 | [Warrior Potion](../items/warrior_potion.md) | 125 | Increases attacking ability. Weapon Attack +5 for 3 minutes. |
+| [Wayfarer's Compass](../items/wayfarers_compass.md) | 0 | A developer's tool. Use it to pick any map of the world and go straight there. It is never used up. |
+| [Wedge of Cheese](../items/wedge_of_cheese.md) | 80 | A wedge from Alys's counter: she will not say which town. Restores 160 HP and 40 MP. |
 | [White Potion](../items/white_potion.md) | 160 | The strongest potion made from red herbs. Restores 300 HP. |
 
 ## Scrolls
 
 | Item | Price | Description |
 |---|---|---|
-| [Scroll for Bottomwear for DEF 100%](../items/scroll_bottomwear_def.md) | 50 | Improves Defense on bottomwear armors. |
-| [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) | 50 | Improves DEF on capes. |
-| [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) | 50 | Improves Attack on gloves. |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 50 | Improves Defense on helmets. |
-| [Scroll for One-Handed Axe for ATT 100%](../items/scroll_one_handed_axe_att.md) | 50 | Improves Weapon Attack on One-Handed Axes. |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 50 | Improves Weapon Attack on One-Handed Swords. |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 50 | Improves Defense on overall armors. |
-| [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) | 50 | Improves Defense on shields. |
-| [Scroll for Shoes for Jump 100%](../items/scroll_shoes_jump.md) | 50 | Improves Jump on shoes. |
-| [Scroll for Spear for ATT 100%](../items/scroll_spear_att.md) | 50 | Improves Weapon Attack on Spears. |
-| [Scroll for Topwear for DEF](../items/scroll_topwear_def.md) | 50 | Improves Defense on upper armors. |
-| [Scroll for Two-handed Axe for ATT 100%](../items/scroll_two_handed_axe_att.md) | 50 | Improves Weapon Attack on Two-handed Axes. |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 50 | Improves Weapon Attack on Two-handed Swords. |
+| [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) | 50 | Improves Defense on bottomwear armors. |
+| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 50 | Improves DEF on capes. |
+| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 50 | Improves Attack on gloves. |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 50 | Improves Defense on helmets. |
+| [Scroll for One-Handed Axe for ATT 60%](../items/scroll_one_handed_axe_att.md) | 50 | Improves Weapon Attack on One-Handed Axes. |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 50 | Improves Weapon Attack on One-Handed Swords. |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 50 | Improves Defense on overall armors. |
+| [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 50 | Improves Defense on shields. |
+| [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) | 50 | Improves Jump on shoes. |
+| [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 50 | Improves Weapon Attack on Spears. |
+| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 50 | Improves Defense on upper armors. |
+| [Scroll for Two-handed Axe for ATT 60%](../items/scroll_two_handed_axe_att.md) | 50 | Improves Weapon Attack on Two-handed Axes. |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 50 | Improves Weapon Attack on Two-handed Swords. |
 
 ## Materials
 
 | Item | Price | Description |
 |---|---|---|
+| [Adder Skin](../items/adder_skin.md) | 20 | A supple skin from a verge adder. Twisted and dried, it makes a strong cord. |
+| [Amber Comb](../items/amber_comb.md) | 120 | Old comb from the walls of the Hive Hollow, dark as amber. Gilbert would give a great deal for it. |
+| [Archive Dust](../items/old_dust.md) | 32 | A pinch of dust that glitters when it moves. |
+| [Bank Clang Claw](../items/bank_clang_claw.md) | 38 | A heavy claw from a clang of the Long Reach banks. |
+| [Bank Lorang Claw](../items/bank_lorang_claw.md) | 34 | A red claw that could cut a fisher's net. |
+| [Barnacle Plate](../items/barnacle_plate.md) | 60 | A crust of barnacles prised off a barnacle crab of the Saltgrace's holds. |
+| [Bee Stinger](../items/wild_bee_stinger.md) | 18 | The stinger of a wild bee from the downs, longer than it ought to be. |
+| [Bilge Eel Skin](../items/bilge_eel_skin.md) | 60 | Slick skin from a bilge eel of the Saltgrace. |
+| [Bitter Sap](../items/bitter_sap.md) | 48 | Rotten sap from the Blightstone's wooden joints. |
+| [Black Rat Tail](../items/black_drain_rat_tail.md) | 26 | A black tail as thick as a rope's end. |
+| [Blightstone Shard](../items/blightstone_shard.md) | 48 | A chip of mossy stone, bitter to the smell. |
+| [Blind Bat Wing](../items/blind_bat_wing.md) | 30 | A leathery wing, thin enough to see a lantern through. |
 | [Blue Cloth](../items/blue_cloth.md) | 22 | Sturdy cloth woven from fern fibre and dyed blue. |
 | [Blue Snail Shell](../items/blue_snail_shell.md) | 2 | The blue shell of a snail. Collectors pay a little for it. |
+| [Bluecap Mother's Spore](../items/bluecap_mother_spore.md) | 500 | A great blue spore the size of a fist, shaken loose from the Bluecap Mother. |
+| [Bluecap Spore Sac](../items/bluecap_spore_sac.md) | 30 | A soft sac of blue spores from under a Bluecap's gills. Healers say it draws a swelling out. |
+| [Boar Bristle](../items/boar_bristle.md) | 34 | A fistful of bristles from a bristle boar, stiff as wire. |
+| [Boar Tusk](../items/downs_boar_tusk.md) | 22 | A yellowed tusk from a boar that came up onto the downs. |
+| [Boggle Dust](../items/boggle_dust.md) | 18 | A pinch of red dust shaken from a Dust Boggle. Harra swears it keeps cheese moths away. |
+| [Bootbreaker's Claw](../items/bootbreaker_claw.md) | 400 | A claw off the Bootbreaker, barnacled and scarred, as long as an oar. Bree wants it for her stall; Keziah wants it over the bar at the Salt and Bread. |
+| [Bootcrab Shell](../items/bootcrab_shell.md) | 30 | A cast shell from a bootcrab, too hard and the wrong colour for any crab of the bay. |
+| [Bramble Thorn](../items/bramble_thorn.md) | 88 | A thorn as long as a finger, dark at the tip. |
+| [Broken Binding](../items/broken_binding.md) | 38 | Leather and thread from the back of a very old book. |
 | [Bronze Ingot](../items/bronze_ingot.md) | 80 | A bar of smelted bronze, harder than copper. |
 | [Bronze Ore](../items/bronze_ore.md) | 15 | Soft ore that a smith can turn into bronze. |
+| [Bubbling's Huge Bubble](../items/bubblings_huge_bubble.md) | 18 | It does not pop, however hard you squeeze. |
+| [Cairn Heartstone](../items/cairn_heartstone.md) | 400 | The warm stone at the heart of Old Cairn. Masons say it hums. |
+| [Capguard Cap](../items/capguard_cap.md) | 45 | The stiff orange cap of a Capguard. It still sits as straight as it did on the wall. |
+| [Cave Bat Wing](../items/cave_bat_wing.md) | 40 | A leathery wing from a bat of the Bellcaves' mouth. |
+| [Cave Crab Shell](../items/cave_crab_shell.md) | 30 | A pale shell from a crab that has never seen the sun. |
+| [Cave Octopus Ink](../items/cave_octopus_ink.md) | 32 | Black ink from a cave octopus. It stains everything. |
+| [Chalk Hive Stinger](../items/chalk_hive_stinger.md) | 26 | A stinger white with chalk dust, from the bees of the great hive. |
+| [Cistern Bubble](../items/cistern_bubble.md) | 24 | A huge bubble from the still water of the first city's cisterns. |
+| [Clod of Red Earth](../items/clod_of_red_earth.md) | 16 | Red earth from the roots of a Dark Stump. Muralists grind it into red paint. |
+| [Coarse Lupin Fur](../items/coarse_lupin_fur.md) | 66 | Wiry fur from a Lupin bigger than the old drawings say a Lupin should be. |
+| [Cold Eye Tail](../items/cold_eye_tail.md) | 59 | A tail cold to the touch, even in summer. |
 | [Copper Ingot](../items/copper_ingot.md) | 40 | A bar of smelted copper: the first thing a smith learns to make. |
 | [Copper Ore](../items/copper_ore.md) | 8 | Reddish ore struck from a copper vein. A smith can melt it into an ingot. |
+| [Crowned Glimmerwing Wing](../items/crowned_glimmerwing_wing.md) | 27 | A wing as thin as a petal, with a faint gold edge. |
+| [Curse Eye Tail](../items/curse_eye_tail.md) | 54 | A tail that still twitches now and then. |
+| [Curved Tusk](../items/curved_tusk.md) | 34 | A boar's tusk, curved like a hook and worn sharp at the tip. |
+| [Dark Bark](../items/dark_bark.md) | 26 | Hard black bark from a gnarled stump of the High Ridges. It splits clean along the grain. |
+| [Dark Quarry Stone](../items/dark_quarry_stone.md) | 60 | Dark stone from the deep faces of the quarries. |
+| [Dark Stump Bark](../items/dark_stump_bark.md) | 14 | Bark gone black and hard on a stump near the World Tree's roots. |
+| [Dark Thorn](../items/dark_thorn.md) | 112 | A thorn from the Knotbriar's heart, black all the way through. |
+| [Darkstone Shard](../items/darkstone_shard.md) | 50 | A shard of the Warm Quarry's dark stone. It is faintly warm. |
+| [Deep Spring Water](../items/deep_spring_water.md) | 109 | Water from the bottom of a spring, colder than any well. |
+| [Delver's Claw](../items/delver_claw.md) | 200 | A digging claw worn smooth on the first city's buried walls. |
+| [Downs Howler Pelt](../items/wolf_pelt.md) | 68 | A shaggy pelt from the Beacon Downs, thick enough for winter. |
+| [Drain Rat Tail](../items/drain_rat_tail.md) | 20 | A long tail from a rat that no longer ran from a lantern. |
+| [Drake Skull](../items/drake_skull.md) | 29 | A drake skull, heavy and ridged, with teeth like chisels. |
+| [Drakeling Scale](../items/drakeling_scale.md) | 26 | A small coppery scale, still soft at the edge. |
+| [Dune Cat Fur](../items/dune_cat_fur.md) | 22 | Sandy fur from a dune cat of the southern shore. |
+| [Dusk Foxtail](../items/dusk_foxtail.md) | 102 | A dark tail whose light only shows when you look away. |
+| [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md) | 70 | A blue-grey pelt from a dusk wolf of the Holm Wood. |
+| [Duskhawk Feather](../items/duskhawk_feather.md) | 56 | A long dark feather from a duskhawk, barred with grey. |
+| [Dust Wisp](../items/dust_wisp.md) | 40 | A twist of grey dust and cobweb that held a shape for a while. |
+| [Edge Lizard Tail](../items/edge_lizard_tail.md) | 22 | The cold, stiff tail of a lizard of the Edgewood. |
+| [Evil Eye Tail](../items/evil_eye_tail.md) | 50 | A curled, scaly tail. |
 | [Fern Fibre](../items/fern_fibre.md) | 6 | Long tough strands stripped from a fern: stronger than plain fibre, and it takes blue dye well. |
+| [Firefly Gel](../items/firefly_gel.md) | 30 | Gel that still glows a little after dark. |
 | [Firewood](../items/firewood.md) | 9 | Good, dry firewood split from an axe-wielding stump. |
+| [Flint Hoof](../items/flint_hoof.md) | 50 | A hoof as hard as flint, worn sharp on the rock of the far slopes. |
+| [Floodwell Eel Skin](../items/eel_skin.md) | 45 | A slick dark skin from the eels of the Floodwells. |
+| [Fox Sinew](../items/fox_sinew.md) | 28 | A length of dried sinew from a Strand Fox, strong as fishing line. |
+| [Frost Drake Spine](../items/frost_drake_spine.md) | 31 | A cold spine plate from a frost drake. Frost forms on it even in the sun. |
+| [Gapclaw Talon](../items/gapclaw_talon.md) | 2,400 | One of the four foreclaws of the climber that scarred Torva. |
+| [Giant Firewood](../items/giant_firewood.md) | 31 | A great split log from a Dark Axe Stump. It burns all night. |
+| [Glass Jelly Stinger](../items/glass_jelly_stinger.md) | 38 | A glassy stinger, still tingling. Clemence has a page for stings like this. |
+| [Glim Shard](../items/glim_shard.md) | 94 | A shard of the pale glim a glimshade carries. It glows like the lights out past the headland. |
+| [Glimmerfox Tail](../items/glimmerfox_tail.md) | 99 | A tail tipped with a light like a lantern seen through leaves. |
+| [Glimmerwing Dust](../items/glimmerwing_dust.md) | 21 | Glittering dust from a glimmerwing's wings. Glassmakers like the colour it gives. |
+| [Gloamwing's Fang](../items/gloamwing_fang.md) | 400 | A curved fang from the Gloamwing. It still smells of lamp oil. |
+| [Gloomeye Tail](../items/gloomeye_tail.md) | 18 | The tail of a gloomeye. It twitches for a while after. |
+| [Gloomfur](../items/gloomfur.md) | 70 | Grey fur that smells of wet bark and old fruit. |
+| [Glowjelly Body](../items/glowjelly_body.md) | 32 | It still glows a little, in a jar, for about a week. |
+| [Gnarlwood](../items/gnarlwood.md) | 400 | Dense, twisted wood from Old Gnarl's heart. Zirra says it makes the best staves she has ever cut. |
+| [Gnawed Rope End](../items/gnawed_rope_end.md) | 38 | A frayed end of good Kragvar rope, chewed through by sharp teeth. |
+| [Golem Core Stone](../items/cut_golem_core.md) | 66 | The heavy heart of a golem, warm to the touch. |
 | [Green Cloth](../items/green_cloth.md) | 14 | Plain cloth woven from plant fibre. A tailor starts every garment from it. |
 | [Green Mushroom Cap](../items/green_mushroom_cap.md) | 14 | The green cap of a big mushroom. |
 | [Green Snail Shell](../items/green_snail_shell.md) | 1 | All that is left of a snail. Collectors pay a little for it. |
+| [Grey Bull Pelt](../items/grey_bull_pelt.md) | 68 | A thick, oily seal pelt from a bull of the Skerries. |
+| [Grey Bull Tooth](../items/grey_bull_tooth.md) | 64 | A yellowed seal's tooth, as long as a finger. |
+| [Grey Tom Tail](../items/grey_tom_tail.md) | 26 | The bushy tail of a grey tom from the Long Sands. |
+| [Grizzled Hide](../items/grizzled_hide.md) | 80 | Thick grey hide from Old Grizzlemane. |
+| [Hackleback's Tusk](../items/hackleback_tusk.md) | 1,000 | One of Hackleback's tusks, hard as iron and longer than your arm. |
+| [Hedge Boar Hide](../items/hedge_boar_hide.md) | 26 | A strip of muddy brown hide from a boar of the Boarwood, still full of burrs. |
 | [Herbal Ink](../items/herbal_ink.md) | 10 | A dark ink steeped from marjoram. An alchemist brews it; a scrollcrafter writes with it. |
+| [Holdfast's Tooth](../items/holdfast_tooth.md) | 1,200 | A backward-curving tooth as long as your forearm. Kenwyn wants to hang it over the salvagers' steps. |
+| [Hollowmaw's Fang](../items/hollowmaw_fang_shard.md) | 1,200 | A fang as long as a forearm, rimed with frost that never melts. |
 | [Horny Mushroom Cap](../items/horny_mushroom_cap.md) | 22 | The spotted cap of a mushroom with a short temper. |
+| [Hound Bone](../items/hound_bone.md) | 74 | A dry bone caked with red dust. It rattles when it is shaken. |
+| [Howlet Feather](../items/howlet_feather.md) | 93 | A soft brown feather with no sound in it at all. |
+| [Hulk Rubble](../items/hulk_rubble.md) | 80 | A lump of red stone that moved on its own a moment ago. |
+| [Hull Louse Shell](../items/hull_louse_shell.md) | 40 | The cast shell of a hull louse, the pale crawlers that swarm the Saltgrace's timbers. |
+| [Inkmother's Ink Sack](../items/inkmother_ink_sack.md) | 3,000 | Heavy and cold, and it still sloshes. |
+| [Iron Boar Armour](../items/iron_boar_armor.md) | 55 | A plate of the hard hide an Iron Boar grows on its back. |
 | [Iron Ingot](../items/iron_ingot.md) | 150 | A bar of smelted iron, for blades and shields that last. |
 | [Iron Ore](../items/iron_ore.md) | 30 | Heavy grey ore from an iron vein. A smith can melt it into an ingot. |
+| [Ironback Claw](../items/ironback_claw.md) | 42 | A dark claw from an ironback crab, heavy as a hammer. |
+| [Ironhide Hog Tusk](../items/hog_tusk.md) | 44 | A tusk from an ironhide hog, hard enough to strike sparks. |
+| [Jaw Crab Claw](../items/jaw_crab_claw.md) | 58 | A claw as long as a forearm, from a crab as big as a cartwheel. |
+| [Jr. Necki Scale](../items/jr_necki_scale.md) | 16 | A small green scale from a marsh snake. |
+| [Kestrel Feather](../items/kestrel_feather.md) | 16 | A barred feather from a hunting kestrel. |
+| [Knotwood](../items/knotwood.md) | 112 | Wood from the Knotbriar's coils, twisted tight as a fist. |
+| [Lake Dew](../items/lake_dew.md) | 40 | Clear water gathered by a water sprite. Since the souring, it tastes faintly bitter. |
+| [Lampbat Wing](../items/lampbat_wing.md) | 26 | A thin leathery wing that smells of lamp oil and soot. |
+| [Lantern Organ](../items/lantern_organ.md) | 2,000 | One of the Deep Lantern's lights, still faintly glowing. Ysolde says it is the colour of the lights she saw past the headland. |
 | [Lavender Flower](../items/lavender_flower.md) | 6 | A soft pink-purple bloom from a lavender patch: calming in a potion, gentle in a pot. |
 | [Lemon Balm Flower](../items/lemon_balm_flower.md) | 32 | A green, lemon-scented flower from a deep patch. It makes the strongest potions and dishes. |
+| [Ligator Skin](../items/ligator_skin.md) | 18 | Tough, ridged hide from a Ligator. The carters use it for boots. |
+| [Longjaw's Tooth](../items/longjaw_tooth.md) | 240 | A tooth as long as a hand from the croc of the Long Reach. Bargehands pay to touch it for luck. |
+| [Lorang Claw](../items/lorang_claw.md) | 14 | A crab's claw, chipped from fighting other crabs over the same rock. |
+| [Lupin's Banana](../items/lupins_banana.md) | 15 | A banana a Lupin threw. Nobody knows where they find them. |
 | [Mandarin Flower](../items/mandarin_flower.md) | 20 | An orange blossom that smells of sweet peel. It strengthens a brew. |
 | [Marjoram Flower](../items/marjoram_flower.md) | 3 | A small, sharp-smelling flower picked from a marjoram patch. Alchemists and cooks both want it. |
+| [Millstone Ram Horn](../items/ram_horn.md) | 62 | A curled horn, heavy as a millstone's edge. |
+| [Mimic's Hinge](../items/wreck_mimic_hinge.md) | 70 | A barnacled brass hinge off a wreck mimic. It still snaps shut if you poke it. |
+| [Mossy Bark](../items/mossy_bark.md) | 38 | A slab of bark off a barkback, green with moss. |
+| [Mud Clump](../items/mud_clump.md) | 22 | Thick grey mud from a bog-lurcher. Ochre says it makes a good brown, if you can wait for it to dry. |
 | [Mushroom Spore](../items/mushroom_spore.md) | 3 | A spore shaken from a small mushroom's cap. |
+| [Night Feather](../items/night_feather.md) | 96 | A black feather that seems to swallow the light around it. |
+| [Octopus Tentacle](../items/octopus_tentacle.md) | 9 | A muddy tentacle from the Greenmarsh. It still curls when poked. |
+| [Old Brushtail's Tail](../items/old_brushtails_tail.md) | 900 | The great grey brush of the fox that outwitted Caddoc's traps for a season. |
+| [Old Wall Iron](../items/old_wall_iron.md) | 70 | A bent bar of iron from Stonecap Keep's old walls, pulled loose by a Crowncap's roots. Dark, heavy and older than Kaldemor. |
 | [Orange Mushroom Cap](../items/orange_mushroom_cap.md) | 7 | The orange cap of a mushroom, still springy. |
+| [Pale Sawbill Fin](../items/pale_sawbill_fin.md) | 64 | A fin from a pale sawbill. In the dark it gives off a faint glow. |
+| [Pale Splinter](../items/ghostwood_splinter.md) | 34 | A pale splinter, cold to the touch, from a stump that walked at night. |
+| [Pale Thread](../items/pale_thread.md) | 28 | A long pale strand a Bluecap trails under the ground. It clings to roots and will not let go. |
+| [Paleveil Cap](../items/paleveil_cap.md) | 40 | The washed-out cap of a Paleveil Cap, cold and damp to the touch. |
+| [Pig's Blue Ribbon](../items/pigs_blue_ribbon.md) | 8 | A blue ribbon from an orchard pig. Nobody knows who ties them on. |
 | [Pig's Head](../items/pigs_head.md) | 10 | A pig's head. A cook in town would know what to do with it. |
 | [Pig's Ribbon](../items/pigs_ribbon.md) | 6 | A pink ribbon a pig wore with pride. |
 | [Plant Fibre](../items/plant_fibre.md) | 2 | Dry strands pulled from a hay bale. A tailor spins them into cloth; a scribe presses them into paper. |
+| [Quarry Rubble](../items/quarry_rubble.md) | 48 | Grey rubble that was walking a moment ago. |
+| [Quarry Stone](../items/quarry_stone.md) | 54 | Selsior's own pale stone, cut by no mason. |
+| [Raider Tusk](../items/raider_tusk.md) | 66 | A tusk cracked and grey, from a boar that raids the dead pastures. |
 | [Rainbow Snail Shell](../items/rainbow_snail_shell.md) | 350 | A shell found only through Mano. They say it is powerful enough to grant a wish. |
+| [Rat Tail](../items/rat_tail.md) | 14 | A long, bald tail. The stack rats and the ditch rats both grow them. |
 | [Red Cloth](../items/red_cloth.md) | 18 | Cloth dyed red with snail shell, for headbands and capes. |
 | [Red Snail Shell](../items/red_snail_shell.md) | 4 | The red shell of a snail, harder than the blue. |
+| [Reed Bundle](../items/reed_bundle.md) | 48 | Black reeds from the Reedwater Bottoms, tied with their own stems. |
+| [Reed Ligator Hide](../items/reed_ligator_hide.md) | 30 | A tough green skin from a ligator of the reed beds. |
+| [Reed Snake Skin](../items/reed_snake_skin.md) | 10 | A shed skin from the reed beds, green and thin as paper. |
+| [Ridge Bark](../items/ridge_bark.md) | 20 | A slab of red-grey bark from a walking ridge stump. Masons cut wedges from it. |
+| [Rimwort](../items/rimwort.md) | 30 | A grey, bitter herb that grows only on the far slopes beyond the canyons. Lessa cleans bites with it. |
+| [Rootdrinker's Heartwood](../items/rootdrinker_heartwood.md) | 1,500 | Heartwood from the great dead tree, still damp with the water it stole. |
 | [Rosemary Flower](../items/rosemary_flower.md) | 12 | A blue rosemary flower. Brewers use it for blue potions, cooks for roasts. |
+| [Salt-Killed Bark](../items/salt_killed_bark.md) | 52 | Grey bark from a pine the sea drowned: brittle, white with salt. |
+| [Saltgull Feather](../items/saltgull_feather.md) | 48 | A long grey flight feather from a savage gull of the ledges. |
+| [Sawbill Bill](../items/sawbill_bill.md) | 52 | A sawbill's flat bill, set with teeth that catch and pull. |
+| [Sawbill Scale](../items/sawbill_scale.md) | 46 | A narrow silver scale from a young sawbill. |
+| [Scarred Hide](../items/scarred_hide.md) | 46 | A patch of hide puckered by old burns from the dry-season fires. |
 | [Scroll Paper](../items/scroll_paper.md) | 5 | A stiff sheet pressed from branches and fibre, ready for a scrollcrafter's ink. |
+| [Scrub Wolf Pelt](../items/scrub_wolf_pelt.md) | 18 | A rough brown pelt off a scrub wolf of the Chalk Downs. A tanner will take it. |
+| [Sea Newt Hide](../items/newt_hide.md) | 40 | A slick, mottled hide that stays wet long after the newt is gone. |
+| [Seep Toad Spawn](../items/toad_spawn.md) | 20 | A cold, wobbling clump from the seeps of the foothills. |
+| [Shade Hook](../items/shade_hook.md) | 86 | A hook of salt mist gone hard, left by a hookshade. It looks like a sucker's hook. |
+| [Shade Lash](../items/shade_lash.md) | 78 | A coil of shadow left where a whipshade faded. It is cold and smells of the sea. |
+| [Shimmer Gel](../items/shimmer_gel.md) | 35 | A drop of slime that holds the lake's light. |
+| [Shingle Crab Claw](../items/shingle_crab_claw.md) | 12 | A claw from a crab of the Strand's shingle. |
+| [Shore Crab Claw](../items/shore_crab_claw.md) | 34 | A heavy claw from a Shore Crab, barnacled at the hinge. |
+| [Slater Plate](../items/slater_plate.md) | 44 | One pale, curved plate of a Sea Slater's back. It smells of tar. |
+| [Slime Bubble](../items/slime_bubble.md) | 14 | A wobbly bubble a slime left behind. |
+| [Snapjaw Tooth](../items/snapjaw_tooth.md) | 34 | A long tooth from a snapjaw of the Old Cut. It does not look like a fish's. |
+| [Snapping Lizard Tail](../items/snapping_lizard_tail.md) | 23 | A sharp-ridged tail. These lizards snap at anything that moves. |
+| [Sound Driftwood](../items/sound_driftwood.md) | 22 | The one piece of a Driftstump that has not rotted: grey, dense and sound. |
+| [Spilt Ink](../items/spilt_ink.md) | 42 | Ink that will not stay in its bottle. |
+| [Spitter Gland](../items/spitter_gland.md) | 58 | The gland a spitting sawbill shoots its jet of water from. |
+| [Spore Puff Sac](../items/spore_puff_sac.md) | 50 | The sac a Spore Puff floats on, empty now but still dusty. Brewers say the dust settles a cough. |
+| [Spring-Glow](../items/spring_glow.md) | 106 | A cupped handful of glowing spring water that will not spill. |
+| [Sprite Moss](../items/sprite_moss.md) | 43 | Soft green moss that sprites carry about with them. |
+| [Stirge Wing](../items/drain_stirge_wing.md) | 22 | A leathery wing from the old drains. |
+| [Stolen Trinket](../items/stolen_trinket.md) | 25 | A thimble, a button, a bent spoon: something shiny a Hoarder Shroom was carrying off. Whose it was, nobody can say. |
+| [Stormcrest Plume](../items/stormcrest_plume.md) | 1,800 | A storm-grey plume from Stormcrest's crest. It crackles when it is brushed. |
+| [Strand Fox Tail](../items/strand_fox_tail.md) | 30 | A thick grey-red brush from a Strand Fox. Greer pays well for them. |
+| [Surgeon Eye Tail](../items/surgeon_eye_tail.md) | 75 | A tail as stiff as a walking stick. |
+| [Swollen Wood](../items/swollen_wood.md) | 62 | Grey, spongy wood, heavy with water it should not hold. |
+| [The Ripsaw's Saw](../items/ripsaws_saw.md) | 900 | The Ripsaw's saw, scarred end to end, longer than a boathook. Tegan says a sailmaker could make something of a tooth that size. |
+| [Torn Crown Branch](../items/torn_crown_branch.md) | 80 | A branch from the Hollow Oak's crown. Dead wood, so the forest can spare it. |
+| [Torn Page](../items/torn_page.md) | 35 | A page torn from an old book, the writing long gone. |
+| [Trampled Turnip](../items/trampled_turnip.md) | 18 | A turnip from a far farm, rooted up and trodden flat. Wilbur would know whose field it came from. |
 | [Tree Branch](../items/tree_branch.md) | 2 | A dry branch. Good for a fire, or for a crafter. |
+| [Tunnel Bat Wing](../items/tunnel_bat_wing.md) | 28 | A torn wing from a bat that nests in claw-cut tunnels. |
+| [Tunnel Bat Wing](../items/deep_roads_bat_wing.md) | 45 | A dark wing from the Deep Roads, colder than a lampbat's. |
+| [Unbound Page](../items/unbound_page.md) | 64 | A page from the Unbound, blank and still faintly warm. |
+| [Undercut Croco Hide](../items/undercut_croco_hide.md) | 44 | A croco's thick hide, scarred from the undercut banks. |
+| [Undertow Scale](../items/undertow_scale.md) | 6,000 | A grey scale as big as a hand, from the great fish that lay in the Scour. |
+| [Wallcreeper Cap](../items/wallcreeper_cap.md) | 60 | A cap that grew flat against the stones of Stonecap Keep, rough on one side from the wall. |
+| [War Mask Shard](../items/war_mask_shard.md) | 72 | A painted shard of an old carved war mask. The paint is older than Midbarium. |
+| [Weedy Bristle](../items/weedy_bristle.md) | 20 | Stiff boar bristle tangled with dried wrack. Caddoc swears by it for springs. |
+| [Wild Boar Tooth](../items/wild_boar_tooth.md) | 41 | A curved yellow tusk. Herders hang them over the pens to warn the boars off. |
+| [Wild Spore](../items/wild_spore.md) | 18 | A plump spore from a wild patch on the Humming Trail. Spore gatherers prize it; so do bakers and brewers. |
+| [Wildcat Claw](../items/wildcat_claw.md) | 20 | A hooked claw from a bluff wildcat. They leap on carts from the ledges of Baysight Hill. |
+| [Wisp Light](../items/wisp_light.md) | 82 | A small, cold light that will not go out. |
+| [Wrack Boar Tusk](../items/wrack_boar_tusk.md) | 24 | A boar's tusk, green with the weed it roots through on the shore. |
+| [Wrackstone](../items/wrackstone.md) | 62 | Stone and weed grown into one lump, from a Wrackgolem's shoulder. |
+| [Wreck Salvage](../items/wreck_salvage.md) | 80 | Old iron and seasoned timber out of the Saltgrace. Salvagers and shipwrights pay for it. |
+| [Zombie Mushroom Cap](../items/zombie_mushroom_cap.md) | 16 | A grey, sagging cap. It smells of the grave and of mushrooms. |
 
 ## Quest Items
 
 | Item | Price | Description |
 |---|---|---|
+| [Agna's Sea-Glass](../items/ronans_sea_glass.md) | 0 | A piece of sea-glass, green as a wave, saved from the nets for Ronan. |
+| [Aurel's Lesson Notes](../items/aurels_notes.md) | 0 | A page of lesson notes in a very careful hand, slightly chewed. |
+| [Bad News](../items/bad_news_pane.md) | 0 | A cracked amber lantern pane from Scrap's tin of lost things, found in a gutter under the outer towers. Scrap named it. Mind the edges. |
+| [Ballad of the Singing Bank](../items/ballad_sheet.md) | 0 | Fulke's ballad, written out for Cecily: the true verses in black, the good ones in red. |
+| [Bite Herb](../items/bite_herb.md) | 0 | Narrow leaves from the wet bottoms of the Outworks' ditches, dragged into a ditch rat's nest. It smells of pepper when crushed. Patch cleans bites with it. |
+| [Brisa's Letter](../items/brisas_letter.md) | 0 | A letter in Brisa's quick hand, to her parents near Kaldemor. You were told not to read it. |
+| [Broken Keel Timber](../items/broken_keel_timber.md) | 0 | A broken length of keel timber washed into the cliff foot below the Holm Wood, scored with round marks, each ringed with fine scratches. |
+| [Calder's Drawing](../items/calders_boat_drawing.md) | 0 | A deep-water boat drawn on the back of a tally sheet, with the hatches open. |
+| [Carved War Mask Shard](../items/carved_war_mask_shard.md) | 0 | A piece of old carved wood, painted red and black, with part of a shouting mouth. It came off one of the War Camp Ruins' masks. |
+| [Celandine's Plant](../items/edge_plant.md) | 0 | A sprig of the plant Celandine wanted. Nobody says its name. |
+| [Chip of Warm Stone](../items/warm_stone_chip.md) | 0 | A chip of dark stone from the Warm Quarry under Low Grad. It stays warm in the hand, long after it should have cooled. |
+| [Climber's Sign](../items/climbers_sign.md) | 0 | A strange, scraped stone a Disturbance-touched climber carried in its jaws. |
 | [Clock Gear](../items/clock_gear.md) | 0 | A brass gear of the clock tower's works, carried off by a mushroom. Ewan will want it back. |
+| [Copied Pages](../items/copied_pages.md) | 0 | Forty pages of the Open Table's oldest record book, copied fair in Dimity's small square hand and octopus ink. Ozzie Lantry hears first. |
+| [Copied Tide Marks](../items/ledger_copy.md) | 0 | The new tide marks, copied fair for Halvard's ledger. |
+| [Corrie's Notebooks](../items/corries_notebooks.md) | 0 | Four filled notebooks, wrapped in three layers of oilcloth and tied with a careful knot. Not to be opened. |
+| [Council Letters](../items/council_letters.md) | 0 | The Grove Council's letters, sealed and sorted by Ilwen. |
+| [Crate of Lantern Panes](../items/crate_of_panes.md) | 0 | A straw-packed crate of Tinsel's new amber panes for the outer lanterns. Keep it level. |
+| [Dougal's Measure](../items/dougals_measure.md) | 0 | A knotted cord: the width of the tracks on the lowest steps, against Dougal's boot. |
+| [Downs Boar Hide](../items/downs_boar_hide.md) | 0 | A thick hide from a boar of the downs, tough enough for a sole. Simkin wants ten. |
+| [Drake Venom Gland](../items/drake_venom_gland.md) | 0 | A small, cold gland from under a Frost Drake's jaw, wrapped in cloth. Lessa wants five, and clean boots. |
+| [Eilidh's Tide Slate](../items/eilidhs_slate.md) | 0 | A child's slate covered in chalked tides, one line an evening. |
+| [Fresh Cable](../items/fresh_cable.md) | 0 | A coil of tarred lowland cable, tight-laid, for Vosk's far canyon bridge. |
+| [Gate Oyster](../items/gate_oyster.md) | 0 | A big oyster off the old stones of the Sea Locks. Nerissa says they are the best on the coast. |
+| [Glimmer Dew](../items/glimmer_dew.md) | 0 | Morning dew a slime soaked up on the Glimmer Path, squeezed out clean. |
+| [Gloomfur Sample](../items/gloomfur_sample.md) | 0 | A tuft of grey fur in a twist of paper, labelled. |
+| [Great Grey Feather](../items/stormcrest_feather.md) | 0 | A feather as long as an arm, with a quill like a pipe stem, picked out of a millstone ram's fleece. No hawk wore this. |
+| [Grimhorn's Hide](../items/grimhorns_hide.md) | 0 | The great hide of Grimhorn, thick as a door and grey with ash. Thrun has waited a long time for it. |
 | [Guard's Trial Seal](../items/trial_seal.md) | 0 | A maple leaf stamped with the Royal Guard's seal. Captain Rhys counts them at the end of the Swordsman's trial. |
+| [Gunna's Lantern](../items/gunnas_lantern.md) | 0 | An ordinary quay lantern of Gunna's making. It burns steady in any wind. |
+| [Gwenna's Old Map](../items/gwennas_old_map.md) | 0 | A worn map of the Sounding Caves in Gwenna's hand, with a lecture folded inside. |
+| [Hamish's Drawing](../items/hamishs_drawing.md) | 0 | The second lift, down the cliff to the far cove, drawn on the back of a cargo list. Hamish's best one. |
+| [Harra's Cheese Wheel](../items/harra_cheese_wheel.md) | 0 | A whole three-month wheel of Tolmach goat cheese, wrapped in cloth. Harra says the price is the price. |
+| [Hatch's Notes](../items/hatchs_notes.md) | 0 | A damp, chewed notebook in a blunt hand, left behind at Hatch's old camp. Most of the pages are about one boar. |
+| [Hesper's List](../items/hespers_list.md) | 0 | Pages torn from the back of a seed book: years of hurt travellers, in Hesper's blunt hand. |
+| [Honey Cake for Caelum](../items/caelums_honey_cake.md) | 0 | Tansy's warmest honey cake, wrapped in a cloth. It works on Liri every time. |
+| [Imre's Book of Dates](../items/imres_book_of_dates.md) | 0 | Imre's worn yellow book: star names in two hands, and on the last pages a list of dates, each one a still, cold night when the low stars shimmered. |
+| [Ironbark Limb](../items/ironbark_limb.md) | 0 | A dead limb from the Hollow Oak, iron-hard and straight. |
+| [Isaura's Sealed Letter](../items/isauras_sealed_letter.md) | 0 | A letter sealed with green wax. It is not to be opened. |
+| [Juniper's Notebook](../items/junipers_notebook.md) | 0 | A season's notes, chewed at the corners, smelling of ape. |
+| [Kestrel's Report](../items/kestrels_report.md) | 0 | A folded page in a hurried hand, with a small brown stain Kestrel insists is mud. |
+| [Knights' Court Notice](../items/courts_notice.md) | 0 | By order of the Knights' Court: travellers on the World Tree Road keep to daylight hours. Clement's copy, to post at the wayside well. |
+| [Lake Reed](../items/lake_reed.md) | 0 | A green reed from the edge of Shimmerwater. The sprites carry it about. |
+| [Ledge Pearl](../items/ledge_pearl.md) | 0 | A big pale pearl from the oyster bed on the ledge at the reef's edge, where Nerissa stopped diving. |
+| [Ligator Tooth](../items/ligator_tooth.md) | 0 | A ligator's tooth from the reed beds, for Aldith to lay against the gripped bargehand's bruise. |
+| [Lupin Claw Sample](../items/lupin_claw_sample.md) | 0 | A claw from a sharpened Lupin, wrapped and labelled. |
 | [Mayor's Letter](../items/mayors_letter.md) | 0 | A sealed letter from Mayor Tobin. |
+| [Meadow Herb](../items/meadow_herb.md) | 0 | A bunch of yarrow, plantain and feverfew pulled from a verge adder's nest in the Gate Meadows. No spots on the stems. Patch will want it. |
+| [Mended Net](../items/nets_for_agna.md) | 0 | A cove net Agna mended, to be taken back to the boats. |
+| [Morven's Verse](../items/morvens_verse.md) | 0 | The end of the gap verse, as Calder heard his grandmother sing it, written out by Cormac. |
+| [Mott's Pack Strap](../items/motts_pack_strap.md) | 0 | A worn leather strap with a tin buckle, the kind a pedlar's pack hangs from. Molly will know it. |
+| [Odda's Spring Letter](../items/odda_spring_letter.md) | 0 | A thick letter sealed with Brenna wax, addressed to an old friend in Fairy Forest. |
+| [Ondine's Book of Lanterns](../items/ondines_book.md) | 0 | Nineteen years of lantern brightnesses, one line every autumn. |
+| [Ondine's Brightest Lantern](../items/ondines_brightest_lantern.md) | 0 | The brightest lantern Ondine has ever made, for the western path. |
+| [Pedlar's Tinware](../items/pedlars_tinware.md) | 0 | A tin cup, a pan or a brass-handled ladle from Mott's pack, carried up the walls by a Hoarder Shroom. Mott will want it back. |
+| [Perch's List](../items/perchs_list.md) | 0 | Every route the pigeons refused, with the date and the hour, tied in a blue ribbon. One corner shows where the cat sat on it. |
+| [Perch's Message](../items/perchs_message.md) | 0 | A message rolled small for a pigeon's leg, bound for the east. Three birds have refused to carry it over the downs. |
+| [Rafe's Balrog Puppet](../items/rafes_balrog_puppet.md) | 0 | A cat-sized wooden Balrog with red-glass eyes and a hinged mouth, gnawed at one heel. Still frightening. |
+| [Reed Root](../items/reed_root.md) | 0 | A thick root torn up by the ligators of the reed beds. Hawise thinks it will dye. |
+| [Root Soil](../items/root_soil.md) | 0 | Dark soil from beside one of the great roots. Colder than it should be. |
+| [Root-Water](../items/root_water.md) | 0 | Water from a root's hollow, thin and cold. |
+| [Scored Plank](../items/scored_plank.md) | 0 | A deck plank off the Bright Morrow, scored across by sawbill teeth in the night run. |
+| [Scratched Stone](../items/scratched_stone.md) | 0 | A stone from the high landings, scored by four deep parallel cuts. |
+| [Seasoned River Timber](../items/waterlogged_timber.md) | 0 | Oak that has lain in the river for years under the Undercut's banks. Bennet swears by it. |
+| [Shed Newt Claw](../items/shed_newt_claw.md) | 0 | A claw shed on the rocks, four hooked points on a wide foot. Dougal will want to measure it. |
+| [Silent Root](../items/silent_root.md) | 0 | A pale, knotted root that smells of earth and cloves, packed into a barkback's moss in the Silent Cutting. Patch says it pulls a fever down. |
+| [Skerries Shell](../items/skerries_sign.md) | 0 | A weed-wrapped shell taken from the deeply touched of the Skerries, which guard them like eggs. |
+| [Sound Pine Timber](../items/calders_boat_timber.md) | 0 | A straight length of salt-hardened pine, cut from a Saltdead Stump: good for a keel. |
+| [Sound Stave](../items/sound_stave.md) | 0 | A straight limb of sound twisted wood, cut from under a swollen stump's grey swelling. Zirra wants ten. |
+| [Spice Crate](../items/spice_crate.md) | 0 | A small crate of Marisol's pepper, nibbled at the corners by bootcrabs. |
+| [Spore Puff Wisp](../items/spore_puff_wisp.md) | 0 | A grey wisp of spore cloud caught in a jar. It hangs in one place and will not drift. Nell will want to see it. |
+| [Starling's Dates](../items/starlings_dates.md) | 0 | Two years of flicker nights in Starling's small, careful hand, with notes in the margins in even smaller letters. |
+| [Strip of Torn Net](../items/torn_net_strip.md) | 0 | A strip of Cobb's net, rolled up in Wenna's basket. A long straight rent runs through it, the edges pulled, not cut. |
+| [Stubborn Fern Root](../items/stubborn_fern_root.md) | 0 | A tough little fern root torn up from the worst soil on the road. |
+| [Sulking Lantern](../items/dunmors_lantern.md) | 0 | A quay lantern of Gunna's making, still lit. Its flicker has gone a little sullen. Carry it level. |
+| [Surgeon Eye Sample](../items/surgeon_eye_sample.md) | 0 | A sealed vial with a Surgeon Eye's cells in it, labelled twice. |
+| [Tamsin's Pine Tar](../items/tamsins_pine_tar.md) | 0 | A sealed crock of Tamsin's best pine tar, the batch old Fergus taught her. It is not an apology. |
+| [Tide Line Shell](../items/tideline_shell.md) | 0 | A pale shell from the Long Sands' tide line. Bree says they are the prettiest on the island. |
+| [Tinsel's Newest Lens](../items/newest_lens.md) | 0 | A lens clear all the way through, the first Tinsel has ever made without a bubble. For Starling's telescope. |
+| [Torn Leaf Fragment](../items/seal_record_fragment.md) | 0 | A scrap of a very old leaf, mostly faded. A leaf number survives in one corner. |
+| [Tuft of Speckled Wool](../items/speckled_wool_tuft.md) | 0 | A tuft of speckled lamb's wool caught on a Windflower Cap. Winnie will know whose it is. |
+| [Urgent Message](../items/urgent_message.md) | 0 | A message from the gate for Perch's loft, knotted with Kite's runner's knot. It has to go out with a bird before dusk. |
+| [Warden's Message](../items/wardens_message.md) | 0 | A note in Reynold's square hand for the shepherds of the downs: their wool stall is held till Friday. |
+| [Warden's Tide Mark](../items/wardens_tide_mark.md) | 0 | An iron tide mark with the wardens' notch, for driving into the rock at the waterline. |
+| [Whole Sawbill Bill](../items/whole_sawbill_bill.md) | 0 | A sawbill's bill without a tooth broken. Maren wants it for her shelf. |
+| [Wild Comb](../items/wild_comb.md) | 0 | A broken piece of comb from a wild bee's nest in the chalk. Gilbert wants to see it. |
+| [Ysmay's Advice](../items/ysmays_advice.md) | 0 | Twelve points of advice for the First Warden, numbered. Only advice. |
+| [Ysmay's Note](../items/ysmays_note.md) | 0 | A folded note in a sharp hand, about a pilot who swung wide in the gap. It is very good. |
+| [Zirra's Message](../items/zirras_message.md) | 0 | A folded message from Zirra to the Old One. It stays folded. |
 
 ## Setup Items
 

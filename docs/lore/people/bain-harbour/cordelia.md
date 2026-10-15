@@ -9,6 +9,7 @@
 | Town | [Bain Harbour](../../towns/bain-harbour.md) |
 | Where | Merchant Street |
 | Sells | Woollens, oilskins and bright cloth |
+| In the game | [Cordelia](../../../npcs/cordelia.md) |
 
 ## Relationships
 

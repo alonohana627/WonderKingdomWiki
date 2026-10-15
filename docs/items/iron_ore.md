@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Dropped by [Wrackgolem](../monsters/wrackgolem.md) (10%)
 - Gathered from Iron Vein ([Mining](../professions/mining.md) level 10)
 
 ## Used for

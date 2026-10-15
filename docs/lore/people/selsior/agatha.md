@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Agatha](../../../npcs/agatha.md) |
 
 ## Personality
 

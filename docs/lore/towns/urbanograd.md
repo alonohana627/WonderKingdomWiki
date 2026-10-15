@@ -128,6 +128,9 @@ Urbanograd still has no lord. Each year the Open Table chooses a **Caller** to c
 !!! tip "People"
     Everyone who lives here in the first release: [People of Urbanograd](../people/urbanograd/index.md).
 
+!!! info "In the game"
+    Urbanograd is in the game. Its [town guide](../../towns/urbanograd.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/urbanograd_quests.md) are laid out line by line.
+
 !!! abstract "Design notes"
     The atmosphere is inspired by MapleStory's Kerning City. Juna Marrow, the Walkers, Old Grad, the Open Charter and the Open Table are new with this page. Urbanograd lies in the west of the island, as the game's world map has it. Still open: what the city looks like beyond its fortress core.
 

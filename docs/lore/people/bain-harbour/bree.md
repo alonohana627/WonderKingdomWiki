@@ -10,6 +10,7 @@
 | Where | Fish Market |
 | Role | Child |
 | Age | Child |
+| In the game | [Bree](../../../npcs/bree.md) |
 
 ## Personality
 

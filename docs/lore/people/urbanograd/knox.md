@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Knox](../../../npcs/knox.md) |
 
 ## Personality
 

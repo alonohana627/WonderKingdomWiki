@@ -10,6 +10,7 @@
 | Where | Kaldemor Park |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Meg](../../../npcs/meg.md) |
 
 ## Personality
 

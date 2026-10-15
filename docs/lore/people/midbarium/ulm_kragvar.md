@@ -11,6 +11,7 @@
 | Role | Official |
 | Age | Elder |
 | Family | Kragvar |
+| In the game | [Ulm](../../../npcs/ulm_kragvar.md) |
 
 ## Personality
 

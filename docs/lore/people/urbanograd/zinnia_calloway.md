@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Zinnia 'Zip' Calloway](../../../npcs/zinnia_calloway.md) |
 
 ## Personality
 

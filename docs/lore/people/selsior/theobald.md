@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Theobald](../../../npcs/theobald.md) |
 
 ## Personality
 

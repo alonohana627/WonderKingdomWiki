@@ -9,6 +9,7 @@
 | Town | [Goa Harbour](../../towns/goa-harbour.md) |
 | Where | Lantern Market |
 | Sells | Rope, grappling hooks, torches, waxed cloaks and travel food |
+| In the game | [Gwenna](../../../npcs/gwenna_outfitter.md) |
 
 ## Relationships
 

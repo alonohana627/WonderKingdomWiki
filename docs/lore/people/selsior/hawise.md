@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Hawise](../../../npcs/hawise.md) |
 
 ## Personality
 

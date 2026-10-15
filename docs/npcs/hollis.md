@@ -6,11 +6,32 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior.md) |
 | Where | [Selsior Gate](../maps/selsior_gate.md) |
-
-> State your business, *Player*. Ah, a traveller. Welcome.
+| Story | [Hollis in the lore](../lore/people/selsior/hollis.md) |
+| Services | Quests |
 
 ## Says
 
+- "State your business! ...Ah, never mind. Welcome!"
 - "Mind the step. And the Sergeant."
-- "Twelve hours on my feet, and I still like the view."
+- "Never the same road twice, that view."
+- "Morning, Biscuit! Who named you? Me, that's who."
+
+## Quests
+
+- [Stern, Then Smiling](../quests/hollis_stern_then_smiling.md) (gives)
+- [The End of the Road](../quests/hollis_the_end_of_the_road.md) (gives)
+
+??? quote "Dialogue"
+
+    - State your business, *Player*! ...Ah. Welcome, then. **Hollis**, gate guard. Best view in the city, this.
+        - *Choice:* The view?
+        - *Choice:* Who named the dog?
+        - *Choice:* Anything odd lately?
+        - *Choice:* Goodbye.
+    - The Royal Road, running east past the **Greenwood** to **Kaldemor**. I grew up looking at the wall of the house opposite. Now I get all this, twelve hours a day.
+    - Me! It was snowing, he sat down by the gatehouse like he had an appointment, and I said... well. Half the guards say they named him. I say it loudest.
+    - Fewer folk on foot, more wagons with swords on the tailboards. And some evenings **Biscuit** stands at the edge of the lamplight, staring east.
+    - Something moves over the rise at dusk. I mean to walk that road one day, all the way and past it. I'd like it still to be walkable then.
+    - Off you go. Mind the step!

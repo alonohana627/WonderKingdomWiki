@@ -4,7 +4,10 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Nell in the lore](../lore/people/kaldemor/nell.md) |
+| Services | Quests |
 
 > Shh! I am counting the clouds.
 
@@ -12,3 +15,7 @@
 
 - "Eleven clouds, and one that looks like a snail."
 - "Do you like my cap? Grandma knitted it."
+
+## Quests
+
+- [The Cloud That Didn't Move](../quests/the_cloud_that_didnt_move.md) (gives)

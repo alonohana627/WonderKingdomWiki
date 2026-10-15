@@ -17,4 +17,5 @@
 
 - [White Potion](../items/white_potion.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Holy Water](../items/holy_water.md) ([Alchemy](../professions/alchemy.md), x2)
+- [Spore Draught](../items/spore_draught.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Mushroom Ramen](../items/mushroom_ramen.md) ([Cooking](../professions/cooking.md), x2)

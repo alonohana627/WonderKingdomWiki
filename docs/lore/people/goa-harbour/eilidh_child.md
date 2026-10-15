@@ -10,6 +10,7 @@
 | Where | Fishers' Coves |
 | Role | Child |
 | Age | Child |
+| In the game | [Eilidh](../../../npcs/eilidh_child.md) |
 
 ## Personality
 

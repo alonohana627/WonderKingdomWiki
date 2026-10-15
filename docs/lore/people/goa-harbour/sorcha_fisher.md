@@ -10,6 +10,7 @@
 | Where | Fishers' Coves |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Sorcha](../../../npcs/sorcha_fisher.md) |
 
 ## Personality
 

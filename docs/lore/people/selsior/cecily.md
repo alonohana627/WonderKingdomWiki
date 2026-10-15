@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Performer |
 | Age | Young |
+| In the game | [Cecily](../../../npcs/cecily.md) |
 
 ## Personality
 

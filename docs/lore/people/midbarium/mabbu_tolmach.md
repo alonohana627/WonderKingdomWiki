@@ -11,6 +11,7 @@
 | Role | Resident |
 | Age | Elder |
 | Family | Tolmach |
+| In the game | [Mabbu](../../../npcs/mabbu_tolmach.md) |
 
 ## Personality
 

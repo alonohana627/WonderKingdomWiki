@@ -6,13 +6,17 @@
 
 |  |  |
 |---|---|
-| Where | [Crown Market](../maps/selsior_market.md) |
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Selene's Forge](../maps/selenes_forge.md) |
+| Story | [Selene in the lore](../lore/people/selsior/selene.md) |
 | Services | Shop: [Selene's Arms](../shops/selsior_arms.md) |
 
 ## Says
 
 - "Steel from the capital's own forges!"
 - "A good blade makes the road shorter."
+- "Listen to it ring. That is good steel singing."
+- "Lighter. It must be lighter, and it must not break."
 
 ## Shop
 
@@ -33,3 +37,36 @@
 | [Scimitar](../items/scimitar.md) | 7,900 mesos |
 | [Blue Axe](../items/blue_axe.md) | 3,300 mesos |
 | [Forked Spear](../items/forked_spear.md) | 3,300 mesos |
+| [Blue Counter](../items/blue_counter.md) | 9,100 mesos |
+| [Sabretooth](../items/sabretooth.md) | 12,000 mesos |
+| [Traus](../items/traus.md) | 11,000 mesos |
+| [Zard](../items/zard.md) | 21,000 mesos |
+| [Zeco](../items/zeco.md) | 11,000 mesos |
+| [Buck](../items/buck.md) | 16,000 mesos |
+| [Jeweled Katar](../items/jeweled_katar.md) | 14,000 mesos |
+| [Lion's Fang](../items/lions_fang.md) | 23,000 mesos |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 17,000 mesos |
+| [The Rising](../items/the_rising.md) | 16,000 mesos |
+| [Hawkhead](../items/hawkhead.md) | 22,000 mesos |
+| [Holy Spear](../items/holy_spear.md) | 22,000 mesos |
+| [Neocora](../items/neocora.md) | 17,000 mesos |
+| [Sparta](../items/sparta.md) | 26,000 mesos |
+| [The Shining](../items/the_shining.md) | 22,000 mesos |
+| [Chrono](../items/chrono.md) | 28,000 mesos |
+| [Doombringer](../items/doombringer.md) | 29,000 mesos |
+| [Mikhail](../items/mikhail.md) | 33,000 mesos |
+| [Red Katana](../items/red_katana.md) | 28,000 mesos |
+| [Redemption](../items/redemption.md) | 28,000 mesos |
+
+??? quote "Dialogue"
+
+    - Feel the balance on this one, *Player*. No? Then what brings you to my forge?
+        - *Choice:* Who are you?
+        - *Choice:* What are you working on?
+        - *Choice:* Who is your apprentice?
+        - *Choice:* Goodbye.
+    - **Selene**, weaponsmith. Swords, axes and blades from the capital's own steel. A good blade makes the road shorter. A bad one makes it end.
+    - A sword light enough for any recruit and strong enough for any monster. The **Knights' Court** is full of recruits, and the roads are full of monsters.
+    - Light steel bends, strong steel weighs. Somewhere between the two there is a blade. I will find it.
+    - [Kenric](../npcs/kenric.md). As a boy he never once flinched from the sparks. He hums while he hammers, and I can tell how the work goes by the tune. This winter, perhaps, his first sword.
+    - Keep your edge clean, *Player*.

@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Winifred](../../../npcs/winifred.md) |
 
 ## Personality
 

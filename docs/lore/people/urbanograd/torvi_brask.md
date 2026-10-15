@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Torvi Brask](../../../npcs/torvi_brask.md) |
 
 ## Personality
 

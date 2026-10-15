@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Official |
 | Age | Adult |
+| In the game | [Helewise](../../../npcs/helewise.md) |
 
 ## Personality
 

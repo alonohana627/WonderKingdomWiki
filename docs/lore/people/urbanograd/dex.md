@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Dex](../../../npcs/dex.md) |
 
 ## Personality
 

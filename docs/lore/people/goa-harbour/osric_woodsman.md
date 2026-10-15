@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Osric](../../../npcs/osric_woodsman.md) |
 
 ## Personality
 

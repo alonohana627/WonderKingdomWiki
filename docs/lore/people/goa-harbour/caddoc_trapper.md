@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Caddoc](../../../npcs/caddoc_trapper.md) |
 
 ## Personality
 

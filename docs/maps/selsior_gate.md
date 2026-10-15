@@ -6,14 +6,25 @@
 |---|---|
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Town |
+| Town | [Selsior](../towns/selsior.md) |
 
 ## Exits
 
-- [Selsior Approach](../maps/royal_road_3.md)
-- [Selsior](../maps/selsior.md)
+- [Royal Plaza](../maps/selsior.md)
+- [The Greenwood](../maps/the_greenwood.md)
+- [The Chalk Downs](../maps/chalk_downs.md)
+- [The Bloomwood, South](../maps/bloomwood_south.md)
+- [The Canyon Road](../maps/canyon_road.md)
+- [The Halfway Stone](../maps/halfway_stone.md)
+- [Gorse Downs](../maps/gorse_downs.md)
+- [The Gate Inn](../maps/gate_inn.md)
 
 ## NPCs
 
 - [Tilda](../npcs/tilda.md) (Taxi Driver)
-- [Brann](../npcs/brann.md) (Gate Sergeant)
+- [Swithin](../npcs/swithin.md) (Gate Clerk)
+- [Biscuit](../npcs/biscuit.md) (Gate Dog)
 - [Hollis](../npcs/hollis.md) (Gate Guard)
+- [Brann](../npcs/brann.md) (Gate Sergeant)
+- [Gate Guard](../npcs/gate_guard_ardo.md)
+- [Gate Guard](../npcs/gate_guard_benna.md)

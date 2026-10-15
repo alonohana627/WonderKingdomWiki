@@ -10,6 +10,7 @@
 | Where | Lantern Market |
 | Role | Performer |
 | Age | Young |
+| In the game | [Mhairi](../../../npcs/mhairi_fiddler.md) |
 
 ## Personality
 

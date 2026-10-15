@@ -9,6 +9,7 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Grove School |
 | Sells | Staves, wands, spell scrolls and practice robes |
+| In the game | [Galen](../../../npcs/galen_wandseller.md) |
 
 ## Relationships
 

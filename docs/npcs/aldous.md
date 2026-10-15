@@ -6,13 +6,29 @@
 
 |  |  |
 |---|---|
-| Where | [Selsior](../maps/selsior.md) |
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [The Royal Vault](../maps/royal_vault.md) |
+| Story | [Aldous in the lore](../lore/people/selsior/aldous.md) |
 | Services | Storage |
-
-> The Royal Vault is at your service, *Player*.
 
 ## Says
 
 - "The same vault in every town, *Player*. Leave it here, fetch it in Kaldemor."
-- "Not a coin has gone missing in my thirty years at this desk."
+- "Thirty years at this desk, and not a coin gone missing."
+- "Count twice. Then, if it is right, smile once."
 - "Mesos, relics, a spare sword: the vault holds all of it."
+
+??? quote "Dialogue"
+
+    - The **Royal Vault** is at your service, *Player*. I am **Aldous**, its Keeper.
+        - *Choice:* What does the vault keep?
+        - *Choice:* How long have you kept it?
+        - *Choice:* Is anything troubling the vault?
+        - *Choice:* That is all.
+    - The kingdom's treasures and records, and the belongings of any citizen who asks. All written down: what, whose, when in and when out.
+    - And what you leave here, you may fetch in any town. It is the same vault everywhere.
+    - Thirty years at this desk, and not a coin has gone missing. I count twice and smile once.
+    - [Jocelyn](../npcs/jocelyn.md) will have this desk after me, one day. Neither of us is in any hurry.
+    - Troubling the vault? Nothing troubles the vault. Though [Jocelyn](../npcs/jocelyn.md) has found a box in the oldest records room that is in no ledger.
+    - It was there before my time. I do not know what is in it. Some boxes are older than their keepers, *Player*.
+    - Count your things, *Player*. Then count them again.

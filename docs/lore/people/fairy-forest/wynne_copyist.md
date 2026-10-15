@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Scholar |
 | Age | Young |
+| In the game | [Wynne](../../../npcs/wynne_copyist.md) |
 
 ## Personality
 

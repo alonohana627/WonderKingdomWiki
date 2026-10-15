@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Guard |
 | Age | Young |
+| In the game | [Brisa](../../../npcs/brisa.md) |
 
 ## Personality
 

@@ -12,6 +12,7 @@
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (15%)
+- Dropped by [Ribbon Pig](../monsters/ribbon_pig.md) (8%)
 
 ## Used for
 

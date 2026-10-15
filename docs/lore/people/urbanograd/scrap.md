@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Child |
 | Age | Child |
+| In the game | [Scrap](../../../npcs/scrap.md) |
 
 ## Personality
 

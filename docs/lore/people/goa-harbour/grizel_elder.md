@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Ysmay](../../../npcs/grizel_elder.md) |
 
 ## Personality
 

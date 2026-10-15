@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Service |
 | Age | Adult |
+| In the game | [Joan](../../../npcs/joan.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Royal Vault |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Wulfric](../../../npcs/wulfric.md) |
 
 ## Personality
 

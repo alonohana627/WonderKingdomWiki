@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Perch](../../../npcs/perch.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Workshops Row |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Edgar Penhallow](../../../npcs/alder_penhallow.md) |
 
 ## Personality
 

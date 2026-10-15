@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Gervase](../../../npcs/gervase.md) |
 
 ## Personality
 

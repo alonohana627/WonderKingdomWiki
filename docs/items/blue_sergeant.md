@@ -9,12 +9,35 @@
 | Type | Equipment |
 | Slot | Top |
 | Required level | 20 |
-| Stats | Defense +40 |
+| Stats | Defense +21 |
 | Upgrade slots | 8 |
 | Sells for | 400 mesos |
 
 ## How to get
 
+- Dropped by [Bubbling](../monsters/bubbling.md) (0.08%)
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.1%)
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.06%)
+- Dropped by [Slime](../monsters/slime.md) (0.08%)
+- Dropped by [Bluff Wildcat](../monsters/bluff_wildcat.md) (0.12%)
+- Dropped by [Dune Cat](../monsters/dune_cat.md) (0.12%)
+- Dropped by [Grey Tom](../monsters/grey_tom.md) (0.12%)
+- Dropped by [Scrub Wolf](../monsters/scrub_wolf.md) (0.12%)
+- Dropped by [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) (0.08%)
+- Dropped by [Firefly Slime](../monsters/firefly_slime.md) (0.08%)
+- Dropped by [Forest Sprite](../monsters/forest_sprite.md) (0.08%)
+- Dropped by [Glimmerwing](../monsters/glimmerwing.md) (0.08%)
+- Dropped by [Water Sprite](../monsters/water_sprite.md) (0.08%)
+- Dropped by [Wrack Boar](../monsters/wrack_boar.md) (0.1%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.12%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 800 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 800 mesos
+- Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 800 mesos

@@ -13,14 +13,58 @@
 ## How to get
 
 - Dropped by [Blue Snail](../monsters/blue_snail.md) (5%)
+- Dropped by [Lorang](../monsters/lorang.md) (6%)
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (8% x1-2)
 - Dropped by [Red Snail](../monsters/red_snail.md) (8% x1-2)
+- Dropped by [Ribbon Pig](../monsters/ribbon_pig.md) (6%)
 - Dropped by [Shroom](../monsters/shroom.md) (5%)
 - Dropped by [Snail](../monsters/snail.md) (4%)
 - Dropped by [Stump](../monsters/stump.md) (6%)
+- Dropped by [Marsh Slime](../monsters/marsh_slime.md) (6%)
+- Dropped by [Mud Octopus](../monsters/mud_octopus.md) (6%)
+- Dropped by [Orchard Pig](../monsters/orchard_pig.md) (6%)
+- Dropped by [Orchard Snail](../monsters/orchard_snail.md) (6%)
+- Dropped by [Reed Snake](../monsters/reed_snake.md) (6%)
+- Dropped by [Shingle Crab](../monsters/shingle_crab.md) (6%)
+- Sold at [Merriwether's Chandlery](../shops/bain_chandler.md) for 50 mesos
+- Sold at [Celandine's Remedies](../shops/celandine_remedies.md) for 50 mesos
+- Sold at [Gwenna's Outfitting](../shops/gwennas_outfitting.md) for 50 mesos
 - Sold at [Marta's General Store](../shops/grocer.md) for 50 mesos
 - Sold at [Bram's Potions](../shops/potions.md) for 50 mesos
 - Sold at [Dame Orsa's General Store](../shops/selsior_general.md) for 50 mesos
 - Sold at [Mirel's Potions](../shops/selsior_potions.md) for 50 mesos
+- Sold at [Glim's Lanterns](../shops/urbanograd_glim.md) for 50 mesos
 - Made with [Alchemy](../professions/alchemy.md) (level 1)
 - Reward from [Settling In](../quests/settling_in.md)
+- Reward from [Oil for the Gate Lamps](../quests/baldwin_oil_for_the_gate_lamps.md)
+- Reward from [Past the Light](../quests/baldwin_past_the_light.md)
+- Reward from [Biscuit Follows His Nose](../quests/biscuit_follows_his_nose.md)
+- Reward from [Apothecary First](../quests/brann_apothecary_first.md)
+- Reward from [Not in the Book](../quests/brann_not_in_the_book.md)
+- Reward from [Ask the Old Man](../quests/clement_ask_the_old_man.md)
+- Reward from [Post the Notice](../quests/clement_post_the_notice.md)
+- Reward from [Bounty: The Hedge Lanes](../quests/edric_bounty_hedge_lanes.md)
+- Reward from [Bounty: The Waystone Meadows](../quests/edric_bounty_waystone_meadows.md)
+- Reward from [A Bell He Does Not Know](../quests/gideon_a_bell_he_does_not_know.md)
+- Reward from [Down the Ladder](../quests/gideon_down_the_ladder.md)
+- Reward from [Word for Clement](../quests/gideon_word_for_clement.md)
+- Reward from [A Cutting from the Roots](../quests/godwin_a_cutting_from_the_roots.md)
+- Reward from [Heavier Than a Broom](../quests/hodge_heavier_than_a_broom.md)
+- Reward from [What I Saw From the Ridge](../quests/hodge_what_i_saw_from_the_ridge.md)
+- Reward from [A Still Evening](../quests/hugh_a_still_evening.md)
+- Reward from [Polish for the Dais](../quests/hugh_polish_for_the_dais.md)
+- Reward from [Tell Hodge](../quests/mab_tell_hodge.md)
+- Reward from [The Great Waystone](../quests/mab_the_great_waystone.md)
+- Reward from [A Theory for Margery](../quests/maud_a_theory_for_margery.md)
+- Reward from [Mushrooms for the Pie](../quests/maud_mushrooms_for_the_pie.md)
+- Reward from [Ribbons for Dusk](../quests/mirabel_ribbons_for_dusk.md)
+- Reward from [The Far Side of the Bell](../quests/mirabel_the_far_side_of_the_bell.md)
+- Reward from [Clear the Stretch](../quests/perrin_clear_the_stretch.md)
+- Reward from [A Courier's Knot](../quests/peterkin_a_couriers_knot.md)
+- Reward from [As Far as a Courier Rides](../quests/peterkin_as_far_as_a_courier_rides.md)
+- Reward from [One More Round](../quests/pim_one_more_round.md)
+- Reward from [Too Early for Patrol](../quests/pim_too_early_for_patrol.md)
+- Reward from [A Seventh Account](../quests/tobe_a_seventh_account.md)
+- Reward from [The Third Cut, Slowly](../quests/tobe_the_third_cut_slowly.md)
+- Reward from [A Story for the Lane](../quests/winifred_a_story_for_the_lane.md)
+- Reward from [The Fifth Tale](../quests/winifred_the_fifth_tale.md)

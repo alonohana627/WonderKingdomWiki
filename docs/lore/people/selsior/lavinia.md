@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Performer |
 | Age | Elder |
+| In the game | [Lavinia](../../../npcs/lavinia.md) |
 
 ## Personality
 

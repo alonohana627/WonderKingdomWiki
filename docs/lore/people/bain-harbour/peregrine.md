@@ -10,6 +10,7 @@
 | Where | Shipyard |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Peregrine](../../../npcs/peregrine.md) |
 
 ## Personality
 

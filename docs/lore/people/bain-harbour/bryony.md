@@ -9,6 +9,7 @@
 | Town | [Bain Harbour](../../towns/bain-harbour.md) |
 | Where | Merchant Street |
 | Sells | Bread, salt rolls and sailors' hard biscuits |
+| In the game | [Bryony](../../../npcs/bryony.md) |
 
 ## Relationships
 

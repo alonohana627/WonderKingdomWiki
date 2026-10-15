@@ -5,30 +5,35 @@
 |  |  |
 |---|---|
 | Level | 15 |
-| HP | 230 |
-| EXP | 36 |
+| HP | 358 |
+| EXP | 58 |
 | Touch damage | 52 |
-| Defense / Magic Defense | 15 / 15 |
+| Defense / Magic Defense | 90 / 90 |
 | Aggressive | No |
+
+## Attacks
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Melee | Physical | 70 | 5 s |
 
 ## Where to find
 
-- [Greenwood Clearing](../maps/greenwood_clearing.md)
+- [The Waystone Meadows](../maps/waystone_meadows.md)
 
 ## Drops
 
 | Drop | Chance | Amount |
 |---|---|---|
 | Mesos | 70% | 28-52 |
-| [Guard's Trial Seal](../items/trial_seal.md) | 25% | 1 |
 | [Horny Mushroom Cap](../items/horny_mushroom_cap.md) | 50% | 1 |
 | [Orange Potion](../items/orange_potion.md) | 7% | 1 |
 | [White Potion](../items/white_potion.md) | 3% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 6% | 1 |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 0.4% | 1 |
-| [Scroll for Topwear for DEF](../items/scroll_topwear_def.md) | 0.4% | 1 |
-| [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) | 0.3% | 1 |
-| [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) | 0.3% | 1 |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 0.4% | 1 |
+| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 0.4% | 1 |
+| [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 0.3% | 1 |
+| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 0.3% | 1 |
 | [Viking Sword](../items/viking_sword.md) | 0.15% | 1 |
 | [Contra Axe](../items/contra_axe.md) | 0.12% | 1 |
 | [Two-handed Axe](../items/two_handed_axe.md) | 0.1% | 1 |
@@ -50,7 +55,8 @@
 
 ## Quests
 
-- [The Swordsman's Trial](../quests/swordsmans_trial.md)
-- [The Swordmaster's Trial](../quests/swordmasters_trial.md)
+- [Bounty: The Waystone Meadows](../quests/edric_bounty_waystone_meadows.md)
 - [The Grand Swordmaster's Trial](../quests/grand_swordmasters_trial.md)
+- [Mushrooms for the Pie](../quests/maud_mushrooms_for_the_pie.md)
 - [The Sword Saint's Trial](../quests/sword_saints_trial.md)
+- [The Swordmaster's Trial](../quests/swordmasters_trial.md)

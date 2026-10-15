@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Fulke](../../../npcs/fulke.md) |
 
 ## Personality
 

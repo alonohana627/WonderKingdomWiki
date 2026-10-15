@@ -10,6 +10,7 @@
 | Where | Town Square |
 | Role | Official |
 | Age | Adult |
+| In the game | [Mildred](../../../npcs/mildred.md) |
 
 ## Personality
 

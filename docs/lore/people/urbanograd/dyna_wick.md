@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Workshops Row |
 | Sells | Patchwork coats, bright scarves and stage clothes |
+| In the game | [Dyna](../../../npcs/dyna_wick.md) |
 
 ## Relationships
 

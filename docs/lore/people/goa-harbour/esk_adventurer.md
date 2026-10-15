@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Esk](../../../npcs/esk_adventurer.md) |
 
 ## Personality
 

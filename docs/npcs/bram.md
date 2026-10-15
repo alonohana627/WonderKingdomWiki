@@ -6,11 +6,14 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Bram in the lore](../lore/people/kaldemor/bram.md) |
 | Services | Shop: [Bram's Potions](../shops/potions.md), Quests |
 
 ## Quests
 
+- [A Draught for the Dust](../quests/a_draught_for_the_dust.md) (gives)
 - [A Steady Brew](../quests/a_steady_brew.md) (gives)
 
 ## Shop

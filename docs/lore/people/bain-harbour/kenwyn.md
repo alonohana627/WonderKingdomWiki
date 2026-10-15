@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Kenwyn](../../../npcs/kenwyn.md) |
 
 ## Personality
 

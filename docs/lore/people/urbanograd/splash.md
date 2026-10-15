@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Splash](../../../npcs/splash.md) |
 
 ## Personality
 

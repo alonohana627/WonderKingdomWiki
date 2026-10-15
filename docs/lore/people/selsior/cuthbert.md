@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Service |
 | Age | Adult |
+| In the game | [Cuthbert](../../../npcs/cuthbert.md) |
 
 ## Personality
 

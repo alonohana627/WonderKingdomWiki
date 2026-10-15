@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Torva](../../../npcs/torva_hunter.md) |
 
 ## Personality
 

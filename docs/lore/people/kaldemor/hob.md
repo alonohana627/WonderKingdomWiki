@@ -10,6 +10,7 @@
 | Where | Kaldemor Park |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Hob](../../../npcs/hob.md) |
 
 ## Personality
 

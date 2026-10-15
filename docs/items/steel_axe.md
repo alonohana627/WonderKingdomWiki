@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | Two-Handed Axe |
 | Required level | 10 |
-| Stats | Attack +36 |
+| Stats | Attack +49 |
 | Upgrade slots | 8 |
 | Sells for | 450 mesos |
 
@@ -18,5 +18,5 @@
 
 - Dropped by [Orange Mushroom](../monsters/orange_mushroom.md) (0.2%)
 - Dropped by [Stump](../monsters/stump.md) (0.2%)
-- Sold at [Selene's Arms](../shops/selsior_arms.md) for 900 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 900 mesos
+- Sold at [Selene's Arms](../shops/selsior_arms.md) for 900 mesos

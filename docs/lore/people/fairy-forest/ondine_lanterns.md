@@ -10,6 +10,7 @@
 | Where | Lantern Paths |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Ondine](../../../npcs/ondine_lanterns.md) |
 
 ## Personality
 

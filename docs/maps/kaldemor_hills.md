@@ -6,7 +6,9 @@
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Hunting |
-| Level | 1 |
+| Levels | 7-10 |
+| Difficulty | 2 |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
 
 ## Exits
@@ -18,20 +20,21 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Red Snail](../monsters/red_snail.md) | 4 | 7 |
-| [Pig](../monsters/pig.md) | 7 | 6 |
+| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 10 |
+| [Stump](../monsters/stump.md) | 10 | 3 |
+| [Pig](../monsters/pig.md) | 7 | 7 |
 
 ## Gathering
 
 | Node | Profession | Gives | Number |
 |---|---|---|---|
-| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 2 |
-| Bronze Vein | [Mining](../professions/mining.md) | [Bronze Ore](../items/bronze_ore.md) | 2 |
-| Marjoram Patch | [Herbalism](../professions/herbalism.md) | [Marjoram Flower](../items/marjoram_flower.md) | 2 |
-| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 2 |
-| Hay Bale | [Gathering](../professions/gathering.md) | [Plant Fibre](../items/plant_fibre.md) | 1 |
+| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 1 |
+| Bronze Vein | [Mining](../professions/mining.md) | [Bronze Ore](../items/bronze_ore.md) | 1 |
+| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 1 |
+| Rosemary Patch | [Herbalism](../professions/herbalism.md) | [Rosemary Flower](../items/rosemary_flower.md) | 1 |
 | Fallen Log | [Gathering](../professions/gathering.md) | [Tree Branch](../items/tree_branch.md) | 1 |
+| Iron Vein | [Mining](../professions/mining.md) | [Iron Ore](../items/iron_ore.md) | 1 |
 
 ## Discoveries
 
-- [The Hills' Lookout](../world/discoveries.md#hills-lookout)
+- [The Hills' Lookout](../world/discoveries.md#the-hills-lookout)

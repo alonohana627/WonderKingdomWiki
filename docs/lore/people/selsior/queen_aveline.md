@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Ruler |
 | Age | Adult |
+| In the game | [Aveline](../../../npcs/queen_aveline.md) |
 
 ## Personality
 

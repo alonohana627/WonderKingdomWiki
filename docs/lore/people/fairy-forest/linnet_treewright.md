@@ -10,6 +10,7 @@
 | Where | Lantern Paths |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Linnet](../../../npcs/linnet_treewright.md) |
 
 ## Personality
 

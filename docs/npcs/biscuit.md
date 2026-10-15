@@ -2,13 +2,35 @@
 
 # Biscuit
 
+*Gate Dog*
+
 |  |  |
 |---|---|
-| Where | [Crown Market](../maps/selsior_market.md) |
-
-> Woof. (Biscuit wags what he has of a tail.)
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Selsior Gate](../maps/selsior_gate.md) |
+| Story | [Biscuit in the lore](../lore/people/selsior/biscuit.md) |
+| Services | Quests |
 
 ## Says
 
 - "Woof!"
-- "Sniff sniff... bread!"
+- "Sniff, sniff, sniff... (bread?)"
+- "(Biscuit wags his whole back end.)"
+- "Wuff. (He sits, very politely, by your pack.)"
+- "(Ears up, nose to the east. Very still.)"
+
+## Quests
+
+- [Biscuit Follows His Nose](../quests/biscuit_follows_his_nose.md) (gives)
+
+??? quote "Dialogue"
+
+    - The gate dog trots over and sniffs your boots, your pack and your pockets, then looks up at you, quite certain that you have bread.
+        - *Choice:* Show him your empty hands.
+        - *Choice:* Scratch behind his ears.
+        - *Choice:* Look where he is looking.
+        - *Choice:* Leave him be.
+    - Biscuit sniffs your empty hands very thoroughly and sighs through his nose. Then he wags what he has of a tail anyway. You are forgiven.
+    - Biscuit leans his whole weight against your leg, eyes half shut, and thumps a back paw on the cobbles. Woof.
+    - Biscuit turns to the open gate and the Royal Road beyond. His ears go up and he stands very still, nose to the east, for longer than a dog who is only thinking about bread.
+    - Biscuit trots back to his sack by the gatehouse door, and glances back once, in case you find some bread after all.

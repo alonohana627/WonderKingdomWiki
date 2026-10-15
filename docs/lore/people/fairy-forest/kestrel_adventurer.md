@@ -10,6 +10,7 @@
 | Where | Forest Edge |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Kestrel](../../../npcs/kestrel_adventurer.md) |
 
 ## Personality
 

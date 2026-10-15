@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Council |
 | Age | Adult |
+| In the game | [Corwin](../../../npcs/captain_corwin.md) |
 
 ## Personality
 

@@ -6,12 +6,38 @@
 
 |  |  |
 |---|---|
-| Where | [Selsior](../maps/selsior.md) |
-
-> No time to talk, *Player*. Letters wait for no one.
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Perrin in the lore](../lore/people/selsior/perrin.md) |
+| Services | Quests |
 
 ## Says
 
-- "Letters for Midbraium, letters for the harbours, and one for the World Tree."
+- "Midbarium, both harbours, Kaldemor, Urbanograd, and one for the World Tree. Busy day."
 - "Out of my way! Official business."
 - "Fastest courier in the kingdom, and I have the blisters to prove it."
+- "Guards on every ride now. Guards stop for lunch, did you know that?"
+- "Wind's from the west today. First thing you learn on the roads."
+
+## Quests
+
+- [Clear the Stretch](../quests/perrin_clear_the_stretch.md) (gives)
+- [Courier's Stride](../quests/perrin_couriers_stride.md) (gives)
+- [The Long Way](../quests/perrin_the_long_way.md) (gives)
+
+??? quote "Dialogue"
+
+    - The short way to the Tree, *Player*, every time now. Tilda has stopped inspecting my boots. Mostly.
+    - **Perrin**, Royal Courier, four years now. I got the post by beating the last courier to the palace with a letter nobody asked me to carry.
+    - I never read the letters, before you ask. I know the seals, though, and today I have the queen's own.
+    - Every town with a road to it. Up to **Midbarium**, out to both harbours, down the Royal Road to **Kaldemor**, and to the **World Tree**. I always say that one last. It sounds best.
+    - Bad? No. Slower. I go round a few stretches I used to gallop, that is all. The wolves have moved, and the boars sleep under a bridge I liked.
+    - The **Knights' Court** has us riding out with guards now. Slow, the guards. Always stopping. ... Useful, sometimes. My cousin [Tilda](../npcs/tilda.md) need not hear that.
+    - Practice, blisters and a few couriers' tricks. I teach them to anyone who can keep up with me, and hardly anyone can. Come back when I am not carrying the queen's seal and we will see how fast you are.
+    - Letters wait for no one, *Player*. Neither do I!
+    - *Player*! Quick, quick, I have letters waiting. What is it?
+        - *Choice:* Who are you?
+        - *Choice:* Where do the letters go?
+        - *Choice:* Are the roads bad?
+        - *Choice:* How are you so fast?
+        - *Choice:* Never mind.

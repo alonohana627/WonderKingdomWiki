@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Belt |
 | Required level | 10 |
-| Stats | Max HP +20, Defense +6 |
+| Stats | Max HP +20, Defense +5 |
 | Sells for | 200 mesos |
 
 ## How to get
 
 - Dropped by [Stump](../monsters/stump.md) (0.1%)
+- Sold at [Jasper's Curiosities](../shops/jasper_curios.md) for 400 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 400 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 400 mesos

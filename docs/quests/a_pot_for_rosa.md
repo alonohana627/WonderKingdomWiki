@@ -6,10 +6,12 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Rosa](../npcs/rosa.md) |
 | Level | 4 |
 | After | [Rosa's Recipe](../quests/rosas_recipe.md) |
+| Leads to | [A Steady Brew](../quests/a_steady_brew.md) |
 
 ## Objectives
 

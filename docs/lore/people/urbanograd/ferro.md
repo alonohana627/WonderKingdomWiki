@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Daggers, throwing stars, claws and knuckle guards |
+| In the game | [Ferro](../../../npcs/ferro.md) |
 
 ## Personality
 

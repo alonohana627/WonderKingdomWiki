@@ -6,6 +6,7 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Repeatable |
 | Given by | [Hale](../npcs/hale.md) |
 | Level | 3 |

@@ -6,10 +6,12 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Story |
 | Given by | [Lia](../npcs/lia.md) |
 | Completed with | [Tobin](../npcs/tobin.md) |
 | Level | 1 |
+| Leads to | [Settling In](../quests/settling_in.md) |
 
 ## Rewards
 
@@ -18,9 +20,9 @@
 
 ??? quote "Dialogue"
 
-    - Oh, a new face! Welcome to **Kaldemor**, *Player*. **Mayor Tobin** wants to meet every newcomer. Would you go and see him? He is just west of here.
+    - There you are, *Player*! **Mayor Tobin** has been asking for you all morning. Would you go and see him? He is just west of here.
     - Wonderful! Tobin is the mayor, standing in front of the **treehouse**. Just walk up to him and talk.
     - No rush. If you change your mind, I am right here.
     - Mayor Tobin is waiting for you, *Player*. He is just to the west.
-    - Ah, you must be *Player*! Lia told me about you. Welcome to Kaldemor, my dear. I hope you will call it home.
+    - Ah, *Player*, there you are! Lia found you, then. Good. I have been meaning to talk to you.
     - Take this as a welcome gift. Come and talk to me again when you are ready for more.

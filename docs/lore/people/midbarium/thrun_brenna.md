@@ -11,6 +11,7 @@
 | Role | Performer |
 | Age | Elder |
 | Family | Brenna |
+| In the game | [Thrun](../../../npcs/thrun_brenna.md) |
 
 ## Personality
 

@@ -6,7 +6,7 @@ Standing with a town or an NPC goes up to 1,000 points. Quests, bosses and some 
 
 | Rank | Points |
 |---|---|
-| Stranger | 0 |
+| Neighbour | 0 |
 | Known | 100 |
 | Friend | 300 |
 | Trusted | 600 |

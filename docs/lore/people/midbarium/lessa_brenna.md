@@ -12,6 +12,7 @@
 | Age | Adult |
 | Family | Brenna |
 | Sells | Herbal salves, splints and highland remedies |
+| In the game | [Lessa](../../../npcs/lessa_brenna.md) |
 
 ## Personality
 

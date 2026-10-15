@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Child |
 | Age | Child |
+| In the game | [Peterkin](../../../npcs/peterkin.md) |
 
 ## Personality
 

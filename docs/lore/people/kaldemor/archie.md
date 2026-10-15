@@ -10,6 +10,7 @@
 | Where | Workshops |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Archie](../../../npcs/archie.md) |
 
 ## Personality
 

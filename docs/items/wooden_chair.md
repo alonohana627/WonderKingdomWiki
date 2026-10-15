@@ -12,5 +12,9 @@
 
 ## How to get
 
+- Sold at [Merriwether's Chandlery](../shops/bain_chandler.md) for 200 mesos
 - Sold at [Marta's General Store](../shops/grocer.md) for 200 mesos
+- Sold at [The Trading Post](../shops/midbarium_trading_post.md) for 200 mesos
+- Sold at [Jasper's Curiosities](../shops/jasper_curios.md) for 200 mesos
 - Sold at [Dame Orsa's General Store](../shops/selsior_general.md) for 200 mesos
+- Sold at [Glim's Lanterns](../shops/urbanograd_glim.md) for 200 mesos

@@ -12,6 +12,7 @@
 
 ## How to get
 
+- Sold at [Gwenna's Outfitting](../shops/gwennas_outfitting.md) for 250 mesos
 - Sold at [Bram's Potions](../shops/potions.md) for 250 mesos
 - Sold at [Mirel's Potions](../shops/selsior_potions.md) for 250 mesos
 - Made with [Alchemy](../professions/alchemy.md) (level 11)

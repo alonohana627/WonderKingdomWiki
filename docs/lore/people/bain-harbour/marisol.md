@@ -11,6 +11,7 @@
 | Role | Council |
 | Age | Adult |
 | Sells | Spices, dyes and teas from all over the island |
+| In the game | [Marisol](../../../npcs/marisol.md) |
 
 ## Personality
 

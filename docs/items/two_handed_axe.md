@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | Two-Handed Axe |
 | Required level | 20 |
-| Stats | Attack +72 |
+| Stats | Attack +68 |
 | Upgrade slots | 8 |
 | Sells for | 900 mesos |
 
@@ -19,4 +19,5 @@
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.15%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.08%)
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.1%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.12%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 1,800 mesos

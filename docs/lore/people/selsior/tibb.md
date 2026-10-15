@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Worker |
 | Age | Young |
+| In the game | [Tibb](../../../npcs/tibb.md) |
 
 ## Personality
 

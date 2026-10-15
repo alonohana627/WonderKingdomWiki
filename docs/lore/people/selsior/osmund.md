@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Osmund](../../../npcs/osmund.md) |
 
 ## Personality
 

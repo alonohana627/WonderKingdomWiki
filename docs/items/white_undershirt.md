@@ -15,5 +15,6 @@
 ## How to get
 
 - Dropped by [Shroom](../monsters/shroom.md) (0.4%)
+- Sold at [Morag's Wool](../shops/morags_wool.md) for 20 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 20 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 2)

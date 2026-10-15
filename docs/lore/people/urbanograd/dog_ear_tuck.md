@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Second-hand books, play scripts and song sheets |
+| In the game | [Wendel 'Dog-Ear' Tuck](../../../npcs/dog_ear_tuck.md) |
 
 ## Relationships
 

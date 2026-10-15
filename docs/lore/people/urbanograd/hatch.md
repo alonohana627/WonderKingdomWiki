@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Adventurer |
 | Age | Elder |
+| In the game | [Hatch](../../../npcs/hatch.md) |
 
 ## Personality
 

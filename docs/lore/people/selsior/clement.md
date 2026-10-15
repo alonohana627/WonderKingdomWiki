@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Official |
 | Age | Adult |
+| In the game | [Clement](../../../npcs/clement.md) |
 
 ## Personality
 

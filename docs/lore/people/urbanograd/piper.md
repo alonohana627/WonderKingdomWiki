@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Performer |
 | Age | Young |
+| In the game | [Piper](../../../npcs/piper.md) |
 
 ## Personality
 

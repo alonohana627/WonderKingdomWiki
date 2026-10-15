@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Petronella](../../../npcs/petronella.md) |
 
 ## Personality
 

@@ -9,12 +9,35 @@
 | Type | Equipment |
 | Slot | Cape |
 | Required level | 30 |
-| Stats | Defense +32, Speed +10, Jump +10, Critical Rate +2 |
+| Stats | Defense +11, Speed +10, Jump +10, Critical Rate +2 |
 | Upgrade slots | 6 |
 | Sells for | 3,350 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.03%)
+- Dropped by [Cold Eye](../monsters/cold_eye.md) (0.08%)
+- Dropped by [Evil Eye](../monsters/evil_eye.md) (0.08%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.03%)
+- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (0.02%)
+- Dropped by [Sea Newt](../monsters/sea_newt.md) (0.06%)
+- Dropped by [Shore Crab](../monsters/shore_crab.md) (0.06%)
+- Dropped by [Strand Fox](../monsters/strand_fox.md) (0.02%)
+- Dropped by [Gnarltusk](../bosses/gnarltusk.md) (Hard) (8%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
+- Sold at [Greer's Furs](../shops/greers_furs.md) for 6,700 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 6,700 mesos

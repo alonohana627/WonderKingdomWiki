@@ -10,6 +10,7 @@
 | Where | Harbour Hall |
 | Role | Official |
 | Age | Adult |
+| In the game | [Ottilie](../../../npcs/ottilie.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Children's Glade |
 | Role | Resident |
 | Kind | Child of the Tree |
+| In the game | [Niv](../../../npcs/niv_child.md) |
 
 ## Personality
 

@@ -5,17 +5,23 @@
 |  |  |
 |---|---|
 | Level | 12 |
-| HP | 150 |
-| EXP | 26 |
+| HP | 277 |
+| EXP | 32 |
 | Touch damage | 42 |
-| Defense / Magic Defense | 12 / 12 |
+| Defense / Magic Defense | 48 / 48 |
 | Aggressive | No |
+
+## Attacks
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 20 | 6 s |
 
 ## Where to find
 
-- [Greenwood Clearing](../maps/greenwood_clearing.md)
-- [The Crossing](../maps/royal_road_2.md)
-- [Selsior Approach](../maps/royal_road_3.md)
+- [The Glimmer Path](../maps/glimmer_path.md)
+- [The Greenwood](../maps/the_greenwood.md)
+- [The Waystone Meadows](../maps/waystone_meadows.md)
 
 ## Drops
 
@@ -25,9 +31,9 @@
 | [Green Mushroom Cap](../items/green_mushroom_cap.md) | 50% | 1 |
 | [Orange Potion](../items/orange_potion.md) | 6% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 5% | 1 |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 0.5% | 1 |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 0.4% | 1 |
-| [Scroll for Spear for ATT 100%](../items/scroll_spear_att.md) | 0.4% | 1 |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 0.5% | 1 |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 0.4% | 1 |
+| [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 0.4% | 1 |
 | [Blue Kendo Robe](../items/blue_kendo_robe.md) | 0.08% | 1 |
 | [Two-handed Axe](../items/two_handed_axe.md) | 0.08% | 1 |
 | [Mithril Buckler](../items/mithril_buckler.md) | 0.06% | 1 |
@@ -45,3 +51,9 @@
 | [Single Earring](../items/single_earring.md) | 0.1% | 1 |
 | [Moon Bunny Epaulette](../items/moon_bunny_epaulette.md) | 0.08% | 1 |
 | [Ring of Moon Stone: 1 Carat](../items/ring_of_moon_stone_1.md) | 0.06% | 1 |
+
+## Quests
+
+- [Bounty: The Waystone Meadows](../quests/edric_bounty_waystone_meadows.md)
+- [The Great Waystone](../quests/mab_the_great_waystone.md)
+- [A Story for the Lane](../quests/winifred_a_story_for_the_lane.md)

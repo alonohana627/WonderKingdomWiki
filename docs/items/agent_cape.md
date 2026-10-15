@@ -9,14 +9,14 @@
 | Type | Equipment |
 | Slot | Cape |
 | Required level | 10 |
-| Stats | Defense +8 |
+| Stats | Defense +6 |
 | Upgrade slots | 6 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Red Snail](../monsters/red_snail.md) (0.15%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 11)
 - Reward from [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md)

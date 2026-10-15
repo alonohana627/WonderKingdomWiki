@@ -10,9 +10,11 @@
 | Rarity | Uncommon |
 | Slot | Face Accessorie |
 | Required level | 30 |
-| Stats | Max HP +40, Max MP +20, Defense +8 |
+| Stats | Max HP +40, Max MP +20, Defense +3 |
 | Sells for | 600 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.03%)
+- Dropped by [Windflower Cap](../monsters/windflower_cap.md) (0.05%)
+- Sold at [Nix's Masks](../shops/urbanograd_nix.md) for 1,200 mesos

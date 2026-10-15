@@ -10,6 +10,7 @@
 | Where | Town Square |
 | Role | Performer |
 | Age | Young |
+| In the game | [Jem](../../../npcs/jem.md) |
 
 ## Personality
 

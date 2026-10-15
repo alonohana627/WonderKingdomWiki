@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Bertrand](../../../npcs/bertrand.md) |
 
 ## Personality
 

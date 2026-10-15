@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Official |
 | Age | Adult |
+| In the game | [Lux](../../../npcs/lux_lune.md) |
 
 ## Personality
 

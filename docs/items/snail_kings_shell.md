@@ -10,7 +10,7 @@
 | Rarity | Rare |
 | Slot | Cape |
 | Required level | 12 |
-| Stats | Defense +26, Max HP +60, STR +2 |
+| Stats | Defense +19, Max HP +60, STR +2 |
 | Upgrade slots | 5 |
 | Sells for | 2,400 mesos |
 

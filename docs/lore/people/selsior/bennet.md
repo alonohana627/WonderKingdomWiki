@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Bennet](../../../npcs/bennet.md) |
 
 ## Personality
 

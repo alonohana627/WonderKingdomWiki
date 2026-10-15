@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Oriel](../../../npcs/oriel_treewright.md) |
 
 ## Personality
 

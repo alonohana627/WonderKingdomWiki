@@ -4,7 +4,9 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Tam in the lore](../lore/people/kaldemor/tam.md) |
 
 > Hello, *Player*! I am going to be a warrior when I grow up.
 

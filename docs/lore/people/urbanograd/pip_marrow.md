@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Performer |
 | Age | Young |
+| In the game | [Pip Marrow](../../../npcs/pip_marrow.md) |
 
 ## Personality
 

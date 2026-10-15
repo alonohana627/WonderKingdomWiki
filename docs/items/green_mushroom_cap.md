@@ -12,6 +12,7 @@
 ## How to get
 
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (50%)
+- Dropped by [Windflower Cap](../monsters/windflower_cap.md) (45%)
 
 ## Used for
 

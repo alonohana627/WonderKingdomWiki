@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Worker |
 | Age | Young |
+| In the game | [Kite](../../../npcs/kite.md) |
 
 ## Personality
 

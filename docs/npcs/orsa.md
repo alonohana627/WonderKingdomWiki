@@ -6,13 +6,17 @@
 
 |  |  |
 |---|---|
-| Where | [Crown Market](../maps/selsior_market.md) |
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Dame Orsa in the lore](../lore/people/selsior/orsa.md) |
 | Services | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) |
 
 ## Says
 
 - "Everything a traveller forgets, I have in stock."
 - "A scroll home costs less than a night at the inn."
+- "I remember every debt, dear. Every one."
+- "Maud! Have you moved my good scales again?"
 
 ## Shop
 
@@ -27,3 +31,15 @@
 | [Holy Water](../items/holy_water.md) | 120 mesos |
 | [All Cure Potion](../items/all_cure_potion.md) | 200 mesos |
 | [Wooden Chair](../items/wooden_chair.md) | 200 mesos |
+
+??? quote "Dialogue"
+
+    - Come in, dear, come in. What have you forgotten today? Everyone forgets something.
+        - *Choice:* Who are you?
+        - *Choice:* How did you earn your title?
+        - *Choice:* Who is Maud?
+        - *Choice:* Goodbye.
+    - **Dame Orsa**, dear. This is the general store: rope, lamp oil, scrolls home, and whatever you left on the kitchen table.
+    - Long ago, dear, for service to the crown. ... Now, do you need rope? Everyone needs rope.
+    - [Maud](../npcs/maud.md) has kept my house for twenty-two years. She runs everything I do not and argues with me about all of it over breakfast. I would be lost without her. She is never to hear me say so.
+    - Mind how you go, dear. And pay your debts. I remember them.

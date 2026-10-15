@@ -11,6 +11,7 @@
 | Role | Guard |
 | Age | Adult |
 | Family | Uskari |
+| In the game | [Skarra](../../../npcs/skarra_uskari.md) |
 
 ## Personality
 

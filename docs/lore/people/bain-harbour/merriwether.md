@@ -9,6 +9,7 @@
 | Town | [Bain Harbour](../../towns/bain-harbour.md) |
 | Where | Waterfront |
 | Sells | Rope, tar, lanterns, hooks and ship's stores |
+| In the game | [Merriwether](../../../npcs/merriwether.md) |
 
 ## Relationships
 

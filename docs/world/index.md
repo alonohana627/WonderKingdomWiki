@@ -6,22 +6,87 @@ The world map is Veligor.
 
 ## Regions
 
+### Bain Harbour {#bain-harbour}
+
+Lore: [Bain Harbour](../lore/towns/bain-harbour.md)
+
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Town | - | - |
+| [Bain Harbour](../maps/bain_harbour.md) | Town | - | - |
+| [Harbour Hall](../maps/bain_hall.md) | Town | - | - |
+| [Marram Cove](../maps/marram_cove.md) | Town | - | - |
+| [The Docks](../maps/bain_docks.md) | Town | - | - |
+| [The Salt and Bread](../maps/bain_inn.md) | Town | - | - |
+| [The Watch House](../maps/bain_watch_house.md) | Town | - | - |
+| [The Chalk Downs](../maps/chalk_downs.md) | Road | 13 | 4 |
+| [Baysight Hill](../maps/baysight_hill.md) | Road | 15 | 5 |
+| [The Dune Reach](../maps/dune_reach.md) | Road | 17 | 6 |
+| [The Long Sands](../maps/long_sands.md) | Road | 19 | 7 |
+| [The First Locks](../maps/first_locks.md) | Hunting | 22-24 | 8 |
+| [The Timber Ponds](../maps/timber_ponds.md) | Hunting | 26-28 | 9 |
+| [The Main Deck](../maps/saltgrace_deck.md) | Dungeon | 21-22 | 10 |
+| [The Pinch](../maps/the_pinch.md) | Hunting | 22-28 | 10 |
+| [The Main Deck, Aft](../maps/saltgrace_deck_aft.md) | Dungeon | 22-24 | 11 |
+| [The Pinch Lock](../maps/pinch_lock.md) | Boss | 30 | 11 |
+| [The Rigging](../maps/saltgrace_rigging.md) | Dungeon | 21-22 | 11 |
+| [The Holds](../maps/saltgrace_holds.md) | Dungeon | 24-28 | 12 |
+| [The Salt Reach](../maps/salt_reach.md) | Hunting | 33-38 | 12 |
+| [The Galley](../maps/saltgrace_galley.md) | Dungeon | 24-26 | 13 |
+| [The Lower Deck](../maps/saltgrace_lower_deck.md) | Dungeon | 22-28 | 14 |
+| [The Sea Locks](../maps/sea_locks.md) | Hunting | 38-43 | 14 |
+| [The Bright Morrow, by Night](../maps/bright_morrow_deck.md) | Run | - | 15 |
+| [The Captain's Cabin](../maps/saltgrace_cabin.md) | Boss | 45 | 15 |
+| [The Gullet](../maps/the_gullet.md) | Hunting | 43-47 | 16 |
+| [The Gullet Gates](../maps/gullet_gates.md) | Boss | 50 | 17 |
+| [The Outer Pier by Night](../maps/outer_pier_night.md) | Run | - | 18 |
+| [The Timber Path](../maps/timber_path.md) | Hunting | 52 | 18 |
+| [Under the Outer Pier](../maps/under_the_pier.md) | Run | - | 18 |
+| [The Crossways](../maps/crossways.md) | Hunting | 57 | 19 |
+| [The Cliff Edge](../maps/cliff_edge.md) | Hunting | 62 | 20 |
+| [The Old Fellings](../maps/old_fellings.md) | Hunting | 66 | 21 |
+| [The Rim](../maps/the_rim.md) | Hunting | 57-66 | 22 |
+| [The Lantern Deep](../maps/lantern_deep.md) | Boss | 70 | 23 |
+
+Regional mastery, earned by making discoveries here:
+
+- **Harbour Eyes** (2 discoveries): 400 mesos
+- **Bain Born and Bred** (4 discoveries): 800 mesos, Skill: [Sea Legs](../skills/tutors.md#sea-legs)
+
 ### Kaldemor {#kaldemor}
 
 Lore: [Kaldemor](../lore/towns/kaldemor.md)
 
-| Map | Kind | Level |
-|---|---|---|
-| [Kaldemor](../maps/kaldemor.md) | Town | - |
-| [Kaldemor Market](../maps/kaldemor_market.md) | Town | - |
-| [Kaldemor Park](../maps/kaldemor_park.md) | Town | - |
-| [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1 |
-| [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 1 |
-| [Kaldemor Woods](../maps/kaldemor_woods.md) | Hunting | 2 |
-| [The Hanging Course](../maps/gauntlet_course.md) | Run | 3 |
-| [The Last Stand](../maps/gauntlet_holdout.md) | Run | 3 |
-| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Boss | 3 |
-| [The Training Yard](../maps/gauntlet_yard.md) | Run | 3 |
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Kaldemor](../maps/kaldemor.md) | Town | - | - |
+| [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1-4 | 1 |
+| [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 7-10 | 2 |
+| [The Hanging Course](../maps/gauntlet_course.md) | Run | - | 3 |
+| [The Last Stand](../maps/gauntlet_holdout.md) | Run | - | 3 |
+| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Boss | 15 | 3 |
+| [The Training Yard](../maps/gauntlet_yard.md) | Run | - | 3 |
+| [The Boarwood](../maps/boarwood.md) | Hunting | 21-22 | 4 |
+| [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 |
+| [The Last Stile](../maps/the_last_stile.md) | Hunting | - | 4 |
+| [The Deep Boarwood](../maps/boarwood_deep.md) | Hunting | 27 | 5 |
+| [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-12 | 6 |
+| [Stilebrook Farm](../maps/stilebrook_farm.md) | Boss | 30 | 6 |
+| [The Humming Trail](../maps/humming_trail.md) | Hunting | 31-33 | 6 |
+| [Windflower Glade](../maps/windflower_glade.md) | Hunting | 33-35 | 7 |
+| [The Bluecap Groves](../maps/bluecap_groves.md) | Hunting | 40 | 8 |
+| [The Bluecap Groves](../maps/bluecap_groves_deep.md) | Hunting | 40 | 8 |
+| [Breezy Hollow](../maps/breezy_hollow.md) | Hunting | 46 | 9 |
+| [The Bluecap Hollow](../maps/bluecap_hollow.md) | Boss | 50 | 10 |
+| [The Keep Road](../maps/keep_road.md) | Hunting | 53 | 10 |
+| [The Keep Road](../maps/keep_road_2.md) | Hunting | 53-55 | 11 |
+| [The Battlements](../maps/battlements_1.md) | Hunting | 55-57 | 12 |
+| [The Battlements](../maps/battlements_2.md) | Hunting | 55-61 | 12 |
+| [The Battlements](../maps/battlements_3.md) | Hunting | 57-61 | 12 |
+| [The Inner Ward](../maps/inner_ward_1.md) | Hunting | 61-66 | 13 |
+| [The Inner Ward](../maps/inner_ward_2.md) | Hunting | 61-66 | 13 |
+| [The Crown Tower](../maps/crown_tower.md) | Boss | 70 | 14 |
 
 Regional mastery, earned by making discoveries here:
 
@@ -30,12 +95,11 @@ Regional mastery, earned by making discoveries here:
 
 ### The Royal Road {#royal-road}
 
-| Map | Kind | Level |
-|---|---|---|
-| [Kaldemor Reach](../maps/royal_road_1.md) | Road | 3 |
-| [The Crossing](../maps/royal_road_2.md) | Road | 4 |
-| [Selsior Approach](../maps/royal_road_3.md) | Road | 5 |
-| [Greenwood Clearing](../maps/greenwood_clearing.md) | Hunting | 6 |
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 |
+| [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 |
+| [The Greenwood](../maps/the_greenwood.md) | Road | 10-12 | 6 |
 
 Regional mastery, earned by making discoveries here:
 
@@ -46,17 +110,227 @@ Regional mastery, earned by making discoveries here:
 
 Lore: [Selsior](../lore/towns/selsior.md)
 
-| Map | Kind | Level |
-|---|---|---|
-| [Crown Market](../maps/selsior_market.md) | Town | - |
-| [Knights' Court](../maps/selsior_court.md) | Town | - |
-| [Selsior](../maps/selsior.md) | Town | - |
-| [Selsior Gate](../maps/selsior_gate.md) | Town | - |
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Knights' Court](../maps/selsior_court.md) | Town | - | - |
+| [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - |
+| [Palace](../maps/selsior_palace.md) | Town | - | - |
+| [Prudence's Workshop](../maps/alchemists_workshop.md) | Town | - | - |
+| [Riverside](../maps/selsior_riverside.md) | Town | - | - |
+| [Royal Plaza](../maps/selsior.md) | Town | - | - |
+| [Scholars' Quarter](../maps/selsior_scholars.md) | Town | - | - |
+| [Selene's Forge](../maps/selenes_forge.md) | Town | - | - |
+| [Selsior Gate](../maps/selsior_gate.md) | Town | - | - |
+| [The Captain's Hall](../maps/knights_hall.md) | Town | - | - |
+| [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - |
+| [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - |
+| [The Gate Inn](../maps/gate_inn.md) | Town | - | - |
+| [The Royal Academy Library](../maps/academy_library.md) | Town | - | - |
+| [The Royal Vault](../maps/royal_vault.md) | Town | - | - |
+| [Theatre Row](../maps/selsior_theatre.md) | Town | - | - |
+| [The Delver's Burrow](../maps/delvers_burrow.md) | Boss | 30 | 0 |
+| [The First Cut](../maps/first_cut.md) | Boss | 70 | 0 |
+| [The Heron Pool](../maps/heron_pool.md) | Boss | 50 | 0 |
+| [The Hive Hollow](../maps/hive_hollow.md) | Boss | 30 | 0 |
+| [The Hedge Lanes](../maps/hedge_lanes.md) | Road | 7-9 | 3 |
+| [The Waystone Meadows](../maps/waystone_meadows.md) | Road | 11-15 | 4 |
+| [The Rootlands](../maps/rootlands.md) | Road | 10-21 | 5 |
+| [Downs Edge](../maps/downs_edge.md) | Hunting | 21-24 | 6 |
+| [The Thyme Banks](../maps/thyme_banks.md) | Hunting | 21-24 | 7 |
+| [The Chalk Hives](../maps/chalk_hives.md) | Hunting | 28 | 8 |
+| [The Quarry Landing](../maps/quarry_landing.md) | Road | - | 9 |
+| [The Old Drains](../maps/old_drains.md) | Dungeon | 22-24 | 10 |
+| [The Reed Beds](../maps/reed_beds.md) | Hunting | 32 | 10 |
+| [The Cisterns](../maps/cisterns.md) | Dungeon | 25-28 | 12 |
+| [The Long Reach Banks](../maps/reach_banks.md) | Hunting | 32-41 | 12 |
+| [The Buried Street](../maps/buried_street.md) | Dungeon | 26-28 | 14 |
+| [The Undercut](../maps/the_undercut.md) | Hunting | 46 | 14 |
+| [The Spoil Heaps](../maps/spoil_heaps.md) | Hunting | 53 | 16 |
+| [The Terraced Cuts](../maps/terraced_cuts.md) | Hunting | 58 | 18 |
+| [The Deep Cut](../maps/deep_cut.md) | Hunting | 63-67 | 20 |
 
 Regional mastery, earned by making discoveries here:
 
 - **Capital Eyes** (1 discoveries): 300 mesos
 - **Selsior Insider** (2 discoveries): Skill: [Capital Eyes](../skills/passives.md#capital-eyes)
+
+### Fairy Forest {#fairy-forest}
+
+Lore: [Fairy Forest](../lore/towns/fairy-forest.md)
+
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Children's Glade](../maps/childrens_glade.md) | Town | - | 0 |
+| [Fairy Forest](../maps/fairy_forest.md) | Town | - | 0 |
+| [Galen's Staves and Scrolls](../maps/galens_shop.md) | Town | - | 0 |
+| [Grove School](../maps/grove_school.md) | Town | - | 0 |
+| [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Town | - | 0 |
+| [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Town | - | 0 |
+| [The Old Records](../maps/old_records.md) | Town | - | 0 |
+| [The Forest's Hem](../maps/forests_hem.md) | Road | 9-11 | 3 |
+| [The Glimmer Path](../maps/glimmer_path.md) | Road | 9-12 | 4 |
+| [The Bloomwood](../maps/bloomwood.md) | Road | 11-13 | 5 |
+| [The Bloomwood, South](../maps/bloomwood_south.md) | Road | 13-17 | 6 |
+| [Shimmerwater, the First Path](../maps/shimmerwater_path_1.md) | Hunting | 19 | 8 |
+| [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) | Hunting | 19-22 | 9 |
+| [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) | Hunting | 25-27 | 10 |
+| [The Lakehead](../maps/lakehead.md) | Boss | 30 | 11 |
+| [The High Shore](../maps/high_shore_1.md) | Hunting | 31 | 12 |
+| [The High Shore, Upper Banks](../maps/high_shore_2.md) | Hunting | 31-34 | 13 |
+| [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) | Hunting | 34-37 | 14 |
+| [The Hushed Grove](../maps/hushed_grove.md) | Dungeon | 20-24 | 15 |
+| [The Shadowed Grove](../maps/shadowed_grove.md) | Dungeon | 22-26 | 15 |
+| [The Stilled Grove](../maps/stilled_grove.md) | Dungeon | 22-26 | 15 |
+| [The Hollow Oak, Boughs](../maps/hollow_oak_boughs.md) | Hunting | 41 | 16 |
+| [The Old Reading Room](../maps/old_reading_room.md) | Boss | 30 | 16 |
+| [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) | Hunting | 44-47 | 18 |
+| [The Torn Crown](../maps/torn_crown.md) | Boss | 50 | 20 |
+| [The Deepening, I](../maps/deepening_1.md) | Hunting | 51 | 22 |
+| [The Deepening, II](../maps/deepening_2.md) | Hunting | 51-55 | 23 |
+| [The Deepening, III](../maps/deepening_3.md) | Hunting | 55-58 | 24 |
+| [The Deepening, IV](../maps/deepening_4.md) | Hunting | 58-60 | 25 |
+| [The Deepening, V](../maps/deepening_5.md) | Hunting | 62 | 26 |
+| [The Twilit Wood, I](../maps/twilit_wood_1.md) | Hunting | 64 | 27 |
+| [The Twilit Wood, II](../maps/twilit_wood_2.md) | Hunting | 64-66 | 28 |
+| [The Twilit Wood, III](../maps/twilit_wood_3.md) | Hunting | 66-68 | 29 |
+| [The Hidden Spring](../maps/hidden_spring.md) | Boss | 70 | 30 |
+
+Regional mastery, earned by making discoveries here:
+
+- **Lantern-Lit** (2 discoveries): 1,500 mesos
+- **Forest Listener** (4 discoveries): 6,000 mesos
+
+### Goa Harbour {#goa-harbour}
+
+Lore: [Goa Harbour](../lore/towns/goa-harbour.md)
+
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Goa Harbour](../maps/goa_harbour.md) | Town | - | - |
+| [Gull Heath](../maps/gull_heath.md) | Town | - | - |
+| [Gunna's Workshop](../maps/gunnas_workshop.md) | Town | - | - |
+| [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | Town | - | - |
+| [The Gap Inn](../maps/gap_inn.md) | Town | - | - |
+| [The Wardens' House](../maps/wardens_house.md) | Town | - | - |
+| [Below the Anvil, at Night](../maps/anvil_night.md) | Run | - | - |
+| [Brushtail's Earth](../maps/brushtails_earth.md) | Boss | 30 | - |
+| [Caddoc's Trap, at Night](../maps/caddocs_trap_night.md) | Run | - | - |
+| [The Gapclaw's Hollow](../maps/gapclaws_hollow.md) | Boss | 50 | - |
+| [The Inkmother's Pool](../maps/inkmothers_pool.md) | Boss | 40 | - |
+| [The Scour](../maps/the_scour.md) | Boss | 70 | - |
+| [Gorse Downs](../maps/gorse_downs.md) | Road | 11-16 | 4 |
+| [Saltwood Road](../maps/saltwood_road.md) | Road | 17-18 | 5 |
+| [Seaward Woods](../maps/seaward_woods.md) | Road | 17-18 | 5 |
+| [Dusk Ford](../maps/dusk_ford.md) | Road | 19-20 | 6 |
+| [The Gullwalk](../maps/gullwalk.md) | Road | 17-19 | 6 |
+| [Strandwood Edge](../maps/strandwood_edge.md) | Hunting | 22-24 | 7 |
+| [Strandwood Rocks](../maps/strandwood_rocks.md) | Hunting | 24-27 | 8 |
+| [The Mouths](../maps/sounding_mouths.md) | Dungeon | 20 | 8 |
+| [Gwenna's Drop](../maps/gwennas_drop.md) | Dungeon | 20 | 10 |
+| [The Saltface](../maps/saltface.md) | Hunting | 32-38 | 10 |
+| [The Undercliff](../maps/undercliff.md) | Hunting | 32-42 | 11 |
+| [The Long Echo](../maps/long_echo.md) | Dungeon | 20 | 12 |
+| [The Wrack Ledges](../maps/wrack_ledges.md) | Hunting | 38-46 | 12 |
+| [The Forest Jaw](../maps/forest_jaw.md) | Hunting | 52-56 | 14 |
+| [The Still Pool](../maps/still_pool.md) | Dungeon | 20 | 14 |
+| [The Greystrand](../maps/drowned_strand.md) | Hunting | 52-61 | 15 |
+| [The Skerries](../maps/skerries.md) | Hunting | 61-66 | 16 |
+
+Regional mastery, earned by making discoveries here:
+
+- **Coast Sense** (1 discoveries): 600 mesos
+- **Gapwise** (3 discoveries): 1,500 mesos
+
+### Midbarium {#midbarium}
+
+Lore: [Midbarium](../lore/towns/midbarium.md)
+
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Midbarium](../maps/midbarium.md) | Town | - | - |
+| [The Great Hall](../maps/great_hall.md) | Town | - | - |
+| [The Old War Camp](../maps/old_war_camp.md) | Town | - | - |
+| [The Trading Post](../maps/trading_post.md) | Town | - | - |
+| [Zirra's Workshop](../maps/zirras_workshop.md) | Town | - | - |
+| [The Canyon Road](../maps/canyon_road.md) | Road | 15 | 5 |
+| [The North Ridge](../maps/north_ridge.md) | Road | 17 | 6 |
+| [The South Path](../maps/south_path.md) | Road | 15-17 | 6 |
+| [The Edgewood](../maps/edgewood.md) | Road | 18 | 7 |
+| [The Young Woods](../maps/young_woods.md) | Road | 19 | 7 |
+| [Windworn Hill](../maps/windworn_hill.md) | Hunting | 22 | 8 |
+| [The Long Ridge](../maps/long_ridge.md) | Hunting | 21-22 | 9 |
+| [The Broken Ground](../maps/broken_ground.md) | Hunting | 26-28 | 10 |
+| [The Dustfall Mouth](../maps/dustfall_mouth.md) | Dungeon | 22 | 10 |
+| [The Cliff Gallery](../maps/cliff_gallery.md) | Dungeon | 22-24 | 11 |
+| [Howling Peak](../maps/howling_peak.md) | Boss | 30 | 12 |
+| [The Cold Draught](../maps/cold_draught.md) | Dungeon | 24-26 | 12 |
+| [The Chill Caves](../maps/chill_caves.md) | Dungeon | 26 | 13 |
+| [The Far Anchor](../maps/far_anchor.md) | Hunting | 32-34 | 13 |
+| [The Boar Runs](../maps/boar_runs.md) | Hunting | 34-38 | 14 |
+| [The Far Anchor at Night](../maps/far_anchor_night.md) | Run | - | 14 |
+| [The Sunken Pool](../maps/sunken_pool.md) | Boss | 26 | 14 |
+| [The Ironback Flats](../maps/ironback_flats.md) | Hunting | 38-42 | 15 |
+| [The Hot Rocks](../maps/hot_rocks.md) | Hunting | 42-46 | 16 |
+| [The Ash Mesa](../maps/ash_mesa.md) | Boss | 50 | 18 |
+| [The Dry Hills](../maps/dry_hills.md) | Hunting | 52 | 20 |
+| [The Grey Road](../maps/grey_road.md) | Hunting | 52-55 | 21 |
+| [The Lonely Rocks](../maps/lonely_rocks.md) | Hunting | 55-57 | 22 |
+| [The Weathered Rocks](../maps/weathered_rocks.md) | Hunting | 52-57 | 23 |
+| [The War Camp Ruins](../maps/war_camp_ruins.md) | Hunting | 60-62 | 24 |
+| [The Deserted Ridge](../maps/deserted_ridge.md) | Hunting | 65 | 25 |
+| [The Red Ravine](../maps/red_ravine.md) | Hunting | 65-67 | 27 |
+| [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Boss | 70 | 30 |
+
+Regional mastery, earned by making discoveries here:
+
+- **Highland Feet** (2 discoveries): 1,000 mesos
+- **Friend of the Four Families** (4 discoveries): Skill: [Highland Lungs](../skills/passives.md#highland-lungs)
+
+### Urbanograd {#urbanograd}
+
+Lore: [Urbanograd](../lore/towns/urbanograd.md)
+
+| Map | Kind | Levels | Difficulty |
+|---|---|---|---|
+| [Cobble's Shop](../maps/urbanograd_bootmaker.md) | Town | - | - |
+| [Dyna's Shop](../maps/urbanograd_tailor.md) | Town | - | - |
+| [Ferro's Forge](../maps/urbanograd_forge.md) | Town | - | - |
+| [Margo's Workshop](../maps/urbanograd_workshop.md) | Town | - | - |
+| [Patch's Herb House](../maps/urbanograd_herb_house.md) | Town | - | - |
+| [The Great Hall](../maps/urbanograd_great_hall.md) | Town | - | - |
+| [The Night Market](../maps/urbanograd_night_market.md) | Town | - | - |
+| [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Town | - | - |
+| [Urbanograd](../maps/urbanograd.md) | Town | - | - |
+| [The Halfway Stone](../maps/halfway_stone.md) | Road | 14-15 | 3 |
+| [Gate Meadows](../maps/gate_meadows.md) | Road | 16-17 | 4 |
+| [Seepwater Foothills](../maps/seepwater_foothills.md) | Road | 17-18 | 4 |
+| [Western Descent](../maps/western_descent.md) | Road | 17-21 | 5 |
+| [The Outworks: Outer Ditch](../maps/outworks_ditch.md) | Hunting | 22-25 | 6 |
+| [The Outworks: Tower Cellars](../maps/outworks_cellars.md) | Hunting | 22 | 7 |
+| [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) | Hunting | 22-28 | 8 |
+| [The Fallen Tower](../maps/fallen_tower.md) | Boss | 30 | 9 |
+| [Bristlewood Edge](../maps/bristlewood_edge.md) | Hunting | 33-37 | 10 |
+| [Low Grad: the Undercroft](../maps/lowgrad_undercroft.md) | Dungeon | 45 | 10 |
+| [The Silent Cutting](../maps/silent_cutting.md) | Hunting | 37 | 11 |
+| [Hatch's Camp](../maps/hatchs_camp.md) | Road | - | 12 |
+| [Low Grad: the Floodwells](../maps/lowgrad_floodwells.md) | Dungeon | 45 | 12 |
+| [The Tusk Path](../maps/tusk_path.md) | Hunting | 33-42 | 12 |
+| [The Reedwater Bottoms](../maps/reedwater_bottoms.md) | Hunting | 42-47 | 13 |
+| [Low Grad: the Deep Roads](../maps/lowgrad_deep_roads.md) | Dungeon | 45 | 14 |
+| [Reedwater Bottoms: Zip's Bank](../maps/reedwater_deep.md) | Hunting | 47 | 14 |
+| [The Wallow](../maps/the_wallow.md) | Boss | 50 | 15 |
+| [Low Grad: the Warm Quarry](../maps/lowgrad_warm_quarry.md) | Dungeon | 45 | 16 |
+| [Lower Downs](../maps/lower_downs.md) | Hunting | 54 | 16 |
+| [Beacon Line](../maps/beacon_line.md) | Hunting | 54-59 | 17 |
+| [Ram Hills](../maps/ram_hills.md) | Hunting | 59-64 | 18 |
+| [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Boss | 45 | 18 |
+| [The Crest](../maps/the_crest.md) | Hunting | 54-64 | 19 |
+| [The Highbeacon](../maps/highbeacon.md) | Boss | 70 | 20 |
+
+Regional mastery, earned by making discoveries here:
+
+- **Street Sense** (2 discoveries): 600 mesos
+- **Old Grad Native** (4 discoveries): 1,500 mesos
 
 ## Taxis
 
@@ -64,5 +338,9 @@ A taxi ride between towns costs 150 mesos.
 
 | Town | Driver | Stand |
 |---|---|---|
+| Bain Harbour | `harbour_cabman` | [Bain Harbour](../maps/bain_harbour.md) |
 | Kaldemor | [Pell](../npcs/pell.md) | [Kaldemor](../maps/kaldemor.md) |
+| Fairy Forest | [Forest Cab](../npcs/fairy_forest_cab.md) | [Fairy Forest](../maps/fairy_forest.md) |
 | Selsior | [Tilda](../npcs/tilda.md) | [Selsior Gate](../maps/selsior_gate.md) |
+| Midbarium | [Ennek](../npcs/ennek_tolmach.md) | [Midbarium](../maps/midbarium.md) |
+| Urbanograd | [Gate Walk Carter](../npcs/urbanograd_carter.md) | [Urbanograd](../maps/urbanograd.md) |

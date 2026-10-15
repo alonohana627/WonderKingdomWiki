@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Dickon](../../../npcs/dickon.md) |
 
 ## Personality
 

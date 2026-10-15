@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Service |
 | Age | Adult |
+| In the game | [Dunmor](../../../npcs/dunmor_lamplighter.md) |
 
 ## Personality
 

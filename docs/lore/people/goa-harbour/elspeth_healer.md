@@ -11,6 +11,7 @@
 | Role | Healer |
 | Age | Elder |
 | Sells | Sea-herb salves, poultices and tonics |
+| In the game | [Elspeth](../../../npcs/elspeth_healer.md) |
 
 ## Personality
 

@@ -6,27 +6,33 @@
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Hunting |
-| Level | 1 |
+| Levels | 1-4 |
+| Difficulty | 1 |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
 
 ## Exits
 
 - [Kaldemor](../maps/kaldemor.md)
+- [Kaldemor](../maps/kaldemor.md)
+- [The Cider Lanes](../maps/cider_lanes.md)
+- [The Forest's Hem](../maps/forests_hem.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Snail](../monsters/snail.md) | 1 | 9 |
-| [Blue Snail](../monsters/blue_snail.md) | 2 | 6 |
-| [Red Snail](../monsters/red_snail.md) | 4 | 7 |
+| [Shroom](../monsters/shroom.md) | 2 | 3 |
+| [Red Snail](../monsters/red_snail.md) | 4 | 4 |
+| [Blue Snail](../monsters/blue_snail.md) | 2 | 9 |
+| [Snail](../monsters/snail.md) | 1 | 12 |
 
 ## Gathering
 
 | Node | Profession | Gives | Number |
 |---|---|---|---|
-| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 5 |
-| Marjoram Patch | [Herbalism](../professions/herbalism.md) | [Marjoram Flower](../items/marjoram_flower.md) | 3 |
-| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 2 |
-| Hay Bale | [Gathering](../professions/gathering.md) | [Plant Fibre](../items/plant_fibre.md) | 2 |
-| Fallen Log | [Gathering](../professions/gathering.md) | [Tree Branch](../items/tree_branch.md) | 2 |
+| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 2 |
+| Marjoram Patch | [Herbalism](../professions/herbalism.md) | [Marjoram Flower](../items/marjoram_flower.md) | 1 |
+| Hay Bale | [Gathering](../professions/gathering.md) | [Plant Fibre](../items/plant_fibre.md) | 1 |
+| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 1 |
+| Fallen Log | [Gathering](../professions/gathering.md) | [Tree Branch](../items/tree_branch.md) | 1 |

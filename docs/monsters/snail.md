@@ -5,10 +5,10 @@
 |  |  |
 |---|---|
 | Level | 1 |
-| HP | 15 |
-| EXP | 3 |
+| HP | 40 |
+| EXP | 1 |
 | Touch damage | 8 |
-| Defense / Magic Defense | 0 / 0 |
+| Defense / Magic Defense | 6 / 6 |
 | Aggressive | No |
 
 ## Where to find
@@ -28,5 +28,5 @@
 
 ## Quests
 
-- [Snail Trouble](../quests/snail_trouble.md)
 - [Hale's Bounty](../quests/hales_bounty.md)
+- [Snail Trouble](../quests/snail_trouble.md)

@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Council |
 | Age | Adult |
+| In the game | [Leofric](../../../npcs/leofric.md) |
 
 ## Personality
 

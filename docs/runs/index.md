@@ -6,4 +6,10 @@ Runs are staged challenges entered through an NPC.
 
 | Run | Stages |
 |---|---|
+| [The Bright Morrow's Night Run](../runs/the_night_run.md) | 1 |
+| [The Outer Pier by Night](../runs/the_outer_pier_watch.md) | 1 |
+| [Under the Outer Pier](../runs/under_the_pier.md) | 1 |
+| [Caddoc's Night Trap](../runs/caddocs_night.md) | 1 |
+| [Below the Anvil](../runs/gorms_night_work.md) | 1 |
 | [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) | 3 |
+| [The Night Watch](../runs/far_bridge_watch.md) | 1 |

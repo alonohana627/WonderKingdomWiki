@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Pendant |
 | Required level | 20 |
-| Stats | Defense +4, Magic Defense +4 |
+| Stats | Defense +2, Magic Defense +2 |
 | Sells for | 350 mesos |
 
 ## How to get
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.06%)
+- Dropped by [Rooting Piglet](../monsters/rooting_piglet.md) (0.06%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 700 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 700 mesos

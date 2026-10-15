@@ -2,10 +2,11 @@
 
 # A Head for Heights
 
-*Garrick the climber will teach Rope Up to anyone who can reach the lookout on the high ledge of Kaldemor Hills by the vine on its west side.*
+*Garrick the climber will teach Rope Up to anyone who can reach the top of Kaldemor Hills.*
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Garrick](../npcs/garrick.md) |
 | Level | 3 |
@@ -13,7 +14,7 @@
 
 ## Objectives
 
-- Reach the hills' lookout in [Kaldemor Hills](../maps/kaldemor_hills.md)
+- Reach the top of the hills in [Kaldemor Hills](../maps/kaldemor_hills.md)
 
 ## Rewards
 
@@ -24,9 +25,9 @@
 ??? quote "Dialogue"
 
     - You climbed my ladder to get up here, so you have the hands for it. I have a trick that spares you the climb: **Rope Up**, a leap that throws you onto the rope or ledge above.
-    - But I teach only those who have seen the world from above. Climb the long vine on the **west side of Kaldemor Hills**, as far as the **lookout** on its high ledge, then come back to me.
-    - The hills are west of the town square. The vine is long, and the grass up there is soft if you slip.
+    - But I teach only those who have seen the world from above. Climb to the **very top of Kaldemor Hills**, west of the town, then come back to me.
+    - The hills are west of the town square. It is a long climb, and the grass up there is soft if you slip.
     - Heights are not for everyone. The offer stands.
-    - The lookout is at the top of the long vine on the west side of Kaldemor Hills, *Player*. Climb up, look around, then come back.
+    - The top of Kaldemor Hills is west of the town, *Player*. Climb up, look around, then come back.
     - Ha! You have the look of someone who has seen the clouds up close. Right: bend your knees, look up, and let go.
     - That is **Rope Up**. Open the skills window with **K**, find it on the **Beginner** tab and drag it onto a key; **Page Down** is its key until you move it. It throws you up to the nearest rope or ledge above, so mind the ceilings.

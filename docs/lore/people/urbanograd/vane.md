@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Vane](../../../npcs/vane.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Worker |
 | Age | Young |
+| In the game | [Kor](../../../npcs/warden_kor.md) |
 
 ## Personality
 

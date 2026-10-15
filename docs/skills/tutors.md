@@ -2,6 +2,80 @@
 
 # Taught Skills
 
+## Courier's Stride {#couriers-stride}
+
+*A royal courier's burst of running speed, taught by Perrin: for a few breaths you run faster than any boots allow, then it needs a moment.*
+
+|  |  |
+|---|---|
+| Kind | Buff |
+| Max level | 1 |
+| Cooldown | 20 s |
+| Gained from | Quest: [Courier's Stride](../quests/perrin_couriers_stride.md) |
+
+| Level | MP | Duration (s) |
+|---|---|---|
+| 1 | 8 | 6 |
+
+Formulas (x is the skill level, division rounds down): MP = `8`, Duration (s) = `6000`
+
+## Rooftop Dash {#rooftop-dash}
+
+*Kite's rooftop trick: a low, fast burst along the ground that stops at the edge, the way the runners cross a roof before the next gap.*
+
+|  |  |
+|---|---|
+| Kind | Rush |
+| Max level | 1 |
+| Cooldown | 2.5 s |
+| Gained from | Quest: [Rooftop Dash](../quests/kite_rooftop_dash.md) |
+
+| Level | MP |
+|---|---|
+| 1 | 8 |
+
+Formulas (x is the skill level, division rounds down): MP = `8`
+
+## Sure Footing {#sure-footing}
+
+*Ennek's lesson on the canyon ledges: plant your feet and lean into the rock. A hit throws you back far less, and never off a rope or ladder.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Quest: [Sure Footing](../quests/ennek_sure_footing.md) |
+
+
+## Sea Legs {#sea-legs}
+
+*Garrow's dockhands' trick: keep your footing on anything that moves, and be up again before a second blow lands.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Bain Harbour mastery: Bain Born and Bred (4 discoveries) |
+| Gained from | Quest: [Sea Legs](../quests/garrow_sea_legs.md) |
+
+
+## Blink {#blink}
+
+*Step forward in the blink of an eye, the way you face: the Grove School teaches it to anyone patient enough to sit through a listening lesson. It never passes a wall.*
+
+|  |  |
+|---|---|
+| Kind | Blink |
+| Max level | 1 |
+| Cooldown | 0.9 s |
+| Gained from | Quest: [Still Enough](../quests/sorrel_still_enough.md) |
+
+| Level | MP |
+|---|---|
+| 1 | 12 |
+
+Formulas (x is the skill level, division rounds down): MP = `12`
+
 ## Rope Up {#rope-up}
 
 *Throw yourself up onto the rope, ladder or ledge above.*
@@ -18,3 +92,20 @@
 | 1 | 10 |
 
 Formulas (x is the skill level, division rounds down): MP = `10`
+
+## Rope Slide {#rope-slide}
+
+*On a rope or ladder: let go of everything but the rope and slide down it fast, off its end.*
+
+|  |  |
+|---|---|
+| Kind | Slide |
+| Max level | 1 |
+| Cooldown | 0.5 s |
+| Gained from | Quest: [Lashings](../quests/kestra_rope_slide.md) |
+
+| Level | MP |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): MP = `5`

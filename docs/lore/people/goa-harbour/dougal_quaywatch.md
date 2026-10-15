@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Guard |
 | Age | Elder |
+| In the game | [Dougal](../../../npcs/dougal_quaywatch.md) |
 
 ## Personality
 

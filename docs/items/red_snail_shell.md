@@ -12,13 +12,14 @@
 ## How to get
 
 - Dropped by [Red Snail](../monsters/red_snail.md) (50%)
+- Dropped by [Orchard Snail](../monsters/orchard_snail.md) (50%)
 
 ## Used for
 
 - [Eyedrop](../items/eyedrop.md) ([Alchemy](../professions/alchemy.md), x1)
-- [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Topwear for DEF](../items/scroll_topwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Bottomwear for DEF 100%](../items/scroll_bottomwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
 - [Red Cloth](../items/red_cloth.md) ([Tailoring](../professions/tailoring.md), x1)

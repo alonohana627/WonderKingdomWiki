@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Guard |
 | Age | Young |
+| In the game | [Dagny 'Two-Lamps' Roe](../../../npcs/dagny_roe.md) |
 
 ## Personality
 

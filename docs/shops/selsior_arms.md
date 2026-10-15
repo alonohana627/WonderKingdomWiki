@@ -21,3 +21,23 @@ Run by [Selene](../npcs/selene.md).
 | [Scimitar](../items/scimitar.md) | 7,900 mesos |
 | [Blue Axe](../items/blue_axe.md) | 3,300 mesos |
 | [Forked Spear](../items/forked_spear.md) | 3,300 mesos |
+| [Blue Counter](../items/blue_counter.md) | 9,100 mesos |
+| [Sabretooth](../items/sabretooth.md) | 12,000 mesos |
+| [Traus](../items/traus.md) | 11,000 mesos |
+| [Zard](../items/zard.md) | 21,000 mesos |
+| [Zeco](../items/zeco.md) | 11,000 mesos |
+| [Buck](../items/buck.md) | 16,000 mesos |
+| [Jeweled Katar](../items/jeweled_katar.md) | 14,000 mesos |
+| [Lion's Fang](../items/lions_fang.md) | 23,000 mesos |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 17,000 mesos |
+| [The Rising](../items/the_rising.md) | 16,000 mesos |
+| [Hawkhead](../items/hawkhead.md) | 22,000 mesos |
+| [Holy Spear](../items/holy_spear.md) | 22,000 mesos |
+| [Neocora](../items/neocora.md) | 17,000 mesos |
+| [Sparta](../items/sparta.md) | 26,000 mesos |
+| [The Shining](../items/the_shining.md) | 22,000 mesos |
+| [Chrono](../items/chrono.md) | 28,000 mesos |
+| [Doombringer](../items/doombringer.md) | 29,000 mesos |
+| [Mikhail](../items/mikhail.md) | 33,000 mesos |
+| [Red Katana](../items/red_katana.md) | 28,000 mesos |
+| [Redemption](../items/redemption.md) | 28,000 mesos |

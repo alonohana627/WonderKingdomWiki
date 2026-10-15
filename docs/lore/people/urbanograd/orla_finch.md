@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Dina Finch](../../../npcs/orla_finch.md) |
 
 ## Personality
 

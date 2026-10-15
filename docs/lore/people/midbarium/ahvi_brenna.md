@@ -11,6 +11,7 @@
 | Role | Scholar |
 | Age | Elder |
 | Family | Brenna |
+| In the game | [Ahvi](../../../npcs/ahvi_brenna.md) |
 
 ## Personality
 

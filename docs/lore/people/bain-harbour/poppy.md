@@ -10,6 +10,7 @@
 | Where | Merchant Street |
 | Role | Child |
 | Age | Child |
+| In the game | [Poppy](../../../npcs/poppy.md) |
 
 ## Personality
 

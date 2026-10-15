@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Scholar |
 | Age | Young |
+| In the game | [Aurel](../../../npcs/aurel_teacher.md) |
 
 ## Personality
 

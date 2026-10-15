@@ -16,3 +16,5 @@
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.02%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.05%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,800 mesos

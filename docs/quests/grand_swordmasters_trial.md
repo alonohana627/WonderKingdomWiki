@@ -6,6 +6,7 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior_quests.md) |
 | Category | Story |
 | Given by | [Rhys](../npcs/rhys.md) |
 | Level | 120 |

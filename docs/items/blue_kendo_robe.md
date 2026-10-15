@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Overall |
 | Required level | 20 |
-| Stats | Defense +72 |
+| Stats | Defense +38 |
 | Upgrade slots | 11 |
 | Sells for | 750 mesos |
 
@@ -17,4 +17,11 @@
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.1%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.08%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.1%)
+- Dropped by [Ditch Rat](../monsters/ditch_rat.md) (0.06%)
+- Dropped by [Gloomeye](../monsters/gloomeye.md) (0.06%)
+- Dropped by [Lampbat](../monsters/lampbat.md) (0.06%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 1,500 mesos
+- Sold at [Galen's Staves and Scrolls](../shops/galens_shop.md) for 1,500 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,500 mesos
+- Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 1,500 mesos

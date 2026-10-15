@@ -6,11 +6,13 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Story |
 | Given by | [Hale](../npcs/hale.md) |
 | Completed with | [Tobin](../npcs/tobin.md) |
 | Level | 2 |
 | After | [Snail Trouble](../quests/snail_trouble.md) |
+| Leads to | [Strength of a Warrior](../quests/strength_of_a_warrior.md), [The Clock Stopped](../quests/the_clock_stopped.md), [Hale's Bounty](../quests/hales_bounty.md), [A Smith's First Bar](../quests/a_smiths_first_bar.md), [A Sharper Sword](../quests/a_sharper_sword.md), [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md), [The Snail King](../quests/the_snail_king.md) |
 
 ## Objectives
 

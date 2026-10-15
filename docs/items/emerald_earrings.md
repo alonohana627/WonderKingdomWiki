@@ -10,9 +10,15 @@
 | Rarity | Uncommon |
 | Slot | Earring |
 | Required level | 30 |
-| Stats | Max HP +40, Max MP +20, Magic Defense +10 |
+| Stats | Max HP +40, Max MP +20, Magic Defense +4 |
 | Sells for | 800 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.03%)
+- Dropped by [Bootcrab](../monsters/bootcrab.md) (0.06%)
+- Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.06%)
+- Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.06%)
+- Dropped by [Snapjaw](../monsters/snapjaw.md) (0.06%)
+- Dropped by [Horny Mushroom](../monsters/deepwood_horny.md) (0.05%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,600 mesos

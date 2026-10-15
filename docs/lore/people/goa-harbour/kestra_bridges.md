@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Kestra](../../../npcs/kestra_bridges.md) |
 
 ## Personality
 

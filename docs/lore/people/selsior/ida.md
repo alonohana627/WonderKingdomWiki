@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Ida](../../../npcs/ida.md) |
 
 ## Personality
 

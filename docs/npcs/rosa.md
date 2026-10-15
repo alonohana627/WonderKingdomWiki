@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Rosa in the lore](../lore/people/kaldemor/rosa.md) |
 | Services | Quests |
 
 > Fresh bread, *Player*! Mind the steam.
@@ -19,9 +21,10 @@
 
 ## Quests
 
-- [Rosa's Recipe](../quests/rosas_recipe.md) (gives)
 - [A Loaf for Bram](../quests/a_loaf_for_bram.md) (gives)
 - [A Pot for Rosa](../quests/a_pot_for_rosa.md) (gives)
+- [Rosa's Recipe](../quests/rosas_recipe.md) (gives)
+- [Rosa's Standing Order](../quests/rosas_standing_order.md) (gives)
 
 ??? quote "Dialogue"
 

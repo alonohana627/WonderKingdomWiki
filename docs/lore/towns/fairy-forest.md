@@ -96,6 +96,9 @@ The wing never stays quiet for long. Corisande lets anyone with the nerve back i
 !!! tip "People"
     Everyone who lives here in the first release: [People of Fairy Forest](../people/fairy-forest/index.md).
 
+!!! info "In the game"
+    Fairy Forest is in the game. Its [town guide](../../towns/fairy_forest.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/fairy_forest_quests.md) are laid out line by line.
+
 !!! abstract "Design notes"
     The atmosphere is inspired by MapleStory's Ellinia. New with this page: magic gathering in the forest through the World Tree's roots, homes grown from living trees, and the Magicians designing the seal. The nature, appearance, abilities and origins of the Children of the Tree are still to be decided.
 

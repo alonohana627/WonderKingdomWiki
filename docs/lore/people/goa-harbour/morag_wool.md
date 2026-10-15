@@ -9,6 +9,7 @@
 | Town | [Goa Harbour](../../towns/goa-harbour.md) |
 | Where | Lantern Market |
 | Sells | Highland wool, knitted jumpers, blankets and sea-mittens |
+| In the game | [Morag](../../../npcs/morag_wool.md) |
 
 ## Relationships
 

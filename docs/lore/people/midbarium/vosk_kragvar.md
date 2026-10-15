@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Elder |
 | Family | Kragvar |
+| In the game | [Vosk](../../../npcs/vosk_kragvar.md) |
 
 ## Personality
 

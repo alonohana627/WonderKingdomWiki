@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Performer |
 | Age | Young |
+| In the game | [Prism](../../../npcs/prism.md) |
 
 ## Personality
 

@@ -12,9 +12,13 @@
 
 ## How to get
 
+- Sold at [Merriwether's Chandlery](../shops/bain_chandler.md) for 80 mesos
 - Sold at [Marta's General Store](../shops/grocer.md) for 80 mesos
+- Sold at [The Trading Post](../shops/midbarium_trading_post.md) for 80 mesos
+- Sold at [Prudence's Reagents](../shops/prudence_reagents.md) for 80 mesos
 - Sold at [Dame Orsa's General Store](../shops/selsior_general.md) for 80 mesos
 - Sold at [Mirel's Potions](../shops/selsior_potions.md) for 80 mesos
+- Sold at [Crow's Tonics](../shops/urbanograd_crow.md) for 80 mesos
 - Made with [Alchemy](../professions/alchemy.md) (level 10)
 
 ## Used for

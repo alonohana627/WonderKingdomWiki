@@ -6,9 +6,11 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Rosa](../npcs/rosa.md) |
 | Level | 3 |
+| Leads to | [A Loaf for Bram](../quests/a_loaf_for_bram.md), [A Pot for Rosa](../quests/a_pot_for_rosa.md), [Rosa's Standing Order](../quests/rosas_standing_order.md) |
 
 ## Objectives
 

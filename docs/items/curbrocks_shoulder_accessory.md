@@ -10,9 +10,11 @@
 | Rarity | Uncommon |
 | Slot | Shoulder |
 | Required level | 30 |
-| Stats | STR +1, DEX +1, INT +1, LUK +1, Defense +16 |
+| Stats | STR +1, DEX +1, INT +1, LUK +1, Defense +6 |
 | Sells for | 900 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.02%)
+- Dropped by [Paleveil Cap](../monsters/paleveil_cap.md) (0.04%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,800 mesos

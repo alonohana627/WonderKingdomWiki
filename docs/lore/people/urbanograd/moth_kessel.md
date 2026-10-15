@@ -10,6 +10,7 @@
 | Where | Night Market |
 | Role | Official |
 | Age | Adult |
+| In the game | [Moth](../../../npcs/moth_kessel.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Performer |
 | Age | Young |
+| In the game | [Lambert](../../../npcs/lambert.md) |
 
 ## Personality
 

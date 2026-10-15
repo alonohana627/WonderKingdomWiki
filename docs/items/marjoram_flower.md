@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 6 mesos
 - Gathered from Marjoram Patch ([Herbalism](../professions/herbalism.md) level 1)
 
 ## Used for

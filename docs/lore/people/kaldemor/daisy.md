@@ -10,6 +10,7 @@
 | Where | Workshops |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Daisy](../../../npcs/daisy.md) |
 
 ## Personality
 

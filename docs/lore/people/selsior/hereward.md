@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Flour, meal and bran |
+| In the game | [Hereward](../../../npcs/hereward.md) |
 
 ## Personality
 

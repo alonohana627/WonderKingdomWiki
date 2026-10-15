@@ -11,21 +11,22 @@
 
 ## How to get
 
+- Sold at [Prudence's Reagents](../shops/prudence_reagents.md) for 10 mesos
 - Made with [Scrollcrafting](../professions/scrollcrafting.md) (level 1)
 
 ## Used for
 
-- [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for One-Handed Axe for ATT 100%](../items/scroll_one_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for One-Handed Axe for ATT 60%](../items/scroll_one_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
 - [Town Return Scroll](../items/town_return_scroll.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Topwear for DEF](../items/scroll_topwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Two-handed Axe for ATT 100%](../items/scroll_two_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Bottomwear for DEF 100%](../items/scroll_bottomwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Spear for ATT 100%](../items/scroll_spear_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Shoes for Jump 100%](../items/scroll_shoes_jump.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Two-handed Axe for ATT 60%](../items/scroll_two_handed_axe_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)

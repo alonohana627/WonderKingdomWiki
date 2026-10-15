@@ -10,7 +10,7 @@
 | Attack type | Physical |
 | HP per level | 24 |
 | MP per level | 6 |
-| Skill points per level | 3 (from level 2) |
+| Skill points per level | 2.3 (from level 2) |
 | Weapons | One-Handed Sword, One-Handed Axe, Two-Handed Sword, Two-Handed Axe, Spear |
 | Skills | [Warrior Skills](../skills/warrior.md) |
 | Starting HP / MP | 50 / 5 |

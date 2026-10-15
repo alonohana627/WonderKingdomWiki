@@ -11,6 +11,8 @@
 
 ## How to get
 
+- Sold at [Emmeline's Flower Stall](../shops/emmeline_flowers.md) for 24 mesos
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 24 mesos
 - Gathered from Rosemary Patch ([Herbalism](../professions/herbalism.md) level 6)
 
 ## Used for

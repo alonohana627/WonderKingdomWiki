@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 28 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 1)
 
 ## Used for

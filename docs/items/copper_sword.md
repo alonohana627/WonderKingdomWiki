@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Weapon |
 | Weapon type | One-Handed Sword |
-| Stats | Attack +22 |
+| Stats | Attack +39 |
 | Upgrade slots | 8 |
 | Sells for | 90 mesos |
 

@@ -114,6 +114,9 @@ The creatures of the Bellcaves are strange even by the Disturbance's standards: 
 !!! tip "People"
     Everyone who lives here in the first release: [People of Bain Harbour](../people/bain-harbour/index.md).
 
+!!! info "In the game"
+    Bain Harbour is in the game. Its [town guide](../../towns/bain_harbour.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/bain_harbour_quests.md) are laid out line by line.
+
 !!! abstract "Design notes"
     New with this page: the fishing cove origin, Old Bain, the harbour council, the summer race around Veligor, and sea creatures stirred up by the Disturbance. Bain Harbour is on the east coast, as the game's world map has it.
 

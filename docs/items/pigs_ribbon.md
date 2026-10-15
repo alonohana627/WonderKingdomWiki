@@ -12,8 +12,11 @@
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (45%)
+- Dropped by [Ribbon Pig](../monsters/ribbon_pig.md) (50%)
 
 ## Used for
 
 - [Tonic](../items/tonic.md) ([Alchemy](../professions/alchemy.md), x1)
 - [Mandarin Dango](../items/mandarin_dango.md) ([Cooking](../professions/cooking.md), x1)
+- [Ribbons for Dusk](../quests/mirabel_ribbons_for_dusk.md) (bring 12)
+- [A Courier's Knot](../quests/peterkin_a_couriers_knot.md) (bring 10)
