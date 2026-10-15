@@ -275,7 +275,7 @@ npcs:
     place: Cliff Stairs
     age: young
     personality: Fearless, light-footed and impatient with anyone who looks down.
-    story: Kestra strings the rope bridges between the cliff houses and can cross any of them blindfold. Something has been chewing the ropes on the highest bridge, and she means to catch it.
+    story: Kestra strings the rope bridges on the cliff paths above the harbour and can cross any of them blindfold. Something has been chewing the ropes on the highest bridge, and she means to catch it.
 
   - id: ulric_stonecarver
     name: Ulric
