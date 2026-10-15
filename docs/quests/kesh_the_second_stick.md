@@ -2,7 +2,7 @@
 
 # The Second Stick
 
-*Kesh keeps two notched sticks: one for eagles, one for things he cannot name. Ask Korrin about the two notches on the second.*
+*Kesh keeps two notched sticks: one for eagles, one for things he cannot name. Thin out the Dark Axe Stumps on Broken Ground, then ask Korrin about the two notches on the second.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [The First Report](../quests/hask_the_first_report.md) |
 | Leads to | [The Boys' Lookout](../quests/korrin_the_lookout.md) |
 
+## Objectives
+
+- Defeat 40 [Dark Axe Stump](../monsters/dark_axe_stump.md) in [The Broken Ground](../maps/broken_ground.md)
+
 ## Rewards
 
-- 3,400 EXP
+- 8,350 EXP
 - 600 mesos
 - [Goat Cheese](../items/goat_cheese.md) x5
 - +40 standing with Midbarium
@@ -26,10 +30,10 @@
 
     - *Player*! You walked the whole of the ridges, everybody says so. Want to see my sticks? This one is for eagles. Forty-one notches. That is a lot of eagles.
     - This one is the other stick. It is for things I cannot name. It has two notches, and both of them are from the same place, after dark.
-    - I am not allowed to say where. Korrin said we swore. But if you asked [Korrin](../npcs/korrin_kragvar.md), and he told you, then I did not say it, did I? He is on the terraces, by his mother's cisterns.
-    - Ask him about the second stick. Not about the eagles, he will talk about the eagles all day.
+    - I am not allowed to say where. Korrin said we swore. But if you asked [Korrin](../npcs/korrin_kragvar.md), and he told you, then I did not say it, did I? He is on the terraces, by his mother's cisterns. Oh, and the [Dark Axe Stump](../monsters/dark_axe_stump.md)s on [The Broken Ground](../maps/broken_ground.md) keep chopping up my eagle-watching spots. Knock down **40 [Dark Axe Stump](../monsters/dark_axe_stump.md)s on [The Broken Ground](../maps/broken_ground.md)** on your way and I will owe you a notch.
+    - Ask Korrin about the second stick. Not about the eagles, he will talk about the eagles all day. And mind the axes on [The Broken Ground](../maps/broken_ground.md), they swing at ankles.
     - Fine. It is only a stick. A stick with two notches nobody can name.
-    - Korrin is on the terraces. Ask him about the second stick, *Player*, not the first.
+    - Forty [Dark Axe Stump](../monsters/dark_axe_stump.md)s on [The Broken Ground](../maps/broken_ground.md), then Korrin on the terraces. Ask about the second stick, *Player*, not the first.
     - Kesh sent you? With the stick? Oh, he never can keep anything in. Fine. But swear first. Kragvar swear on stone, so put your hand on the wall.
     - We have a lookout. Above the terraces, a ledge with a wall we built ourselves. Nobody is supposed to know. Twice from up there we saw something moving on the far canyon bridge after dark. Not a person. Low, and quick, and more than one.
     - We did not tell anyone, because then they would ask where we saw it from. Will you come up and look? You know the bridge better than we do now.

@@ -52,6 +52,7 @@
 
 - [The Beast Verse](../quests/ahvi_the_beast_verse.md)
 - [The Old Walls](../quests/brakka_the_old_walls.md)
+- [The Verse](../quests/odda_the_verse.md)
 - [Withered Reach Bounty](../quests/tavi_reach_bounty.md)
 - [Withered Reach Elites](../quests/tavi_reach_elites.md)
 - [A Withered Reach Epic](../quests/tavi_reach_epic.md)

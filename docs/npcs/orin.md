@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Mushroom Park](../maps/kaldemor_park.md) |
 | Story | [Orin in the lore](../lore/people/kaldemor/orin.md) |
 | Services | Quests |
 

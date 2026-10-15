@@ -13,13 +13,18 @@
 - [The Glimmer Path](../maps/glimmer_path.md)
 - [The Bloomwood](../maps/bloomwood.md)
 - [Children's Glade](../maps/childrens_glade.md)
-- [Grove School](../maps/grove_school.md)
 - [The Hushed Grove](../maps/hushed_grove.md)
+- [The Young Woods](../maps/young_woods.md)
 - [Galen's Staves and Scrolls](../maps/galens_shop.md)
 - [The Dewdrop Tea House](../maps/dewdrop_tea_house.md)
+- [Grove School](../maps/grove_school.md)
 - [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md)
 - [The Old Records](../maps/old_records.md)
-- [The Young Woods](../maps/young_woods.md)
+- [The Oldest Home](../maps/oriels_old_home.md)
+- [Ondine's Lantern Workshop](../maps/lantern_workshop.md)
+- [Celandine's Remedy House](../maps/remedy_house.md)
+- [Hesper's Cottage](../maps/hesper_cottage.md)
+- [Merrow and Celandine's Home](../maps/gardeners_home.md)
 
 ## NPCs
 

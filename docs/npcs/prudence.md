@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Prudence's Workshop](../maps/alchemists_workshop.md) |
+| Where | [Scholars' Quarter](../maps/selsior_scholars.md) |
 | Story | [Prudence in the lore](../lore/people/selsior/prudence.md) |
 | Services | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests |
 

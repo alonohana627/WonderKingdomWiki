@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [The Workshops](../maps/the_workshops.md) |
 | Story | [Winnie in the lore](../lore/people/kaldemor/winnie.md) |
 | Services | Quests |
 

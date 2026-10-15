@@ -13,6 +13,22 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [Kaldemor](../maps/kaldemor.md) | Town | - | - | - |
+| [Kaldemor Market](../maps/kaldemor_market.md) | Town | - | - | - |
+| [Mushroom Park](../maps/kaldemor_park.md) | Town | - | - | - |
+
+### Interiors
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [Bess's Apothecary](../maps/bess_apothecary.md) | Town | - | - | - |
+| [Gareth's Smithy](../maps/gareths_smithy.md) | Town | - | - | - |
+| [Hilda's Storehouse](../maps/hildas_storehouse.md) | Town | - | - | - |
+| [Lia's House](../maps/lias_house.md) | Town | - | - | - |
+| [Old Marta's Store](../maps/martas_store.md) | Town | - | - | - |
+| [The Clock Tower](../maps/clock_tower.md) | Town | - | - | - |
+| [The Mayor's House](../maps/tobins_house.md) | Town | - | - | - |
+| [The Sleepy Snail](../maps/the_sleepy_snail.md) | Town | - | - | - |
+| [The Workshops](../maps/the_workshops.md) | Town | - | - | - |
 
 ### Fields
 
@@ -98,47 +114,47 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | NPC | Title | Where | Services | Lore |
 |---|---|---|---|---|
-| [Alfie](../npcs/alfie.md) | Head of the Carpenters' Guild | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/alfie.md) |
-| [Archie](../npcs/archie.md) | Carpenter's Apprentice | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/archie.md) |
-| [Bertie](../npcs/bertie.md) | Mushroom House Shaper | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/bertie.md) |
-| [Bess](../npcs/bess.md) | Herbalist | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/bess.md) |
-| [Bram](../npcs/bram.md) | Potion Seller | [Kaldemor](../maps/kaldemor.md) | Shop: [Bram's Potions](../shops/potions.md), Quests | [Story](../lore/people/kaldemor/bram.md) |
+| [Alfie](../npcs/alfie.md) | Head of the Carpenters' Guild | [The Workshops](../maps/the_workshops.md) | - | [Story](../lore/people/kaldemor/alfie.md) |
+| [Archie](../npcs/archie.md) | Carpenter's Apprentice | [The Workshops](../maps/the_workshops.md) | - | [Story](../lore/people/kaldemor/archie.md) |
+| [Bertie](../npcs/bertie.md) | Mushroom House Shaper | [The Workshops](../maps/the_workshops.md) | Quests | [Story](../lore/people/kaldemor/bertie.md) |
+| [Bess](../npcs/bess.md) | Herbalist | [Bess's Apothecary](../maps/bess_apothecary.md) | Quests | [Story](../lore/people/kaldemor/bess.md) |
+| [Bram](../npcs/bram.md) | Potion Seller | [Kaldemor Market](../maps/kaldemor_market.md) | Shop: [Bram's Potions](../shops/potions.md), Quests | [Story](../lore/people/kaldemor/bram.md) |
 | [Clem](../npcs/clem.md) | Orchard Keeper | [The Last Stile](../maps/the_last_stile.md) | Quests | [Story](../lore/people/kaldemor/clem.md) |
-| [Daisy](../npcs/daisy.md) | House Painter | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/daisy.md) |
-| [Digby](../npcs/digby.md) | Gauntlet Hopeful | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/digby.md) |
+| [Daisy](../npcs/daisy.md) | House Painter | [The Workshops](../maps/the_workshops.md) | - | [Story](../lore/people/kaldemor/daisy.md) |
+| [Digby](../npcs/digby.md) | Gauntlet Hopeful | [Mushroom Park](../maps/kaldemor_park.md) | - | [Story](../lore/people/kaldemor/digby.md) |
 | [Dottie](../npcs/dottie.md) | Shepherd Girl | [The Last Stile](../maps/the_last_stile.md) | Quests | [Story](../lore/people/kaldemor/dottie.md) |
 | [Elsie](../npcs/elsie.md) | Dairy Farmer | [The Last Stile](../maps/the_last_stile.md) | - | [Story](../lore/people/kaldemor/elsie.md) |
-| [Ewan](../npcs/ewan.md) | Clockkeeper | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/ewan.md) |
-| [Fen](../npcs/fen.md) |  | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/fen.md) |
-| [Gareth](../npcs/gareth.md) | Smith | [Kaldemor](../maps/kaldemor.md) | Shop: [Gareth's Smithy](../shops/smith.md), Quests | [Story](../lore/people/kaldemor/gareth.md) |
-| [Garrick](../npcs/garrick.md) | The Climber | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/garrick.md) |
-| [Hale](../npcs/hale.md) | Park Ranger | [Kaldemor](../maps/kaldemor.md) | Boss: [The Bluecap Mother](../bosses/bluecap_mother.md), Boss: [The Cap King](../bosses/cap_king.md), Boss: [Gnarltusk](../bosses/gnarltusk.md), Boss: [The Snail King](../bosses/snail_king.md), Quests | [Story](../lore/people/kaldemor/hale.md) |
+| [Ewan](../npcs/ewan.md) | Clockkeeper | [The Clock Tower](../maps/clock_tower.md) | Quests | [Story](../lore/people/kaldemor/ewan.md) |
+| [Fen](../npcs/fen.md) |  | [Mushroom Park](../maps/kaldemor_park.md) | - | [Story](../lore/people/kaldemor/fen.md) |
+| [Gareth](../npcs/gareth.md) | Smith | [Gareth's Smithy](../maps/gareths_smithy.md) | Shop: [Gareth's Smithy](../shops/smith.md), Quests | [Story](../lore/people/kaldemor/gareth.md) |
+| [Garrick](../npcs/garrick.md) | The Climber | [Mushroom Park](../maps/kaldemor_park.md) | Quests | [Story](../lore/people/kaldemor/garrick.md) |
+| [Hale](../npcs/hale.md) | Park Ranger | [Mushroom Park](../maps/kaldemor_park.md) | Boss: [The Bluecap Mother](../bosses/bluecap_mother.md), Boss: [The Cap King](../bosses/cap_king.md), Boss: [Gnarltusk](../bosses/gnarltusk.md), Boss: [The Snail King](../bosses/snail_king.md), Quests | [Story](../lore/people/kaldemor/hale.md) |
 | [Hattie](../npcs/hattie.md) | Beekeeper | [The Last Stile](../maps/the_last_stile.md) | - | [Story](../lore/people/kaldemor/hattie.md) |
-| [Hilda](../npcs/hilda.md) | Storage Keeper | [Kaldemor](../maps/kaldemor.md) | Storage | [Story](../lore/people/kaldemor/hilda.md) |
-| [Hob](../npcs/hob.md) | Miller | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/hob.md) |
+| [Hilda](../npcs/hilda.md) | Storage Keeper | [Hilda's Storehouse](../maps/hildas_storehouse.md) | Storage | [Story](../lore/people/kaldemor/hilda.md) |
+| [Hob](../npcs/hob.md) | Miller | [Mushroom Park](../maps/kaldemor_park.md) | - | [Story](../lore/people/kaldemor/hob.md) |
 | [Jem](../npcs/jem.md) | Fiddler | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/jem.md) |
 | [Lia](../npcs/lia.md) | Town Guide | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/lia.md) |
 | [Lottie](../npcs/lottie.md) | Schoolteacher | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/lottie.md) |
-| [Mabel](../npcs/mabel.md) | Potter | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/mabel.md) |
-| [Meg](../npcs/meg.md) | Snail Hunter | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/meg.md) |
+| [Mabel](../npcs/mabel.md) | Potter | [The Workshops](../maps/the_workshops.md) | - | [Story](../lore/people/kaldemor/mabel.md) |
+| [Meg](../npcs/meg.md) | Snail Hunter | [Mushroom Park](../maps/kaldemor_park.md) | Quests | [Story](../lore/people/kaldemor/meg.md) |
 | [Mildred](../npcs/mildred.md) | Town Clerk | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/mildred.md) |
-| [Molly](../npcs/molly.md) | Innkeeper of the Sleepy Snail | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/molly.md) |
-| [Mott](../npcs/mott.md) | Travelling Pedlar | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/mott.md) |
-| [Ned](../npcs/ned.md) | Cobbler | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/ned.md) |
+| [Molly](../npcs/molly.md) | Innkeeper of the Sleepy Snail | [The Sleepy Snail](../maps/the_sleepy_snail.md) | Quests | [Story](../lore/people/kaldemor/molly.md) |
+| [Mott](../npcs/mott.md) | Travelling Pedlar | [The Sleepy Snail](../maps/the_sleepy_snail.md) | Quests | [Story](../lore/people/kaldemor/mott.md) |
+| [Ned](../npcs/ned.md) | Cobbler | [Kaldemor Market](../maps/kaldemor_market.md) | - | [Story](../lore/people/kaldemor/ned.md) |
 | [Nell](../npcs/nell.md) |  | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/nell.md) |
-| [Old Marta](../npcs/marta.md) | Grocer | [Kaldemor](../maps/kaldemor.md) | Shop: [Marta's General Store](../shops/grocer.md) | [Story](../lore/people/kaldemor/marta.md) |
-| [Orin](../npcs/orin.md) | Retired Woodcutter | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/orin.md) |
+| [Old Marta](../npcs/marta.md) | Grocer | [Old Marta's Store](../maps/martas_store.md) | Shop: [Marta's General Store](../shops/grocer.md) | [Story](../lore/people/kaldemor/marta.md) |
+| [Orin](../npcs/orin.md) | Retired Woodcutter | [Mushroom Park](../maps/kaldemor_park.md) | Quests | [Story](../lore/people/kaldemor/orin.md) |
 | [Pell](../npcs/pell.md) | Taxi Driver | [Kaldemor](../maps/kaldemor.md) | Taxi, Quests | [Story](../lore/people/kaldemor/pell.md) |
-| [Percy](../npcs/percy.md) | Wheelwright | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/percy.md) |
-| [Quill](../npcs/quill.md) | Drillmaster | [Kaldemor](../maps/kaldemor.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) | [Story](../lore/people/kaldemor/quill.md) |
-| [Rosa](../npcs/rosa.md) | Baker | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/rosa.md) |
+| [Percy](../npcs/percy.md) | Wheelwright | [The Workshops](../maps/the_workshops.md) | Quests | [Story](../lore/people/kaldemor/percy.md) |
+| [Quill](../npcs/quill.md) | Drillmaster | [Mushroom Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) | [Story](../lore/people/kaldemor/quill.md) |
+| [Rosa](../npcs/rosa.md) | Baker | [Kaldemor Market](../maps/kaldemor_market.md) | Quests | [Story](../lore/people/kaldemor/rosa.md) |
 | [Rufus](../npcs/rufus.md) | Town Crier | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/rufus.md) |
 | [Tam](../npcs/tam.md) |  | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/tam.md) |
 | [Tobin](../npcs/tobin.md) | Mayor of Kaldemor | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/tobin.md) |
 | [Wilbur](../npcs/wilbur.md) | Farmer | [The Last Stile](../maps/the_last_stile.md) | Quests | [Story](../lore/people/kaldemor/wilbur.md) |
 | [Wilf](../npcs/wilf.md) | Spore Gatherer | [The Last Stile](../maps/the_last_stile.md) | Quests | [Story](../lore/people/kaldemor/wilf.md) |
-| [Winnie](../npcs/winnie.md) | Weaver | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/winnie.md) |
-| [Wren](../npcs/wren.md) | Orin's Wife | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/wren.md) |
+| [Winnie](../npcs/winnie.md) | Weaver | [The Workshops](../maps/the_workshops.md) | Quests | [Story](../lore/people/kaldemor/winnie.md) |
+| [Wren](../npcs/wren.md) | Orin's Wife | [Mushroom Park](../maps/kaldemor_park.md) | - | [Story](../lore/people/kaldemor/wren.md) |
 
 ## Shops
 

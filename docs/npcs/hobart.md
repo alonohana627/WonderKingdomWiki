@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [The Docks](../maps/bain_docks.md) |
+| Where | [The Dock Office](../maps/bain_dock_office.md) |
 | Story | [Hobart in the lore](../lore/people/bain-harbour/hobart.md) |
 | Services | Storage, Quests |
 

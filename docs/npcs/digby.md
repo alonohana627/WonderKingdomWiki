@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Mushroom Park](../maps/kaldemor_park.md) |
 | Story | [Digby in the lore](../lore/people/kaldemor/digby.md) |
 
 > Hi, *Player*! Twelfth try is the lucky one. I can feel it.

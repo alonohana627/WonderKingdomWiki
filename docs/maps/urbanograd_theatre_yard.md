@@ -12,6 +12,7 @@
 ## Exits
 
 - [Urbanograd](../maps/urbanograd.md)
+- [The Old Barracks Theatre](../maps/urbanograd_theatre.md)
 
 ## NPCs
 

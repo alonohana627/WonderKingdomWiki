@@ -12,21 +12,22 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [A Market House](../maps/market_house.md) | Town | - | - | - |
+| [Crown Market](../maps/selsior_market.md) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - | - |
 | [Palace](../maps/selsior_palace.md) | Town | - | - | - |
-| [Prudence's Workshop](../maps/alchemists_workshop.md) | Town | - | - | - |
 | [Riverside](../maps/selsior_riverside.md) | Town | - | - | - |
 | [Royal Plaza](../maps/selsior.md) | Town | - | - | - |
 | [Scholars' Quarter](../maps/selsior_scholars.md) | Town | - | - | - |
 | [Selene's Forge](../maps/selenes_forge.md) | Town | - | - | - |
 | [Selsior Gate](../maps/selsior_gate.md) | Town | - | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - | - |
-| [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - | - |
-| [The Royal Academy Library](../maps/academy_library.md) | Town | - | - | - |
+| [The Palace Quarters](../maps/palace_quarters.md) | Town | - | - | - |
 | [The Royal Vault](../maps/royal_vault.md) | Town | - | - | - |
+| [The Throne Hall](../maps/throne_hall.md) | Town | - | - | - |
 | [Theatre Row](../maps/selsior_theatre.md) | Town | - | - | - |
 
 ### Downs
@@ -103,26 +104,26 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Alaric](../npcs/alaric.md) | Young Prince | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/alaric.md) |
 | [Aldith](../npcs/aldith.md) | Herb Wife of the Riverside | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/aldith.md) |
 | [Aldous](../npcs/aldous.md) | Keeper of the Royal Vault | [The Royal Vault](../maps/royal_vault.md) | Storage | [Story](../lore/people/selsior/aldous.md) |
-| [Alys](../npcs/alys.md) | Cheesemonger | [Royal Plaza](../maps/selsior.md) | Shop: [Alys's Cheeses](../shops/alys_cheese.md) | [Story](../lore/people/selsior/alys.md) |
+| [Alys](../npcs/alys.md) | Cheesemonger | [Crown Market](../maps/selsior_market.md) | Shop: [Alys's Cheeses](../shops/alys_cheese.md) | [Story](../lore/people/selsior/alys.md) |
 | [Ansel](../npcs/ansel.md) | Palace Physician | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/ansel.md) |
 | [Aubrey](../npcs/aubrey.md) | Old Grand Swordmaster | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/aubrey.md) |
-| [Aveline](../npcs/queen_aveline.md) | Queen of Wonder Kingdom | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/queen_aveline.md) |
+| [Aveline](../npcs/queen_aveline.md) | Queen of Wonder Kingdom | [The Throne Hall](../maps/throne_hall.md) | Quests | [Story](../lore/people/selsior/queen_aveline.md) |
 | [Avice](../npcs/avice.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/avice.md) |
 | [Aylwin](../npcs/aylwin.md) | Road Patrol Guard | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/aylwin.md) |
 | [Baldwin](../npcs/baldwin.md) | Lamplighter | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/baldwin.md) |
 | [Bartholomew](../npcs/bartholomew.md) | Master of the Royal Academy | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/bartholomew.md) |
-| [Benedict](../npcs/benedict.md) | Head Librarian | [The Royal Academy Library](../maps/academy_library.md) | Quests | [Story](../lore/people/selsior/benedict.md) |
+| [Benedict](../npcs/benedict.md) | Head Librarian | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/benedict.md) |
 | [Bennet](../npcs/bennet.md) | Boatwright | [Riverside](../maps/selsior_riverside.md) | Boss: [Longjaw](../bosses/longjaw.md), Quests | [Story](../lore/people/selsior/bennet.md) |
 | [Bertrand](../npcs/bertrand.md) | Drill Sergeant | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/bertrand.md) |
 | [Biscuit](../npcs/biscuit.md) | Gate Dog | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/biscuit.md) |
 | [Brann](../npcs/brann.md) | Gate Sergeant | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/brann.md) |
 | [Cecily](../npcs/cecily.md) | Singer | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/cecily.md) |
 | [Clement](../npcs/clement.md) | Royal Herald | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/clement.md) |
-| [Constance](../npcs/constance.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/constance.md) |
+| [Constance](../npcs/constance.md) | Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/constance.md) |
 | [Courier's Runner](../npcs/plaza_courier_lad.md) |  | [Royal Plaza](../maps/selsior.md) | - | - |
 | [Crispin](../npcs/crispin.md) | Playwright | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/crispin.md) |
 | [Cuthbert](../npcs/cuthbert.md) | Royal Cook | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/cuthbert.md) |
-| [Dame Orsa](../npcs/orsa.md) | Shopkeeper | [Royal Plaza](../maps/selsior.md) | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) | [Story](../lore/people/selsior/orsa.md) |
+| [Dame Orsa](../npcs/orsa.md) | Shopkeeper | [Crown Market](../maps/selsior_market.md) | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) | [Story](../lore/people/selsior/orsa.md) |
 | [Dickon](../npcs/dickon.md) | Skywalk Carpenter | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/dickon.md) |
 | [Edith](../npcs/edith.md) | Costumer | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/edith.md) |
 | [Edric](../npcs/edric.md) | Lieutenant of the Road Patrol | [Knights' Court](../maps/selsior_court.md) | Boss: [Old Cairn, the Ancient of the Quarries](../bosses/old_cairn.md), Boss: [Queen Amberwing](../bosses/queen_amberwing.md), Quests | [Story](../lore/people/selsior/edric.md) |
@@ -149,29 +150,29 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Hollis](../npcs/hollis.md) | Gate Guard | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/hollis.md) |
 | [Hugh](../npcs/hugh.md) | Warden of the Great Bell | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/hugh.md) |
 | [Ida](../npcs/ida.md) | Night Watchwoman | [Old Quarter](../maps/selsior_old_quarter.md) | Boss: [The Delver](../bosses/delver.md), Quests | [Story](../lore/people/selsior/ida.md) |
-| [Isabeau](../npcs/isabeau.md) | Cloth Merchant | [Royal Plaza](../maps/selsior.md) | Shop: [Isabeau's Cloth](../shops/isabeau_cloth.md) | [Story](../lore/people/selsior/isabeau.md) |
-| [Jasper](../npcs/jasper.md) | Curio Dealer | [Royal Plaza](../maps/selsior.md) | Shop: [Jasper's Curiosities](../shops/jasper_curios.md) | [Story](../lore/people/selsior/jasper.md) |
-| [Joan](../npcs/joan.md) | Keeper of the Crooked Lantern | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/joan.md) |
+| [Isabeau](../npcs/isabeau.md) | Cloth Merchant | [Crown Market](../maps/selsior_market.md) | Shop: [Isabeau's Cloth](../shops/isabeau_cloth.md) | [Story](../lore/people/selsior/isabeau.md) |
+| [Jasper](../npcs/jasper.md) | Curio Dealer | [Crown Market](../maps/selsior_market.md) | Shop: [Jasper's Curiosities](../shops/jasper_curios.md) | [Story](../lore/people/selsior/jasper.md) |
+| [Joan](../npcs/joan.md) | Keeper of the Crooked Lantern | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/joan.md) |
 | [Jocelyn](../npcs/jocelyn.md) | Vault Clerk | [The Royal Vault](../maps/royal_vault.md) | Quests | [Story](../lore/people/selsior/jocelyn.md) |
 | [Kenric](../npcs/kenric.md) | Smith's Apprentice | [Selene's Forge](../maps/selenes_forge.md) | Quests | [Story](../lore/people/selsior/kenric.md) |
 | [Lambert](../npcs/lambert.md) | Street Juggler | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/lambert.md) |
 | [Lavinia](../npcs/lavinia.md) | Mistress of the Gilded Stage | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/lavinia.md) |
-| [Leofric](../npcs/leofric.md) | Queen's Consort | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/leofric.md) |
+| [Leofric](../npcs/leofric.md) | Queen's Consort | [The Throne Hall](../maps/throne_hall.md) | Quests | [Story](../lore/people/selsior/leofric.md) |
 | [Lettice](../npcs/lettice.md) | Rat Catcher | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/lettice.md) |
 | [Lucan](../npcs/lucan.md) | Bargemaster | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/lucan.md) |
 | [Mab](../npcs/mab.md) | Pie Seller's Daughter | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/mab.md) |
-| [Margery](../npcs/margery.md) | Baker | [Royal Plaza](../maps/selsior.md) | Shop: [Margery's Bakery](../shops/margery_bakery.md) | [Story](../lore/people/selsior/margery.md) |
+| [Margery](../npcs/margery.md) | Baker | [Crown Market](../maps/selsior_market.md) | Shop: [Margery's Bakery](../shops/margery_bakery.md) | [Story](../lore/people/selsior/margery.md) |
 | [Marigold](../npcs/marigold.md) | Child Actor | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/marigold.md) |
 | [Mariota](../npcs/mariota.md) | Academy Student | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/mariota.md) |
-| [Market Shopper](../npcs/market_shopper_fen.md) |  | [Royal Plaza](../maps/selsior.md) | - | - |
-| [Maud](../npcs/maud.md) | Housekeeper | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/maud.md) |
+| [Market Shopper](../npcs/market_shopper_fen.md) |  | [Crown Market](../maps/selsior_market.md) | - | - |
+| [Maud](../npcs/maud.md) | Housekeeper | [Crown Market](../maps/selsior_market.md) | Quests | [Story](../lore/people/selsior/maud.md) |
 | [Melisende](../npcs/melisende.md) | Mistress of the Envoys' Hall | [The Envoys' Hall](../maps/envoys_hall.md) | Quests | [Story](../lore/people/selsior/melisende.md) |
 | [Merrick](../npcs/merrick.md) | Caravan Master | [The Gate Inn](../maps/gate_inn.md) | Quests | [Story](../lore/people/selsior/merrick.md) |
 | [Mirabel](../npcs/mirabel.md) | Dancer | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/mirabel.md) |
-| [Mirel](../npcs/mirel.md) | Apothecary | [Royal Plaza](../maps/selsior.md) | Shop: [Mirel's Potions](../shops/selsior_potions.md) | [Story](../lore/people/selsior/mirel.md) |
+| [Mirel](../npcs/mirel.md) | Apothecary | [Crown Market](../maps/selsior_market.md) | Shop: [Mirel's Potions](../shops/selsior_potions.md) | [Story](../lore/people/selsior/mirel.md) |
 | [Morwen](../npcs/morwen.md) | Teacher of Magic | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/morwen.md) |
 | [Old Quarter Neighbour](../npcs/lane_neighbour_bess.md) |  | [Old Quarter](../maps/selsior_old_quarter.md) | - | - |
-| [Osbert](../npcs/osbert.md) | Royal Steward | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/osbert.md) |
+| [Osbert](../npcs/osbert.md) | Royal Steward | [The Throne Hall](../maps/throne_hall.md) | Quests | [Story](../lore/people/selsior/osbert.md) |
 | [Osmund](../npcs/osmund.md) | Ferryman | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/osmund.md) |
 | [Palace Guard](../npcs/palace_guard_olen.md) |  | [Palace](../maps/selsior_palace.md) | - | - |
 | [Palace Guard](../npcs/palace_guard_rue.md) |  | [Palace](../maps/selsior_palace.md) | - | - |
@@ -181,31 +182,31 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Petronella](../npcs/petronella.md) | Royal Scribe | [The Envoys' Hall](../maps/envoys_hall.md) | Quests | [Story](../lore/people/selsior/petronella.md) |
 | [Piers](../npcs/piers.md) | Pie Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Piers's Pies](../shops/piers_pies.md) | [Story](../lore/people/selsior/piers.md) |
 | [Pim](../npcs/pim.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/pim.md) |
-| [Prudence](../npcs/prudence.md) | Alchemist | [Prudence's Workshop](../maps/alchemists_workshop.md) | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests | [Story](../lore/people/selsior/prudence.md) |
+| [Prudence](../npcs/prudence.md) | Alchemist | [Scholars' Quarter](../maps/selsior_scholars.md) | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests | [Story](../lore/people/selsior/prudence.md) |
 | [Rafe](../npcs/rafe.md) | Puppeteer | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/rafe.md) |
-| [Reynold](../npcs/reynold.md) | Warden of the Crown Market | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/reynold.md) |
+| [Reynold](../npcs/reynold.md) | Warden of the Crown Market | [Crown Market](../maps/selsior_market.md) | Quests | [Story](../lore/people/selsior/reynold.md) |
 | [Rhys](../npcs/rhys.md) | Captain of the Royal Guard | [The Captain's Hall](../maps/knights_hall.md) | Quests | [Story](../lore/people/selsior/rhys.md) |
 | [Robin](../npcs/robin.md) | Mudlark | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/robin.md) |
-| [Roland](../npcs/roland.md) | Retired Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/roland.md) |
-| [Rosalind](../npcs/rosalind.md) | Herb Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Story](../lore/people/selsior/rosalind.md) |
+| [Roland](../npcs/roland.md) | Retired Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/roland.md) |
+| [Rosalind](../npcs/rosalind.md) | Herb Seller | [Crown Market](../maps/selsior_market.md) | Shop: [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Story](../lore/people/selsior/rosalind.md) |
 | [Rosamund](../npcs/rosamund.md) | Leading Lady | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/rosamund.md) |
 | [Rowena](../npcs/rowena.md) | Swordmaster of the Guard | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/rowena.md) |
 | [Selene](../npcs/selene.md) | Weaponsmith | [Selene's Forge](../maps/selenes_forge.md) | Shop: [Selene's Arms](../shops/selsior_arms.md) | [Story](../lore/people/selsior/selene.md) |
 | [Selsior Citizen](../npcs/plaza_citizen_corra.md) |  | [Royal Plaza](../maps/selsior.md) | - | - |
-| [Silas](../npcs/silas.md) | Fishmonger | [Royal Plaza](../maps/selsior.md) | Shop: [Silas's Fish Stall](../shops/silas_fish.md) | [Story](../lore/people/selsior/silas.md) |
+| [Silas](../npcs/silas.md) | Fishmonger | [Crown Market](../maps/selsior_market.md) | Shop: [Silas's Fish Stall](../shops/silas_fish.md) | [Story](../lore/people/selsior/silas.md) |
 | [Simkin](../npcs/simkin.md) | Cobbler | [Old Quarter](../maps/selsior_old_quarter.md) | Shop: [Simkin's Boots](../shops/simkin_boots.md), Quests | [Story](../lore/people/selsior/simkin.md) |
 | [Swithin](../npcs/swithin.md) | Gate Clerk | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/swithin.md) |
 | [Sybil](../npcs/sybil.md) | Royal Wardrobe Mistress | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/sybil.md) |
 | [Tancred](../npcs/tancred.md) | Retired Drain-Mender | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/tancred.md) |
 | [Theobald](../npcs/theobald.md) | Stargazer | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/theobald.md) |
-| [Thomasin](../npcs/thomasin.md) | Historian of the Balrog War | [The Royal Academy Library](../maps/academy_library.md) | Quests | [Story](../lore/people/selsior/thomasin.md) |
-| [Thurstan](../npcs/thurstan.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/thurstan.md) |
+| [Thomasin](../npcs/thomasin.md) | Historian of the Balrog War | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/thomasin.md) |
+| [Thurstan](../npcs/thurstan.md) | Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/thurstan.md) |
 | [Tibb](../npcs/tibb.md) | Stagehand | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/tibb.md) |
 | [Tilda](../npcs/tilda.md) | Taxi Driver | [Selsior Gate](../maps/selsior_gate.md) | Taxi | [Story](../lore/people/selsior/tilda.md) |
 | [Tobe](../npcs/tobe.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/tobe.md) |
 | [Tristan](../npcs/tristan.md) | River Scout | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/tristan.md) |
 | [Vessa](../npcs/vessa.md) | Armourer | [Selene's Forge](../maps/selenes_forge.md) | Shop: [Vessa's Armour](../shops/selsior_armour.md) | [Story](../lore/people/selsior/vessa.md) |
-| [Wat](../npcs/wat.md) | Errand Boy | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/wat.md) |
+| [Wat](../npcs/wat.md) | Errand Boy | [Crown Market](../maps/selsior_market.md) | Quests | [Story](../lore/people/selsior/wat.md) |
 | [Winifred](../npcs/winifred.md) | Storyteller of the Old Quarter | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/winifred.md) |
 | [Wulfric](../npcs/wulfric.md) | Vault Warden | [The Royal Vault](../maps/royal_vault.md) | Quests | [Story](../lore/people/selsior/wulfric.md) |
 | [Wystan](../npcs/wystan.md) | Stablemaster | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/wystan.md) |
@@ -265,7 +266,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 ## Discoveries
 
-[The Great Bell](../world/discoveries.md#great-bell), [The View from the High Lane](../world/discoveries.md#skywalk-view), [The World Tree's Foot](../world/discoveries.md#the-trees-foot), [Above the Chalk Hives](../world/discoveries.md#above-the-hives), [The First Keep's Stone](../world/discoveries.md#first-keeps-stone), [The Buried Street's Name](../world/discoveries.md#buried-street-sign)
+[The Great Bell](../world/discoveries.md#great-bell), [The View from the Palace Ledge](../world/discoveries.md#skywalk-view), [The World Tree's Foot](../world/discoveries.md#the-trees-foot), [Above the Chalk Hives](../world/discoveries.md#above-the-hives), [The First Keep's Stone](../world/discoveries.md#first-keeps-stone), [The Buried Street's Name](../world/discoveries.md#buried-street-sign)
 
 Regional mastery, earned by making discoveries here:
 

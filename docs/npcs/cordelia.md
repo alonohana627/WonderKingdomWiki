@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) |
 | Story | [Cordelia in the lore](../lore/people/bain-harbour/cordelia.md) |
 | Services | Shop: [Cordelia's Cloth Shop](../shops/bain_cloth.md) |
 

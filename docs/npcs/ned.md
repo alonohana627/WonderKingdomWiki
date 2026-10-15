@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
 | Story | [Ned in the lore](../lore/people/kaldemor/ned.md) |
 
 > Hmph. *Player*. Let me see your boots. ...A disgrace.

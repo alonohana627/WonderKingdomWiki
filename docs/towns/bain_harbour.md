@@ -12,12 +12,26 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [A Fisher's Cottage](../maps/marram_cottage_east.md) | Town | - | - | - |
+| [A Fisher's Cottage](../maps/marram_cottage_west.md) | Town | - | - | - |
+| [A Harbour House](../maps/bain_harbour_house.md) | Town | - | - | - |
 | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Town | - | - | - |
 | [Bain Harbour](../maps/bain_harbour.md) | Town | - | - | - |
+| [Clemence's House](../maps/bain_clinic.md) | Town | - | - | - |
+| [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | Town | - | - | - |
 | [Harbour Hall](../maps/bain_hall.md) | Town | - | - | - |
+| [Marisol's Spice House](../maps/bain_spice_house.md) | Town | - | - | - |
+| [Thaddeus's House](../maps/bain_thaddeus_house.md) | Town | - | - | - |
+| [The Counting House](../maps/bain_counting_house.md) | Town | - | - | - |
+| [The Customs House](../maps/bain_customs_house.md) | Town | - | - | - |
+| [The Dock Office](../maps/bain_dock_office.md) | Town | - | - | - |
 | [The Docks](../maps/bain_docks.md) | Town | - | - | - |
+| [The Merchants' Exchange](../maps/bain_exchange.md) | Town | - | - | - |
+| [The Net House](../maps/marram_net_house.md) | Town | - | - | - |
 | [The Salt and Bread](../maps/bain_inn.md) | Town | - | - | - |
+| [The Union Warehouse](../maps/bain_warehouse.md) | Town | - | - | - |
 | [The Watch House](../maps/bain_watch_house.md) | Town | - | - | - |
+| [Wilmot's House](../maps/bain_ropemakers_house.md) | Town | - | - | - |
 
 ### Roads
 
@@ -125,9 +139,9 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Broken Bulkhead](../npcs/saltgrace_bulkhead.md) |  | [The Lower Deck](../maps/saltgrace_lower_deck.md) | Boss: [The Holdfast](../bosses/holdfast.md) | - |
 | [Bryony](../npcs/bryony.md) | Baker of Merchant Street | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Bryony's Bakery](../shops/bain_bakery.md) | [Story](../lore/people/bain-harbour/bryony.md) |
 | [Caspian](../npcs/caspian.md) | Navigator of the Heron | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/caspian.md) |
-| [Clemence](../npcs/clemence.md) | Harbour Healer | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/clemence.md) |
+| [Clemence](../npcs/clemence.md) | Harbour Healer | [Clemence's House](../maps/bain_clinic.md) | Quests | [Story](../lore/people/bain-harbour/clemence.md) |
 | [Cobb](../npcs/cobb.md) | Fisherman | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/cobb.md) |
-| [Cordelia](../npcs/cordelia.md) | Cloth Merchant | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Cordelia's Cloth Shop](../shops/bain_cloth.md) | [Story](../lore/people/bain-harbour/cordelia.md) |
+| [Cordelia](../npcs/cordelia.md) | Cloth Merchant | [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | Shop: [Cordelia's Cloth Shop](../shops/bain_cloth.md) | [Story](../lore/people/bain-harbour/cordelia.md) |
 | [Corwin](../npcs/captain_corwin.md) | Captain of the Heron | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/captain_corwin.md) |
 | [Delphine](../npcs/delphine.md) | Innkeeper of the Salt and Bread | [The Salt and Bread](../maps/bain_inn.md) | Quests | [Story](../lore/people/bain-harbour/delphine.md) |
 | [Dunstan](../npcs/dunstan.md) | Master Shipwright | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/dunstan.md) |
@@ -136,7 +150,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Gwennol](../npcs/gwennol.md) | Fishmonger | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Gwennol's Fish Stall](../shops/bain_fish.md) | [Story](../lore/people/bain-harbour/gwennol.md) |
 | [Halloran](../npcs/halloran.md) | Captain of the Harbour Watch | [The Watch House](../maps/bain_watch_house.md) | Run: [The Outer Pier by Night](../runs/the_outer_pier_watch.md), Run: [Under the Outer Pier](../runs/under_the_pier.md), Quests | [Story](../lore/people/bain-harbour/halloran.md) |
 | [Hesketh](../npcs/hesketh.md) | Oyster Seller | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Hesketh's Oyster Stall](../shops/bain_oysters.md) | [Story](../lore/people/bain-harbour/hesketh.md) |
-| [Hobart](../npcs/hobart.md) | Warehouseman | [The Docks](../maps/bain_docks.md) | Storage, Quests | [Story](../lore/people/bain-harbour/hobart.md) |
+| [Hobart](../npcs/hobart.md) | Warehouseman | [The Dock Office](../maps/bain_dock_office.md) | Storage, Quests | [Story](../lore/people/bain-harbour/hobart.md) |
 | [Jowan](../npcs/jowan.md) | Harbour Watchman | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/jowan.md) |
 | [Kenwyn](../npcs/kenwyn.md) | Salvager of the Bellcaves | [Bain Harbour](../maps/bain_harbour.md) | Boss: [The Holdfast](../bosses/holdfast.md), Quests | [Story](../lore/people/bain-harbour/kenwyn.md) |
 | [Keziah](../npcs/keziah.md) | Sword for Hire | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/keziah.md) |
@@ -145,15 +159,15 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Lowen](../npcs/lowen.md) | Deckhand | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/lowen.md) |
 | [Mabyn](../npcs/mabyn.md) | Keeper of the Hall Door | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/mabyn.md) |
 | [Maren](../npcs/maren.md) | Harbour Schoolteacher | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/maren.md) |
-| [Marisol](../npcs/marisol.md) | Spice Merchant | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/marisol.md) |
-| [Merriwether](../npcs/merriwether.md) | Ship's Chandler | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Merriwether's Chandlery](../shops/bain_chandler.md) | [Story](../lore/people/bain-harbour/merriwether.md) |
+| [Marisol](../npcs/marisol.md) | Spice Merchant | [Marisol's Spice House](../maps/bain_spice_house.md) | Quests | [Story](../lore/people/bain-harbour/marisol.md) |
+| [Merriwether](../npcs/merriwether.md) | Ship's Chandler | [The Merchants' Exchange](../maps/bain_exchange.md) | Shop: [Merriwether's Chandlery](../shops/bain_chandler.md) | [Story](../lore/people/bain-harbour/merriwether.md) |
 | [Morwenna](../npcs/morwenna.md) | Sailor of the Saltlark | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/morwenna.md) |
 | [Nerissa](../npcs/nerissa.md) | Pearl Diver | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/nerissa.md) |
 | [Old Felling Stone](../npcs/rim_waymark.md) |  | [The Rim](../maps/the_rim.md) | Boss: [The Deep Lantern](../bosses/deep_lantern.md) | - |
 | [Old Lock Post](../npcs/gullet_gate_post.md) |  | [The Gullet](../maps/the_gullet.md) | Boss: [The Ripsaw](../bosses/ripsaw.md) | - |
 | [Old Lock Post](../npcs/pinch_lock_gate.md) |  | [The Pinch](../maps/the_pinch.md) | Boss: [The Bootbreaker](../bosses/bootbreaker.md) | - |
 | [Ossie](../npcs/ossie.md) | Lighthouse Boy | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/ossie.md) |
-| [Ottilie](../npcs/ottilie.md) | Clerk of the Harbour Hall | [Harbour Hall](../maps/bain_hall.md) | Quests | [Story](../lore/people/bain-harbour/ottilie.md) |
+| [Ottilie](../npcs/ottilie.md) | Clerk of the Harbour Hall | [The Counting House](../maps/bain_counting_house.md) | Quests | [Story](../lore/people/bain-harbour/ottilie.md) |
 | [Peregrine](../npcs/peregrine.md) | Shipwright's Apprentice | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/peregrine.md) |
 | [Poppy](../npcs/poppy.md) | Baker's Daughter | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/poppy.md) |
 | [Quenna](../npcs/harbour_master_quenna.md) | Harbour Master | [Harbour Hall](../maps/bain_hall.md) | Quests | [Story](../lore/people/bain-harbour/harbour_master_quenna.md) |

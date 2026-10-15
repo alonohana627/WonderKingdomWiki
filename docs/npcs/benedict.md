@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [The Royal Academy Library](../maps/academy_library.md) |
+| Where | [Scholars' Quarter](../maps/selsior_scholars.md) |
 | Story | [Benedict in the lore](../lore/people/selsior/benedict.md) |
 | Services | Quests |
 

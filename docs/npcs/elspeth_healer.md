@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Elspeth's House](../maps/elspeths_house.md) |
 | Story | [Elspeth in the lore](../lore/people/goa-harbour/elspeth_healer.md) |
 | Services | Shop: [Elspeth's Remedies](../shops/elspeths_remedies.md), Quests |
 

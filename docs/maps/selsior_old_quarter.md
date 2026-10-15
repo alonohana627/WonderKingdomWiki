@@ -13,10 +13,10 @@
 
 - [Royal Plaza](../maps/selsior.md)
 - [The Old Drains](../maps/old_drains.md)
-- [The Crooked Lantern](../maps/crooked_lantern.md)
 
 ## NPCs
 
+- [WAITING FOR IMPLEMENT DETAILS](../npcs/waiting_for_implement_details.md)
 - [Ida](../npcs/ida.md) (Night Watchwoman)
 - [Tancred](../npcs/tancred.md) (Retired Drain-Mender)
 - [Lettice](../npcs/lettice.md) (Rat Catcher)
@@ -27,4 +27,8 @@
 - [Simkin](../npcs/simkin.md) (Cobbler)
 - [Gilbert](../npcs/gilbert.md) (Candlemaker)
 - [Dickon](../npcs/dickon.md) (Skywalk Carpenter)
+- [Joan](../npcs/joan.md) (Keeper of the Crooked Lantern)
+- [Roland](../npcs/roland.md) (Retired Adventurer)
+- [Thurstan](../npcs/thurstan.md) (Adventurer)
+- [Constance](../npcs/constance.md) (Adventurer)
 - [Old Quarter Neighbour](../npcs/lane_neighbour_bess.md)

@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd.md) |
-| Where | [Urbanograd](../maps/urbanograd.md) |
+| Where | [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md) |
 | Story | [Ivo Sable in the lore](../lore/people/urbanograd/ivo_sable.md) |
 | Services | Quests |
 

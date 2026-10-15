@@ -28,7 +28,7 @@
 
     - *Player*! You have a minute? I need a pair of eyes that are not mine. This morning I found a trail across my far field. Turnips rooted up, beans flattened, the hedge pushed through. It is wider than my cart.
     - I have seen snails come in lines all spring, but no snail made that. It runs off down the farm track toward **the Last Stile**, where the hedges stop and the woods start. Will you follow it and find out what is walking through my turnips?
-    - Good. The farm track leaves [Kaldemor Woods](../maps/kaldemor_woods.md) and runs south to the stile. Follow the mud. Whatever it is, it is not shy about leaving a mess.
+    - Good. The farm track leaves the upper path of [Kaldemor Hills](../maps/kaldemor_hills.md), and the high lane from the Cider Lanes runs to the stile too. Follow the mud. Whatever it is, it is not shy about leaving a mess.
     - All right. I will go on sitting up with my lantern, then. Not that a lantern ever stopped anything.
     - Follow the trail to [The Last Stile](../maps/the_last_stile.md), *Player*, and into the woods past it. Whatever came through my field came from there.
     - Boars? Wild boars, out of the old woods, all the way up to my field? Thirty of them, you say, and still more in there.

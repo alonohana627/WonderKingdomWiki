@@ -13,7 +13,7 @@
 
 ## Exits
 
-- [Kaldemor](../maps/kaldemor.md)
+- [Mushroom Park](../maps/kaldemor_park.md)
 - [The Hanging Course](../maps/gauntlet_course.md)
 
 ## Encounters

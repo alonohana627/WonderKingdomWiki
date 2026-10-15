@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Silas in the lore](../lore/people/selsior/silas.md) |
 | Services | Shop: [Silas's Fish Stall](../shops/silas_fish.md) |
 

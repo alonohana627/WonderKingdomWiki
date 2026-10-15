@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [The Merchants' Exchange](../maps/bain_exchange.md) |
 | Story | [Merriwether in the lore](../lore/people/bain-harbour/merriwether.md) |
 | Services | Shop: [Merriwether's Chandlery](../shops/bain_chandler.md) |
 

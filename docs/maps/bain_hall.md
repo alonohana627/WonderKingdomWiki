@@ -15,5 +15,4 @@
 
 ## NPCs
 
-- [Ottilie](../npcs/ottilie.md) (Clerk of the Harbour Hall)
 - [Quenna](../npcs/harbour_master_quenna.md) (Harbour Master)

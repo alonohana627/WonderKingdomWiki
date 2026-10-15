@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd.md) |
-| Where | [Dyna's Shop](../maps/urbanograd_tailor.md) |
+| Where | [Urbanograd](../maps/urbanograd.md) |
 | Story | [Dyna in the lore](../lore/people/urbanograd/dyna_wick.md) |
 | Services | Shop: [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) |
 

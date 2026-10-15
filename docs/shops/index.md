@@ -7,8 +7,8 @@ Shops sell items for their price times the shop's markup, and buy anything sella
 | Shop | Keeper | Where | Items |
 |---|---|---|---|
 | [Bryony's Bakery](../shops/bain_bakery.md) | [Bryony](../npcs/bryony.md) | [Bain Harbour](../maps/bain_harbour.md) | 3 |
-| [Merriwether's Chandlery](../shops/bain_chandler.md) | [Merriwether](../npcs/merriwether.md) | [Bain Harbour](../maps/bain_harbour.md) | 11 |
-| [Cordelia's Cloth Shop](../shops/bain_cloth.md) | [Cordelia](../npcs/cordelia.md) | [Bain Harbour](../maps/bain_harbour.md) | 13 |
+| [Merriwether's Chandlery](../shops/bain_chandler.md) | [Merriwether](../npcs/merriwether.md) | [The Merchants' Exchange](../maps/bain_exchange.md) | 11 |
+| [Cordelia's Cloth Shop](../shops/bain_cloth.md) | [Cordelia](../npcs/cordelia.md) | [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | 13 |
 | [Gwennol's Fish Stall](../shops/bain_fish.md) | [Gwennol](../npcs/gwennol.md) | [Bain Harbour](../maps/bain_harbour.md) | 3 |
 | [Hesketh's Oyster Stall](../shops/bain_oysters.md) | [Hesketh](../npcs/hesketh.md) | [Bain Harbour](../maps/bain_harbour.md) | 2 |
 | [Celandine's Remedies](../shops/celandine_remedies.md) | [Celandine](../npcs/celandine_herbalist.md) | [Fairy Forest](../maps/fairy_forest.md) | 8 |
@@ -17,37 +17,37 @@ Shops sell items for their price times the shop's markup, and buy anything sella
 | [Halcy's Baskets and Garlands](../shops/halcys_garlands.md) | [Halcy](../npcs/halcy_child.md) | [Children's Glade](../maps/childrens_glade.md) | 1 |
 | [Vesper's Lights](../shops/vesper_lights.md) | [Vesper](../npcs/vesper_lanternseller.md) | [Fairy Forest](../maps/fairy_forest.md) | 3 |
 | [Brodie's Fish](../shops/brodies_fish.md) | [Brodie](../npcs/brodie_fishmonger.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
-| [Elspeth's Remedies](../shops/elspeths_remedies.md) | [Elspeth](../npcs/elspeth_healer.md) | [Goa Harbour](../maps/goa_harbour.md) | 5 |
+| [Elspeth's Remedies](../shops/elspeths_remedies.md) | [Elspeth](../npcs/elspeth_healer.md) | [Elspeth's House](../maps/elspeths_house.md) | 5 |
 | [The Gap Inn](../shops/gap_inn.md) | [Bethoc](../npcs/bethoc_innkeeper.md) | [The Gap Inn](../maps/gap_inn.md) | 3 |
 | [Greer's Furs](../shops/greers_furs.md) | [Greer](../npcs/greer_furs.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
 | [Gwenna's Outfitting](../shops/gwennas_outfitting.md) | [Gwenna](../npcs/gwenna_outfitter.md) | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | 11 |
 | [Morag's Wool](../shops/morags_wool.md) | [Morag](../npcs/morag_wool.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
-| [Marta's General Store](../shops/grocer.md) | [Old Marta](../npcs/marta.md) | [Kaldemor](../maps/kaldemor.md) | 9 |
-| [Bram's Potions](../shops/potions.md) | [Bram](../npcs/bram.md) | [Kaldemor](../maps/kaldemor.md) | 7 |
-| [Gareth's Smithy](../shops/smith.md) | [Gareth](../npcs/gareth.md) | [Kaldemor](../maps/kaldemor.md) | 25 |
+| [Marta's General Store](../shops/grocer.md) | [Old Marta](../npcs/marta.md) | [Old Marta's Store](../maps/martas_store.md) | 9 |
+| [Bram's Potions](../shops/potions.md) | [Bram](../npcs/bram.md) | [Kaldemor Market](../maps/kaldemor_market.md) | 7 |
+| [Gareth's Smithy](../shops/smith.md) | [Gareth](../npcs/gareth.md) | [Gareth's Smithy](../maps/gareths_smithy.md) | 25 |
 | [Harra's Cheese and Wool](../shops/midbarium_harra.md) | - | - | 5 |
 | [Lessa's Remedies](../shops/midbarium_lessa.md) | - | - | 6 |
 | [The Trading Post](../shops/midbarium_trading_post.md) | - | - | 10 |
 | [Zirra's Bench](../shops/midbarium_zirra.md) | - | - | 10 |
-| [Alys's Cheeses](../shops/alys_cheese.md) | [Alys](../npcs/alys.md) | [Royal Plaza](../maps/selsior.md) | 2 |
+| [Alys's Cheeses](../shops/alys_cheese.md) | [Alys](../npcs/alys.md) | [Crown Market](../maps/selsior_market.md) | 2 |
 | [Emmeline's Flower Stall](../shops/emmeline_flowers.md) | [Emmeline](../npcs/emmeline.md) | [Royal Plaza](../maps/selsior.md) | 4 |
-| [Isabeau's Cloth](../shops/isabeau_cloth.md) | [Isabeau](../npcs/isabeau.md) | [Royal Plaza](../maps/selsior.md) | 5 |
-| [Jasper's Curiosities](../shops/jasper_curios.md) | [Jasper](../npcs/jasper.md) | [Royal Plaza](../maps/selsior.md) | 6 |
-| [Margery's Bakery](../shops/margery_bakery.md) | [Margery](../npcs/margery.md) | [Royal Plaza](../maps/selsior.md) | 3 |
+| [Isabeau's Cloth](../shops/isabeau_cloth.md) | [Isabeau](../npcs/isabeau.md) | [Crown Market](../maps/selsior_market.md) | 5 |
+| [Jasper's Curiosities](../shops/jasper_curios.md) | [Jasper](../npcs/jasper.md) | [Crown Market](../maps/selsior_market.md) | 6 |
+| [Margery's Bakery](../shops/margery_bakery.md) | [Margery](../npcs/margery.md) | [Crown Market](../maps/selsior_market.md) | 3 |
 | [Piers's Pies](../shops/piers_pies.md) | [Piers](../npcs/piers.md) | [Royal Plaza](../maps/selsior.md) | 3 |
-| [Prudence's Reagents](../shops/prudence_reagents.md) | [Prudence](../npcs/prudence.md) | [Prudence's Workshop](../maps/alchemists_workshop.md) | 5 |
-| [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Rosalind](../npcs/rosalind.md) | [Royal Plaza](../maps/selsior.md) | 7 |
+| [Prudence's Reagents](../shops/prudence_reagents.md) | [Prudence](../npcs/prudence.md) | [Scholars' Quarter](../maps/selsior_scholars.md) | 5 |
+| [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Rosalind](../npcs/rosalind.md) | [Crown Market](../maps/selsior_market.md) | 7 |
 | [Vessa's Armour](../shops/selsior_armour.md) | [Vessa](../npcs/vessa.md) | [Selene's Forge](../maps/selenes_forge.md) | 65 |
 | [Selene's Arms](../shops/selsior_arms.md) | [Selene](../npcs/selene.md) | [Selene's Forge](../maps/selenes_forge.md) | 35 |
-| [Dame Orsa's General Store](../shops/selsior_general.md) | [Dame Orsa](../npcs/orsa.md) | [Royal Plaza](../maps/selsior.md) | 9 |
-| [Mirel's Potions](../shops/selsior_potions.md) | [Mirel](../npcs/mirel.md) | [Royal Plaza](../maps/selsior.md) | 13 |
-| [Silas's Fish Stall](../shops/silas_fish.md) | [Silas](../npcs/silas.md) | [Royal Plaza](../maps/selsior.md) | 2 |
+| [Dame Orsa's General Store](../shops/selsior_general.md) | [Dame Orsa](../npcs/orsa.md) | [Crown Market](../maps/selsior_market.md) | 9 |
+| [Mirel's Potions](../shops/selsior_potions.md) | [Mirel](../npcs/mirel.md) | [Crown Market](../maps/selsior_market.md) | 13 |
+| [Silas's Fish Stall](../shops/silas_fish.md) | [Silas](../npcs/silas.md) | [Crown Market](../maps/selsior_market.md) | 2 |
 | [Simkin's Boots](../shops/simkin_boots.md) | [Simkin](../npcs/simkin.md) | [Old Quarter](../maps/selsior_old_quarter.md) | 3 |
 | [Cobble's Boots](../shops/urbanograd_cobble.md) | - | - | 6 |
 | [Crow's Tonics](../shops/urbanograd_crow.md) | [Crow](../npcs/crow_hadley.md) | [The Night Market](../maps/urbanograd_night_market.md) | 11 |
 | [Crumb's Bakery](../shops/urbanograd_crumb.md) | [Crumb](../npcs/crumb.md) | [The Night Market](../maps/urbanograd_night_market.md) | 2 |
 | [Dog-Ear's Old Books](../shops/urbanograd_dogear.md) | [Wendel 'Dog-Ear' Tuck](../npcs/dog_ear_tuck.md) | [The Night Market](../maps/urbanograd_night_market.md) | 14 |
-| [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) | [Dyna](../npcs/dyna_wick.md) | [Dyna's Shop](../maps/urbanograd_tailor.md) | 10 |
+| [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) | [Dyna](../npcs/dyna_wick.md) | [Urbanograd](../maps/urbanograd.md) | 10 |
 | [Ferro's Forge](../shops/urbanograd_ferro.md) | - | - | 8 |
 | [Glim's Lanterns](../shops/urbanograd_glim.md) | [Glim](../npcs/glim_kessel.md) | [The Night Market](../maps/urbanograd_night_market.md) | 5 |
 | [Ladle's Skewers](../shops/urbanograd_ladle.md) | [Hester 'Ladle' Cray](../npcs/juniper_cray.md) | [The Night Market](../maps/urbanograd_night_market.md) | 3 |

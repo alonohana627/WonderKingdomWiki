@@ -39,6 +39,7 @@
 
 ## Quests
 
+- [The Second Stick](../quests/kesh_the_second_stick.md)
 - [The Ridge Bounty](../quests/skarra_ridge_bounty.md)
 - [Touched on the Ridges](../quests/skarra_ridge_elites.md)
 - [The Worst Stretch](../quests/tavi_the_worst_stretch.md)

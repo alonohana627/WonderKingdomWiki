@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Skarra](../npcs/skarra_uskari.md) |
 | Level | 16 |
-| Leads to | [Red Dots](../quests/skarra_red_dots.md), [The Canyon Stretch](../quests/skarra_the_canyon_stretch.md) |
+| After | [Cheese for the Road](../quests/harra_cheese_for_the_road.md) |
+| Leads to | [Letters to the East](../quests/odda_letters_to_the_east.md), [Red Dots](../quests/skarra_red_dots.md), [The Canyon Stretch](../quests/skarra_the_canyon_stretch.md) |
 
 ## Objectives
 
@@ -34,4 +35,4 @@
     - Then someone else walks it twice. Fine.
     - Forty [Ridge Stump](../monsters/ridge_stump.md)s on [The North Ridge](../maps/north_ridge.md), then the Trail Watch post.
     - The post says you came in with bark in your hair and nothing broken. That is a good patrol.
-    - Potions, and the watch's thanks, which we do not give out often. Come back when you want more of this. There is always more of this.
+    - Potions, and the watch's thanks, which we do not give out often. Odda Brenna has letters that cannot get east while the trail is bad, and I told her you walk well. Go and see [Odda](../npcs/odda_brenna.md) at the Brenna House.

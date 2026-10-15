@@ -13,6 +13,7 @@
 
 - [The Weathered Rocks](../maps/weathered_rocks.md)
 - [The War Camp Ruins](../maps/war_camp_ruins.md)
+- [The Watch Post Tent](../maps/camp_watch_tent.md)
 
 ## NPCs
 

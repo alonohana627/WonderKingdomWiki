@@ -12,9 +12,18 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [Mabbu's Tent](../maps/mabbus_tent.md) | Town | - | - | - |
 | [Midbarium](../maps/midbarium.md) | Town | - | - | - |
+| [Sennu's Tent](../maps/sennus_tent.md) | Town | - | - | - |
+| [Tavi's Tent](../maps/tavis_tent.md) | Town | - | - | - |
+| [The Brenna House](../maps/brenna_house.md) | Town | - | - | - |
 | [The Great Hall](../maps/great_hall.md) | Town | - | - | - |
+| [The Kragvar Forge](../maps/kragvar_forge.md) | Town | - | - | - |
+| [The Tolmach Store Tent](../maps/tolmach_store_tent.md) | Town | - | - | - |
 | [The Trading Post](../maps/trading_post.md) | Town | - | - | - |
+| [The Trail Watch Tent](../maps/trail_watch_tent.md) | Town | - | - | - |
+| [The Watch Post Tent](../maps/camp_watch_tent.md) | Town | - | - | - |
+| [Yarrek and Harra's Tent](../maps/yarreks_tent.md) | Town | - | - | - |
 | [Zirra's Workshop](../maps/zirras_workshop.md) | Town | - | - | - |
 
 ### Fields
@@ -72,9 +81,9 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Boss | Level | Arena | Modes |
 |---|---|---|---|
 | [Hollowmaw](../bosses/hollowmaw.md) | 26 | [The Sunken Pool](../maps/sunken_pool.md) | Normal |
-| [Old Gnarl](../bosses/old_gnarl.md) | 30 | [Howling Peak](../maps/howling_peak.md) | Normal |
-| [Grimhorn](../bosses/grimhorn.md) | 50 | [The Ash Mesa](../maps/ash_mesa.md) | Normal |
-| [The Rootdrinker](../bosses/rootdrinker.md) | 70 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Normal |
+| [Old Gnarl](../bosses/old_gnarl.md) | 30 | [Howling Peak](../maps/howling_peak.md) | Normal, Hard |
+| [Grimhorn](../bosses/grimhorn.md) | 50 | [The Ash Mesa](../maps/ash_mesa.md) | Normal, Hard |
+| [The Rootdrinker](../bosses/rootdrinker.md) | 70 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Normal, Hard |
 
 ## Runs
 
@@ -86,7 +95,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | NPC | Title | Where | Services | Lore |
 |---|---|---|---|---|
-| [Ahvi](../npcs/ahvi_brenna.md) | Song-Keeper | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/ahvi_brenna.md) |
+| [Ahvi](../npcs/ahvi_brenna.md) | Song-Keeper | [The Brenna House](../maps/brenna_house.md) | Quests | [Story](../lore/people/midbarium/ahvi_brenna.md) |
 | [Bekk](../npcs/bekk_uskari.md) | Trail Watch Scout | [Midbarium](../maps/midbarium.md) | Boss: [Grimhorn](../bosses/grimhorn.md), Quests | [Story](../lore/people/midbarium/bekk_uskari.md) |
 | [Brakka](../npcs/brakka_kragvar.md) | Apprentice Mason | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/brakka_kragvar.md) |
 | [Corwell](../npcs/corwell.md) | Keeper of the Trading Post | [The Trading Post](../maps/trading_post.md) | Quests | [Story](../lore/people/midbarium/corwell.md) |
@@ -101,10 +110,10 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Ketta](../npcs/ketta_uskari.md) | Returned Adventurer | [Midbarium](../maps/midbarium.md) | Boss: [Hollowmaw](../bosses/hollowmaw.md), Quests | [Story](../lore/people/midbarium/ketta_uskari.md) |
 | [Korrin](../npcs/korrin_kragvar.md) | Chieftain's Son | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/korrin_kragvar.md) |
 | [Kragvar Mason](../npcs/kragvar_mason.md) |  | [Midbarium](../maps/midbarium.md) | - | - |
-| [Lessa](../npcs/lessa_brenna.md) | Bonesetter | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/lessa_brenna.md) |
+| [Lessa](../npcs/lessa_brenna.md) | Bonesetter | [The Brenna House](../maps/brenna_house.md) | Quests | [Story](../lore/people/midbarium/lessa_brenna.md) |
 | [Mabbu](../npcs/mabbu_tolmach.md) | Elder of the Camps | [Midbarium](../maps/midbarium.md) | Storage, Quests | [Story](../lore/people/midbarium/mabbu_tolmach.md) |
-| [Neffa](../npcs/neffa_brenna.md) | Song Learner | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/neffa_brenna.md) |
-| [Odda](../npcs/odda_brenna.md) | Chieftain of the Brenna | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/odda_brenna.md) |
+| [Neffa](../npcs/neffa_brenna.md) | Song Learner | [The Brenna House](../maps/brenna_house.md) | Quests | [Story](../lore/people/midbarium/neffa_brenna.md) |
+| [Odda](../npcs/odda_brenna.md) | Chieftain of the Brenna | [The Brenna House](../maps/brenna_house.md) | Quests | [Story](../lore/people/midbarium/odda_brenna.md) |
 | [Sennu](../npcs/sennu_tolmach.md) | Chieftain of the Tolmach | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/sennu_tolmach.md) |
 | [Skarra](../npcs/skarra_uskari.md) | Captain of the Trail Watch | [Midbarium](../maps/midbarium.md) | Quests | [Story](../lore/people/midbarium/skarra_uskari.md) |
 | [Tavi](../npcs/tavi_uskari.md) | Chieftain of the Uskari | [Midbarium](../maps/midbarium.md) | Boss: [Old Gnarl](../bosses/old_gnarl.md), Quests | [Story](../lore/people/midbarium/tavi_uskari.md) |

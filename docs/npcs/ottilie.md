@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Harbour Hall](../maps/bain_hall.md) |
+| Where | [The Counting House](../maps/bain_counting_house.md) |
 | Story | [Ottilie in the lore](../lore/people/bain-harbour/ottilie.md) |
 | Services | Quests |
 

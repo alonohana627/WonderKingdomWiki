@@ -12,13 +12,27 @@ Lore: [Bain Harbour](../lore/towns/bain-harbour.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [A Fisher's Cottage](../maps/marram_cottage_east.md) | Town | - | - |
+| [A Fisher's Cottage](../maps/marram_cottage_west.md) | Town | - | - |
+| [A Harbour House](../maps/bain_harbour_house.md) | Town | - | - |
 | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Town | - | - |
 | [Bain Harbour](../maps/bain_harbour.md) | Town | - | - |
+| [Clemence's House](../maps/bain_clinic.md) | Town | - | - |
+| [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | Town | - | - |
 | [Harbour Hall](../maps/bain_hall.md) | Town | - | - |
+| [Marisol's Spice House](../maps/bain_spice_house.md) | Town | - | - |
 | [Marram Cove](../maps/marram_cove.md) | Town | - | - |
+| [Thaddeus's House](../maps/bain_thaddeus_house.md) | Town | - | - |
+| [The Counting House](../maps/bain_counting_house.md) | Town | - | - |
+| [The Customs House](../maps/bain_customs_house.md) | Town | - | - |
+| [The Dock Office](../maps/bain_dock_office.md) | Town | - | - |
 | [The Docks](../maps/bain_docks.md) | Town | - | - |
+| [The Merchants' Exchange](../maps/bain_exchange.md) | Town | - | - |
+| [The Net House](../maps/marram_net_house.md) | Town | - | - |
 | [The Salt and Bread](../maps/bain_inn.md) | Town | - | - |
+| [The Union Warehouse](../maps/bain_warehouse.md) | Town | - | - |
 | [The Watch House](../maps/bain_watch_house.md) | Town | - | - |
+| [Wilmot's House](../maps/bain_ropemakers_house.md) | Town | - | - |
 | [The Chalk Downs](../maps/chalk_downs.md) | Road | 13 | 4 |
 | [Baysight Hill](../maps/baysight_hill.md) | Road | 15 | 5 |
 | [The Dune Reach](../maps/dune_reach.md) | Road | 17 | 6 |
@@ -59,7 +73,18 @@ Lore: [Kaldemor](../lore/towns/kaldemor.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [Bess's Apothecary](../maps/bess_apothecary.md) | Town | - | - |
+| [Gareth's Smithy](../maps/gareths_smithy.md) | Town | - | - |
+| [Hilda's Storehouse](../maps/hildas_storehouse.md) | Town | - | - |
 | [Kaldemor](../maps/kaldemor.md) | Town | - | - |
+| [Kaldemor Market](../maps/kaldemor_market.md) | Town | - | - |
+| [Lia's House](../maps/lias_house.md) | Town | - | - |
+| [Mushroom Park](../maps/kaldemor_park.md) | Town | - | - |
+| [Old Marta's Store](../maps/martas_store.md) | Town | - | - |
+| [The Clock Tower](../maps/clock_tower.md) | Town | - | - |
+| [The Mayor's House](../maps/tobins_house.md) | Town | - | - |
+| [The Sleepy Snail](../maps/the_sleepy_snail.md) | Town | - | - |
+| [The Workshops](../maps/the_workshops.md) | Town | - | - |
 | [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1-4 | 1 |
 | [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 7-10 | 2 |
 | [The Hanging Course](../maps/gauntlet_course.md) | Run | - | 3 |
@@ -112,21 +137,22 @@ Lore: [Selsior](../lore/towns/selsior.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [A Market House](../maps/market_house.md) | Town | - | - |
+| [Crown Market](../maps/selsior_market.md) | Town | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - |
 | [Palace](../maps/selsior_palace.md) | Town | - | - |
-| [Prudence's Workshop](../maps/alchemists_workshop.md) | Town | - | - |
 | [Riverside](../maps/selsior_riverside.md) | Town | - | - |
 | [Royal Plaza](../maps/selsior.md) | Town | - | - |
 | [Scholars' Quarter](../maps/selsior_scholars.md) | Town | - | - |
 | [Selene's Forge](../maps/selenes_forge.md) | Town | - | - |
 | [Selsior Gate](../maps/selsior_gate.md) | Town | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - |
-| [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - |
-| [The Royal Academy Library](../maps/academy_library.md) | Town | - | - |
+| [The Palace Quarters](../maps/palace_quarters.md) | Town | - | - |
 | [The Royal Vault](../maps/royal_vault.md) | Town | - | - |
+| [The Throne Hall](../maps/throne_hall.md) | Town | - | - |
 | [Theatre Row](../maps/selsior_theatre.md) | Town | - | - |
 | [The Delver's Burrow](../maps/delvers_burrow.md) | Boss | 30 | 0 |
 | [The First Cut](../maps/first_cut.md) | Boss | 70 | 0 |
@@ -160,13 +186,24 @@ Lore: [Fairy Forest](../lore/towns/fairy-forest.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [A Glade Home](../maps/glade_west_home.md) | Town | - | 0 |
+| [A Glade Home, East](../maps/glade_east_home.md) | Town | - | 0 |
+| [Celandine's Remedy House](../maps/remedy_house.md) | Town | - | 0 |
 | [Children's Glade](../maps/childrens_glade.md) | Town | - | 0 |
 | [Fairy Forest](../maps/fairy_forest.md) | Town | - | 0 |
 | [Galen's Staves and Scrolls](../maps/galens_shop.md) | Town | - | 0 |
 | [Grove School](../maps/grove_school.md) | Town | - | 0 |
+| [Halcy's Weaving Room](../maps/glade_basket_house.md) | Town | - | 0 |
+| [Hesper's Cottage](../maps/hesper_cottage.md) | Town | - | 0 |
+| [Merrow and Celandine's Home](../maps/gardeners_home.md) | Town | - | 0 |
+| [Ondine's Lantern Workshop](../maps/lantern_workshop.md) | Town | - | 0 |
+| [The Bloomwood Waystation](../maps/bloomwood_waystation.md) | Town | - | 0 |
 | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Town | - | 0 |
+| [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | Town | - | 0 |
+| [The Glade's Story House](../maps/glade_book_house.md) | Town | - | 0 |
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Town | - | 0 |
 | [The Old Records](../maps/old_records.md) | Town | - | 0 |
+| [The Oldest Home](../maps/oriels_old_home.md) | Town | - | 0 |
 | [The Forest's Hem](../maps/forests_hem.md) | Road | 9-11 | 3 |
 | [The Glimmer Path](../maps/glimmer_path.md) | Road | 9-12 | 4 |
 | [The Bloomwood](../maps/bloomwood.md) | Road | 11-13 | 5 |
@@ -206,12 +243,17 @@ Lore: [Goa Harbour](../lore/towns/goa-harbour.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [Agna's Net Loft](../maps/agnas_net_loft.md) | Town | - | - |
+| [Elspeth's House](../maps/elspeths_house.md) | Town | - | - |
 | [Goa Harbour](../maps/goa_harbour.md) | Town | - | - |
 | [Gull Heath](../maps/gull_heath.md) | Town | - | - |
 | [Gunna's Workshop](../maps/gunnas_workshop.md) | Town | - | - |
 | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | Town | - | - |
+| [Kestra's Rope Loft](../maps/kestras_rope_loft.md) | Town | - | - |
+| [The Cliff Watch House](../maps/cliff_watch_house.md) | Town | - | - |
 | [The Gap Inn](../maps/gap_inn.md) | Town | - | - |
 | [The Wardens' House](../maps/wardens_house.md) | Town | - | - |
+| [Ysmay's House](../maps/ysmays_house.md) | Town | - | - |
 | [Below the Anvil, at Night](../maps/anvil_night.md) | Run | - | - |
 | [Brushtail's Earth](../maps/brushtails_earth.md) | Boss | 30 | - |
 | [Caddoc's Trap, at Night](../maps/caddocs_trap_night.md) | Run | - | - |
@@ -247,10 +289,19 @@ Lore: [Midbarium](../lore/towns/midbarium.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [Mabbu's Tent](../maps/mabbus_tent.md) | Town | - | - |
 | [Midbarium](../maps/midbarium.md) | Town | - | - |
+| [Sennu's Tent](../maps/sennus_tent.md) | Town | - | - |
+| [Tavi's Tent](../maps/tavis_tent.md) | Town | - | - |
+| [The Brenna House](../maps/brenna_house.md) | Town | - | - |
 | [The Great Hall](../maps/great_hall.md) | Town | - | - |
+| [The Kragvar Forge](../maps/kragvar_forge.md) | Town | - | - |
 | [The Old War Camp](../maps/old_war_camp.md) | Town | - | - |
+| [The Tolmach Store Tent](../maps/tolmach_store_tent.md) | Town | - | - |
 | [The Trading Post](../maps/trading_post.md) | Town | - | - |
+| [The Trail Watch Tent](../maps/trail_watch_tent.md) | Town | - | - |
+| [The Watch Post Tent](../maps/camp_watch_tent.md) | Town | - | - |
+| [Yarrek and Harra's Tent](../maps/yarreks_tent.md) | Town | - | - |
 | [Zirra's Workshop](../maps/zirras_workshop.md) | Town | - | - |
 | [The Canyon Road](../maps/canyon_road.md) | Road | 15 | 5 |
 | [The North Ridge](../maps/north_ridge.md) | Road | 17 | 6 |
@@ -293,13 +344,18 @@ Lore: [Urbanograd](../lore/towns/urbanograd.md)
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
 | [Cobble's Shop](../maps/urbanograd_bootmaker.md) | Town | - | - |
-| [Dyna's Shop](../maps/urbanograd_tailor.md) | Town | - | - |
 | [Ferro's Forge](../maps/urbanograd_forge.md) | Town | - | - |
+| [Hex's Shop](../maps/urbanograd_hex_shop.md) | Town | - | - |
+| [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md) | Town | - | - |
 | [Margo's Workshop](../maps/urbanograd_workshop.md) | Town | - | - |
 | [Patch's Herb House](../maps/urbanograd_herb_house.md) | Town | - | - |
+| [The Carters' Hut](../maps/carters_hut.md) | Town | - | - |
 | [The Great Hall](../maps/urbanograd_great_hall.md) | Town | - | - |
 | [The Night Market](../maps/urbanograd_night_market.md) | Town | - | - |
+| [The Old Barracks Theatre](../maps/urbanograd_theatre.md) | Town | - | - |
 | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Town | - | - |
+| [The Painted Shed](../maps/stackyard_shed.md) | Town | - | - |
+| [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md) | Town | - | - |
 | [Urbanograd](../maps/urbanograd.md) | Town | - | - |
 | [The Halfway Stone](../maps/halfway_stone.md) | Road | 14-15 | 3 |
 | [Gate Meadows](../maps/gate_meadows.md) | Road | 16-17 | 4 |
@@ -331,6 +387,14 @@ Regional mastery, earned by making discoveries here:
 
 - **Street Sense** (2 discoveries): 600 mesos
 - **Old Grad Native** (4 discoveries): 1,500 mesos
+
+### The World Tree {#world-tree}
+
+
+### Cavelor {#cavelor}
+
+Lore: [Cavelor](../lore/towns/cavelor.md)
+
 
 ## Taxis
 

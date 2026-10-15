@@ -384,7 +384,7 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 ??? quote "What you see"
     Up close the Great Bell is green with age and warm from the sun. The metal of all four peoples went into it, and the plaza was a treaty field before it was a plaza.
 
-## The View from the High Lane {#skywalk-view}
+## The View from the Palace Ledge {#skywalk-view}
 
 |  |  |
 |---|---|
@@ -394,7 +394,7 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 | Reward | 500 EXP, 200 mesos |
 
 ??? quote "What you see"
-    From the highest lane above the plaza the whole capital spreads out: the palace roofs, the market's awnings and, far to the north, the World Tree against the sky.
+    From the high ledge above the plaza the whole capital spreads out: the palace roofs, the market's awnings and, far to the north, the World Tree against the sky.
 
 ## The World Tree's Foot {#the-trees-foot}
 

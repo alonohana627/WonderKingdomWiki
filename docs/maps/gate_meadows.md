@@ -17,6 +17,7 @@
 - [Urbanograd](../maps/urbanograd.md)
 - [The Halfway Stone](../maps/halfway_stone.md)
 - [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
+- [The Painted Shed](../maps/stackyard_shed.md)
 - [Seepwater Foothills](../maps/seepwater_foothills.md)
 - [Dusk Ford](../maps/dusk_ford.md)
 

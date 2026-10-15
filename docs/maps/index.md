@@ -4,13 +4,27 @@
 
 | Map | Region | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|---|
+| [A Fisher's Cottage](../maps/marram_cottage_east.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [A Fisher's Cottage](../maps/marram_cottage_west.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [A Harbour House](../maps/bain_harbour_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [Bain Harbour](../maps/bain_harbour.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Clemence's House](../maps/bain_clinic.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [Harbour Hall](../maps/bain_hall.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Marisol's Spice House](../maps/bain_spice_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [Marram Cove](../maps/marram_cove.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Thaddeus's House](../maps/bain_thaddeus_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Counting House](../maps/bain_counting_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Customs House](../maps/bain_customs_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Dock Office](../maps/bain_dock_office.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [The Docks](../maps/bain_docks.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Merchants' Exchange](../maps/bain_exchange.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Net House](../maps/marram_net_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [The Salt and Bread](../maps/bain_inn.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Union Warehouse](../maps/bain_warehouse.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [The Watch House](../maps/bain_watch_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Wilmot's House](../maps/bain_ropemakers_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
 | [The Chalk Downs](../maps/chalk_downs.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 13 | 4 | [Scrub Wolf](../monsters/scrub_wolf.md) |
 | [Baysight Hill](../maps/baysight_hill.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 15 | 5 | [Bluff Wildcat](../monsters/bluff_wildcat.md) |
 | [The Dune Reach](../maps/dune_reach.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 17 | 6 | [Dune Cat](../monsters/dune_cat.md) |
@@ -39,7 +53,18 @@
 | [The Old Fellings](../maps/old_fellings.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 66 | 21 | [Glimshade](../monsters/glimshade.md) |
 | [The Rim](../maps/the_rim.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 57-66 | 22 | [Whipshade](../monsters/whipshade.md), [Glimshade](../monsters/glimshade.md), [Hookshade](../monsters/hookshade.md) |
 | [The Lantern Deep](../maps/lantern_deep.md) | [Bain Harbour](../world/index.md#bain-harbour) | Boss | 70 | 23 | - |
+| [Bess's Apothecary](../maps/bess_apothecary.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Gareth's Smithy](../maps/gareths_smithy.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Hilda's Storehouse](../maps/hildas_storehouse.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
 | [Kaldemor](../maps/kaldemor.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Kaldemor Market](../maps/kaldemor_market.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Lia's House](../maps/lias_house.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Mushroom Park](../maps/kaldemor_park.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Old Marta's Store](../maps/martas_store.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [The Clock Tower](../maps/clock_tower.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [The Mayor's House](../maps/tobins_house.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [The Sleepy Snail](../maps/the_sleepy_snail.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [The Workshops](../maps/the_workshops.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
 | [Kaldemor Field](../maps/kaldemor_field.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1-4 | 1 | [Shroom](../monsters/shroom.md), [Red Snail](../monsters/red_snail.md), [Blue Snail](../monsters/blue_snail.md), [Snail](../monsters/snail.md) |
 | [Kaldemor Hills](../maps/kaldemor_hills.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 7-10 | 2 | [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md), [Pig](../monsters/pig.md) |
 | [The Hanging Course](../maps/gauntlet_course.md) | [Kaldemor](../world/index.md#kaldemor) | Run | - | 3 | - |
@@ -70,21 +95,22 @@
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | [The Royal Road](../world/index.md#royal-road) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
 | [The Crossing](../maps/the_crossing.md) | [The Royal Road](../world/index.md#royal-road) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
 | [The Greenwood](../maps/the_greenwood.md) | [The Royal Road](../world/index.md#royal-road) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [A Market House](../maps/market_house.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Palace](../maps/selsior_palace.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [Prudence's Workshop](../maps/alchemists_workshop.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Riverside](../maps/selsior_riverside.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Royal Plaza](../maps/selsior.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Scholars' Quarter](../maps/selsior_scholars.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Selene's Forge](../maps/selenes_forge.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Selsior Gate](../maps/selsior_gate.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [The Crooked Lantern](../maps/crooked_lantern.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
-| [The Royal Academy Library](../maps/academy_library.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Palace Quarters](../maps/palace_quarters.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Royal Vault](../maps/royal_vault.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Throne Hall](../maps/throne_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Theatre Row](../maps/selsior_theatre.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [The Delver's Burrow](../maps/delvers_burrow.md) | [Selsior](../world/index.md#selsior) | Boss | 30 | 0 | - |
 | [The First Cut](../maps/first_cut.md) | [Selsior](../world/index.md#selsior) | Boss | 70 | 0 | - |
@@ -106,13 +132,24 @@
 | [The Spoil Heaps](../maps/spoil_heaps.md) | [Selsior](../world/index.md#selsior) | Hunting | 53 | 16 | [Rubble Golem](../monsters/rubble_golem.md) |
 | [The Terraced Cuts](../maps/terraced_cuts.md) | [Selsior](../world/index.md#selsior) | Hunting | 58 | 18 | [Quarry Golem](../monsters/quarry_golem.md) |
 | [The Deep Cut](../maps/deep_cut.md) | [Selsior](../world/index.md#selsior) | Hunting | 63-67 | 20 | [Dark Quarry Golem](../monsters/dark_quarry_golem.md), [Cut Golem](../monsters/cut_golem.md) |
+| [A Glade Home](../maps/glade_west_home.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [A Glade Home, East](../maps/glade_east_home.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Celandine's Remedy House](../maps/remedy_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [Children's Glade](../maps/childrens_glade.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [Fairy Forest](../maps/fairy_forest.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [Galen's Staves and Scrolls](../maps/galens_shop.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [Grove School](../maps/grove_school.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Halcy's Weaving Room](../maps/glade_basket_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Hesper's Cottage](../maps/hesper_cottage.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Merrow and Celandine's Home](../maps/gardeners_home.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Ondine's Lantern Workshop](../maps/lantern_workshop.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Bloomwood Waystation](../maps/bloomwood_waystation.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Glade's Story House](../maps/glade_book_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Old Records](../maps/old_records.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Oldest Home](../maps/oriels_old_home.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
 | [The Forest's Hem](../maps/forests_hem.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 9-11 | 3 | [Bubbling](../monsters/bubbling.md), [Slime](../monsters/slime.md) |
 | [The Glimmer Path](../maps/glimmer_path.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 9-12 | 4 | [Slime](../monsters/slime.md), [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
 | [The Bloomwood](../maps/bloomwood.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 11-13 | 5 | [Glimmerwing](../monsters/glimmerwing.md), [Bubbling](../monsters/bubbling.md) |
@@ -140,12 +177,17 @@
 | [The Twilit Wood, II](../maps/twilit_wood_2.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 64-66 | 28 | [Night Glimmerfox](../monsters/night_glimmerfox.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
 | [The Twilit Wood, III](../maps/twilit_wood_3.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 66-68 | 29 | [Deep Spring Sprite](../monsters/deep_spring_sprite.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
 | [The Hidden Spring](../maps/hidden_spring.md) | [Fairy Forest](../world/index.md#fairy-forest) | Boss | 70 | 30 | - |
+| [Agna's Net Loft](../maps/agnas_net_loft.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Elspeth's House](../maps/elspeths_house.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [Goa Harbour](../maps/goa_harbour.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [Gull Heath](../maps/gull_heath.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [Gunna's Workshop](../maps/gunnas_workshop.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Kestra's Rope Loft](../maps/kestras_rope_loft.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [The Cliff Watch House](../maps/cliff_watch_house.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [The Gap Inn](../maps/gap_inn.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [The Wardens' House](../maps/wardens_house.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Ysmay's House](../maps/ysmays_house.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
 | [Below the Anvil, at Night](../maps/anvil_night.md) | [Goa Harbour](../world/index.md#goa-harbour) | Run | - | - | - |
 | [Brushtail's Earth](../maps/brushtails_earth.md) | [Goa Harbour](../world/index.md#goa-harbour) | Boss | 30 | - | - |
 | [Caddoc's Trap, at Night](../maps/caddocs_trap_night.md) | [Goa Harbour](../world/index.md#goa-harbour) | Run | - | - | - |
@@ -169,10 +211,19 @@
 | [The Still Pool](../maps/still_pool.md) | [Goa Harbour](../world/index.md#goa-harbour) | Dungeon | 20 | 14 | [Cave Octopus](../monsters/cave_octopus.md), [Glowjelly](../monsters/glowjelly.md), [Blind Bat](../monsters/blind_bat.md) |
 | [The Greystrand](../maps/drowned_strand.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 52-61 | 15 | [Saltdead Stump](../monsters/saltdead_stump.md), [Wrackgolem](../monsters/wrackgolem.md) |
 | [The Skerries](../maps/skerries.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 61-66 | 16 | [Wrackgolem](../monsters/wrackgolem.md), [Grey Bull](../monsters/grey_bull.md) |
+| [Mabbu's Tent](../maps/mabbus_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [Midbarium](../maps/midbarium.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [Sennu's Tent](../maps/sennus_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [Tavi's Tent](../maps/tavis_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Brenna House](../maps/brenna_house.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [The Great Hall](../maps/great_hall.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Kragvar Forge](../maps/kragvar_forge.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [The Old War Camp](../maps/old_war_camp.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Tolmach Store Tent](../maps/tolmach_store_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [The Trading Post](../maps/trading_post.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Trail Watch Tent](../maps/trail_watch_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Watch Post Tent](../maps/camp_watch_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [Yarrek and Harra's Tent](../maps/yarreks_tent.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [Zirra's Workshop](../maps/zirras_workshop.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
 | [The Canyon Road](../maps/canyon_road.md) | [Midbarium](../world/index.md#midbarium) | Road | 15 | 5 | [Dust Boggle](../monsters/dust_boggle.md) |
 | [The North Ridge](../maps/north_ridge.md) | [Midbarium](../world/index.md#midbarium) | Road | 17 | 6 | [Ridge Stump](../monsters/ridge_stump.md) |
@@ -203,13 +254,18 @@
 | [The Red Ravine](../maps/red_ravine.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 65-67 | 27 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md), [Stone Hulk](../monsters/stone_hulk.md) |
 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | [Midbarium](../world/index.md#midbarium) | Boss | 70 | 30 | - |
 | [Cobble's Shop](../maps/urbanograd_bootmaker.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
-| [Dyna's Shop](../maps/urbanograd_tailor.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [Ferro's Forge](../maps/urbanograd_forge.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Hex's Shop](../maps/urbanograd_hex_shop.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [Margo's Workshop](../maps/urbanograd_workshop.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [Patch's Herb House](../maps/urbanograd_herb_house.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Carters' Hut](../maps/carters_hut.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [The Great Hall](../maps/urbanograd_great_hall.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [The Night Market](../maps/urbanograd_night_market.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Old Barracks Theatre](../maps/urbanograd_theatre.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Painted Shed](../maps/stackyard_shed.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [Urbanograd](../maps/urbanograd.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
 | [The Halfway Stone](../maps/halfway_stone.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 14-15 | 3 | [Stack Rat](../monsters/stack_rat.md), [Pool Octopus](../monsters/pool_octopus.md) |
 | [Gate Meadows](../maps/gate_meadows.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 16-17 | 4 | [Verge Adder](../monsters/verge_adder.md), [Young Gloomeye](../monsters/young_gloomeye.md) |

@@ -12,6 +12,8 @@
 ## Exits
 
 - [Bain Harbour](../maps/bain_harbour.md)
+- [The Salt and Bread](../maps/bain_inn.md)
+- [The Salt and Bread](../maps/bain_inn.md)
 
 ## NPCs
 

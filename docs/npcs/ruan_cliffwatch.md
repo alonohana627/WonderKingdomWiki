@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Cliff Watch House](../maps/cliff_watch_house.md) |
 | Story | [Ruan in the lore](../lore/people/goa-harbour/ruan_cliffwatch.md) |
 | Services | Quests |
 

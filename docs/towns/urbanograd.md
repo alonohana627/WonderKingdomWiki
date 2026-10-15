@@ -13,13 +13,18 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [Cobble's Shop](../maps/urbanograd_bootmaker.md) | Town | - | - | - |
-| [Dyna's Shop](../maps/urbanograd_tailor.md) | Town | - | - | - |
 | [Ferro's Forge](../maps/urbanograd_forge.md) | Town | - | - | - |
+| [Hex's Shop](../maps/urbanograd_hex_shop.md) | Town | - | - | - |
+| [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md) | Town | - | - | - |
 | [Margo's Workshop](../maps/urbanograd_workshop.md) | Town | - | - | - |
 | [Patch's Herb House](../maps/urbanograd_herb_house.md) | Town | - | - | - |
+| [The Carters' Hut](../maps/carters_hut.md) | Town | - | - | - |
 | [The Great Hall](../maps/urbanograd_great_hall.md) | Town | - | - | - |
 | [The Night Market](../maps/urbanograd_night_market.md) | Town | - | - | - |
+| [The Old Barracks Theatre](../maps/urbanograd_theatre.md) | Town | - | - | - |
 | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Town | - | - | - |
+| [The Painted Shed](../maps/stackyard_shed.md) | Town | - | - | - |
+| [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md) | Town | - | - | - |
 | [Urbanograd](../maps/urbanograd.md) | Town | - | - | - |
 
 ### The Walkers' Road
@@ -107,7 +112,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Dimity 'Inkpot' Ash](../npcs/dimity_ash.md) | Scribe of the Open Table | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests | [Story](../lore/people/urbanograd/dimity_ash.md) |
 | [Dina Finch](../npcs/orla_finch.md) | Director of the Old Barracks Troupe | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests | [Story](../lore/people/urbanograd/orla_finch.md) |
 | [Drum](../npcs/drum.md) | Bucket Drummer | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/drum.md) |
-| [Dyna](../npcs/dyna_wick.md) | Tailor of Loud Clothes | [Dyna's Shop](../maps/urbanograd_tailor.md) | Shop: [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) | [Story](../lore/people/urbanograd/dyna_wick.md) |
+| [Dyna](../npcs/dyna_wick.md) | Tailor of Loud Clothes | [Urbanograd](../maps/urbanograd.md) | Shop: [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) | [Story](../lore/people/urbanograd/dyna_wick.md) |
 | [Edgar Penhallow](../npcs/alder_penhallow.md) | Guild Apprentice from Selsior | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/alder_penhallow.md) |
 | [Ferro](../npcs/ferro.md) | Smith of Odd Metals | [Ferro's Forge](../maps/urbanograd_forge.md) | Quests | [Story](../lore/people/urbanograd/ferro.md) |
 | [Figgy](../npcs/figgy.md) | Chalk Artist | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/figgy.md) |
@@ -116,8 +121,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Hambone](../npcs/hambone.md) | Keeper of the Theatre Cart | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests | [Story](../lore/people/urbanograd/hambone.md) |
 | [Hatch](../npcs/hatch.md) | Monster Hunter | [Urbanograd](../maps/urbanograd.md) | Boss: [Hackleback](../bosses/hackleback.md), Quests | [Story](../lore/people/urbanograd/hatch.md) |
 | [Hester 'Ladle' Cray](../npcs/juniper_cray.md) | Skewer Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Ladle's Skewers](../shops/urbanograd_ladle.md) | [Story](../lore/people/urbanograd/juniper_cray.md) |
-| [Hex](../npcs/hex_dunmore.md) | Puzzle-Box Maker | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/hex_dunmore.md) |
-| [Ivo Sable](../npcs/ivo_sable.md) | Street Healer | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/ivo_sable.md) |
+| [Hex](../npcs/hex_dunmore.md) | Puzzle-Box Maker | [Hex's Shop](../maps/urbanograd_hex_shop.md) | Quests | [Story](../lore/people/urbanograd/hex_dunmore.md) |
+| [Ivo Sable](../npcs/ivo_sable.md) | Street Healer | [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md) | Quests | [Story](../lore/people/urbanograd/ivo_sable.md) |
 | [Jinx](../npcs/jinx.md) | Juggler of Lantern Square | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/jinx.md) |
 | [Kite](../npcs/kite.md) | Rooftop Runner | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/kite.md) |
 | [Knox](../npcs/knox.md) | Gate Watch Guard | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/knox.md) |
@@ -135,7 +140,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Perch](../npcs/perch.md) | Pigeon Keeper | [Urbanograd](../maps/urbanograd.md) | Boss: [Stormcrest](../bosses/stormcrest.md), Quests | [Story](../lore/people/urbanograd/perch.md) |
 | [Pip Marrow](../npcs/pip_marrow.md) | Juna's Great-Granddaughter | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests | [Story](../lore/people/urbanograd/pip_marrow.md) |
 | [Piper](../npcs/piper.md) | Songwriter of the Troupe | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests | [Story](../lore/people/urbanograd/piper.md) |
-| [Pounce](../npcs/pounce.md) | Rooftop Cat | [Urbanograd](../maps/urbanograd.md) | - | [Story](../lore/people/urbanograd/pounce.md) |
+| [Pounce](../npcs/pounce.md) | Rooftop Cat | [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md) | - | [Story](../lore/people/urbanograd/pounce.md) |
 | [Prism](../npcs/prism.md) | Light-Painter from the Forest | [Urbanograd](../maps/urbanograd.md) | Quests | [Story](../lore/people/urbanograd/prism.md) |
 | [Quint](../npcs/quint_holloway.md) | Keeper of the Charter Scroll | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests | [Story](../lore/people/urbanograd/quint_holloway.md) |
 | [Remy Marlo](../npcs/kesh_marlo.md) | Smoked Fish Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Remy's Smoked Fish](../shops/urbanograd_remy.md) | [Story](../lore/people/urbanograd/kesh_marlo.md) |

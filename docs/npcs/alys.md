@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Alys in the lore](../lore/people/selsior/alys.md) |
 | Services | Shop: [Alys's Cheeses](../shops/alys_cheese.md) |
 

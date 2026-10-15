@@ -2,7 +2,7 @@
 
 # A Word for Tavi
 
-*Sennu needs the trail watch on the ridge path the morning the herds go up, but she and Tavi will not speak to each other. Carry her word to Tavi.*
+*Sennu needs the trail watch on the ridge path the morning the herds go up, but she and Tavi will not speak to each other. Clear 40 Gnarled Stumps on Windworn Hill, then carry her word to Tavi.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [A Safe Pasture](../quests/sennu_a_safe_pasture.md) |
 | Leads to | [Three Goats' Tracks](../quests/yarrek_three_goats.md) |
 
+## Objectives
+
+- Defeat 40 [Gnarled Stump](../monsters/gnarled_stump.md) in [Windworn Hill](../maps/windworn_hill.md)
+
 ## Rewards
 
-- 1,400 EXP
+- 4,600 EXP
 - 440 mesos
 - [Travel Ration](../items/travel_ration.md) x10
 - +40 standing with Midbarium
@@ -26,10 +30,10 @@
 
     - The herds need the watch on the ridge path the morning they go up. One morning, a few spears along the switchbacks. It is not a great thing to ask.
     - But I will not ask it. Tavi told the council last spring the Tolmach should keep closer to town, and I told the council the Uskari should keep their noses out of the herds. We have not said a word to each other since.
-    - So you will say it for me. Go to **[Tavi](../npcs/tavi_uskari.md)** on the Uskari Rim. Tell Tavi the herds go up to the [The Long Ridge](../maps/long_ridge.md) pasture at the next new moon, and the Tolmach would take it kindly if the watch walked the path that morning. Kindly, *Player*. Use that word.
+    - So you will say it for me. But first, the [Gnarled Stump](../monsters/gnarled_stump.md)s on [Windworn Hill](../maps/windworn_hill.md) have crowded the switchbacks the herds climb, so **clear 40 of them**. Then go to **[Tavi](../npcs/tavi_uskari.md)** on the Uskari Rim. Tell Tavi the herds go up to the [The Long Ridge](../maps/long_ridge.md) pasture at the next new moon, and the Tolmach would take it kindly if the watch walked the path that morning. Kindly, *Player*. Use that word.
     - And if Tavi laughs, do not tell me. I will know anyway.
     - No, I suppose it is not your quarrel. It is not really mine either. That is the trouble with it.
-    - [Tavi](../npcs/tavi_uskari.md) is on the Uskari Rim. The herds go up at the next new moon. Kindly.
+    - Forty [Gnarled Stump](../monsters/gnarled_stump.md)s on [Windworn Hill](../maps/windworn_hill.md), then [Tavi](../npcs/tavi_uskari.md) on the Uskari Rim. The herds go up at the next new moon. Kindly.
     - Sennu sent you. With the word kindly in it? Sennu has not said kindly to me in a year.
     - Tell Sennu the watch will be on the switchbacks before the herds are, every spear Tavi can spare. And tell Sennu that Tavi said so first, before being asked twice. That part matters.
     - Now, you. You walked the [The Long Ridge](../maps/long_ridge.md) for Skarra and for Sennu both. There is a stretch further out I walk myself, and I could use someone who does not get tired.

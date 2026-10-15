@@ -2,7 +2,7 @@
 
 # The Verse
 
-*Ahvi has waited all summer for Odda's word on whether to sing her old verse at a gathering. Hear Odda out, then take her answer to Ahvi.*
+*Ahvi has waited all summer for Odda's word on whether to sing her old verse at a gathering. Hunt 80 Bone Hounds in the War Camp Ruins, hear Odda out, then take her answer to Ahvi.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [The Greywater Runs](../quests/ennek_the_greywater_runs.md) |
 | Leads to | [The Gathering](../quests/hask_the_gathering.md) |
 
+## Objectives
+
+- Defeat 80 [Bone Hound](../monsters/bone_hound.md) in [The War Camp Ruins](../maps/war_camp_ruins.md)
+
 ## Rewards
 
-- 39,000 EXP
+- 126,700 EXP
 - 1,360 mesos
 - [Highland Salve](../items/highland_salve.md) x5
 - [Rimwort Tonic](../items/rimwort_tonic.md) x5
@@ -27,10 +31,10 @@
 
     - Ahvi asked me in spring whether to sing the old verse at the next gathering, and I have not answered her. A chieftain who frightens four families for nothing does more harm than any beast.
     - But look at what is in front of me. Lessa's bites. Yarrek's goats. Vosk's gnawed ropes. The springs, and the tree that drank them. And Imre's dates, each a little before the worst nights of the year.
-    - You have seen more of it than any of us, *Player*. I don't need you to tell me what it means; nobody can. I only need you to take my answer to [Ahvi](../npcs/ahvi_brenna.md): tell her to sing it.
-    - Tell her plainly. She will ask whether I am sure, and you may say I am as sure as I have ever been of anything I did not understand.
+    - You have seen more of it than any of us, *Player*. I don't need you to tell me what it means; nobody can. But I will not send a verse out over ground that still crawls, so **hunt 80 [Bone Hound](../monsters/bone_hound.md)s in the [The War Camp Ruins](../maps/war_camp_ruins.md)** first. Then take my answer to [Ahvi](../npcs/ahvi_brenna.md): tell her to sing it.
+    - Tell her plainly. She will ask whether I am sure, and you may say I am as sure as I have ever been of anything I did not understand. Hounds first, the verse after.
     - Then I will sit with it another night. I am good at sitting. It is the deciding that is hard.
-    - [Ahvi](../npcs/ahvi_brenna.md) is here in the Brenna House. Tell her Odda says to sing it.
+    - Eighty [Bone Hound](../monsters/bone_hound.md)s in the [The War Camp Ruins](../maps/war_camp_ruins.md), then [Ahvi](../npcs/ahvi_brenna.md) here in the Brenna House. Tell her Odda says to sing it.
     - Odda said that? Sing it? After a whole summer of not yet?
     - Then I will sing it as it was taught to me, no more and no less: that the beasts grew wild in a season before the Burning. The verse does not say why, and I will not add a word to it.
     - Thank you, *Player*. Neffa will be pleased. She has been listening through the wall all summer and thinks I don't know.

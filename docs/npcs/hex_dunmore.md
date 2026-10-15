@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd.md) |
-| Where | [Urbanograd](../maps/urbanograd.md) |
+| Where | [Hex's Shop](../maps/urbanograd_hex_shop.md) |
 | Story | [Hex in the lore](../lore/people/urbanograd/hex_dunmore.md) |
 | Services | Quests |
 

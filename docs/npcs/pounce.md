@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd.md) |
-| Where | [Urbanograd](../maps/urbanograd.md) |
+| Where | [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md) |
 | Story | [Pounce in the lore](../lore/people/urbanograd/pounce.md) |
 
 ## Says

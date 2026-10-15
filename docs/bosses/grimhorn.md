@@ -34,9 +34,8 @@ Attacks:
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Melee | Physical | 280 | 3 s |
-| Melee | Physical | 332 | 6 s |
 
-**2. The Ground Cracks** (below 60% HP): Announces "GRIMHORN STAMPS THE MESA!"; summons 2 [Wild Boar](../monsters/wild_boar.md) every 30 s.
+**2. The Ground Cracks** (below 65% HP): Announces "GRIMHORN STAMPS THE MESA!"; summons 2 [Wild Boar](../monsters/wild_boar.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
@@ -44,10 +43,30 @@ Attacks:
 | Melee | Physical | 280 | 3 s |
 | Melee | Physical | 332 | 6 s |
 
-**3. Out of the Ash** (below 25% HP): Announces "GRIMHORN CHARGES OUT OF THE ASH!"; moves faster; summons 2 [Wild Boar](../monsters/wild_boar.md) every 30 s.
+**3. Out of the Ash** (below 30% HP): Announces "GRIMHORN CHARGES OUT OF THE ASH!"; moves faster; summons 2 [Wild Boar](../monsters/wild_boar.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Melee | Physical | 332 | 4.2 s |
-| Area | Physical | 315 | 7.5 s |
+| Melee | Physical | 332 | 3.36 s |
+| Area | Physical | 315 | 6 s |
+| Melee | Physical | 280 | 2.4 s |
+
+## Hard
+
+*Defeat Grimhorn on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 53 | 110,000 | 60,000 | 210 | 300 / 300 |
+
+First clear: +100 standing with Midbarium
+
+Every clear: +15 standing with Midbarium
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
 | Melee | Physical | 280 | 3 s |
+
+### Phases

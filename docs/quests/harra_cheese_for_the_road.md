@@ -7,12 +7,12 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Harra](../npcs/harra_tolmach.md) |
 | Completed with | [Corwell](../npcs/corwell.md) |
 | Level | 16 |
-| After | [Boggle Dust](../quests/harra_boggle_dust.md) |
-| Leads to | [The Hard Bargain](../quests/harra_the_hard_bargain.md) |
+| After | [The Canyon Cairns](../quests/ennek_the_canyon_cairns.md) |
+| Leads to | [The North Ridge Patrol](../quests/skarra_north_ridge_patrol.md), [The Hard Bargain](../quests/harra_the_hard_bargain.md) |
 
 ## Objectives
 
@@ -37,4 +37,4 @@
     - Thirty [Ridge Stump](../monsters/ridge_stump.md)s on [The South Path](../maps/south_path.md), then the [Harra's Cheese Wheel](../items/harra_cheese_wheel.md) to [Corwell](../npcs/corwell.md).
     - Harra's three-month wheel? She sent it with you? Ah, and she says the price is the price. Of course she does.
     - Do not tell her, *Player*, but it is worth every coin, and I would pay double. The stumps on the switchbacks too? Then my drivers owe you as well.
-    - Here are some [Travel Ration](../items/travel_ration.md)s from the back. Harra packs them; I only sell them. Do not tell her I said that either.
+    - Here are some [Travel Ration](../items/travel_ration.md)s from the back. Harra packs them; I only sell them. Do not tell her I said that either. And if you are still walking, [Skarra](../npcs/skarra_uskari.md) on the Uskari Rim was asking after a pair of hands for her patrol on the North Ridge.

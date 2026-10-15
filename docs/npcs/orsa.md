@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Dame Orsa in the lore](../lore/people/selsior/orsa.md) |
 | Services | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) |
 

@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [The Crooked Lantern](../maps/crooked_lantern.md) |
+| Where | [Old Quarter](../maps/selsior_old_quarter.md) |
 | Story | [Thurstan in the lore](../lore/people/selsior/thurstan.md) |
 | Services | Quests |
 

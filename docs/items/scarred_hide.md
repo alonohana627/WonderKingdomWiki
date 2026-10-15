@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Scarred Boar](../monsters/scarred_boar.md) (50%)
+
+## Used for
+
+- [The Split Drum](../quests/thrun_the_split_drum.md) (bring 20)

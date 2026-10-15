@@ -16,7 +16,7 @@
 
 ## Objectives
 
-- Reach the market in [Kaldemor](../maps/kaldemor.md)
+- Reach [Kaldemor Market](../maps/kaldemor_market.md)
 - Talk to [Bram](../npcs/bram.md)
 
 ## Rewards
@@ -27,10 +27,10 @@
 
 ??? quote "Dialogue"
 
-    - A good traveller knows where to shop. Would you visit the **Market**, down the east end of the main street, and say hello to **Bram**, the potion seller? Tell him I sent you.
-    - Thank you, *Player*! Walk east along the main street and down the steps. Bram stands among the shops.
+    - A good traveller knows where to shop. Would you visit the **Market Place**, through the gate in the middle of the square, and say hello to **Bram**, the potion seller? Tell him I sent you.
+    - Thank you, *Player*! Take the gate in the middle of the square into the Market Place. Bram has his stall among the shops.
     - Of course, of course. Come back whenever you like.
-    - Have you been to the **Market** yet? Walk east along the main street and down the steps; Bram stands among the shops.
+    - Have you been to the **Market** yet? Take the gate in the middle of the square; Bram has his stall among the shops.
     - Oh, Tobin sent you? Welcome, *Player*! Come back to me whenever you need **potions**. Tell the mayor that Bram says hello!
     - You met Bram? Splendid! I knew you would fit right in.
     - Please take these **Red Potions**. They will keep you going out in the fields. Good luck, *Player*!

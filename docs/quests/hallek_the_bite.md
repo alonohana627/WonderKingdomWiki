@@ -2,7 +2,7 @@
 
 # What Hallek Did Not See
 
-*Hallek, the mason bitten on the far canyon bridge this spring, will tell what bit him, or what little there was to see. Take the account to Lessa.*
+*Hallek, the mason bitten on the far canyon bridge this spring, will tell what bit him, or what little there was to see. Thin the Cliff Gnawers at the Far Anchor, then take the account to Lessa.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [The Boys' Lookout](../quests/korrin_the_lookout.md) |
 | Leads to | [What Bites](../quests/lessa_what_bites.md), [Back on the Bridge](../quests/hallek_back_on_the_bridge.md) |
 
+## Objectives
+
+- Defeat 40 [Cliff Gnawer](../monsters/cliff_gnawer.md) in [The Far Anchor](../maps/far_anchor.md)
+
 ## Rewards
 
-- 3,800 EXP
+- 12,250 EXP
 - 620 mesos
 - [Highland Salve](../items/highland_salve.md) x5
 - +40 standing with Midbarium
@@ -26,9 +30,9 @@
 
     - You have been out to the far bridge, they say. Then you have seen the frayed ropes. I was the one hanging under the planks this spring, splicing on the far side, when it bit me.
     - I never saw it. I felt teeth in the back of my leg, deep, and I heard claws on the rock under me, a lot of claws, scrabbling away down the cliff. When I looked there was nothing but dust falling.
-    - The leg went hot and swelled for a week. [Lessa](../npcs/lessa_brenna.md) cleaned it with something bitter and grey. She has asked me a dozen times what it was, and I have no answer. Will you take her what I told you? You saw the ropes. Maybe between us it makes sense.
-    - Tell her the teeth were small and many, not one big bite. She asked that, and I did not think of it until now.
+    - The leg went hot and swelled for a week. [Lessa](../npcs/lessa_brenna.md) cleaned it with something bitter and grey. She has asked me a dozen times what it was, and I have no answer. Will you take her what I told you? You saw the ropes. Maybe between us it makes sense. And I will not splice another rope while the [Cliff Gnawer](../monsters/cliff_gnawer.md)s nest under the anchors on [The Far Anchor](../maps/far_anchor.md), so **thin out 40 [Cliff Gnawer](../monsters/cliff_gnawer.md)s on [The Far Anchor](../maps/far_anchor.md)** on your way.
+    - Tell her the teeth were small and many, not one big bite. She asked that, and I did not think of it until now. And mind the anchors, the rock is loose there.
     - Fair. It is not much of a story anyway. A bite in the dark.
-    - Take what I told you to [Lessa](../npcs/lessa_brenna.md) at the Brenna House. Small teeth, many of them, and claws going down the cliff.
+    - Forty [Cliff Gnawer](../monsters/cliff_gnawer.md)s on [The Far Anchor](../maps/far_anchor.md), then [Lessa](../npcs/lessa_brenna.md) at the Brenna House. Small teeth, many of them, and claws going down the cliff.
     - Hallek finally remembered something? Small teeth, many of them, climbing down sheer rock. And you saw the ropes chewed on the side away from town. That is something to go on.
     - I have treated more bites this year than in my first ten years together, and every one of them festers the same way. I am tired of cleaning wounds without knowing what made them.

@@ -17,6 +17,7 @@
 - [Fairy Forest](../maps/fairy_forest.md)
 - [The Bloomwood, South](../maps/bloomwood_south.md)
 - [Shimmerwater, the First Path](../maps/shimmerwater_path_1.md)
+- [The Bloomwood Waystation](../maps/bloomwood_waystation.md)
 
 ## Monsters
 

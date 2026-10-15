@@ -34,7 +34,6 @@ Attacks:
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 392 | 3.2 s |
-| Area | Physical | 441 | 7 s |
 
 **2. It Drinks** (below 65% HP): Announces "THE ROOTDRINKER DRINKS!"; heal; summons 2 [Swollen Stump](../monsters/swollen_stump.md) every 30 s.
 
@@ -47,6 +46,26 @@ Attacks:
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Magic | 490 | 9 s |
-| Area | Physical | 441 | 7 s |
+| Area | Magic | 490 | 7.2 s |
+| Area | Physical | 441 | 5.6 s |
+| Area | Physical | 392 | 2.56 s |
+
+## Hard
+
+*Defeat the Rootdrinker on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 73 | 240,000 | 150,000 | 294 | 700 / 700 |
+
+First clear: +100 standing with Midbarium
+
+Every clear: +15 standing with Midbarium
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
 | Area | Physical | 392 | 3.2 s |
+
+### Phases

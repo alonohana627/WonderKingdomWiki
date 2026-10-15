@@ -2,7 +2,7 @@
 
 # The Split Drum
 
-*The great drum's hide has split and only a great horned beast's hide could replace it. Thrun asks only that Vosk check the drum's stand.*
+*The great drum's hide has split and only a great horned beast's hide could replace it. Thrun wants 20 Scarred Hide to practise patching, and asks Vosk to check the drum's stand.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [A Message for the Old One](../quests/zirra_a_message_for_hask.md) |
 | Leads to | [Wide Tracks](../quests/skarra_wide_tracks.md) |
 
+## Objectives
+
+- Bring 20 [Scarred Hide](../items/scarred_hide.md) (taken)
+
 ## Rewards
 
-- 6,400 EXP
+- 19,500 EXP
 - 740 mesos
 - [Goat's Milk](../items/goats_milk.md) x10
 - +40 standing with Midbarium
@@ -26,9 +30,9 @@
 
     - *Player*! Come and hear this. No, closer. Listen. Hear that? That is not a beat, that is a mutter. Forty-five years I have drummed for the families and my drum mutters at me.
     - The hide split across its face at the first feast this spring. I patched it, but a patch on a drum is a lie and everyone in the hall can hear it. The old hide came from a great horned plateau beast in my grandfather's time. Nobody has brought one home in years, and the few seen out there are wild.
-    - I will not ask anyone to go and hunt one. I will not. But do me a small kindness: ask [Vosk](../npcs/vosk_kragvar.md) to come and look at the stand. Perhaps, just perhaps, it is the stand that mutters and not the hide.
-    - Vosk is in the Kragvar Quarter, glaring at a rope. Tell him his old friend needs him.
+    - I will not ask anyone to go and hunt a great beast. I will not. But do me a small kindness: bring **20 [Scarred Hide](../items/scarred_hide.md)** off the Scarred Boars, so I can practise patching on honest hide before I trust my hands to the drum again. And ask [Vosk](../npcs/vosk_kragvar.md) to come and look at the stand. Perhaps, just perhaps, it is the stand that mutters and not the hide.
+    - Vosk is in the Kragvar Quarter, glaring at a rope. Give him the hide to carry on to me, and tell him his old friend needs him.
     - Ha! Fair enough. The drum will mutter on, and so will I.
-    - Ask [Vosk](../npcs/vosk_kragvar.md) to come and look at the drum's stand. He is in the Kragvar Quarter.
+    - Twenty [Scarred Hide](../items/scarred_hide.md) off the Scarred Boars, then [Vosk](../npcs/vosk_kragvar.md) in the Kragvar Quarter, to look at the drum's stand.
     - The stand? I rebuilt that stand when Thrun and I were young, and I check its lashings before every feast. It does not mutter. The stand is the soundest thing in the Great Hall.
-    - It is the hide, and Thrun knows it. He just wants it to be anything else. He will not ask anyone to go after one of those beasts, and I will not either. But I promised him that if a hide ever comes, I will help him fit it. That promise stands.
+    - It is the hide, and Thrun knows it. He just wants it to be anything else. He will not ask anyone to go after one of those beasts, and I will not either. But I promised him that if a hide ever comes, I will help him fit it. That promise stands. Give me that hide, I will carry it round to Thrun's door myself.

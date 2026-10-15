@@ -54,4 +54,5 @@
 
 - [Far Slopes Bounty](../quests/bekk_slope_bounty.md)
 - [Far Slopes Elites](../quests/bekk_slope_elites.md)
+- [The Raider](../quests/bekk_the_raider.md)
 - [Wide Tracks](../quests/skarra_wide_tracks.md)

@@ -13,7 +13,8 @@
 
 ## Exits
 
-- [Kaldemor Woods](../maps/kaldemor_woods.md)
+- [Kaldemor Hills](../maps/kaldemor_hills.md)
+- [The Cider Lanes](../maps/cider_lanes.md)
 - [The Boarwood](../maps/boarwood.md)
 
 ## NPCs

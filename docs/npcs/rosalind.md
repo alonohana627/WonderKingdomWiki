@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Rosalind in the lore](../lore/people/selsior/rosalind.md) |
 | Services | Shop: [Rosalind's Herbs](../shops/rosalind_herbs.md) |
 

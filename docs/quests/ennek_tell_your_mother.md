@@ -2,7 +2,7 @@
 
 # Tell Your Mother
 
-*Ennek has to tell Sennu that the Greywater is dry, before somebody else does. Go with him to her tent in the Tolmach Camps.*
+*Ennek has to tell Sennu that the Greywater is dry, before somebody else does. Bring 30 Swollen Wood from the Dry Hills and go with him to her tent in the Tolmach Camps.*
 
 |  |  |
 |---|---|
@@ -14,9 +14,13 @@
 | After | [The Greywater](../quests/ennek_the_greywater.md) |
 | Leads to | [The Old Springs](../quests/mabbu_the_old_springs.md) |
 
+## Objectives
+
+- Bring 30 [Swollen Wood](../items/swollen_wood.md) (taken)
+
 ## Rewards
 
-- 15,500 EXP
+- 58,400 EXP
 - 1,000 mesos
 - [Goat Cheese](../items/goat_cheese.md) x10
 - +40 standing with Midbarium
@@ -25,11 +29,11 @@
 ??? quote "Dialogue"
 
     - My mother counts every head of the herd twice a night. If she hears about the Greywater from a trader at Corwell's counter, she'll never forgive me, and she'd be right.
-    - Come with me to [Sennu](../npcs/sennu_tolmach.md)'s tent. You saw the cleft with your own eyes. If I start whistling instead of talking, kick me.
-    - She's in the camps at the low east end. I'll be a step behind you. Maybe two.
+    - Come with me to [Sennu](../npcs/sennu_tolmach.md)'s tent. You saw the cleft with your own eyes. And bring **30 [Swollen Wood](../items/swollen_wood.md)** from the Swollen Stumps on the Dry Hills: she patches the troughs with it, and she will want something to do with her hands. If I start whistling instead of talking, kick me.
+    - She's in the camps at the low east end. Wood first, from the Dry Hills. I'll be a step behind you. Maybe two.
     - I'll find the words myself. Some day. Before the herds go out, anyway.
-    - [Sennu](../npcs/sennu_tolmach.md) is in the Tolmach Camps, at the low east end of town. I'm right behind you.
+    - Thirty [Swollen Wood](../items/swollen_wood.md) from the Dry Hills, then [Sennu](../npcs/sennu_tolmach.md) in the Tolmach Camps, at the low east end of town. I'm right behind you.
     - Ennek, you only stand that straight when you've broken something. And you brought *Player*. Sit, both of you, and say it.
     - The Greywater. Dry since the start of summer, and you carried water so nobody would see. That is a herder's trick, and a foolish one, and I would have done the same.
     - I have been afraid of this day since I was a girl at my mother's fire. When the Greywater fails, the old springs fail with it, and the herds have nowhere left to go.
-    - Thank you for standing with my son, *Player*. Now let me sit a while with this. Somebody must tell my mother, but not today.
+    - Thank you for the [Swollen Wood](../items/swollen_wood.md), and for standing with my son, *Player*. Now let me sit a while with this. Somebody must tell my mother, but not today.

@@ -5,7 +5,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 
 > Two loaves, one wedge, and no eel. Absolutely no eel.
 

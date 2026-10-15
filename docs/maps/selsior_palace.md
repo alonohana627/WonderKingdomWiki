@@ -12,8 +12,10 @@
 ## Exits
 
 - [Royal Plaza](../maps/selsior.md)
+- [The Throne Hall](../maps/throne_hall.md)
 - [The Royal Vault](../maps/royal_vault.md)
 - [The Envoys' Hall](../maps/envoys_hall.md)
+- [The Palace Quarters](../maps/palace_quarters.md)
 
 ## NPCs
 
@@ -25,8 +27,5 @@
 - [Ansel](../npcs/ansel.md) (Palace Physician)
 - [Cuthbert](../npcs/cuthbert.md) (Royal Cook)
 - [Sybil](../npcs/sybil.md) (Royal Wardrobe Mistress)
-- [Leofric](../npcs/leofric.md) (Queen's Consort)
-- [Aveline](../npcs/queen_aveline.md) (Queen of Wonder Kingdom)
-- [Osbert](../npcs/osbert.md) (Royal Steward)
 - [Palace Guard](../npcs/palace_guard_olen.md)
 - [Palace Guard](../npcs/palace_guard_rue.md)

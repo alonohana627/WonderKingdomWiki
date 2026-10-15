@@ -2,7 +2,7 @@
 
 # Walk the Patrols
 
-*The Old One asks you, who belong to none of the four families, to walk the trail watch's patrols and tell him the truth about them. Go to Skarra on the Uskari Rim.*
+*The Old One asks you, who belong to none of the four families, to walk the trail watch's patrols and tell him the truth about them. Clear 30 Ridge Stumps on the North Ridge on your way to Skarra on the Uskari Rim.*
 
 |  |  |
 |---|---|
@@ -11,11 +11,16 @@
 | Given by | [Hask](../npcs/old_one_hask.md) |
 | Completed with | [Skarra](../npcs/skarra_uskari.md) |
 | Level | 20 |
+| After | [Traders from the Woods](../quests/corwell_traders_from_the_woods.md) |
 | Leads to | [Red Dots](../quests/skarra_red_dots.md) |
+
+## Objectives
+
+- Defeat 30 [Ridge Stump](../monsters/ridge_stump.md) in [The North Ridge](../maps/north_ridge.md)
 
 ## Rewards
 
-- 1,050 EXP
+- 2,250 EXP
 - 400 mesos
 - [Orange Potion](../items/orange_potion.md) x10
 - +40 standing with Midbarium
@@ -26,10 +31,10 @@
     - Sit with me a moment, *Player*. I have listened to you being talked about at the fire. The roads, the cairns, the stumps on the ridge. You walk where you are asked and you come back.
     - Every council, the four families tell me the trails are held. Tavi says the patrols are doubled. Sennu says the herds are safe close to town. Dorrek says nothing, which is his way of agreeing. And every season the marks come closer.
     - I was the Uskari's chieftain once. I know how a family says all is well because the others are listening. You belong to none of the four. Nobody will be ashamed in front of you.
-    - Walk the patrols for me. All of them, as far as they go, for as long as it takes. And when you have, come and tell me the truth about them, not what the council would like to hear. Start with **[Skarra](../npcs/skarra_uskari.md)** on the Uskari Rim.
-    - Thank you. Skarra will not like a stranger to the watch at her elbow, but she will like it less that I asked. Go gently with her.
+    - Walk the patrols for me. All of them, as far as they go, for as long as it takes. And when you have, come and tell me the truth about them, not what the council would like to hear. Start with **[Skarra](../npcs/skarra_uskari.md)** on the Uskari Rim, and clear **30 [Ridge Stump](../monsters/ridge_stump.md)s on [The North Ridge](../maps/north_ridge.md)** on your way, so the watch sees you walk it as they do.
+    - Thank you. Skarra will not like a stranger to the watch at her elbow, but she will like it less that I asked. Go gently with her. Cut the stumps back on the [The North Ridge](../maps/north_ridge.md) as you go. Skarra will think better of you for carrying your own weight.
     - I understand. It is a long walk I am asking for. The fire will be here when you are ready.
-    - [Skarra](../npcs/skarra_uskari.md) is on the Uskari Rim, on the east edge of town. Tell her I sent you.
+    - Thirty [Ridge Stump](../monsters/ridge_stump.md)s on [The North Ridge](../maps/north_ridge.md), then [Skarra](../npcs/skarra_uskari.md) on the Uskari Rim, on the east edge of town. Tell her I sent you.
     - The Old One sent you. To walk my patrols. Of course he did.
     - Tavi came by this morning and said you would be coming, and that I was to show you what I show nobody. I argued. Tavi won. Tavi always wins.
     - Fine. Come back when you are ready, and I will show you the map. Do not touch it.

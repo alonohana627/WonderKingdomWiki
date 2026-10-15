@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Isabeau in the lore](../lore/people/selsior/isabeau.md) |
 | Services | Shop: [Isabeau's Cloth](../shops/isabeau_cloth.md) |
 

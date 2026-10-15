@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Gareth's Smithy](../maps/gareths_smithy.md) |
 | Story | [Gareth in the lore](../lore/people/kaldemor/gareth.md) |
 | Services | Shop: [Gareth's Smithy](../shops/smith.md), Quests |
 
