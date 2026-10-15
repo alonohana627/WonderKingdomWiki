@@ -4,7 +4,6 @@
 
 |  |  |
 |---|---|
-| Part of | Goa Harbour |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Road |
 | Levels | 17-19 |
@@ -14,16 +13,16 @@
 
 ## Exits
 
+- [The Long Sands](../maps/long_sands.md)
 - [Goa Harbour](../maps/goa_harbour.md)
 - [The Saltface](../maps/saltface.md)
-- [The Long Sands](../maps/long_sands.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Kestrel](../monsters/kestrel.md) | 19 | 10 |
-| [Lorang](../monsters/lorang.md) | 17 | 4 |
+| [Lorang](../monsters/lorang.md) | 17 | 9 |
+| [Kestrel](../monsters/kestrel.md) | 19 | 7 |
 
 ## Discoveries
 

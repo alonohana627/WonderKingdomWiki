@@ -20,8 +20,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Wrackgolem](../monsters/wrackgolem.md) | 61 | 9 |
-| [Grey Bull](../monsters/grey_bull.md) | 66 | 5 |
+| [Wrackgolem](../monsters/wrackgolem.md) | 61 | 12 |
+| [Grey Bull](../monsters/grey_bull.md) | 66 | 10 |
 
 ## Gathering
 

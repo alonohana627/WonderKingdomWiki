@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 11 |
 | [Shroom](../monsters/shroom.md) | 2 | 4 |
+| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 11 |
 
 ## Gathering
 

@@ -28,3 +28,4 @@
 - Dropped by [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) (0.12%)
 - Dropped by [Reed-Lurker](../monsters/reed_lurker.md) (0.12%)
 - Sold at [Ferro's Forge](../shops/urbanograd_ferro.md) for 3,000 mesos
+- Reward from [The Gloamwing](../quests/brindle_the_gloamwing.md)

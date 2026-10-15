@@ -22,6 +22,7 @@
 
 - 26,000 EXP
 - 5,000 mesos
+- One of: [Iron Burgernet Helm](../items/iron_burgernet_helm.md), [Steel Missel](../items/steel_missel.md), [Red Adventurer Cape](../items/red_adventurer_cape.md)
 - +40 standing with Kaldemor
 
 ??? quote "Dialogue"

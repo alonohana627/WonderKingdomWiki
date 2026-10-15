@@ -21,4 +21,4 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Reed-Lurker](../monsters/reed_lurker.md) | 47 | 31 |
+| [Reed-Lurker](../monsters/reed_lurker.md) | 47 | 24 |

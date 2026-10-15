@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) | 17 | 10 |
 | [Glimmerwing](../monsters/glimmerwing.md) | 13 | 10 |
+| [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) | 17 | 10 |
 
 ## Gathering
 

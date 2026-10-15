@@ -22,7 +22,7 @@
 | Monster | Level | Number |
 |---|---|---|
 | [Duskhawk](../monsters/duskhawk.md) | 54 | 12 |
-| [Downs Howler](../monsters/downs_wolf.md) | 59 | 7 |
+| [Downs Howler](../monsters/downs_wolf.md) | 59 | 8 |
 
 ## Gathering
 

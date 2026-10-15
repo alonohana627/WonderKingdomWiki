@@ -11,9 +11,7 @@
 
 ## Exits
 
-- [Bain Harbour](../maps/bain_harbour.md)
-- [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md)
-- [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 
 ## NPCs
 

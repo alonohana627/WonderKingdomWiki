@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Bubbling](../monsters/bubbling.md) | 11 | 6 |
 | [Slime](../monsters/slime.md) | 9 | 12 |
+| [Bubbling](../monsters/bubbling.md) | 11 | 6 |
 
 ## Gathering
 

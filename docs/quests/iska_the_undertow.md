@@ -24,6 +24,7 @@
 - [Elixir](../items/elixir.md) x5
 - +80 standing with Goa Harbour
 - +300 standing with [Iska](../npcs/first_warden_iska.md)
+- +250 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

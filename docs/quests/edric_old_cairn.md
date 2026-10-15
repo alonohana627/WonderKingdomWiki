@@ -24,6 +24,7 @@
 - [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) x1
 - +40 standing with Selsior
 - +150 standing with [Edric](../npcs/edric.md)
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

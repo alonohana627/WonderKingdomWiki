@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Old Quarter](../maps/selsior_old_quarter.md) |
+| Where | [The Crooked Lantern](../maps/crooked_lantern.md) |
 | Story | [Joan in the lore](../lore/people/selsior/joan.md) |
 | Services | Quests |
 

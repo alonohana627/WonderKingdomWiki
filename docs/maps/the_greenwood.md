@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 5 |
-| [Stump](../monsters/stump.md) | 10 | 8 |
 | [Green Mushroom](../monsters/green_mushroom.md) | 12 | 3 |
+| [Stump](../monsters/stump.md) | 10 | 8 |
+| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 5 |
 
 ## Gathering
 

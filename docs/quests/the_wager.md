@@ -23,6 +23,7 @@
 - 7,000 EXP
 - 3,000 mesos
 - [Elixir](../items/elixir.md) x2
+- One of: [Blue Sergeant](../items/blue_sergeant.md), [Steel Sergeant Kilt](../items/steel_sergeant_kilt.md), [Venon](../items/venon_gloves.md)
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

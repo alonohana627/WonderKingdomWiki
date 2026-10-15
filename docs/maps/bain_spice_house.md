@@ -11,9 +11,7 @@
 
 ## Exits
 
-- [Bain Harbour](../maps/bain_harbour.md)
-- [Marisol's Spice House](../maps/bain_spice_house.md)
-- [Marisol's Spice House](../maps/bain_spice_house.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 
 ## NPCs
 

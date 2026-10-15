@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 50 | 124,900 | 51,880 | 175 | 300 / 300 |
 
-First clear: +80 standing with Goa Harbour
+First clear: Passive: [The Gapclaw's Scar](../skills/passives.md#goa-gapclaws-scar), +80 standing with Goa Harbour, +150 [Honor](../systems/honor.md)
 
 ### Phases
 
@@ -75,7 +75,7 @@ First clear: +80 standing with Goa Harbour
 |---|---|---|---|---|
 | 54 | 124,900 | 51,880 | 175 | 300 / 300 |
 
-First clear: +120 standing with Goa Harbour
+First clear: +120 standing with Goa Harbour, +300 [Honor](../systems/honor.md)
 
 ### Phases
 

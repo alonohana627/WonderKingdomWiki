@@ -20,6 +20,7 @@
 ## Rewards
 
 - 250 EXP
+- [Lavender Flower](../items/lavender_flower.md) x3
 - [Orange Potion](../items/orange_potion.md) x10
 - +200 standing with [Rosa](../npcs/rosa.md)
 - +20 standing with Kaldemor

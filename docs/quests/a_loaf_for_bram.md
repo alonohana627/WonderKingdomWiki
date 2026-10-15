@@ -20,6 +20,7 @@
 ## Rewards
 
 - 200 EXP
+- [Green Cloth](../items/green_cloth.md) x2
 - [Orange Potion](../items/orange_potion.md) x5
 - +150 standing with [Rosa](../npcs/rosa.md)
 - +15 standing with Kaldemor

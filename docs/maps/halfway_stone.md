@@ -14,15 +14,15 @@
 
 ## Exits
 
-- [Gate Meadows](../maps/gate_meadows.md)
 - [Selsior Gate](../maps/selsior_gate.md)
+- [Gate Meadows](../maps/gate_meadows.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
 | [Stack Rat](../monsters/stack_rat.md) | 14 | 14 |
-| [Pool Octopus](../monsters/pool_octopus.md) | 15 | 18 |
+| [Pool Octopus](../monsters/pool_octopus.md) | 15 | 16 |
 
 ## Gathering
 

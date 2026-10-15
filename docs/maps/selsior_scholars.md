@@ -12,17 +12,15 @@
 ## Exits
 
 - [Royal Plaza](../maps/selsior.md)
+- [The Academy Library](../maps/academy_library.md)
+- [Prudence's Workshop](../maps/alchemists_workshop.md)
 
 ## NPCs
 
-- [WAITING FOR IMPLEMENT DETAILS](../npcs/waiting_for_implement_details.md)
 - [Bartholomew](../npcs/bartholomew.md) (Master of the Royal Academy)
 - [Morwen](../npcs/morwen.md) (Teacher of Magic)
-- [Benedict](../npcs/benedict.md) (Head Librarian)
-- [Thomasin](../npcs/thomasin.md) (Historian of the Balrog War)
 - [Gervase](../npcs/gervase.md) (Cartographer)
 - [Theobald](../npcs/theobald.md) (Stargazer)
 - [Mariota](../npcs/mariota.md) (Academy Student)
 - [Everard](../npcs/everard.md) (Academy Student)
-- [Prudence](../npcs/prudence.md) (Alchemist)
 - [Ermengarde](../npcs/ermengarde.md) (Bookbinder)

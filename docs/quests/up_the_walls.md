@@ -23,6 +23,7 @@
 
 - 45,000 EXP
 - 3,500 mesos
+- [Iron Ingot](../items/iron_ingot.md) x5
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

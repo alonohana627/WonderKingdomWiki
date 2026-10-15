@@ -13,6 +13,9 @@
 
 - Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 28 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 1)
+- Reward from [A Loaf for Bram](../quests/a_loaf_for_bram.md)
+- Reward from [Quietly, for Dottie](../quests/quietly_for_dottie.md)
+- Reward from [The Cart That Never Came](../quests/the_cart_that_never_came.md)
 
 ## Used for
 

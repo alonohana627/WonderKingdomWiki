@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Theatre Row](../maps/selsior_theatre.md) |
+| Where | [The Gilded Stage](../maps/gilded_stage.md) |
 | Story | [Rosamund in the lore](../lore/people/selsior/rosamund.md) |
 | Services | Quests |
 

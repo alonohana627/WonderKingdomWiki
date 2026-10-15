@@ -15,8 +15,8 @@
 ## Exits
 
 - [The Silent Cutting](../maps/silent_cutting.md)
-- [The Reedwater Bottoms](../maps/reedwater_bottoms.md)
 - [Hatch's Camp](../maps/hatchs_camp.md)
+- [The Reedwater Bottoms](../maps/reedwater_bottoms.md)
 
 ## Monsters
 

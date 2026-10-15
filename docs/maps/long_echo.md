@@ -21,6 +21,6 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Blind Bat](../monsters/blind_bat.md) | 20 | 2 |
-| [Glowjelly](../monsters/glowjelly.md) | 20 | 8 |
-| [Cave Octopus](../monsters/cave_octopus.md) | 20 | 11 |
+| [Glowjelly](../monsters/glowjelly.md) | 20 | 10 |
+| [Cave Octopus](../monsters/cave_octopus.md) | 20 | 10 |
+| [Blind Bat](../monsters/blind_bat.md) | 20 | 8 |

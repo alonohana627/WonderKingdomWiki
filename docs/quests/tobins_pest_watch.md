@@ -20,6 +20,7 @@
 
 - 150 EXP
 - 250 mesos
+- [Plant Fibre](../items/plant_fibre.md) x3
 - +20 standing with Kaldemor
 
 ??? quote "Dialogue"

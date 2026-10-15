@@ -2,8 +2,4 @@
 
 # WAITING FOR IMPLEMENT DETAILS
 
-|  |  |
-|---|---|
-| Where | [Old Quarter](../maps/selsior_old_quarter.md), [Riverside](../maps/selsior_riverside.md), [Scholars' Quarter](../maps/selsior_scholars.md), [Theatre Row](../maps/selsior_theatre.md) |
-
 > This place is a placeholder: what stands here is waiting for its details.

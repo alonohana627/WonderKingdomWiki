@@ -21,6 +21,7 @@
 - [Town Return Scroll](../items/town_return_scroll.md) x5
 - +40 standing with Midbarium
 - +30 standing with [Hask](../npcs/old_one_hask.md)
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -14,19 +14,19 @@
 
 ## Exits
 
-- [Urbanograd](../maps/urbanograd.md)
 - [The Halfway Stone](../maps/halfway_stone.md)
-- [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
-- [The Painted Shed](../maps/stackyard_shed.md)
-- [Seepwater Foothills](../maps/seepwater_foothills.md)
 - [Dusk Ford](../maps/dusk_ford.md)
+- [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
+- [Seepwater Foothills](../maps/seepwater_foothills.md)
+- [Urbanograd](../maps/urbanograd.md)
+- [The Painted Shed](../maps/stackyard_shed.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
+| [Young Gloomeye](../monsters/young_gloomeye.md) | 16 | 6 |
 | [Verge Adder](../monsters/verge_adder.md) | 17 | 14 |
-| [Young Gloomeye](../monsters/young_gloomeye.md) | 16 | 4 |
 
 ## Gathering
 

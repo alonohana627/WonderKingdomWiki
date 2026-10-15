@@ -14,15 +14,15 @@
 
 ## Exits
 
-- [Seepwater Foothills](../maps/seepwater_foothills.md)
 - [Midbarium](../maps/midbarium.md)
+- [Seepwater Foothills](../maps/seepwater_foothills.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Dark Stump](../monsters/dark_stump.md) | 17 | 6 |
-| [Axe Stump](../monsters/axe_stump.md) | 21 | 8 |
+| [Dark Stump](../monsters/dark_stump.md) | 17 | 9 |
+| [Axe Stump](../monsters/axe_stump.md) | 21 | 11 |
 
 ## Gathering
 

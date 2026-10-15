@@ -24,6 +24,7 @@
 - [Elixir](../items/elixir.md) x8
 - +200 standing with [Oriel](../npcs/oriel_treewright.md)
 - +100 standing with Fairy Forest
+- +200 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

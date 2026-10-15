@@ -15,9 +15,9 @@
 
 ## Objectives
 
-1. Look at the high landing in [Goa Harbour](../maps/goa_harbour.md)
-2. Look at the highest bridge in [Goa Harbour](../maps/goa_harbour.md)
-3. Look at the head of the Long Stair in [Goa Harbour](../maps/goa_harbour.md)
+1. Look at the high landing in [Gull Heath](../maps/gull_heath.md)
+2. Look at the highest bridge in [Gull Heath](../maps/gull_heath.md)
+3. Look at the head of the Long Stair in [Gull Heath](../maps/gull_heath.md)
 4. Defeat 50 Climber on the Saltfaces in [The Saltface](../maps/saltface.md)
 
 ## Rewards

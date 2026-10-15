@@ -19,3 +19,4 @@
 - Dropped by [Duskhawk](../monsters/duskhawk.md) (0.06%)
 - Dropped by [Millstone Ram](../monsters/millstone_ram.md) (0.06%)
 - Dropped by [Stormcrest](../monsters/stormcrest.md) (15%)
+- Reward from [Stormcrest](../quests/perch_stormcrest.md)

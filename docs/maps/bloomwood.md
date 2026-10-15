@@ -23,8 +23,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Glimmerwing](../monsters/glimmerwing.md) | 13 | 15 |
 | [Bubbling](../monsters/bubbling.md) | 11 | 8 |
+| [Glimmerwing](../monsters/glimmerwing.md) | 13 | 15 |
 
 ## Gathering
 

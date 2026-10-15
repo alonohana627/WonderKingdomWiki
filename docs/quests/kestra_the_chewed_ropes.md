@@ -17,7 +17,7 @@
 
 1. Talk to [Fionn](../npcs/fionn_child.md)
 2. Talk to [Tarran](../npcs/tarran_lanterns.md)
-3. Look at the highest bridge in [Goa Harbour](../maps/goa_harbour.md)
+3. Look at the highest bridge in [Gull Heath](../maps/gull_heath.md)
 4. Defeat 60 [Sea Slater](../monsters/sea_slater.md) in [The Wrack Ledges](../maps/wrack_ledges.md)
 
 ## Rewards

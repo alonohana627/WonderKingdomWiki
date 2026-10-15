@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Shore Crab](../monsters/shore_crab.md) | 32 | 7 |
-| [Sea Newt](../monsters/sea_newt.md) | 38 | 3 |
-| [Sea Slater](../monsters/sea_slater.md) | 42 | 4 |
+| [Shore Crab](../monsters/shore_crab.md) | 32 | 8 |
+| [Sea Newt](../monsters/sea_newt.md) | 38 | 9 |
+| [Sea Slater](../monsters/sea_slater.md) | 42 | 10 |
 
 ## Gathering
 

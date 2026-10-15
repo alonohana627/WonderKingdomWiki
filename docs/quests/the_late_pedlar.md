@@ -22,6 +22,8 @@
 
 - 32,000 EXP
 - 6,000 mesos
+- [Scroll Paper](../items/scroll_paper.md) x5
+- [Herbal Ink](../items/herbal_ink.md) x4
 - [White Potion](../items/white_potion.md) x15
 - +40 standing with Kaldemor
 

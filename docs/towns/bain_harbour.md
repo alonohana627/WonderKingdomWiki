@@ -14,13 +14,13 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 |---|---|---|---|---|
 | [A Fisher's Cottage](../maps/marram_cottage_east.md) | Town | - | - | - |
 | [A Fisher's Cottage](../maps/marram_cottage_west.md) | Town | - | - | - |
-| [A Harbour House](../maps/bain_harbour_house.md) | Town | - | - | - |
 | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Town | - | - | - |
 | [Bain Harbour](../maps/bain_harbour.md) | Town | - | - | - |
 | [Clemence's House](../maps/bain_clinic.md) | Town | - | - | - |
 | [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | Town | - | - | - |
 | [Harbour Hall](../maps/bain_hall.md) | Town | - | - | - |
 | [Marisol's Spice House](../maps/bain_spice_house.md) | Town | - | - | - |
+| [Merchant Street](../maps/bain_merchant_street.md) | Town | - | - | - |
 | [Thaddeus's House](../maps/bain_thaddeus_house.md) | Town | - | - | - |
 | [The Counting House](../maps/bain_counting_house.md) | Town | - | - | - |
 | [The Customs House](../maps/bain_customs_house.md) | Town | - | - | - |
@@ -129,7 +129,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | NPC | Title | Where | Services | Lore |
 |---|---|---|---|---|
-| [Alwyn](../npcs/alwyn.md) | Shipwright | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/alwyn.md) |
+| [Alwyn](../npcs/alwyn.md) | Shipwright | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/alwyn.md) |
 | [Ambrose](../npcs/ambrose_chartmaker.md) | Chartmaker | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Quests | [Story](../lore/people/bain-harbour/ambrose_chartmaker.md) |
 | [Annis](../npcs/captain_annis.md) | Captain of the Saltlark | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/captain_annis.md) |
 | [Barnaby](../npcs/barnaby.md) | Bosun of the Bright Morrow | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/barnaby.md) |
@@ -144,7 +144,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Cordelia](../npcs/cordelia.md) | Cloth Merchant | [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md) | Shop: [Cordelia's Cloth Shop](../shops/bain_cloth.md) | [Story](../lore/people/bain-harbour/cordelia.md) |
 | [Corwin](../npcs/captain_corwin.md) | Captain of the Heron | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/captain_corwin.md) |
 | [Delphine](../npcs/delphine.md) | Innkeeper of the Salt and Bread | [The Salt and Bread](../maps/bain_inn.md) | Quests | [Story](../lore/people/bain-harbour/delphine.md) |
-| [Dunstan](../npcs/dunstan.md) | Master Shipwright | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/dunstan.md) |
+| [Dunstan](../npcs/dunstan.md) | Master Shipwright | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/dunstan.md) |
 | [Finch](../npcs/finch.md) | Errand Runner | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/finch.md) |
 | [Garrow](../npcs/garrow.md) | Dock Foreman | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/garrow.md) |
 | [Gwennol](../npcs/gwennol.md) | Fishmonger | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Gwennol's Fish Stall](../shops/bain_fish.md) | [Story](../lore/people/bain-harbour/gwennol.md) |
@@ -154,11 +154,11 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Jowan](../npcs/jowan.md) | Harbour Watchman | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/jowan.md) |
 | [Kenwyn](../npcs/kenwyn.md) | Salvager of the Bellcaves | [Bain Harbour](../maps/bain_harbour.md) | Boss: [The Holdfast](../bosses/holdfast.md), Quests | [Story](../lore/people/bain-harbour/kenwyn.md) |
 | [Keziah](../npcs/keziah.md) | Sword for Hire | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/keziah.md) |
-| [Kit](../npcs/kit.md) | Shipwright's Son | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/kit.md) |
+| [Kit](../npcs/kit.md) | Shipwright's Son | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/kit.md) |
 | [Lorcan](../npcs/lorcan.md) | Shanty Singer | [The Salt and Bread](../maps/bain_inn.md) | Quests | [Story](../lore/people/bain-harbour/lorcan.md) |
 | [Lowen](../npcs/lowen.md) | Deckhand | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/lowen.md) |
-| [Mabyn](../npcs/mabyn.md) | Keeper of the Hall Door | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/mabyn.md) |
-| [Maren](../npcs/maren.md) | Harbour Schoolteacher | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/maren.md) |
+| [Mabyn](../npcs/mabyn.md) | Keeper of the Hall Door | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/mabyn.md) |
+| [Maren](../npcs/maren.md) | Harbour Schoolteacher | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/maren.md) |
 | [Marisol](../npcs/marisol.md) | Spice Merchant | [Marisol's Spice House](../maps/bain_spice_house.md) | Quests | [Story](../lore/people/bain-harbour/marisol.md) |
 | [Merriwether](../npcs/merriwether.md) | Ship's Chandler | [The Merchants' Exchange](../maps/bain_exchange.md) | Shop: [Merriwether's Chandlery](../shops/bain_chandler.md) | [Story](../lore/people/bain-harbour/merriwether.md) |
 | [Morwenna](../npcs/morwenna.md) | Sailor of the Saltlark | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/morwenna.md) |
@@ -168,11 +168,11 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Old Lock Post](../npcs/pinch_lock_gate.md) |  | [The Pinch](../maps/the_pinch.md) | Boss: [The Bootbreaker](../bosses/bootbreaker.md) | - |
 | [Ossie](../npcs/ossie.md) | Lighthouse Boy | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/ossie.md) |
 | [Ottilie](../npcs/ottilie.md) | Clerk of the Harbour Hall | [The Counting House](../maps/bain_counting_house.md) | Quests | [Story](../lore/people/bain-harbour/ottilie.md) |
-| [Peregrine](../npcs/peregrine.md) | Shipwright's Apprentice | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/peregrine.md) |
+| [Peregrine](../npcs/peregrine.md) | Shipwright's Apprentice | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/peregrine.md) |
 | [Poppy](../npcs/poppy.md) | Baker's Daughter | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/poppy.md) |
 | [Quenna](../npcs/harbour_master_quenna.md) | Harbour Master | [Harbour Hall](../maps/bain_hall.md) | Quests | [Story](../lore/people/bain-harbour/harbour_master_quenna.md) |
 | [Seraphine](../npcs/captain_seraphine.md) | Captain of the Bright Morrow | [The Docks](../maps/bain_docks.md) | Run: [The Bright Morrow's Night Run](../runs/the_night_run.md), Quests | [Story](../lore/people/bain-harbour/captain_seraphine.md) |
-| [Tegan](../npcs/tegan.md) | Sailmaker | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/tegan.md) |
+| [Tegan](../npcs/tegan.md) | Sailmaker | [Merchant Street](../maps/bain_merchant_street.md) | Quests | [Story](../lore/people/bain-harbour/tegan.md) |
 | [Thaddeus](../npcs/thaddeus.md) | Retired Captain | [Bain Harbour](../maps/bain_harbour.md) | Quests | [Story](../lore/people/bain-harbour/thaddeus.md) |
 | [Tristram](../npcs/tristram.md) | Harpooner | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/tristram.md) |
 | [Tully](../npcs/tully.md) | Dockworker | [The Docks](../maps/bain_docks.md) | Quests | [Story](../lore/people/bain-harbour/tully.md) |
@@ -237,6 +237,15 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Inkblade](../items/inkblade.md) | Weapon | 64 | Attack +164 |
 | [Lantern-Light Cape](../items/lantern_light_cape.md) | Cape | 65 | Defense +26, Max HP +120, Magic Defense +10 |
 | [Deep Lantern's Eye](../items/deep_lantern_eye.md) | Eye Accessorie | 68 | DEX +4, STR +3, Max HP +100 |
+
+## Accomplishments
+
+| Accomplishment | Goal | Reward |
+|---|---|---|
+| The Harbour Kept | See Bain Harbour through: the Bootbreaker, the Ripsaw and the Deep Lantern put down, the council told, and the Saltgrace freed. | +500 [Honor](../systems/honor.md), +100 standing with Bain Harbour |
+| Sawbill Season | Defeat 400 sawbills of the Outer Cut, of any kind. | [Sawtooth Cutlass](../items/sawtooth_cutlass.md) x1, +100 [Honor](../systems/honor.md), +40 standing with Bain Harbour |
+| Lights Out | Defeat 500 lanternshades in the Holm Wood. | [Shade Hook Earrings](../items/shade_hook_earrings.md) x1, +150 [Honor](../systems/honor.md), +50 standing with Bain Harbour |
+| Crab Catcher | Defeat 300 crabs of the Old Cut: bootcrabs and ironbacks. | [Lock-Keeper's Earrings](../items/lockkeepers_earrings.md) x1, +100 [Honor](../systems/honor.md), +30 standing with Bain Harbour |
 
 ## Discoveries
 

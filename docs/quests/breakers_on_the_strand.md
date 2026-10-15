@@ -21,6 +21,8 @@
 
 - 3,200 EXP
 - 1,100 mesos
+- [Iron Ingot](../items/iron_ingot.md) x2
+- [Blue Cloth](../items/blue_cloth.md) x2
 - [White Potion](../items/white_potion.md) x10
 - +25 standing with Kaldemor
 

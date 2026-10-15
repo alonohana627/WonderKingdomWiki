@@ -22,8 +22,10 @@
 - 108,019 EXP
 - 2,070 mesos
 - [Heartroot Earrings](../items/heartroot_earrings.md) x1
+- Passive: [The Rising Sap](../skills/passives.md#fairy-forest-rising-sap)
 - +200 standing with [Oriel](../npcs/oriel_treewright.md)
 - +100 standing with Fairy Forest
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

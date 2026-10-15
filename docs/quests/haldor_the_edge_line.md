@@ -14,7 +14,7 @@
 
 ## Objectives
 
-1. Reach the last stump in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the last stump in [Gull Heath](../maps/gull_heath.md)
 2. Defeat 50 monsters in [Strandwood Edge](../maps/strandwood_edge.md)
 
 ## Rewards

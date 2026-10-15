@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 15 | 6,000 | 2,000 | 38 | 12 / 12 |
 
-First clear: +50 standing with Kaldemor
+First clear: [Snail King's Shell](../items/snail_kings_shell.md) x1, [Copper Ingot](../items/copper_ingot.md) x3, +100 [Honor](../systems/honor.md), +50 standing with Kaldemor
 
 Attacks:
 
@@ -62,7 +62,7 @@ Attacks:
 |---|---|---|---|---|
 | 17 | 6,000 | 2,000 | 52 | 18 / 18 |
 
-First clear: +100 standing with Kaldemor
+First clear: [Elixir](../items/elixir.md) x3, [Bronze Ingot](../items/bronze_ingot.md) x4, One of: [Red Waist Warmer](../items/red_waist_warmer.md), [Weighted Earrings](../items/weighted_earrings.md), [Maple Cape](../items/maple_cape.md), +200 [Honor](../systems/honor.md), +100 standing with Kaldemor
 
 Attacks:
 

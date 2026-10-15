@@ -13,9 +13,9 @@
 
 - [Royal Plaza](../maps/selsior.md)
 - [The Throne Hall](../maps/throne_hall.md)
-- [The Royal Vault](../maps/royal_vault.md)
 - [The Envoys' Hall](../maps/envoys_hall.md)
 - [The Palace Quarters](../maps/palace_quarters.md)
+- [The Royal Vault](../maps/royal_vault.md)
 
 ## NPCs
 

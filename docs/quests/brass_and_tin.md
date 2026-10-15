@@ -21,6 +21,8 @@
 
 - 70,000 EXP
 - 6,000 mesos
+- [Copper Ingot](../items/copper_ingot.md) x5
+- [Bronze Ingot](../items/bronze_ingot.md) x5
 - [White Potion](../items/white_potion.md) x25
 - +35 standing with Kaldemor
 

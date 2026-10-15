@@ -22,5 +22,5 @@
 | Monster | Level | Number |
 |---|---|---|
 | [Sea Slater](../monsters/sea_slater.md) | 42 | 9 |
-| [Sea Newt](../monsters/sea_newt.md) | 38 | 4 |
-| [Saltgull](../monsters/saltgull.md) | 46 | 4 |
+| [Sea Newt](../monsters/sea_newt.md) | 38 | 8 |
+| [Saltgull](../monsters/saltgull.md) | 46 | 9 |

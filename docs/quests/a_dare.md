@@ -23,6 +23,7 @@
 - 60,000 EXP
 - 4,000 mesos
 - [White Potion](../items/white_potion.md) x20
+- One of: [Blue Jangoon Armor](../items/blue_jangoon_armor.md), [Black Jangoon Pants](../items/black_jangoon_pants.md), [Blue Justice Cape](../items/blue_justice_cape.md)
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

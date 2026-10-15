@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Saltdead Stump](../monsters/saltdead_stump.md) | 52 | 10 |
-| [Wrackgolem](../monsters/wrackgolem.md) | 61 | 8 |
+| [Saltdead Stump](../monsters/saltdead_stump.md) | 52 | 12 |
+| [Wrackgolem](../monsters/wrackgolem.md) | 61 | 11 |
 
 ## Gathering
 

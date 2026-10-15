@@ -21,5 +21,5 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Cave Crab](../monsters/cave_crab.md) | 20 | 13 |
-| [Glowjelly](../monsters/glowjelly.md) | 20 | 8 |
+| [Cave Crab](../monsters/cave_crab.md) | 20 | 12 |
+| [Glowjelly](../monsters/glowjelly.md) | 20 | 10 |

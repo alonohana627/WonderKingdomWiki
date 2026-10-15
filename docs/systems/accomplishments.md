@@ -12,11 +12,34 @@ Goals that reward you once when reached: a lasting passive, honor, reputation or
 | Hardy Spirit | Reach level 10. | Passive: [Hardy Spirit](../skills/passives.md#hardy-spirit) |
 | Practice Makes Perfect | Use Power Strike 200 times. | Passive: [Practiced Hand](../skills/passives.md#practiced-hand) |
 | Explorer | Make five discoveries. | Passive: [Pathfinder](../skills/passives.md#pathfinder) |
-| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | Passive: [Warden-Friend](../skills/passives.md#warden-friend) |
-| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | Passive: [Cave Sense](../skills/passives.md#cave-sense) |
-| Brush and Sinew | Defeat 200 Strand Foxes. | Passive: [Brush and Sinew](../skills/passives.md#brush-and-sinew) |
-| Climbers' Bane | Defeat 300 Sea Newts. | Passive: [Climbers' Grip](../skills/passives.md#climbers-grip) |
-| Salt and Stone | Defeat 300 Wrackgolems. | Passive: [Salt-Hardened](../skills/passives.md#salt-hardened) |
-| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | Passive: [Gap Inn Regular](../skills/passives.md#gap-inn-regular) |
+| The Harbour Kept | See Bain Harbour through: the Bootbreaker, the Ripsaw and the Deep Lantern put down, the council told, and the Saltgrace freed. | +500 [Honor](../systems/honor.md), +100 standing with Bain Harbour |
+| Sawbill Season | Defeat 400 sawbills of the Outer Cut, of any kind. | [Sawtooth Cutlass](../items/sawtooth_cutlass.md) x1, +100 [Honor](../systems/honor.md), +40 standing with Bain Harbour |
+| Lights Out | Defeat 500 lanternshades in the Holm Wood. | [Shade Hook Earrings](../items/shade_hook_earrings.md) x1, +150 [Honor](../systems/honor.md), +50 standing with Bain Harbour |
+| Crab Catcher | Defeat 300 crabs of the Old Cut: bootcrabs and ironbacks. | [Lock-Keeper's Earrings](../items/lockkeepers_earrings.md) x1, +100 [Honor](../systems/honor.md), +30 standing with Bain Harbour |
+| Keeper of the Lake | Defeat 400 of Shimmerwater's sick creatures. | +100 [Honor](../systems/honor.md), +40 standing with Fairy Forest |
+| The Oak Cleared | Defeat 500 of the eyes and lupins of the High Shore and the Hollow Oak. | +100 [Honor](../systems/honor.md), +50 standing with Fairy Forest |
+| Walker in the Gloaming | Defeat 600 of the creatures of the Deepening and the Twilit Wood. | +100 [Honor](../systems/honor.md), +60 standing with Fairy Forest |
+| The Forest Wakes | See Fairy Forest's story through: the Blightstone, Old Grizzlemane, the Knotbriar and the rising sap. | - |
+| Student of the Forest | Defeat every kind of creature that lives on Fairy Forest's maps. | - |
+| The Wing Unsealed | Defeat the Unbound in the Rootbound Wing. | - |
+| Friend of the Forest | Fairy Forest's story, its creatures and its old wing, all seen through. | +500 [Honor](../systems/honor.md), +150 standing with Fairy Forest |
+| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | +500 [Honor](../systems/honor.md) |
+| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | +200 [Honor](../systems/honor.md) |
+| Brush and Sinew | Defeat 200 Strand Foxes. | +100 [Honor](../systems/honor.md) |
+| Climbers' Bane | Defeat 300 Sea Newts. | +100 [Honor](../systems/honor.md) |
+| Salt and Stone | Defeat 300 Wrackgolems. | +100 [Honor](../systems/honor.md) |
+| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | +150 [Honor](../systems/honor.md) |
 | Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | Passive: [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
 | Bounty Hunter | Collect Ranger Hale's bounty. | Passive: [Field Hardened](../skills/passives.md#field-hardened) |
+| The Long Road | See every one of Kaldemor's troubles through: the last snail line, the Bluecap Mother, the Cap King, and Dottie's lamb brought home. | +150 [Honor](../systems/honor.md) |
+| Kaldemor's Own | Finish everything Kaldemor asks of you: its errands, its bounty and its long road. | +500 [Honor](../systems/honor.md) |
+| The Gathering | Walk Midbarium's patrols from the roads to the gathering of the four families. | +100 standing with Midbarium |
+| Beast Breaker | Defeat Old Gnarl, Grimhorn and the Rootdrinker. | +100 [Honor](../systems/honor.md) |
+| Old Gnarl Felled | Defeat Old Gnarl on Howling Peak. | - |
+| Grimhorn Brought Down | Defeat Grimhorn on the Ash Mesa. | - |
+| The Springs Run Again | Defeat the Rootdrinker in its hollow. | - |
+| The Cave Is Held | Defeat Hollowmaw at the bottom of the Dustfall Cave. | - |
+| Highland Scholar | Defeat every kind of monster that lives in Midbarium's lands. | [Travel Ration](../items/travel_ration.md) x20 |
+| Midbarium Completed | Finish the patrols, break the beasts, hold the cave and know every creature of the highlands. | +500 [Honor](../systems/honor.md), +150 standing with Midbarium |
+| The Capital's Thanks | See Selsior through its troubles: the Downs' great hive, the thing in the Long Reach, the waking quarries and the Delver under the Old Quarter. | +500 [Honor](../systems/honor.md), +100 standing with Selsior |
+| The Whole City | See Old Grad's story through: the Gate Watch's nights, Hatch's hunt, Perch's message carried to the Highbeacon, Starling's lists, and the warm stone brought up from Low Grad. | 20,000 mesos, +500 [Honor](../systems/honor.md), +150 standing with Urbanograd |

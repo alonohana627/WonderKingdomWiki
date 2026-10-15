@@ -13,6 +13,11 @@
 
 - Sold at [Prudence's Reagents](../shops/prudence_reagents.md) for 10 mesos
 - Made with [Scrollcrafting](../professions/scrollcrafting.md) (level 1)
+- Reward from [A Steady Brew](../quests/a_steady_brew.md)
+- Reward from [Notices for the Lanes](../quests/notices_for_the_lanes.md)
+- Reward from [The Late Pedlar](../quests/the_late_pedlar.md)
+- Reward from [The Old Wall's Marks](../quests/the_old_walls_marks.md)
+- Reward from [What the Ledger Says](../quests/what_the_ledger_says.md)
 
 ## Used for
 

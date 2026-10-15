@@ -22,6 +22,7 @@
 
 - 2,400 EXP
 - 900 mesos
+- [Bronze Ingot](../items/bronze_ingot.md) x2
 - [Orange Potion](../items/orange_potion.md) x10
 - [White Potion](../items/white_potion.md) x5
 - +25 standing with Kaldemor

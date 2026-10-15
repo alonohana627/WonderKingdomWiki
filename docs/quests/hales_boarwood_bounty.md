@@ -20,6 +20,7 @@
 
 - 3,500 EXP
 - 1,500 mesos
+- [Iron Ingot](../items/iron_ingot.md) x1
 
 The first time you complete it instead: 5,000 EXP, 2,500 mesos, +30 standing with Kaldemor
 

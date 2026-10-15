@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 70 | 181,536 | 102,795 | 316 | 420 / 420 |
 
-First clear: [Lantern-Light Cape](../items/lantern_light_cape.md) x1, +120 standing with Bain Harbour
+First clear: [Lantern-Light Cape](../items/lantern_light_cape.md) x1, Passive: [Lantern Sight](../skills/passives.md#bain-lantern-sight), +120 standing with Bain Harbour, +150 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -75,7 +75,7 @@ Attacks:
 |---|---|---|---|---|
 | 74 | 181,536 | 102,795 | 316 | 420 / 420 |
 
-First clear: [Deep Lantern's Eye](../items/deep_lantern_eye.md) x1, +160 standing with Bain Harbour
+First clear: [Deep Lantern's Eye](../items/deep_lantern_eye.md) x1, +160 standing with Bain Harbour, +300 [Honor](../systems/honor.md)
 
 Attacks:
 

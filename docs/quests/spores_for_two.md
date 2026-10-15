@@ -20,6 +20,7 @@
 
 - 8,000 EXP
 - 2,500 mesos
+- [Wild Spore](../items/wild_spore.md) x3
 
 The first time you complete it instead: 14,000 EXP, 3,500 mesos, +20 standing with Kaldemor
 

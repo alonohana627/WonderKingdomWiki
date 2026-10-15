@@ -10,34 +10,19 @@
 
 ## Exits
 
-- [Baysight Hill](../maps/baysight_hill.md)
-- [Marisol's Spice House](../maps/bain_spice_house.md)
-- [Harbour Hall](../maps/bain_hall.md)
-- [The Counting House](../maps/bain_counting_house.md)
-- [The Docks](../maps/bain_docks.md)
-- [Clemence's House](../maps/bain_clinic.md)
-- [Cordelia's Cloth Shop](../maps/bain_cloth_shop.md)
-- [Ambrose's Chart Shop](../maps/bain_chart_shop.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
+- [The Main Deck](../maps/saltgrace_deck.md)
+- [Shellbrook Mouth](../maps/shellbrook_mouth.md)
 - [The Merchants' Exchange](../maps/bain_exchange.md)
 - [The Salt and Bread](../maps/bain_inn.md)
-- [Wilmot's House](../maps/bain_ropemakers_house.md)
-- [Thaddeus's House](../maps/bain_thaddeus_house.md)
-- [A Harbour House](../maps/bain_harbour_house.md)
-- [The Main Deck](../maps/saltgrace_deck.md)
 - [The Watch House](../maps/bain_watch_house.md)
-- [Shellbrook Mouth](../maps/shellbrook_mouth.md)
+- [Thaddeus's House](../maps/bain_thaddeus_house.md)
+- [Wilmot's House](../maps/bain_ropemakers_house.md)
 
 ## NPCs
 
-- [Tegan](../npcs/tegan.md) (Sailmaker)
-- [Kit](../npcs/kit.md) (Shipwright's Son)
-- [Dunstan](../npcs/dunstan.md) (Master Shipwright)
-- [Alwyn](../npcs/alwyn.md) (Shipwright)
-- [Peregrine](../npcs/peregrine.md) (Shipwright's Apprentice)
-- [Mabyn](../npcs/mabyn.md) (Keeper of the Hall Door)
 - [Bryony](../npcs/bryony.md) (Baker of Merchant Street)
 - [Poppy](../npcs/poppy.md) (Baker's Daughter)
-- [Maren](../npcs/maren.md) (Harbour Schoolteacher)
 - [Gwennol](../npcs/gwennol.md) (Fishmonger)
 - [Hesketh](../npcs/hesketh.md) (Oyster Seller)
 - [Bree](../npcs/bree.md) (Fishmonger's Daughter)
@@ -52,7 +37,3 @@
 - [Kenwyn](../npcs/kenwyn.md) (Salvager of the Bellcaves)
 - [Ysolde](../npcs/ysolde.md) (Keeper of the Light)
 - [Ossie](../npcs/ossie.md) (Lighthouse Boy)
-
-## Discoveries
-
-- [Old Bain's Boat-Hook](../world/discoveries.md#old-bains-boat-hook)

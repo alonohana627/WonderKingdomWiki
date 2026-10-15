@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Torva in the lore](../lore/people/goa-harbour/torva_hunter.md) |
 | Services | Boss: [The Gapclaw](../bosses/gapclaw.md), Boss: [Old Brushtail](../bosses/old_brushtail.md), Quests |
 

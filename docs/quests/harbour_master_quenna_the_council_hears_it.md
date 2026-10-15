@@ -24,8 +24,10 @@
 
 - 112,743 EXP
 - 2,100 mesos
+- Passive: [Freedom of the Harbour](../skills/passives.md#bain-freedom-of-the-harbour)
 - +40 standing with [Quenna](../npcs/harbour_master_quenna.md)
 - +25 standing with Bain Harbour
+- +200 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

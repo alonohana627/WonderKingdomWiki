@@ -23,8 +23,10 @@
 
 - 159,110 EXP
 - 14,740 mesos
+- [Stormcrest Greatsword](../items/stormcrest_greatsword.md) x1
 - +70 standing with [Starling](../npcs/starling.md)
 - +30 standing with Urbanograd
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

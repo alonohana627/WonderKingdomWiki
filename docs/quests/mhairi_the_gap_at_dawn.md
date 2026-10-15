@@ -14,7 +14,7 @@
 
 ## Objectives
 
-1. Reach the head of the Long Stair in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the head of the Long Stair in [Gull Heath](../maps/gull_heath.md)
 2. Talk to [Bethoc](../npcs/bethoc_innkeeper.md)
 
 ## Rewards

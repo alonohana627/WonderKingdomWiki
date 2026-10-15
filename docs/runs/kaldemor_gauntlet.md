@@ -35,6 +35,6 @@ Wave 1: 2 [Green Mushroom](../monsters/green_mushroom.md), 1 [Pig](../monsters/p
 
 ## Rewards (Normal)
 
-First clear: 1,500 EXP, [Agent Cape](../items/agent_cape.md) x1, [Elixir](../items/elixir.md) x2, Unlocks `kaldemor.gauntlet_cleared`
+First clear: 1,500 EXP, [Agent Cape](../items/agent_cape.md) x1, [Elixir](../items/elixir.md) x2, Passive: [Quill's Grit](../skills/passives.md#kaldemor-quills-grit), +100 [Honor](../systems/honor.md), Unlocks `kaldemor.gauntlet_cleared`
 
 Every clear: 2,000 mesos, [Orange Potion](../items/orange_potion.md) x5, [White Potion](../items/white_potion.md) x3

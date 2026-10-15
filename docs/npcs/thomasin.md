@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Scholars' Quarter](../maps/selsior_scholars.md) |
+| Where | [The Academy Library](../maps/academy_library.md) |
 | Story | [Thomasin in the lore](../lore/people/selsior/thomasin.md) |
 | Services | Quests |
 

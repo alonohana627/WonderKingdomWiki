@@ -14,7 +14,6 @@ Lore: [Bain Harbour](../lore/towns/bain-harbour.md)
 |---|---|---|---|
 | [A Fisher's Cottage](../maps/marram_cottage_east.md) | Town | - | - |
 | [A Fisher's Cottage](../maps/marram_cottage_west.md) | Town | - | - |
-| [A Harbour House](../maps/bain_harbour_house.md) | Town | - | - |
 | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Town | - | - |
 | [Bain Harbour](../maps/bain_harbour.md) | Town | - | - |
 | [Clemence's House](../maps/bain_clinic.md) | Town | - | - |
@@ -22,6 +21,7 @@ Lore: [Bain Harbour](../lore/towns/bain-harbour.md)
 | [Harbour Hall](../maps/bain_hall.md) | Town | - | - |
 | [Marisol's Spice House](../maps/bain_spice_house.md) | Town | - | - |
 | [Marram Cove](../maps/marram_cove.md) | Town | - | - |
+| [Merchant Street](../maps/bain_merchant_street.md) | Town | - | - |
 | [Thaddeus's House](../maps/bain_thaddeus_house.md) | Town | - | - |
 | [The Counting House](../maps/bain_counting_house.md) | Town | - | - |
 | [The Customs House](../maps/bain_customs_house.md) | Town | - | - |
@@ -137,19 +137,27 @@ Lore: [Selsior](../lore/towns/selsior.md)
 
 | Map | Kind | Levels | Difficulty |
 |---|---|---|---|
+| [A Lane House](../maps/old_quarter_house_a.md) | Town | - | - |
+| [A Lane House](../maps/old_quarter_house_b.md) | Town | - | - |
 | [A Market House](../maps/market_house.md) | Town | - | - |
+| [A Riverside House](../maps/riverside_house_a.md) | Town | - | - |
+| [A Riverside House](../maps/riverside_house_b.md) | Town | - | - |
 | [Crown Market](../maps/selsior_market.md) | Town | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - |
 | [Palace](../maps/selsior_palace.md) | Town | - | - |
+| [Prudence's Workshop](../maps/alchemists_workshop.md) | Town | - | - |
 | [Riverside](../maps/selsior_riverside.md) | Town | - | - |
 | [Royal Plaza](../maps/selsior.md) | Town | - | - |
 | [Scholars' Quarter](../maps/selsior_scholars.md) | Town | - | - |
 | [Selene's Forge](../maps/selenes_forge.md) | Town | - | - |
 | [Selsior Gate](../maps/selsior_gate.md) | Town | - | - |
+| [The Academy Library](../maps/academy_library.md) | Town | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - |
+| [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - |
+| [The Gilded Stage](../maps/gilded_stage.md) | Town | - | - |
 | [The Palace Quarters](../maps/palace_quarters.md) | Town | - | - |
 | [The Royal Vault](../maps/royal_vault.md) | Town | - | - |
 | [The Throne Hall](../maps/throne_hall.md) | Town | - | - |
@@ -252,6 +260,7 @@ Lore: [Goa Harbour](../lore/towns/goa-harbour.md)
 | [Kestra's Rope Loft](../maps/kestras_rope_loft.md) | Town | - | - |
 | [The Cliff Watch House](../maps/cliff_watch_house.md) | Town | - | - |
 | [The Gap Inn](../maps/gap_inn.md) | Town | - | - |
+| [The Lantern Market](../maps/lantern_market.md) | Town | - | - |
 | [The Wardens' House](../maps/wardens_house.md) | Town | - | - |
 | [Ysmay's House](../maps/ysmays_house.md) | Town | - | - |
 | [Below the Anvil, at Night](../maps/anvil_night.md) | Run | - | - |

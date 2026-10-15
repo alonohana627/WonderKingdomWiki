@@ -12,6 +12,14 @@
 ## How to get
 
 - Made with [Smithing](../professions/smithing.md) (level 10)
+- Reward from [A Trail Too Broad](../quests/a_trail_too_broad.md)
+- Reward from [Breakers on the Strand](../quests/breakers_on_the_strand.md)
+- Reward from [Hale's Boarwood Bounty](../quests/hales_boarwood_bounty.md)
+- Reward from [Houses That Will Not Listen](../quests/houses_that_will_not_listen.md)
+- Reward from [Meg's Count](../quests/megs_count.md)
+- Reward from [Shiny Things](../quests/shiny_things.md)
+- Reward from [Thinning the Herd](../quests/thinning_the_herd.md)
+- Reward from [Up the Walls](../quests/up_the_walls.md)
 
 ## Used for
 

@@ -32,31 +32,31 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Halfway Stone](../maps/halfway_stone.md) | Road | 14-15 | 3 | [Stack Rat](../monsters/stack_rat.md), [Pool Octopus](../monsters/pool_octopus.md) |
-| [Gate Meadows](../maps/gate_meadows.md) | Road | 16-17 | 4 | [Verge Adder](../monsters/verge_adder.md), [Young Gloomeye](../monsters/young_gloomeye.md) |
+| [Gate Meadows](../maps/gate_meadows.md) | Road | 16-17 | 4 | [Young Gloomeye](../monsters/young_gloomeye.md), [Verge Adder](../monsters/verge_adder.md) |
 
 ### Stonefang Pass
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [Seepwater Foothills](../maps/seepwater_foothills.md) | Road | 17-18 | 4 | [Bog-Lurcher](../monsters/bog_lurcher.md), [Seep Toad](../monsters/seep_toad.md) |
+| [Seepwater Foothills](../maps/seepwater_foothills.md) | Road | 17-18 | 4 | [Seep Toad](../monsters/seep_toad.md), [Bog-Lurcher](../monsters/bog_lurcher.md) |
 | [Western Descent](../maps/western_descent.md) | Road | 17-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Axe Stump](../monsters/axe_stump.md) |
 
 ### Fields
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Outworks: Outer Ditch](../maps/outworks_ditch.md) | Hunting | 22-25 | 6 | [Gloomeye](../monsters/gloomeye.md), [Lampbat](../monsters/lampbat.md) |
+| [The Outworks: Outer Ditch](../maps/outworks_ditch.md) | Hunting | 22-25 | 6 | [Lampbat](../monsters/lampbat.md), [Gloomeye](../monsters/gloomeye.md) |
 | [The Outworks: Tower Cellars](../maps/outworks_cellars.md) | Hunting | 22 | 7 | [Lampbat](../monsters/lampbat.md) |
-| [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) | Hunting | 22-28 | 8 | [Ditch Rat](../monsters/ditch_rat.md), [Lampbat](../monsters/lampbat.md), [Gloomeye](../monsters/gloomeye.md) |
+| [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) | Hunting | 22-28 | 8 | [Lampbat](../monsters/lampbat.md), [Gloomeye](../monsters/gloomeye.md), [Ditch Rat](../monsters/ditch_rat.md) |
 | [Bristlewood Edge](../maps/bristlewood_edge.md) | Hunting | 33-37 | 10 | [Bristle Boar](../monsters/bristle_boar.md), [Barkback](../monsters/barkback.md) |
 | [The Silent Cutting](../maps/silent_cutting.md) | Hunting | 37 | 11 | [Barkback](../monsters/barkback.md) |
 | [The Tusk Path](../maps/tusk_path.md) | Hunting | 33-42 | 12 | [Bristle Boar](../monsters/bristle_boar.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
-| [The Reedwater Bottoms](../maps/reedwater_bottoms.md) | Hunting | 42-47 | 13 | [Reed-Lurker](../monsters/reed_lurker.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
+| [The Reedwater Bottoms](../maps/reedwater_bottoms.md) | Hunting | 42-47 | 13 | [Ironhide Hog](../monsters/ironhide_hog.md), [Reed-Lurker](../monsters/reed_lurker.md) |
 | [Reedwater Bottoms: Zip's Bank](../maps/reedwater_deep.md) | Hunting | 47 | 14 | [Reed-Lurker](../monsters/reed_lurker.md) |
 | [Lower Downs](../maps/lower_downs.md) | Hunting | 54 | 16 | [Duskhawk](../monsters/duskhawk.md) |
 | [Beacon Line](../maps/beacon_line.md) | Hunting | 54-59 | 17 | [Duskhawk](../monsters/duskhawk.md), [Downs Howler](../monsters/downs_wolf.md) |
-| [Ram Hills](../maps/ram_hills.md) | Hunting | 59-64 | 18 | [Millstone Ram](../monsters/millstone_ram.md), [Downs Howler](../monsters/downs_wolf.md) |
-| [The Crest](../maps/the_crest.md) | Hunting | 54-64 | 19 | [Millstone Ram](../monsters/millstone_ram.md), [Downs Howler](../monsters/downs_wolf.md), [Duskhawk](../monsters/duskhawk.md) |
+| [Ram Hills](../maps/ram_hills.md) | Hunting | 59-64 | 18 | [Downs Howler](../monsters/downs_wolf.md), [Millstone Ram](../monsters/millstone_ram.md) |
+| [The Crest](../maps/the_crest.md) | Hunting | 54-64 | 19 | [Duskhawk](../monsters/duskhawk.md), [Downs Howler](../monsters/downs_wolf.md), [Millstone Ram](../monsters/millstone_ram.md) |
 
 ### Arenas
 
@@ -231,6 +231,12 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Marsh Boots](../items/marsh_boots.md) | Shoe | 60 | Defense +26, Speed +16, Jump +10 |
 | [Nordic Watch Helm](../items/nordic_watch_helm.md) | Hat | 60 | Defense +47, Max HP +50 |
 | [Stormcrest Greatsword](../items/stormcrest_greatsword.md) | Weapon | 70 | Attack +196, STR +4 |
+
+## Accomplishments
+
+| Accomplishment | Goal | Reward |
+|---|---|---|
+| The Whole City | See Old Grad's story through: the Gate Watch's nights, Hatch's hunt, Perch's message carried to the Highbeacon, Starling's lists, and the warm stone brought up from Low Grad. | 20,000 mesos, +500 [Honor](../systems/honor.md), +150 standing with Urbanograd |
 
 ## Discoveries
 

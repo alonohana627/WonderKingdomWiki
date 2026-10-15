@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 70 | 120,000 | 180,000 | 190 | 60 / 60 |
 
-First clear: +150 standing with Kaldemor
+First clear: [Stonecap Sword](../items/stonecap_sword.md) x1, [Old Wall Iron](../items/old_wall_iron.md) x6, Passive: [Crownbreaker](../skills/passives.md#kaldemor-crownbreaker), +150 [Honor](../systems/honor.md), +150 standing with Kaldemor
 
 Attacks:
 
@@ -80,7 +80,7 @@ Attacks:
 |---|---|---|---|---|
 | 73 | 120,000 | 180,000 | 230 | 400 / 400 |
 
-First clear: +250 standing with Kaldemor
+First clear: [Elixir](../items/elixir.md) x8, [Old Wall Iron](../items/old_wall_iron.md) x8, One of: [Wall Iron Helm](../items/wall_iron_helm.md), [Wall Iron Shield](../items/wall_iron_shield.md), [Lion's Fang](../items/lions_fang.md), +300 [Honor](../systems/honor.md), +250 standing with Kaldemor
 
 Attacks:
 

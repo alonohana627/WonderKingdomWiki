@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 50 | 115,974 | 45,395 | 228 | 300 / 300 |
 
-First clear: [Grizzled Mane Cape](../items/grizzled_mane_cape.md) x1, +80 standing with Fairy Forest
+First clear: [Grizzled Mane Cape](../items/grizzled_mane_cape.md) x1, Passive: [Crown Grip](../skills/passives.md#fairy-forest-crown-grip), +80 standing with Fairy Forest, +150 [Honor](../systems/honor.md)
 
 ### Phases
 
@@ -63,7 +63,7 @@ First clear: [Grizzled Mane Cape](../items/grizzled_mane_cape.md) x1, +80 standi
 |---|---|---|---|---|
 | 53 | 115,974 | 45,395 | 228 | 300 / 300 |
 
-First clear: +120 standing with Fairy Forest
+First clear: +120 standing with Fairy Forest, +300 [Honor](../systems/honor.md)
 
 ### Phases
 

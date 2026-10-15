@@ -21,5 +21,5 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Dust Drifter](../monsters/dust_drifter.md) | 45 | 7 |
-| [Creeping Slime](../monsters/creeping_slime.md) | 45 | 9 |
+| [Dust Drifter](../monsters/dust_drifter.md) | 45 | 8 |
+| [Creeping Slime](../monsters/creeping_slime.md) | 45 | 10 |

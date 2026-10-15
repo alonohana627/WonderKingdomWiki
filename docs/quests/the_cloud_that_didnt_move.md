@@ -22,6 +22,7 @@
 
 - 50,000 EXP
 - 3,500 mesos
+- [Spore Puff Sac](../items/spore_puff_sac.md) x5
 - +30 standing with Kaldemor
 - +60 standing with [Nell](../npcs/nell.md)
 

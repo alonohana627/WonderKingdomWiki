@@ -23,6 +23,8 @@
 - 800 mesos
 - [Orange Potion](../items/orange_potion.md) x10
 - [White Potion](../items/white_potion.md) x5
+- One of: [Steel Fitted Mail](../items/steel_fitted_mail.md), [Steel Corporal](../items/steel_corporal.md), [Steel Corporal Pants](../items/steel_corporal_pants.md)
+- +150 [Honor](../systems/honor.md)
 - +40 standing with Kaldemor
 
 ??? quote "Dialogue"

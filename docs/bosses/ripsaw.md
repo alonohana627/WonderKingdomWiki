@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 50 | 66,867 | 45,395 | 228 | 300 / 300 |
 
-First clear: [Ripsaw Blade](../items/ripsaw_blade.md) x1, +80 standing with Bain Harbour
+First clear: [Ripsaw Blade](../items/ripsaw_blade.md) x1, +80 standing with Bain Harbour, +150 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -74,7 +74,7 @@ Attacks:
 |---|---|---|---|---|
 | 53 | 66,867 | 45,395 | 228 | 300 / 300 |
 
-First clear: +120 standing with Bain Harbour
+First clear: +120 standing with Bain Harbour, +300 [Honor](../systems/honor.md)
 
 Attacks:
 

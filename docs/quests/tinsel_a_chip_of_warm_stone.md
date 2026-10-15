@@ -22,6 +22,7 @@
 - 1,500 mesos
 - +70 standing with [Tinsel](../npcs/tinsel.md)
 - +20 standing with Urbanograd
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 50 | 57,951 | 64,831 | 230 | 300 / 300 |
 
-First clear: +80 standing with Selsior
+First clear: Passive: [River Grip](../skills/passives.md#selsior-river-grip), +80 standing with Selsior, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Selsior
 
@@ -81,7 +81,7 @@ Every clear: +10 standing with Selsior
 |---|---|---|---|---|
 | 53 | 57,951 | 64,831 | 230 | 300 / 300 |
 
-First clear: +160 standing with Selsior
+First clear: +160 standing with Selsior, +300 [Honor](../systems/honor.md)
 
 Every clear: +20 standing with Selsior
 

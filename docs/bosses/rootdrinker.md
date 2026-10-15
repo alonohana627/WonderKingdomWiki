@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 70 | 240,000 | 150,000 | 294 | 700 / 700 |
 
-First clear: +100 standing with Midbarium
+First clear: Passive: [Greywater Spring](../skills/passives.md#midbarium-rootdrinker-spring), +100 standing with Midbarium, +150 [Honor](../systems/honor.md)
 
 Every clear: 30,000 EXP
 
@@ -58,7 +58,7 @@ Attacks:
 |---|---|---|---|---|
 | 73 | 240,000 | 150,000 | 294 | 700 / 700 |
 
-First clear: +100 standing with Midbarium
+First clear: +100 standing with Midbarium, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Midbarium
 

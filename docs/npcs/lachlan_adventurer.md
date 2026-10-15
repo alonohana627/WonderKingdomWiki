@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Lachlan in the lore](../lore/people/goa-harbour/lachlan_adventurer.md) |
 | Services | Boss: [The Inkmother](../bosses/inkmother.md), Quests |
 

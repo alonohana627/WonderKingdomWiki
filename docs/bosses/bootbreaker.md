@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 30,030 | 12,530 | 139 | 300 / 300 |
 
-First clear: [Crabshell Buckler](../items/crabshell_buckler.md) x1, +60 standing with Bain Harbour
+First clear: [Crabshell Buckler](../items/crabshell_buckler.md) x1, +60 standing with Bain Harbour, +150 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -75,7 +75,7 @@ Attacks:
 |---|---|---|---|---|
 | 33 | 30,030 | 12,530 | 139 | 300 / 300 |
 
-First clear: +100 standing with Bain Harbour
+First clear: +100 standing with Bain Harbour, +300 [Honor](../systems/honor.md)
 
 Attacks:
 

@@ -22,6 +22,7 @@
 
 - 150 EXP
 - 150 mesos
+- [Herbal Ink](../items/herbal_ink.md) x2
 - Recipe: [Roast Pork](../items/roast_pork.md) ([Cooking](../professions/cooking.md))
 - +50 standing with [Rosa](../npcs/rosa.md)
 - +10 standing with Kaldemor

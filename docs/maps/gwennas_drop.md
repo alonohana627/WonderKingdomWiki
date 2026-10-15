@@ -21,6 +21,6 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Blind Bat](../monsters/blind_bat.md) | 20 | 5 |
-| [Cave Crab](../monsters/cave_crab.md) | 20 | 3 |
-| [Cave Octopus](../monsters/cave_octopus.md) | 20 | 9 |
+| [Cave Crab](../monsters/cave_crab.md) | 20 | 8 |
+| [Blind Bat](../monsters/blind_bat.md) | 20 | 8 |
+| [Cave Octopus](../monsters/cave_octopus.md) | 20 | 8 |

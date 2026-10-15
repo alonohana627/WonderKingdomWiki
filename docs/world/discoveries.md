@@ -17,7 +17,7 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 |  |  |
 |---|---|
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [Merchant Street](../maps/bain_merchant_street.md) |
 | Size | Common |
 | Reward | 400 EXP, 200 mesos |
 

@@ -21,7 +21,9 @@
 
 - 3,600 EXP
 - 1,200 mesos
+- [Bronze Ingot](../items/bronze_ingot.md) x3
 - [White Potion](../items/white_potion.md) x10
+- +100 [Honor](../systems/honor.md)
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

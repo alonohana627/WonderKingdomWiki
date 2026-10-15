@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Theatre Row](../maps/selsior_theatre.md) |
+| Where | [The Gilded Stage](../maps/gilded_stage.md) |
 | Story | [Percival in the lore](../lore/people/selsior/percival.md) |
 | Services | Quests |
 

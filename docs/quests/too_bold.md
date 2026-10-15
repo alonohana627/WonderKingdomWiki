@@ -23,6 +23,7 @@
 - 15,000 EXP
 - 4,000 mesos
 - [White Potion](../items/white_potion.md) x10
+- One of: [Gold Earrings](../items/gold_earrings.md), [Bow-tie (Yellow)](../items/bow_tie_yellow.md)
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

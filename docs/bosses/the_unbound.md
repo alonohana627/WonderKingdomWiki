@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 31,990 | 12,530 | 139 | 180 / 180 |
 
-First clear: [Bound-Page Pendant](../items/bound_page_pendant.md) x1, +60 standing with Fairy Forest
+First clear: [Bound-Page Pendant](../items/bound_page_pendant.md) x1, +60 standing with Fairy Forest, +150 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -63,7 +63,7 @@ Attacks:
 |---|---|---|---|---|
 | 33 | 31,990 | 12,530 | 139 | 180 / 180 |
 
-First clear: +100 standing with Fairy Forest
+First clear: +100 standing with Fairy Forest, +300 [Honor](../systems/honor.md)
 
 Attacks:
 

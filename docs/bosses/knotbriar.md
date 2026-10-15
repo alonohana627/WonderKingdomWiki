@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 70 | 308,742 | 102,795 | 316 | 420 / 420 |
 
-First clear: [Heartroot Earrings](../items/heartroot_earrings.md) x1, +120 standing with Fairy Forest
+First clear: [Heartroot Earrings](../items/heartroot_earrings.md) x1, Passive: [Thornproof](../skills/passives.md#fairy-forest-thornproof), +120 standing with Fairy Forest, +150 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -70,7 +70,7 @@ Attacks:
 |---|---|---|---|---|
 | 73 | 308,742 | 102,795 | 316 | 420 / 420 |
 
-First clear: +150 standing with Fairy Forest
+First clear: +150 standing with Fairy Forest, +300 [Honor](../systems/honor.md)
 
 Attacks:
 

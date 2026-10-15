@@ -12,19 +12,27 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [A Lane House](../maps/old_quarter_house_a.md) | Town | - | - | - |
+| [A Lane House](../maps/old_quarter_house_b.md) | Town | - | - | - |
 | [A Market House](../maps/market_house.md) | Town | - | - | - |
+| [A Riverside House](../maps/riverside_house_a.md) | Town | - | - | - |
+| [A Riverside House](../maps/riverside_house_b.md) | Town | - | - | - |
 | [Crown Market](../maps/selsior_market.md) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | Town | - | - | - |
 | [Old Quarter](../maps/selsior_old_quarter.md) | Town | - | - | - |
 | [Palace](../maps/selsior_palace.md) | Town | - | - | - |
+| [Prudence's Workshop](../maps/alchemists_workshop.md) | Town | - | - | - |
 | [Riverside](../maps/selsior_riverside.md) | Town | - | - | - |
 | [Royal Plaza](../maps/selsior.md) | Town | - | - | - |
 | [Scholars' Quarter](../maps/selsior_scholars.md) | Town | - | - | - |
 | [Selene's Forge](../maps/selenes_forge.md) | Town | - | - | - |
 | [Selsior Gate](../maps/selsior_gate.md) | Town | - | - | - |
+| [The Academy Library](../maps/academy_library.md) | Town | - | - | - |
 | [The Captain's Hall](../maps/knights_hall.md) | Town | - | - | - |
+| [The Crooked Lantern](../maps/crooked_lantern.md) | Town | - | - | - |
 | [The Envoys' Hall](../maps/envoys_hall.md) | Town | - | - | - |
 | [The Gate Inn](../maps/gate_inn.md) | Town | - | - | - |
+| [The Gilded Stage](../maps/gilded_stage.md) | Town | - | - | - |
 | [The Palace Quarters](../maps/palace_quarters.md) | Town | - | - | - |
 | [The Royal Vault](../maps/royal_vault.md) | Town | - | - | - |
 | [The Throne Hall](../maps/throne_hall.md) | Town | - | - | - |
@@ -35,7 +43,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Hive Hollow](../maps/hive_hollow.md) | Boss | 30 | 0 | - |
-| [Downs Edge](../maps/downs_edge.md) | Hunting | 21-24 | 6 | [Wild Bee](../monsters/wild_bee.md), [Downs Boar](../monsters/downs_boar.md) |
+| [Downs Edge](../maps/downs_edge.md) | Hunting | 21-24 | 6 | [Downs Boar](../monsters/downs_boar.md), [Wild Bee](../monsters/wild_bee.md) |
 | [The Thyme Banks](../maps/thyme_banks.md) | Hunting | 21-24 | 7 | [Downs Boar](../monsters/downs_boar.md), [Wild Bee](../monsters/wild_bee.md) |
 | [The Chalk Hives](../maps/chalk_hives.md) | Hunting | 28 | 8 | [Chalk Hive Bee](../monsters/chalk_hive_bee.md) |
 
@@ -72,7 +80,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 |---|---|---|---|---|
 | [The Hedge Lanes](../maps/hedge_lanes.md) | Road | 7-9 | 3 | [Slime](../monsters/slime.md), [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
 | [The Waystone Meadows](../maps/waystone_meadows.md) | Road | 11-15 | 4 | [Ribbon Pig](../monsters/ribbon_pig.md), [Green Mushroom](../monsters/green_mushroom.md), [Horny Mushroom](../monsters/horny_mushroom.md) |
-| [The Rootlands](../maps/rootlands.md) | Road | 10-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Stump](../monsters/stump.md), [Axe Stump](../monsters/axe_stump.md) |
+| [The Rootlands](../maps/rootlands.md) | Road | 10-21 | 5 | [Stump](../monsters/stump.md), [Dark Stump](../monsters/dark_stump.md), [Axe Stump](../monsters/axe_stump.md) |
 
 ### Quarry Landing
 
@@ -112,14 +120,14 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Aylwin](../npcs/aylwin.md) | Road Patrol Guard | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/aylwin.md) |
 | [Baldwin](../npcs/baldwin.md) | Lamplighter | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/baldwin.md) |
 | [Bartholomew](../npcs/bartholomew.md) | Master of the Royal Academy | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/bartholomew.md) |
-| [Benedict](../npcs/benedict.md) | Head Librarian | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/benedict.md) |
+| [Benedict](../npcs/benedict.md) | Head Librarian | [The Academy Library](../maps/academy_library.md) | Quests | [Story](../lore/people/selsior/benedict.md) |
 | [Bennet](../npcs/bennet.md) | Boatwright | [Riverside](../maps/selsior_riverside.md) | Boss: [Longjaw](../bosses/longjaw.md), Quests | [Story](../lore/people/selsior/bennet.md) |
 | [Bertrand](../npcs/bertrand.md) | Drill Sergeant | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/bertrand.md) |
 | [Biscuit](../npcs/biscuit.md) | Gate Dog | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/biscuit.md) |
 | [Brann](../npcs/brann.md) | Gate Sergeant | [Selsior Gate](../maps/selsior_gate.md) | Quests | [Story](../lore/people/selsior/brann.md) |
 | [Cecily](../npcs/cecily.md) | Singer | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/cecily.md) |
 | [Clement](../npcs/clement.md) | Royal Herald | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/clement.md) |
-| [Constance](../npcs/constance.md) | Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/constance.md) |
+| [Constance](../npcs/constance.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/constance.md) |
 | [Courier's Runner](../npcs/plaza_courier_lad.md) |  | [Royal Plaza](../maps/selsior.md) | - | - |
 | [Crispin](../npcs/crispin.md) | Playwright | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/crispin.md) |
 | [Cuthbert](../npcs/cuthbert.md) | Royal Cook | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/cuthbert.md) |
@@ -152,7 +160,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Ida](../npcs/ida.md) | Night Watchwoman | [Old Quarter](../maps/selsior_old_quarter.md) | Boss: [The Delver](../bosses/delver.md), Quests | [Story](../lore/people/selsior/ida.md) |
 | [Isabeau](../npcs/isabeau.md) | Cloth Merchant | [Crown Market](../maps/selsior_market.md) | Shop: [Isabeau's Cloth](../shops/isabeau_cloth.md) | [Story](../lore/people/selsior/isabeau.md) |
 | [Jasper](../npcs/jasper.md) | Curio Dealer | [Crown Market](../maps/selsior_market.md) | Shop: [Jasper's Curiosities](../shops/jasper_curios.md) | [Story](../lore/people/selsior/jasper.md) |
-| [Joan](../npcs/joan.md) | Keeper of the Crooked Lantern | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/joan.md) |
+| [Joan](../npcs/joan.md) | Keeper of the Crooked Lantern | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/joan.md) |
 | [Jocelyn](../npcs/jocelyn.md) | Vault Clerk | [The Royal Vault](../maps/royal_vault.md) | Quests | [Story](../lore/people/selsior/jocelyn.md) |
 | [Kenric](../npcs/kenric.md) | Smith's Apprentice | [Selene's Forge](../maps/selenes_forge.md) | Quests | [Story](../lore/people/selsior/kenric.md) |
 | [Lambert](../npcs/lambert.md) | Street Juggler | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/lambert.md) |
@@ -176,20 +184,20 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Osmund](../npcs/osmund.md) | Ferryman | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/osmund.md) |
 | [Palace Guard](../npcs/palace_guard_olen.md) |  | [Palace](../maps/selsior_palace.md) | - | - |
 | [Palace Guard](../npcs/palace_guard_rue.md) |  | [Palace](../maps/selsior_palace.md) | - | - |
-| [Percival](../npcs/percival.md) | Leading Man | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/percival.md) |
+| [Percival](../npcs/percival.md) | Leading Man | [The Gilded Stage](../maps/gilded_stage.md) | Quests | [Story](../lore/people/selsior/percival.md) |
 | [Perrin](../npcs/perrin.md) | Royal Courier | [Royal Plaza](../maps/selsior.md) | Quests | [Story](../lore/people/selsior/perrin.md) |
 | [Peterkin](../npcs/peterkin.md) | Palace Page | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/peterkin.md) |
 | [Petronella](../npcs/petronella.md) | Royal Scribe | [The Envoys' Hall](../maps/envoys_hall.md) | Quests | [Story](../lore/people/selsior/petronella.md) |
 | [Piers](../npcs/piers.md) | Pie Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Piers's Pies](../shops/piers_pies.md) | [Story](../lore/people/selsior/piers.md) |
 | [Pim](../npcs/pim.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/pim.md) |
-| [Prudence](../npcs/prudence.md) | Alchemist | [Scholars' Quarter](../maps/selsior_scholars.md) | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests | [Story](../lore/people/selsior/prudence.md) |
+| [Prudence](../npcs/prudence.md) | Alchemist | [Prudence's Workshop](../maps/alchemists_workshop.md) | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests | [Story](../lore/people/selsior/prudence.md) |
 | [Rafe](../npcs/rafe.md) | Puppeteer | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/rafe.md) |
 | [Reynold](../npcs/reynold.md) | Warden of the Crown Market | [Crown Market](../maps/selsior_market.md) | Quests | [Story](../lore/people/selsior/reynold.md) |
 | [Rhys](../npcs/rhys.md) | Captain of the Royal Guard | [The Captain's Hall](../maps/knights_hall.md) | Quests | [Story](../lore/people/selsior/rhys.md) |
 | [Robin](../npcs/robin.md) | Mudlark | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/robin.md) |
-| [Roland](../npcs/roland.md) | Retired Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/roland.md) |
+| [Roland](../npcs/roland.md) | Retired Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/roland.md) |
 | [Rosalind](../npcs/rosalind.md) | Herb Seller | [Crown Market](../maps/selsior_market.md) | Shop: [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Story](../lore/people/selsior/rosalind.md) |
-| [Rosamund](../npcs/rosamund.md) | Leading Lady | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/rosamund.md) |
+| [Rosamund](../npcs/rosamund.md) | Leading Lady | [The Gilded Stage](../maps/gilded_stage.md) | Quests | [Story](../lore/people/selsior/rosamund.md) |
 | [Rowena](../npcs/rowena.md) | Swordmaster of the Guard | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/rowena.md) |
 | [Selene](../npcs/selene.md) | Weaponsmith | [Selene's Forge](../maps/selenes_forge.md) | Shop: [Selene's Arms](../shops/selsior_arms.md) | [Story](../lore/people/selsior/selene.md) |
 | [Selsior Citizen](../npcs/plaza_citizen_corra.md) |  | [Royal Plaza](../maps/selsior.md) | - | - |
@@ -199,9 +207,9 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Sybil](../npcs/sybil.md) | Royal Wardrobe Mistress | [Palace](../maps/selsior_palace.md) | Quests | [Story](../lore/people/selsior/sybil.md) |
 | [Tancred](../npcs/tancred.md) | Retired Drain-Mender | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/tancred.md) |
 | [Theobald](../npcs/theobald.md) | Stargazer | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/theobald.md) |
-| [Thomasin](../npcs/thomasin.md) | Historian of the Balrog War | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests | [Story](../lore/people/selsior/thomasin.md) |
-| [Thurstan](../npcs/thurstan.md) | Adventurer | [Old Quarter](../maps/selsior_old_quarter.md) | Quests | [Story](../lore/people/selsior/thurstan.md) |
-| [Tibb](../npcs/tibb.md) | Stagehand | [Theatre Row](../maps/selsior_theatre.md) | Quests | [Story](../lore/people/selsior/tibb.md) |
+| [Thomasin](../npcs/thomasin.md) | Historian of the Balrog War | [The Academy Library](../maps/academy_library.md) | Quests | [Story](../lore/people/selsior/thomasin.md) |
+| [Thurstan](../npcs/thurstan.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests | [Story](../lore/people/selsior/thurstan.md) |
+| [Tibb](../npcs/tibb.md) | Stagehand | [The Gilded Stage](../maps/gilded_stage.md) | Quests | [Story](../lore/people/selsior/tibb.md) |
 | [Tilda](../npcs/tilda.md) | Taxi Driver | [Selsior Gate](../maps/selsior_gate.md) | Taxi | [Story](../lore/people/selsior/tilda.md) |
 | [Tobe](../npcs/tobe.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests | [Story](../lore/people/selsior/tobe.md) |
 | [Tristan](../npcs/tristan.md) | River Scout | [Riverside](../maps/selsior_riverside.md) | Quests | [Story](../lore/people/selsior/tristan.md) |
@@ -263,6 +271,12 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Dark Quarry Golem](../monsters/dark_quarry_golem.md) | 63 | 11,186 | 2,280 | [The Deep Cut](../maps/deep_cut.md) |
 | [Cut Golem](../monsters/cut_golem.md) | 67 | 12,896 | 2,644 | [The Deep Cut](../maps/deep_cut.md) |
 | [Old Cairn, the Ancient of the Quarries](../monsters/old_cairn.md) | 70 | 266,448 | 176,161 | - |
+
+## Accomplishments
+
+| Accomplishment | Goal | Reward |
+|---|---|---|
+| The Capital's Thanks | See Selsior through its troubles: the Downs' great hive, the thing in the Long Reach, the waking quarries and the Delver under the Old Quarter. | +500 [Honor](../systems/honor.md), +100 standing with Selsior |
 
 ## Discoveries
 

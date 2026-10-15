@@ -1633,6 +1633,10 @@ class Wiki:
             for st in (self.quests[q].get("rewards") or {}).get("standing", []):
                 if "honor" in st:
                     sources.append([self.quest(q), st["honor"]])
+        for aid, x in self.accomplishments.items():
+            for st in (x.get("reward") or {}).get("standing", []):
+                if "honor" in st:
+                    sources.append([f"Accomplishment: {x['name']} ({x['description']})", st["honor"]])
         for bid in self.boss_order:
             for mode in self.bosses[bid]["modes"]:
                 for key in ("firstRewards", "rewards"):

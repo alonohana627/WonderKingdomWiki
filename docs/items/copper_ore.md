@@ -12,6 +12,10 @@
 ## How to get
 
 - Gathered from Copper Vein ([Mining](../professions/mining.md) level 1)
+- Reward from [A Smith's First Bar](../quests/a_smiths_first_bar.md)
+- Reward from [Hale's Bounty](../quests/hales_bounty.md)
+- Reward from [Snail Trouble](../quests/snail_trouble.md)
+- Reward from [The Stretch at Dusk](../quests/the_stretch_at_dusk.md)
 
 ## Used for
 

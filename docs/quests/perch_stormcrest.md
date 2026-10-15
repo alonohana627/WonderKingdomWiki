@@ -22,8 +22,10 @@
 - 110,910 EXP
 - 1,980 mesos
 - [Elixir](../items/elixir.md) x10
+- [Nordic Watch Helm](../items/nordic_watch_helm.md) x1
 - +80 standing with [Perch](../npcs/perch.md)
 - +50 standing with Urbanograd
+- +250 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

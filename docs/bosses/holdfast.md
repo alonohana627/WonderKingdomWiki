@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 45 | 63,380 | 34,965 | 205 | 360 / 360 |
 
-First clear: [Barnacled Hull Cape](../items/barnacled_hull_cape.md) x1, +100 standing with Bain Harbour
+First clear: [Barnacled Hull Cape](../items/barnacled_hull_cape.md) x1, +100 standing with Bain Harbour, +100 [Honor](../systems/honor.md)
 
 Attacks:
 
@@ -77,7 +77,7 @@ Attacks:
 |---|---|---|---|---|
 | 48 | 63,380 | 34,965 | 205 | 360 / 360 |
 
-First clear: [Holdfast Fang Earrings](../items/holdfast_fang_earrings.md) x1, +140 standing with Bain Harbour
+First clear: [Holdfast Fang Earrings](../items/holdfast_fang_earrings.md) x1, +140 standing with Bain Harbour, +200 [Honor](../systems/honor.md)
 
 Attacks:
 

@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Driftstump](../monsters/driftstump.md) | 24 | 11 |
-| [Strand Fox Cub](../monsters/strand_fox_cub.md) | 25 | 4 |
-| [Strand Fox](../monsters/strand_fox.md) | 27 | 2 |
+| [Driftstump](../monsters/driftstump.md) | 24 | 9 |
+| [Strand Fox Cub](../monsters/strand_fox_cub.md) | 25 | 8 |
+| [Strand Fox](../monsters/strand_fox.md) | 27 | 10 |
 
 ## Gathering
 

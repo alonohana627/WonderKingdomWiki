@@ -23,6 +23,8 @@
 
 - 22,000 EXP
 - 4,500 mesos
+- [Green Cloth](../items/green_cloth.md) x4
+- [Blue Cloth](../items/blue_cloth.md) x3
 - [Elixir](../items/elixir.md) x2
 - +40 standing with Kaldemor
 

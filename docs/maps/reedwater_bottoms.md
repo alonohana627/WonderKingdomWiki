@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Reed-Lurker](../monsters/reed_lurker.md) | 47 | 17 |
 | [Ironhide Hog](../monsters/ironhide_hog.md) | 42 | 10 |
+| [Reed-Lurker](../monsters/reed_lurker.md) | 47 | 15 |
 
 ## Gathering
 

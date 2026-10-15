@@ -15,7 +15,7 @@
 
 1. Defeat 60 [Sea Newt](../monsters/sea_newt.md)
 2. Reach the foot of the stairs in [Goa Harbour](../maps/goa_harbour.md)
-3. Reach the head of the Long Stair in [Goa Harbour](../maps/goa_harbour.md)
+3. Reach the head of the Long Stair in [Gull Heath](../maps/gull_heath.md)
 4. Talk to [Torva](../npcs/torva_hunter.md)
 
 ## Rewards

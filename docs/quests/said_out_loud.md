@@ -21,6 +21,8 @@
 
 - 150,000 EXP
 - 12,000 mesos
+- One of: [Neocora](../items/neocora.md), [Sparta](../items/sparta.md), [The Shining](../items/the_shining.md)
+- +300 [Honor](../systems/honor.md)
 - +80 standing with Kaldemor
 - +100 standing with [Meg](../npcs/meg.md)
 - +100 standing with [Hale](../npcs/hale.md)

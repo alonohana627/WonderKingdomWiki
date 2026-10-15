@@ -24,6 +24,7 @@
 - [Elixir](../items/elixir.md) x3
 - +60 standing with [Seren](../npcs/seren_warden.md)
 - +50 standing with Fairy Forest
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

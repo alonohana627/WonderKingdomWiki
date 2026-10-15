@@ -14,15 +14,15 @@
 
 ## Exits
 
-- [Gull Heath](../maps/gull_heath.md)
 - [Dusk Ford](../maps/dusk_ford.md)
+- [Gull Heath](../maps/gull_heath.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Lorang](../monsters/lorang.md) | 17 | 11 |
-| [Lupin](../monsters/lupin.md) | 18 | 3 |
+| [Lorang](../monsters/lorang.md) | 17 | 9 |
+| [Lupin](../monsters/lupin.md) | 18 | 8 |
 
 ## Gathering
 

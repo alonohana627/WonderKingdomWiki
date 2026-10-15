@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Hoarder Shroom](../monsters/hoarder_shroom.md) | 33 | 7 |
 | [Horny Mushroom](../monsters/deepwood_horny.md) | 31 | 14 |
+| [Hoarder Shroom](../monsters/hoarder_shroom.md) | 33 | 7 |
 
 ## Gathering
 

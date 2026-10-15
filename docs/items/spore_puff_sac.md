@@ -12,6 +12,7 @@
 ## How to get
 
 - Dropped by [Spore Puff](../monsters/spore_puff.md) (40%)
+- Reward from [The Cloud That Didn't Move](../quests/the_cloud_that_didnt_move.md)
 
 ## Used for
 

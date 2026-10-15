@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Osric in the lore](../lore/people/goa-harbour/osric_woodsman.md) |
 | Services | Quests |
 

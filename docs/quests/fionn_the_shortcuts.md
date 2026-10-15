@@ -14,9 +14,9 @@
 
 ## Objectives
 
-1. Reach the high landing in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the high landing in [Gull Heath](../maps/gull_heath.md)
 2. Reach the foot of the stairs in [Goa Harbour](../maps/goa_harbour.md)
-3. Reach the head of the Long Stair in [Goa Harbour](../maps/goa_harbour.md)
+3. Reach the head of the Long Stair in [Gull Heath](../maps/gull_heath.md)
 
 ## Rewards
 

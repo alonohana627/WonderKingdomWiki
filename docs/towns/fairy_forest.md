@@ -12,11 +12,16 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [Children's Glade](../maps/childrens_glade.md) | Town | - | 0 | - |
+| [Fairy Forest](../maps/fairy_forest.md) | Town | - | 0 | - |
+
+### Rooms
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [A Glade Home](../maps/glade_west_home.md) | Town | - | 0 | - |
 | [A Glade Home, East](../maps/glade_east_home.md) | Town | - | 0 | - |
 | [Celandine's Remedy House](../maps/remedy_house.md) | Town | - | 0 | - |
-| [Children's Glade](../maps/childrens_glade.md) | Town | - | 0 | - |
-| [Fairy Forest](../maps/fairy_forest.md) | Town | - | 0 | - |
 | [Galen's Staves and Scrolls](../maps/galens_shop.md) | Town | - | 0 | - |
 | [Grove School](../maps/grove_school.md) | Town | - | 0 | - |
 | [Halcy's Weaving Room](../maps/glade_basket_house.md) | Town | - | 0 | - |
@@ -35,36 +40,36 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Forest's Hem](../maps/forests_hem.md) | Road | 9-11 | 3 | [Bubbling](../monsters/bubbling.md), [Slime](../monsters/slime.md) |
-| [The Glimmer Path](../maps/glimmer_path.md) | Road | 9-12 | 4 | [Slime](../monsters/slime.md), [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [The Forest's Hem](../maps/forests_hem.md) | Road | 9-11 | 3 | [Slime](../monsters/slime.md), [Bubbling](../monsters/bubbling.md) |
+| [The Glimmer Path](../maps/glimmer_path.md) | Road | 9-12 | 4 | [Slime](../monsters/slime.md), [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
 
 ### Royal Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Bloomwood](../maps/bloomwood.md) | Road | 11-13 | 5 | [Glimmerwing](../monsters/glimmerwing.md), [Bubbling](../monsters/bubbling.md) |
-| [The Bloomwood, South](../maps/bloomwood_south.md) | Road | 13-17 | 6 | [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md), [Glimmerwing](../monsters/glimmerwing.md) |
+| [The Bloomwood](../maps/bloomwood.md) | Road | 11-13 | 5 | [Bubbling](../monsters/bubbling.md), [Glimmerwing](../monsters/glimmerwing.md) |
+| [The Bloomwood, South](../maps/bloomwood_south.md) | Road | 13-17 | 6 | [Glimmerwing](../monsters/glimmerwing.md), [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) |
 
 ### Fields
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [Shimmerwater, the First Path](../maps/shimmerwater_path_1.md) | Hunting | 19 | 8 | [Firefly Slime](../monsters/firefly_slime.md) |
-| [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) | Hunting | 19-22 | 9 | [Shimmer Slime](../monsters/fairy_slime.md), [Firefly Slime](../monsters/firefly_slime.md) |
+| [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) | Hunting | 19-22 | 9 | [Firefly Slime](../monsters/firefly_slime.md), [Shimmer Slime](../monsters/fairy_slime.md) |
 | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) | Hunting | 25-27 | 10 | [Water Sprite](../monsters/water_sprite.md), [Forest Sprite](../monsters/forest_sprite.md) |
 | [The High Shore](../maps/high_shore_1.md) | Hunting | 31 | 12 | [Evil Eye](../monsters/evil_eye.md) |
 | [The High Shore, Upper Banks](../maps/high_shore_2.md) | Hunting | 31-34 | 13 | [Evil Eye](../monsters/evil_eye.md), [Curse Eye](../monsters/curse_eye.md) |
-| [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) | Hunting | 34-37 | 14 | [Cold Eye](../monsters/cold_eye.md), [Curse Eye](../monsters/curse_eye.md) |
+| [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) | Hunting | 34-37 | 14 | [Curse Eye](../monsters/curse_eye.md), [Cold Eye](../monsters/cold_eye.md) |
 | [The Hollow Oak, Boughs](../maps/hollow_oak_boughs.md) | Hunting | 41 | 16 | [Sharpened Lupin](../monsters/sharpened_lupin.md) |
 | [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) | Hunting | 44-47 | 18 | [Gloomfur Lupin](../monsters/gloomfur_lupin.md), [Surgeon Eye](../monsters/surgeon_eye.md) |
 | [The Deepening, I](../maps/deepening_1.md) | Hunting | 51 | 22 | [Gloaming Wisp](../monsters/deep_forest_wisp.md) |
 | [The Deepening, II](../maps/deepening_2.md) | Hunting | 51-55 | 23 | [Gloaming Wisp](../monsters/deep_forest_wisp.md), [Thorny Bramble](../monsters/thorny_bramble.md) |
 | [The Deepening, III](../maps/deepening_3.md) | Hunting | 55-58 | 24 | [Thorny Bramble](../monsters/thorny_bramble.md), [Forest Howlet](../monsters/forest_howlet.md) |
-| [The Deepening, IV](../maps/deepening_4.md) | Hunting | 58-60 | 25 | [Night Howlet](../monsters/night_howlet.md), [Forest Howlet](../monsters/forest_howlet.md) |
+| [The Deepening, IV](../maps/deepening_4.md) | Hunting | 58-60 | 25 | [Forest Howlet](../monsters/forest_howlet.md), [Night Howlet](../monsters/night_howlet.md) |
 | [The Deepening, V](../maps/deepening_5.md) | Hunting | 62 | 26 | [Forest Glimmerfox](../monsters/forest_glimmerfox.md) |
 | [The Twilit Wood, I](../maps/twilit_wood_1.md) | Hunting | 64 | 27 | [Night Glimmerfox](../monsters/night_glimmerfox.md) |
 | [The Twilit Wood, II](../maps/twilit_wood_2.md) | Hunting | 64-66 | 28 | [Night Glimmerfox](../monsters/night_glimmerfox.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
-| [The Twilit Wood, III](../maps/twilit_wood_3.md) | Hunting | 66-68 | 29 | [Deep Spring Sprite](../monsters/deep_spring_sprite.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
+| [The Twilit Wood, III](../maps/twilit_wood_3.md) | Hunting | 66-68 | 29 | [Blue Spring Sprite](../monsters/blue_spring_sprite.md), [Deep Spring Sprite](../monsters/deep_spring_sprite.md) |
 
 ### Arenas
 
@@ -79,7 +84,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Hushed Grove](../maps/hushed_grove.md) | Dungeon | 20-24 | 15 | [Flying Book](../monsters/flying_book.md), [Dust Wisp](../monsters/dust_wisp.md) |
+| [The Hushed Grove](../maps/hushed_grove.md) | Dungeon | 20-24 | 15 | [Dust Wisp](../monsters/dust_wisp.md), [Flying Book](../monsters/flying_book.md) |
 | [The Shadowed Grove](../maps/shadowed_grove.md) | Dungeon | 22-26 | 15 | [Flying Book](../monsters/flying_book.md), [Snapping Book](../monsters/snapping_book.md), [Ink Imp](../monsters/ink_imp.md) |
 | [The Stilled Grove](../maps/stilled_grove.md) | Dungeon | 22-26 | 15 | [Ink Imp](../monsters/ink_imp.md), [Snapping Book](../monsters/snapping_book.md) |
 
@@ -218,6 +223,18 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Grizzled Mane Cape](../items/grizzled_mane_cape.md) | Cape | 50 | Defense +21, STR +3, Max HP +80 |
 | [Howlet Earrings](../items/howlet_earrings.md) | Earring | 60 | Max HP +90, DEX +2, Magic Defense +12 |
 | [Heartroot Earrings](../items/heartroot_earrings.md) | Earring | 70 | Max HP +160, STR +4, DEX +4, Defense +10, Magic Defense +16 |
+
+## Accomplishments
+
+| Accomplishment | Goal | Reward |
+|---|---|---|
+| Keeper of the Lake | Defeat 400 of Shimmerwater's sick creatures. | +100 [Honor](../systems/honor.md), +40 standing with Fairy Forest |
+| The Oak Cleared | Defeat 500 of the eyes and lupins of the High Shore and the Hollow Oak. | +100 [Honor](../systems/honor.md), +50 standing with Fairy Forest |
+| Walker in the Gloaming | Defeat 600 of the creatures of the Deepening and the Twilit Wood. | +100 [Honor](../systems/honor.md), +60 standing with Fairy Forest |
+| The Forest Wakes | See Fairy Forest's story through: the Blightstone, Old Grizzlemane, the Knotbriar and the rising sap. | - |
+| Student of the Forest | Defeat every kind of creature that lives on Fairy Forest's maps. | - |
+| The Wing Unsealed | Defeat the Unbound in the Rootbound Wing. | - |
+| Friend of the Forest | Fairy Forest's story, its creatures and its old wing, all seen through. | +500 [Honor](../systems/honor.md), +150 standing with Fairy Forest |
 
 ## Discoveries
 

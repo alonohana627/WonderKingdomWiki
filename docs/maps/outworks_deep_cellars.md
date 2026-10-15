@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Ditch Rat](../monsters/ditch_rat.md) | 28 | 8 |
-| [Lampbat](../monsters/lampbat.md) | 22 | 7 |
-| [Gloomeye](../monsters/gloomeye.md) | 25 | 24 |
+| [Lampbat](../monsters/lampbat.md) | 22 | 6 |
+| [Gloomeye](../monsters/gloomeye.md) | 25 | 16 |
+| [Ditch Rat](../monsters/ditch_rat.md) | 28 | 10 |
 
 ## Gathering
 

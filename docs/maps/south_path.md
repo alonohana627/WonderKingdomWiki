@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Ridge Stump](../monsters/ridge_stump.md) | 17 | 8 |
 | [Dust Boggle](../monsters/dust_boggle.md) | 15 | 9 |
+| [Ridge Stump](../monsters/ridge_stump.md) | 17 | 8 |
 
 ## Discoveries
 

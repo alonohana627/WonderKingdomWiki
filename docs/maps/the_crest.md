@@ -20,9 +20,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Millstone Ram](../monsters/millstone_ram.md) | 64 | 13 |
-| [Downs Howler](../monsters/downs_wolf.md) | 59 | 4 |
 | [Duskhawk](../monsters/duskhawk.md) | 54 | 4 |
+| [Downs Howler](../monsters/downs_wolf.md) | 59 | 5 |
+| [Millstone Ram](../monsters/millstone_ram.md) | 64 | 12 |
 
 ## Gathering
 

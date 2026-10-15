@@ -25,6 +25,7 @@
 - [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) x1
 - +40 standing with Selsior
 - +150 standing with [Edric](../npcs/edric.md)
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

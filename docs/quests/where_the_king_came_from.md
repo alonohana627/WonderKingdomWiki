@@ -23,6 +23,8 @@
 
 - 46,000 EXP
 - 7,000 mesos
+- One of: [Steel Nordic Helm](../items/steel_nordic_helm.md), [Blue Jangoon Shoes](../items/blue_jangoon_shoes.md), [Dark Knuckle](../items/dark_knuckle.md)
+- +150 [Honor](../systems/honor.md)
 - +50 standing with Kaldemor
 
 ??? quote "Dialogue"

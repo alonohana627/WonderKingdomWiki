@@ -22,6 +22,7 @@
 ## Rewards
 
 - 20 EXP
+- [Plant Fibre](../items/plant_fibre.md) x3
 - [Red Potion](../items/red_potion.md) x5
 - +10 standing with Kaldemor
 

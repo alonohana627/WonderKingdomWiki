@@ -13,6 +13,9 @@
 
 - Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 44 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 9)
+- Reward from [Breakers on the Strand](../quests/breakers_on_the_strand.md)
+- Reward from [Follow Her Home](../quests/follow_her_home.md)
+- Reward from [Quietly, for Dottie](../quests/quietly_for_dottie.md)
 
 ## Used for
 

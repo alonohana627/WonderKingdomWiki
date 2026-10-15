@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 24,000 | 15,000 | 126 | 180 / 180 |
 
-First clear: +60 standing with Midbarium
+First clear: Passive: [Gnarlwood Grip](../skills/passives.md#midbarium-gnarlwood-grip), +60 standing with Midbarium, +150 [Honor](../systems/honor.md)
 
 Every clear: 3,000 EXP
 
@@ -60,7 +60,7 @@ Attacks:
 |---|---|---|---|---|
 | 33 | 24,000 | 15,000 | 126 | 180 / 180 |
 
-First clear: +100 standing with Midbarium
+First clear: +100 standing with Midbarium, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Midbarium
 

@@ -21,7 +21,9 @@
 ## Rewards
 
 - 400 EXP
+- [Copper Ingot](../items/copper_ingot.md) x2
 - [Old Pocket Watch](../items/old_pocket_watch.md) x1
+- +100 [Honor](../systems/honor.md)
 - +50 standing with Kaldemor
 - Sets `kaldemor.clock_running`
 

@@ -15,7 +15,7 @@
 ## Exits
 
 - [The Chalk Downs](../maps/chalk_downs.md)
-- [Bain Harbour](../maps/bain_harbour.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 - [The First Locks](../maps/first_locks.md)
 
 ## Monsters

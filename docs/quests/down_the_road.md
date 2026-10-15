@@ -24,6 +24,7 @@
 - 1,300 EXP
 - 800 mesos
 - [White Potion](../items/white_potion.md) x10
+- One of: [Steel Greaves](../items/steel_greaves.md), [Steel Fingerless Gloves](../items/steel_fingerless_gloves.md), [Steel Full Helm](../items/steel_full_helm.md)
 - +40 standing with Kaldemor
 
 ??? quote "Dialogue"

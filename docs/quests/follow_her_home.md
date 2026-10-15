@@ -23,6 +23,7 @@
 
 - 30,000 EXP
 - 3,000 mesos
+- [Blue Cloth](../items/blue_cloth.md) x4
 - +30 standing with Kaldemor
 
 ??? quote "Dialogue"

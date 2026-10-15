@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 26 | 18,000 | 9,000 | 109 | 156 / 156 |
 
-First clear: [Drakescale Armour](../items/drakescale_armour.md) x1, +80 standing with Midbarium
+First clear: [Drakescale Armour](../items/drakescale_armour.md) x1, Passive: [Frost Fang](../skills/passives.md#midbarium-frost-fang), +80 standing with Midbarium, +150 [Honor](../systems/honor.md)
 
 Every clear: 3,000 mesos, [White Potion](../items/white_potion.md) x5
 

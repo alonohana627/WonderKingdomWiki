@@ -26,6 +26,7 @@
 - [Elixir](../items/elixir.md) x3
 - +60 standing with [Keziah](../npcs/keziah.md)
 - +25 standing with Bain Harbour
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

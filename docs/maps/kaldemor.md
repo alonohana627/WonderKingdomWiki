@@ -12,21 +12,21 @@
 
 - [Kaldemor Hills](../maps/kaldemor_hills.md)
 - [Kaldemor Field](../maps/kaldemor_field.md)
-- [Kaldemor Market](../maps/kaldemor_market.md)
-- [Mushroom Park](../maps/kaldemor_park.md)
 - [The Mayor's House](../maps/tobins_house.md)
-- [Lia's House](../maps/lias_house.md)
+- [Mushroom Park](../maps/kaldemor_park.md)
 - [The Workshops](../maps/the_workshops.md)
+- [Kaldemor Market](../maps/kaldemor_market.md)
+- [Lia's House](../maps/lias_house.md)
 
 ## NPCs
 
 - [Pell](../npcs/pell.md) (Taxi Driver)
-- [Tam](../npcs/tam.md)
-- [Nell](../npcs/nell.md)
 - [Tobin](../npcs/tobin.md) (Mayor of Kaldemor)
 - [Lia](../npcs/lia.md) (Town Guide)
-- [Mildred](../npcs/mildred.md) (Town Clerk)
+- [Tam](../npcs/tam.md)
+- [Nell](../npcs/nell.md)
 - [Rufus](../npcs/rufus.md) (Town Crier)
+- [Mildred](../npcs/mildred.md) (Town Clerk)
 - [Lottie](../npcs/lottie.md) (Schoolteacher)
 - [Jem](../npcs/jem.md) (Fiddler)
 

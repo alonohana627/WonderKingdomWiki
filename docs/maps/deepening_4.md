@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Night Howlet](../monsters/night_howlet.md) | 60 | 10 |
 | [Forest Howlet](../monsters/forest_howlet.md) | 58 | 14 |
+| [Night Howlet](../monsters/night_howlet.md) | 60 | 10 |
 
 ## Gathering
 
