@@ -2,7 +2,7 @@
 
 # Old Grizzlemane
 
-*A huge, grizzled ape has made the Hollow Oak's crown its own, tearing it apart and driving everything below it out. It leaps, pounds the boughs and throws torn branches; when the crown shakes, watch where the red marks fall. Potions work in the Torn Crown; scrolls do not.*
+*A huge, grizzled ape has made the Hollow Oak's crown its own, tearing it apart and driving everything below it out. It pounds the boughs and throws torn branches; when the crown shakes, watch where the red marks fall. Potions work in the Torn Crown; scrolls do not.*
 
 |  |  |
 |---|---|
@@ -20,37 +20,22 @@
 
 First clear: [Grizzled Mane Cape](../items/grizzled_mane_cape.md) x1, +80 standing with Fairy Forest
 
-Attacks:
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 262 | 4.8 s |
-
 ### Phases
 
 **1. The Crown's Lord** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 262 | 4.8 s |
-| Projectile | Physical | 228 | 4 s |
-
-**2. The Crown Shakes** (below 60% HP): Announces "Old Grizzlemane shakes the crown!"; summons 2 [Sharpened Lupin](../monsters/sharpened_lupin.md) every 30 s.
+**2. Pounding the Boughs** (below 65% HP): Announces "Old Grizzlemane pounds the boughs!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 280 | 4.8 s |
-| Projectile | Physical | 245 | 4 s |
-| Area | Physical | 262 | 9 s |
 
-**3. Enraged** (below 25% HP): Announces "OLD GRIZZLEMANE IS ENRAGED!"; moves faster; summons 2 [Gloomfur Lupin](../monsters/gloomfur_lupin.md) every 30 s.
+**3. Enraged** (below 30% HP): Announces "OLD GRIZZLEMANE IS ENRAGED!"; moves faster; summons 2 [Sharpened Lupin](../monsters/sharpened_lupin.md) every 25 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 298 | 4.8 s |
-| Projectile | Physical | 262 | 4 s |
-| Area | Physical | 280 | 9 s |
-| Melee | Physical | 332 | 5.5 s |
+| Area | Physical | 280 | 3.4 s |
+| Projectile | Physical | 228 | 4 s |
 
 ### Drops
 
@@ -65,6 +50,10 @@ Attacks:
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 15% | 1 |
 | [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 12% | 1 |
 | [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Jeweled Katar](../items/jeweled_katar.md) | 4% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 4% | 1 |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 4% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 4% | 1 |
 
 ## Hard
 
@@ -72,43 +61,30 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 53 | 266,740 | 86,250 | 285 | 318 / 318 |
+| 53 | 115,974 | 45,395 | 228 | 300 / 300 |
 
 First clear: +120 standing with Fairy Forest
-
-Attacks:
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 262 | 4.8 s |
 
 ### Phases
 
 **1. The Crown's Lord** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 314 | 4.8 s |
-| Projectile | Physical | 278 | 4 s |
-| Area | Physical | 278 | 9 s |
-
-**2. The Crown Shakes** (below 60% HP): Announces "Old Grizzlemane shakes the crown!"; moves faster; summons 2 [Gloomfur Lupin](../monsters/gloomfur_lupin.md) every 30 s.
+**2. The Crown Shakes** (below 65% HP): Announces "Old Grizzlemane shakes the crown!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 333 | 4.8 s |
-| Projectile | Physical | 296 | 4 s |
-| Area | Physical | 314 | 9 s |
-| Melee | Physical | 352 | 5.5 s |
+| Area | Physical | 280 | 4.8 s |
+| Projectile | Physical | 228 | 4 s |
+| Area | Physical | 262 | 9 s |
 
-**3. Enraged** (below 25% HP): Announces "OLD GRIZZLEMANE IS ENRAGED!"; moves faster; summons 2 [Surgeon Eye](../monsters/surgeon_eye.md) every 30 s.
+**3. Enraged** (below 30% HP): Announces "OLD GRIZZLEMANE IS ENRAGED!"; moves faster; summons 2 [Gloomfur Lupin](../monsters/gloomfur_lupin.md) every 22 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 370 | 4.8 s |
-| Projectile | Physical | 314 | 4 s |
-| Area | Physical | 352 | 9 s |
-| Melee | Physical | 388 | 5.5 s |
+| Area | Physical | 280 | 3.2 s |
+| Projectile | Physical | 228 | 3.2 s |
+| Area | Physical | 262 | 9 s |
+| Melee | Physical | 315 | 5.5 s |
 
 ### Drops
 
@@ -121,3 +97,7 @@ Attacks:
 | [Grizzled Mane Cape](../items/grizzled_mane_cape.md) | 18% | 1 |
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 30% | 1 |
 | [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 20% | 1 |
+| [Jeweled Katar](../items/jeweled_katar.md) | 9% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 9% | 1 |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 9% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 9% | 1 |

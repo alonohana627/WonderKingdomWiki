@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Ilwen](../npcs/ilwen_steward.md) |
 | Level | 15 |
-| After | [The Council's Letters](../quests/ilwen_letters_kaldemor.md) |
+| After | [Counting Glimmerwings](../quests/juniper_glimmerwing_count.md), [The Council's Letters](../quests/ilwen_letters_kaldemor.md) |
+| Leads to | [The Night Diggers](../quests/merrow_dug_beds.md) |
 
 ## Objectives
 
@@ -34,3 +35,4 @@
     - The last waystone, at the far end of the Bloomwood, where the road opens onto the plain.
     - They've been collected. I had word by bird. Page twenty.
     - Three return scrolls. It is the least the Council can do. I checked.
+    - One more thing, *Player*. Merrow the gardener has been at the Council's door every morning: his seedling beds are dug up in the night. When you're ready, he is in the Herb Gardens. Page twenty-one.

@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Esk](../npcs/esk_adventurer.md) |
 | Level | 18 |
-| Leads to | [A Touched Boar](../quests/esk_a_touched_boar.md) |
+| After | [Pelts from the Woods](../quests/caddoc_woodland_pelts.md) |
+| Leads to | [The Gullwalk](../quests/moira_the_gullwalk.md), [A Touched Boar](../quests/esk_a_touched_boar.md) |
 
 ## Objectives
 

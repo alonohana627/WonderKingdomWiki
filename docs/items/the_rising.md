@@ -18,8 +18,9 @@
 
 - Dropped by [Dusk Wolf](../monsters/dusk_wolf.md) (0.07%)
 - Dropped by [Whipshade](../monsters/whipshade.md) (0.07%)
-- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal), [The Gapclaw](../bosses/gapclaw.md) (Hard) (5%)
+- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal) (5%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.05%)
 - Dropped by [Saltdead Stump](../monsters/saltdead_stump.md) (0.05%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.05%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 16,000 mesos

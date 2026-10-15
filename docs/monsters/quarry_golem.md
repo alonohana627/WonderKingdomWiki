@@ -47,6 +47,15 @@
 | [Steel Missel](../items/steel_missel.md) | 0.08% | 1 |
 | [Red Adventurer Cape](../items/red_adventurer_cape.md) | 0.08% | 1 |
 | [Cross Shield](../items/cross_shield.md) | 0.08% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 0.08% | 1 |
+| [Blue Shouldermail Pants](../items/blue_shouldermail_pants.md) | 0.08% | 1 |
+| [Gold Hildon Boots](../items/gold_hildon_boots.md) | 0.08% | 1 |
+| [Gold Brist](../items/gold_brist.md) | 0.08% | 1 |
+| [Blue Magic Cape](../items/blue_magic_cape.md) | 0.08% | 1 |
+| [Skull Shield](../items/skull_shield.md) | 0.08% | 1 |
+| [Neocora](../items/neocora.md) | 0.08% | 1 |
+| [Hawkhead](../items/hawkhead.md) | 0.08% | 1 |
+| [Sparta](../items/sparta.md) | 0.08% | 1 |
 
 ## Quests
 

@@ -50,4 +50,5 @@
 
 ## Quests
 
+- [Stings in the Casebook](../quests/clemence_stings_in_the_casebook.md)
 - [Watch Bounty: The Old Cut](../quests/jowan_watch_bounty_old_cut.md)

@@ -12,3 +12,8 @@
 ## How to get
 
 - Dropped by [Spitting Sawbill](../monsters/spitting_sawbill.md) (50%)
+
+## Used for
+
+- [Proof for Dunstan](../quests/alwyn_proof_for_dunstan.md) (bring 10)
+- [The Night Run](../quests/captain_seraphine_the_night_run.md) (bring 15)

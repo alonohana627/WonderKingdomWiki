@@ -26,11 +26,12 @@
 | [Stack Rat](../monsters/stack_rat.md) | 14 | 339 | 48 | 54 | [Urbanograd](../towns/urbanograd.md) | [The Halfway Stone](../maps/halfway_stone.md) |
 | [Bluff Wildcat](../monsters/bluff_wildcat.md) | 15 | 418 | 58 | 56 | [Bain Harbour](../towns/bain_harbour.md) | [Baysight Hill](../maps/baysight_hill.md) |
 | [Dust Boggle](../monsters/dust_boggle.md) | 15 | 335 | 58 | 52 | [Midbarium](../towns/midbarium.md) | [The Canyon Road](../maps/canyon_road.md), [The South Path](../maps/south_path.md) |
-| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 358 | 58 | 52 | [Selsior](../towns/selsior.md) | [The Waystone Meadows](../maps/waystone_meadows.md) |
+| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 358 | 58 | 52 | [Selsior](../towns/selsior.md), [Kaldemor](../towns/kaldemor.md) | [The Greenwood](../maps/the_greenwood.md), [The Waystone Meadows](../maps/waystone_meadows.md) |
 | [Mano](../monsters/mano.md) | 15 | 6,000 | 2,000 | 38 | - | - |
 | [Pool Octopus](../monsters/pool_octopus.md) | 15 | 336 | 58 | 58 | [Urbanograd](../towns/urbanograd.md) | [The Halfway Stone](../maps/halfway_stone.md) |
 | [Ditch Eye](../monsters/ditch_eye.md) | 16 | 356 | 69 | 59 | [Goa Harbour](../towns/goa_harbour.md) | [Gorse Downs](../maps/gorse_downs.md) |
 | [Young Gloomeye](../monsters/young_gloomeye.md) | 16 | 356 | 69 | 61 | [Urbanograd](../towns/urbanograd.md) | [Gate Meadows](../maps/gate_meadows.md) |
+| [Breaker Crab](../monsters/breaker_crab.md) | 17 | 548 | 81 | 55 | [Kaldemor](../towns/kaldemor.md) | [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
 | [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) | 17 | 375 | 81 | 63 | [Fairy Forest](../towns/fairy_forest.md) | [The Bloomwood, South](../maps/bloomwood_south.md) |
 | [Dark Stump](../monsters/dark_stump.md) | 17 | 548 | 81 | 57 | [Selsior](../towns/selsior.md), [Urbanograd](../towns/urbanograd.md), [Goa Harbour](../towns/goa_harbour.md) | [Saltwood Road](../maps/saltwood_road.md), [The Rootlands](../maps/rootlands.md), [Western Descent](../maps/western_descent.md) |
 | [Dune Cat](../monsters/dune_cat.md) | 17 | 491 | 81 | 63 | [Bain Harbour](../towns/bain_harbour.md) | [The Dune Reach](../maps/dune_reach.md) |
@@ -98,7 +99,7 @@
 | [Old Brushtail](../monsters/old_brushtail.md) | 30 | 24,880 | 14,320 | 107 | - | - |
 | [Old Gnarl](../monsters/old_gnarl.md) | 30 | 24,000 | 15,000 | 126 | - | - |
 | [Queen Amberwing](../monsters/queen_amberwing.md) | 30 | 23,052 | 14,301 | 158 | - | - |
-| [The Blightstone](../monsters/blightstone.md) | 30 | 30,098 | 12,530 | 139 | - | - |
+| [The Blightstone](../monsters/blightstone.md) | 30 | 26,658 | 12,530 | 139 | - | - |
 | [The Bootbreaker](../monsters/bootbreaker.md) | 30 | 30,030 | 12,530 | 139 | - | - |
 | [The Delver](../monsters/delver.md) | 30 | 23,052 | 14,301 | 158 | - | - |
 | [The Gloamwing](../monsters/gloamwing.md) | 30 | 34,398 | 358 | 145 | - | - |
@@ -189,7 +190,7 @@
 | [Stormcrest](../monsters/stormcrest.md) | 70 | 175,755 | 2,937 | 325 | - | - |
 | [The Cap King](../monsters/cap_king.md) | 70 | 120,000 | 180,000 | 190 | - | - |
 | [The Deep Lantern](../monsters/deep_lantern.md) | 70 | 181,536 | 102,795 | 316 | - | - |
-| [The Knotbriar](../monsters/knotbriar.md) | 70 | 348,580 | 102,795 | 316 | - | - |
+| [The Knotbriar](../monsters/knotbriar.md) | 70 | 308,742 | 102,795 | 316 | - | - |
 | [The Rootdrinker](../monsters/rootdrinker.md) | 70 | 240,000 | 150,000 | 294 | - | - |
 | [The Undertow](../monsters/undertow.md) | 70 | 326,900 | 117,480 | 259 | - | - |
 

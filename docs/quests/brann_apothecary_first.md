@@ -7,10 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Brann](../npcs/brann.md) |
 | Level | 7 |
-| Leads to | [Not in the Book](../quests/brann_not_in_the_book.md) |
+| Leads to | [Not in the Book](../quests/brann_not_in_the_book.md), [Clear the Stretch](../quests/perrin_clear_the_stretch.md) |
 
 ## Objectives
 
@@ -33,5 +33,5 @@
     - Then the salve runs short. Don't make me say it twice.
     - Twelve slime bubbles, then Swithin's count.
     - Twelve bubbles for the salve, and Swithin's count. ...More crosses than last week.
-    - Goes to the Knights' Court today. Thank you, *Player*. You've earned your welcome twice.
+    - Goes to the Knights' Court today. Thank you, *Player*. You've earned your welcome twice. One more thing: Perrin the courier, in the plaza, wants the World Tree Road cleared before his next letter. He could use you.
     - The week's count? Here. Nine crosses. Nine. Tell Brann I underlined it, so he cannot pretend he did not see.

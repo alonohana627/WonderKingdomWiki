@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Juniper](../npcs/juniper_adventurer.md) |
 | Level | 15 |
+| After | [A Flower from the Bloomwood](../quests/halcy_corner_flower.md) |
+| Leads to | [Letters for the Capital](../quests/ilwen_letters_selsior.md) |
 
 ## Objectives
 
@@ -34,3 +36,4 @@
     - Counting still? I'll wait. I'm sketching.
     - More than last year. Further south. I thought so.
     - Into the notebook it goes. Page sixty-two. You're in the margin again.
+    - Ilwen's looking for you. More letters. I don't know where she gets them all.

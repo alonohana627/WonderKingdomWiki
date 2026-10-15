@@ -22,6 +22,7 @@
 ## Quests
 
 - [A Trail Too Broad](../quests/a_trail_too_broad.md) (gives)
+- [The Last Snail Line](../quests/the_last_snail_line.md) (gives)
 
 ??? quote "Dialogue"
 

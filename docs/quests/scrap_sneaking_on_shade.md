@@ -2,7 +2,7 @@
 
 # Sneaking on Shade
 
-*Scrap has sneaked up on everybody in the city except Shade. Keep Shade talking at the gate while Scrap creeps up from behind.*
+*Scrap has sneaked up on everybody in the city except Shade. Keep Shade talking at the gate while Scrap creeps up from behind. First, boots: Scrap needs 25 boar bristles from Bristlewood Edge to pad them.*
 
 |  |  |
 |---|---|
@@ -14,23 +14,24 @@
 
 ## Objectives
 
-- Talk to [Shade](../npcs/shade.md)
+1. Bring 25 [Boar Bristle](../items/boar_bristle.md) (taken)
+2. Talk to [Shade](../npcs/shade.md)
 
 ## Rewards
 
-- 2,290 EXP
-- 1,800 mesos
+- 22,600 EXP
+- 5,130 mesos
 - +50 standing with [Scrap](../npcs/scrap.md)
 - +15 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - I have sneaked up on everybody. Kite. Old Parsnip. Perch, twice. Even Vane, and Vane never sleeps. Everybody except [Shade](../npcs/shade.md). Shade always turns round just before.
-    - You go and talk to Shade at the gate. Keep Shade busy. Ask about knives or roads or something boring. And I will come from behind, quiet as Pounce, and say BOO. Deal?
-    - Talk slow. Talk long. Talk about the weather. Grown-ups love the weather.
+    - You go and talk to Shade at the gate. Keep Shade busy. Ask about knives or roads or something boring. And I will come from behind, quiet as Pounce, and say BOO. Deal? But first, boots. I stuff them with boar bristle, because bristle is soft and bristle is quiet, and slates talk when I stand on them. Bring me **25 [Boar Bristle](../items/boar_bristle.md)s** from the [Bristle Boar](../monsters/bristle_boar.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md). Do not tell Vane where you got them.
+    - Talk slow. Talk long. Talk about the weather. Grown-ups love the weather. Bristle first. Then Shade. Boots before boo. Those are the rules.
     - You are scared of Shade too. It is fine. Everybody is, a little.
-    - Go and keep [Shade](../npcs/shade.md) busy on the Gate Walk, *Player*. I will be right behind. You will not see me. That is the point.
+    - Go and keep [Shade](../npcs/shade.md) busy on the Gate Walk, *Player*. I will be right behind. You will not see me. That is the point. First **25 [Boar Bristle](../items/boar_bristle.md)s** for my boots; you carry (how many you carry). Then Shade.
     - The weather? You came all the way down to the gate to talk about the weather. (Shade does not turn round.) Good afternoon, Scrap.
     - Third chimney from the left, behind the water barrel. Better than last time: I heard the slate only once. Tell her to keep her weight on the balls of her feet, and the slates will not talk.
-    - Shade said good afternoon. Without even looking! How? HOW?
+    - Bristle! A whole pile! It itches, and itching means it works. Shade said good afternoon. Without even looking! How? HOW?
     - ...The balls of my feet. Right. Right! Next time I get Shade, and you will be there, and it will be the best day of my whole life. Thanks, *Player*. That is free. Thanks are always free.

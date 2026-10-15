@@ -15,8 +15,11 @@
 
 ## How to get
 
+- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.06%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.06%)
 - Dropped by [Sea Slater](../monsters/sea_slater.md) (0.06%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.06%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 6,700 mesos

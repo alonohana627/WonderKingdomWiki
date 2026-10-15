@@ -15,4 +15,5 @@
 
 ## Used for
 
+- [Wolves in the Copses](../quests/halloran_copse_clearing.md) (bring 10)
 - [Pelts for the Tanner](../quests/tully_pelts_for_the_tanner.md) (bring 20)

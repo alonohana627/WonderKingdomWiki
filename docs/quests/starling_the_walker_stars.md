@@ -2,7 +2,7 @@
 
 # The Walker Stars
 
-*Starling's old star chart has the Walkers' names for the stars, but one name has faded away. Ozzie Lantry knows the Walkers' songs; perhaps one of them knows the stars.*
+*Starling's old star chart has the Walkers' names for the stars, but one name has faded away. Ozzie Lantry knows the Walkers' songs; perhaps one of them knows the stars. Starling also needs 32 mossy bark from the Silent Cutting to boil into a new ink.*
 
 |  |  |
 |---|---|
@@ -13,23 +13,24 @@
 
 ## Objectives
 
+- Bring 32 [Mossy Bark](../items/mossy_bark.md) (taken)
 - Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
 
 ## Rewards
 
-- 3,610 EXP
-- 2,100 mesos
+- 42,710 EXP
+- 7,700 mesos
 - +50 standing with [Starling](../npcs/starling.md)
 - +15 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - My parents left me a star chart from the city's first years, with the Walkers' names for the stars: the Cart, the Fiddle, the Open Door. Lovely names. But in the north the ink has gone, right where a name should be.
-    - [Ozzie Lantry](../npcs/hob_lantry.md) collects the Walkers' songs and letters. If any of them sang about the stars, Ozzie will know. Will you ask for me? I would go, but the Great Hall is downstairs, and I mostly do not do downstairs.
-    - It is the little crooked one, seven stars, just above the Fiddle's neck. Tell Ozzie that. Ozzie will know what I mean. Or say a great deal about something else first, and then know.
+    - [Ozzie Lantry](../npcs/hob_lantry.md) collects the Walkers' songs and letters. If any of them sang about the stars, Ozzie will know. Will you ask for me? I would go, but the Great Hall is downstairs, and I mostly do not do downstairs. I have one more request, small and a little shameful. The new ink, to fill the gap, is barkback moss boiled with a pinch of soot; it dries black and never fades. Could you bring **32 [Mossy Bark](../items/mossy_bark.md)** from the [Barkback](../monsters/barkback.md)s in the [The Silent Cutting](../maps/silent_cutting.md)? I would rather not meet the barkbacks myself.
+    - It is the little crooked one, seven stars, just above the Fiddle's neck. Tell Ozzie that. Ozzie will know what I mean. Or say a great deal about something else first, and then know. Keep the moss dry. Wet moss writes grey.
     - The gap will keep. Gaps are patient.
-    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) at the Great Hall about the crooked seven stars above the Fiddle, *Player*.
+    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) at the Great Hall about the crooked seven stars above the Fiddle, *Player*. And **32 [Mossy Bark](../items/mossy_bark.md)** from the [The Silent Cutting](../maps/silent_cutting.md), dry. You carry (how many you carry).
     - Seven stars above the Fiddle? Now where are my spectacles... no, not those, those are for reading... Ah. My grandfather sang about those. A fiddler, you see. He would point up from the roof and say: there is the fiddle, and there, just above, is the...
     - ...the Lost Bow! Because the fiddle never could keep track of it. Ha! He laughed every single time. Tell Starling: the Lost Bow. And tell Starling to come down and have supper some evening, will you?
-    - The Lost Bow. Oh, that is perfect. Of course the fiddle lost its bow. Everybody in this city loses everything.
+    - Moss. Dry, and plenty. The Lost Bow. Oh, that is perfect. Of course the fiddle lost its bow. Everybody in this city loses everything.
     - There, inked in. The chart is one gap smaller: a hundred-year-old gap, filled by a fiddler's joke. I think the Walkers would have liked that best of all.

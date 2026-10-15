@@ -15,8 +15,9 @@
 
 ## Objectives
 
-1. Look at Cobb's net across the Cut in [The Sea Locks](../maps/sea_locks.md)
-2. Defeat 60 monsters in [The Sea Locks](../maps/sea_locks.md)
+1. Bring 10 [Sawbill Bill](../items/sawbill_bill.md) (taken)
+2. Look at Cobb's net across the Cut in [The Sea Locks](../maps/sea_locks.md)
+3. Defeat 60 monsters in [The Sea Locks](../maps/sea_locks.md)
 
 ## Rewards
 
@@ -29,9 +30,9 @@
 
     - My mother says it was sawbills. Maren has a card on her shelf now.
     - I want to see it. Myself. I'll set a net across the Cut at the Sea Locks. Whatever tore mine will come to it.
-    - Meet me at **the net** on the Sea Locks. Then keep them off it. **Sixty**, maybe. I'll hold the line.
+    - Meet me at **the net** on the Sea Locks. Then keep them off it. **Sixty**, maybe. I'll hold the line. Bring back **10 [Sawbill Bill](../items/sawbill_bill.md)s** too; I want to see the teeth.
     - I'll be there before you.
     - Another time, then.
-    - Check Cobb's net across the Cut on the Sea Locks, then clear sixty of what comes to it.
+    - Bring back **10 [Sawbill Bill](../items/sawbill_bill.md)s** too; I want to see the teeth. Check Cobb's net across the Cut on the Sea Locks, then clear sixty of what comes to it.
     - Saw them. Saw the teeth go into the mesh. Saw them pull.
     - ...I can sleep now. Knowing is better. Thank you. Gwennol says to say it properly. Thank you very much.

@@ -15,4 +15,9 @@
 
 ## Used for
 
+- [The Cart Must Roll](../quests/dina_the_cart_must_roll.md) (bring 35)
+- [The Basket](../quests/nana_the_basket.md) (bring 30)
 - [Marguerite's Bobbins](../quests/ozzie_marguerites_bobbins.md) (bring 15)
+- [The Walker Songs](../quests/piper_the_walker_songs.md) (bring 30)
+- [Sneaking on Shade](../quests/scrap_sneaking_on_shade.md) (bring 25)
+- [The Grandee's Fall](../quests/sprout_the_grandees_fall.md) (bring 25)

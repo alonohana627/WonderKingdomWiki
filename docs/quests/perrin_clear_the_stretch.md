@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Perrin](../npcs/perrin.md) |
 | Level | 12 |
-| Leads to | [Courier's Stride](../quests/perrin_couriers_stride.md) |
+| After | [Apothecary First](../quests/brann_apothecary_first.md) |
+| Leads to | [A Cutting from the Roots](../quests/godwin_a_cutting_from_the_roots.md), [Courier's Stride](../quests/perrin_couriers_stride.md) |
 
 ## Objectives
 
@@ -34,4 +35,4 @@
     - Fine. I will take the long way. Again. Not that anyone counts.
     - Twenty-five pigs, then the [The Rootlands](../maps/rootlands.md). The letter is not getting any younger, *Player*.
     - Done? Already? Hm. You are quicker than you look. Not quicker than me, naturally.
-    - The whole stretch, open to the Tree's foot. That is my next letter delivered by noon. Here, take these, and keep your legs warm.
+    - The whole stretch, open to the Tree's foot. That is my next letter delivered by noon. Here, take these, and keep your legs warm. Oh, and Godwin, the palace gardener, has been asking for someone to go out to the Tree's foot for him.

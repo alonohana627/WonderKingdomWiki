@@ -2,7 +2,7 @@
 
 # Scrap and the Roads
 
-*Scrap has started asking about the roads, and Vane cannot test a road by jumping on it. Ask Shade at the Gate Walk what Scrap is really learning.*
+*Scrap has started asking about the roads, and Vane cannot test a road by jumping on it. Ask Shade at the Gate Walk what Scrap is really learning. Vane also wants the Tusk Path made safer: bring down 44 ironhide hogs there.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Defeat 44 [Ironhide Hog](../monsters/ironhide_hog.md) in [The Tusk Path](../maps/tusk_path.md)
 - Talk to [Shade](../npcs/shade.md)
 
 ## Rewards
 
-- 7,100 EXP
-- 2,640 mesos
+- 44,100 EXP
+- 6,510 mesos
 - +60 standing with [Vane](../npcs/vane.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Scrap asked me last night how far it is to the Halfway Stone. Just like that, over supper. Nine years old, and asking about the road.
     - I build bridges so people can cross the gaps without falling. Every one of them, I have jumped on first. But I cannot jump on the road for her. I cannot test that.
-    - [Shade](../npcs/shade.md) has taken Scrap under a wing, a little. Ask Shade, for me, what Scrap is really learning down by the gate. I do not want the polite answer.
-    - Shade is on the Gate Walk, usually by the gate with travelers. Do not let Scrap see you go. She will follow you, and then deny it.
+    - [Shade](../npcs/shade.md) has taken Scrap under a wing, a little. Ask Shade, for me, what Scrap is really learning down by the gate. I do not want the polite answer. And a thing I can do about the road, since I cannot test it. The [The Tusk Path](../maps/tusk_path.md) has hogs on it, and a road you cannot walk is not a road. Bring down **44 [Ironhide Hog](../monsters/ironhide_hog.md)s** there, so that whoever walks it next, Scrap among them, is not walking it alone.
+    - Shade is on the Gate Walk, usually by the gate with travelers. Do not let Scrap see you go. She will follow you, and then deny it. Hogs charge straight. Do not argue with the first one. It will not listen.
     - No. Maybe I do not want to know yet, either.
-    - Ask [Shade](../npcs/shade.md) on the Gate Walk what Scrap is learning, *Player*.
+    - Ask [Shade](../npcs/shade.md) on the Gate Walk what Scrap is learning, *Player*. And **44 [Ironhide Hog](../monsters/ironhide_hog.md)s** on the [The Tusk Path](../maps/tusk_path.md).
     - Vane wants to know? Fair.
     - Scrap is learning to fall. From a low wall, into a roll, and up again. It is the first thing anybody should learn and the last thing anybody does. Tell Vane: she falls well now. Better than I did.
-    - Learning to fall. (Vane is quiet for a long moment.) That is what I would have taught her. That is exactly what I would have taught her.
+    - Forty-four hogs. The Tusk Path will be quieter tonight than it has been in months. Learning to fall. (Vane is quiet for a long moment.) That is what I would have taught her. That is exactly what I would have taught her.
     - All right. All right. If she must go out one day, she will go out knowing how to land. I can live with that. I will have to. Thank you, *Player*.

@@ -2,7 +2,7 @@
 
 # A New Comedy
 
-*Pip is writing a new comedy she will show nobody, and she needs something only Ozzie Lantry has, or rather does not have: the story of Juna's first winter.*
+*Pip is writing a new comedy she will show nobody, and she needs something only Ozzie Lantry has, or rather does not have: the story of Juna's first winter. Pip is out of pens: bring her 42 reed bundles from the Reedwater Bottoms.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 42 [Reed Bundle](../items/reed_bundle.md) (taken)
 - Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
 
 ## Rewards
 
-- 7,590 EXP
-- 2,700 mesos
+- 90,690 EXP
+- 11,100 mesos
 - +60 standing with [Pip Marrow](../npcs/pip_marrow.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - I am writing something new. No, you cannot see it. No, I will not tell you the title. The notebook stays in my coat and the coat stays on me.
     - But I need something from Ozzie. Or something Ozzie does not have, which is the strange part. He told me once that nobody has a word written about the city's first winter. Not a letter, not a song. A hundred years of stories and a hole in the middle.
-    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about that winter. About Juna, in that winter. Whatever he knows, and whatever he does not. Especially what he does not.
-    - He will wander off into some other story. Let him. The good parts are always three stories in.
+    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about that winter. About Juna, in that winter. Whatever he knows, and whatever he does not. Especially what he does not. And, practically, I am out of pens. Reed pens, cut from the stalks at the Reedwater Bottoms, and the last one split on page three. Bring me **42 [Reed Bundle](../items/reed_bundle.md)s** from the [Reed-Lurker](../monsters/reed_lurker.md)s of the [The Reedwater Bottoms](../maps/reedwater_bottoms.md). A comedy takes a great many pens. Mine do not last.
+    - He will wander off into some other story. Let him. The good parts are always three stories in. Reeds from the Bottoms, long ones, no splits. I can tell. I will say nothing, but I can tell.
     - Fine. I will invent it all. That is what writers do. It is also what liars do. Ask Hambone.
-    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about Juna's first winter, *Player*. The hole in the middle.
+    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about Juna's first winter, *Player*. The hole in the middle. And **42 [Reed Bundle](../items/reed_bundle.md)s** from the [The Reedwater Bottoms](../maps/reedwater_bottoms.md). You carry (how many you carry).
     - Juna's first winter? Ah. Ah, now. Nobody has that, I am afraid. I have looked for eighteen years. The Table's books begin in the spring after. Before that, nothing. Too cold to write, perhaps. Or burned for warmth. Or hidden.
     - We know she was here, and we know she stayed, and we know the play was on its cart again by summer. Everything between is snow. Tell Pip: if she ever finds a single line, she must show me first. I will cry, probably. I will find my spectacles first.
-    - Nothing. A whole winter of nothing, and Juna somewhere inside it, keeping warm and staying.
+    - Reeds! Long ones! They will last me till the final act, and then another act. Nothing. A whole winter of nothing, and Juna somewhere inside it, keeping warm and staying.
     - Do you know what you can do with nothing, *Player*? Anything. Do not look at me like that, I said nothing about the title. Go on. Go away. I have to write.

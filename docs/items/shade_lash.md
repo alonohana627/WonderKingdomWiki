@@ -12,3 +12,8 @@
 ## How to get
 
 - Dropped by [Whipshade](../monsters/whipshade.md) (50%)
+
+## Used for
+
+- [Everyone Who Writes Things Down](../quests/halloran_everyone_who_writes.md) (bring 15)
+- [The Blue Logbook](../quests/ossie_the_blue_logbook.md) (bring 20)

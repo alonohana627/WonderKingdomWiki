@@ -19,7 +19,6 @@
 - Dropped by [Cold Eye](../monsters/cold_eye.md) (0.08%)
 - Dropped by [Evil Eye](../monsters/evil_eye.md) (0.08%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.03%)
-- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
 - Dropped by [Driftstump](../monsters/driftstump.md) (0.02%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.06%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.06%)

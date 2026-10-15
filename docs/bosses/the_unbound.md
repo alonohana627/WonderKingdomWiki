@@ -2,7 +2,7 @@
 
 # The Unbound
 
-*The great teaching-book of the old wing, its covers torn loose and its pages swirling, woken by the Disturbance. It meets you at your own level. Its pages cut; when it scatters into a storm of paper, stand clear. Potions work in the Old Reading Room; scrolls do not.*
+*The great teaching-book of the old wing, its covers torn loose and its pages swirling, woken by the Disturbance. It meets you at your own level. Its pages cut; when its covers rise, stand clear. Potions work in the Old Reading Room; scrolls do not.*
 
 |  |  |
 |---|---|
@@ -24,26 +24,25 @@ Attacks:
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 171 | 5.6 s |
+| Projectile | Magic | 128 | 4.2 s |
 
 ### Phases
 
-**1. The Covers Slam** (from the start)
+**1. The Pages Turn** (from the start)
 
-**2. The Pages Swirl** (below 60% HP): Announces "The Unbound's pages swirl!"; summons 2 [Ink Imp](../monsters/ink_imp.md) every 25 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 171 | 5.6 s |
-| Projectile | Magic | 150 | 3.2 s |
-
-**3. A Storm of Paper** (below 25% HP): Announces "THE UNBOUND SCATTERS INTO A STORM OF PAPER!"; summons 3 [Flying Book](../monsters/flying_book.md) every 25 s.
+**2. The Covers Slam** (below 65% HP): Announces "The Unbound's covers rise!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 182 | 5.6 s |
-| Projectile | Magic | 160 | 3.2 s |
-| Area | Magic | 171 | 9 s |
+| Area | Physical | 171 | 5.2 s |
+| Projectile | Magic | 128 | 4.2 s |
+
+**3. The Pages Swirl** (below 30% HP): Announces "THE UNBOUND'S PAGES SWIRL!"; summons 2 [Flying Book](../monsters/flying_book.md) every 25 s.
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 171 | 3.6 s |
+| Projectile | Magic | 128 | 3 s |
 
 ### Drops
 
@@ -62,7 +61,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 30 | 73,577 | 12,530 | 139 | 180 / 180 |
+| 33 | 31,990 | 12,530 | 139 | 180 / 180 |
 
 First clear: +100 standing with Fairy Forest
 
@@ -70,33 +69,27 @@ Attacks:
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 171 | 5.6 s |
+| Projectile | Magic | 128 | 4.2 s |
 
 ### Phases
 
-**1. The Covers Slam** (from the start)
+**1. The Pages Turn** (from the start)
+
+**2. The Covers Slam** (below 65% HP): Announces "The Unbound's covers rise!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 193 | 5.6 s |
-| Projectile | Magic | 160 | 3.2 s |
+| Area | Physical | 171 | 5.2 s |
+| Projectile | Magic | 128 | 4.2 s |
 | Area | Magic | 160 | 9 s |
 
-**2. The Pages Swirl** (below 60% HP): Announces "The Unbound's pages swirl!"; summons 3 [Flying Book](../monsters/flying_book.md) every 25 s.
+**3. A Storm of Paper** (below 30% HP): Announces "THE UNBOUND SCATTERS INTO A STORM OF PAPER!"; summons 3 [Ink Imp](../monsters/ink_imp.md) every 22 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 203 | 5.6 s |
-| Projectile | Magic | 171 | 3.2 s |
-| Area | Magic | 182 | 9 s |
-
-**3. A Storm of Paper** (below 25% HP): Announces "THE UNBOUND SCATTERS INTO A STORM OF PAPER!"; summons 3 [Snapping Book](../monsters/snapping_book.md) every 25 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 214 | 5.6 s |
-| Projectile | Magic | 182 | 3.2 s |
-| Area | Magic | 203 | 9 s |
+| Area | Physical | 171 | 3.4 s |
+| Projectile | Magic | 128 | 2.8 s |
+| Area | Magic | 160 | 9 s |
 
 ### Drops
 

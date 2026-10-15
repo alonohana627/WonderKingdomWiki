@@ -20,6 +20,7 @@
 - Dropped by [Sawbill](../monsters/sawbill.md) (0.08%)
 - Dropped by [Sawbill Fry](../monsters/sawbill_fry.md) (0.08%)
 - Dropped by [Spitting Sawbill](../monsters/spitting_sawbill.md) (0.08%)
+- Dropped by [Gloomfur Lupin](../monsters/gloomfur_lupin.md) (0.08%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.05%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
 - Dropped by [Sea Slater](../monsters/sea_slater.md) (0.05%)
@@ -31,4 +32,6 @@
 - Dropped by [Capguard](../monsters/capguard.md) (0.08%)
 - Dropped by [Paleveil Cap](../monsters/paleveil_cap.md) (0.07%)
 - Dropped by [Wallcreeper Cap](../monsters/wallcreeper_cap.md) (0.07%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 11,000 mesos

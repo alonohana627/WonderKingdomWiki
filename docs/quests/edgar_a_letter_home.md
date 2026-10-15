@@ -2,7 +2,7 @@
 
 # A Letter Home
 
-*Edgar is writing his report home to the guild, and it must be exact about the rooftop boot. He needs one detail of the sole from Cobble.*
+*Edgar is writing his report home to the guild, and it must be exact about the rooftop boot. He needs one detail of the sole from Cobble. He also wants a count for the report: bring down 28 bristle boars at Bristlewood Edge.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Defeat 28 [Bristle Boar](../monsters/bristle_boar.md) in [Bristlewood Edge](../maps/bristlewood_edge.md)
 - Talk to [Cobble](../npcs/cobble.md)
 
 ## Rewards
 
-- 2,520 EXP
-- 1,860 mesos
+- 15,320 EXP
+- 3,600 mesos
 - +70 standing with [Edgar Penhallow](../npcs/alder_penhallow.md)
 - +15 standing with Urbanograd
 
@@ -27,12 +28,12 @@
 
     - The carter leaves for Selsior at the end of the week, and I owe my family and the guild hall a letter. A proper report. Boots, mostly. I have written a great deal about boots.
     - But there is one thing I have not got right. The rooftop sole is stitched round, not nailed, but how thick is the inner layer before the welt? I measured four pairs and got four answers. Master Cobble would know. I cannot ask him a fourth time for anything.
-    - Would you ask [Cobble](../npcs/cobble.md) for me, please? How thick the inner sole is, on a rooftop boot. It is for the guild. It must be exact.
-    - Thank you. I shall start the letter while you are gone. 'Dear Mother, dear Father, the boots here are remarkable...'
+    - Would you ask [Cobble](../npcs/cobble.md) for me, please? How thick the inner sole is, on a rooftop boot. It is for the guild. It must be exact. The guild will also want to know what the hide trade is up against here, and I will not write it from hearsay. Would you bring down **28 [Bristle Boar](../monsters/bristle_boar.md)s** at [Bristlewood Edge](../maps/bristlewood_edge.md)? Then I can say how many it took.
+    - Thank you. I shall start the letter while you are gone. 'Dear Mother, dear Father, the boots here are remarkable...' Boots, then boar, or boar, then boots. I shall begin the letter.
     - Of course. I shall write 'approximately'. The guild hates 'approximately'.
-    - Master Cobble, at the shop with no sign: how thick is the inner sole of a rooftop boot?
+    - Master Cobble, at the shop with no sign: how thick is the inner sole of a rooftop boot? And **28 [Bristle Boar](../monsters/bristle_boar.md)s** at [Bristlewood Edge](../maps/bristlewood_edge.md), for the report.
     - Inner sole? Depends on the runner. Heavy runner, two hide-widths. Light one like Kite, one and a half, so the foot feels the slate. That's why his four pairs came out different. They're different people's boots.
     - Writing home, is he? (Cobble is quiet a moment.) End of summer, he's going back. Hm. (Another moment.) Step'll get dirty again. Go on.
-    - It depends on the runner. Of course. Of course it does! In Selsior every boot is the same so that the guild can inspect it. Here every boot is the person's. That is the report, really, isn't it? That is all of it.
+    - Twenty-eight boar, counted. Good. It depends on the runner. Of course. Of course it does! In Selsior every boot is the same so that the guild can inspect it. Here every boot is the person's. That is the report, really, isn't it? That is all of it.
     - (Edgar writes two pages about soles, welts and hide-widths, signs them, seals them. Then, from the back of notebook five, he slides out a second sheet, folded very small, written over and crossed out and written again. He reads it. He folds it smaller and puts it back.)
     - Thank you, *Player*. The boots letter goes with the carter. The other one is not ready. It may not be ready for some time.

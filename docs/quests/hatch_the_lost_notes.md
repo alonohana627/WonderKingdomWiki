@@ -10,8 +10,8 @@
 | Category | Story |
 | Given by | [Hatch](../npcs/hatch.md) |
 | Level | 36 |
-| After | [A New Route](../quests/shade_a_new_route.md) |
-| Leads to | [Zip's Bank](../quests/torvi_zips_bank.md) |
+| After | [Quiet at the Cutting](../quests/shade_the_silent_cutting.md) |
+| Leads to | [Measuring Tusks](../quests/zip_the_tusk_measure.md) |
 
 ## Objectives
 
@@ -37,4 +37,4 @@
     - That's it. That's my hand. Wet, and something's chewed the corner, but it's all there. Look. Look at this page.
     - "Day nineteen. One boar. Not a herd: one. Tracks deep as my forearm. Bristles on a thornbush like nails. It went through the Reedwater Bottoms like a wagon through wheat." I wrote that, and then I went home, and I told myself I'd been drinking.
     - One huge boar. It's the one that drives the lesser ones out of the trees onto the road. It's why the caravans get hit. I don't know what made it like that. I've stopped pretending I can guess.
-    - Torvi Brask saw tracks like these at the top of a stream bank, last spring. The day Zip broke her arm. Go and talk to Torvi. Tell Torvi I said it's the same beast. I'd bet my knees on it, and they're worth less every day.
+    - Torvi Brask saw tracks like these at the top of a stream bank, last spring. The day Zip broke her arm. Zip never lets a story rest; find her at the Gate Walk and tell her about the notes, she will have a use for you. Then go to Torvi. Tell Torvi I said it's the same beast. I'd bet my knees on it, and they're worth less every day.

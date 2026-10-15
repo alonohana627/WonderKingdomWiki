@@ -11,7 +11,7 @@
 | Given by | [Margo 'Sparks' Venn](../npcs/margo_venn.md) |
 | Level | 40 |
 | After | [Zip's Bank](../quests/torvi_zips_bank.md), [Spark Powder](../quests/margo_spark_powder.md) |
-| Leads to | [The Rare Root](../quests/patch_the_rare_root.md) |
+| Leads to | [Moss for the Wounded](../quests/patch_moss_for_the_hunt.md) |
 
 ## Objectives
 

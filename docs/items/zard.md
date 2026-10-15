@@ -20,8 +20,11 @@
 - Dropped by [Sawbill](../monsters/sawbill.md) (0.08%)
 - Dropped by [Sawbill Fry](../monsters/sawbill_fry.md) (0.08%)
 - Dropped by [Spitting Sawbill](../monsters/spitting_sawbill.md) (0.08%)
+- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.05%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
 - Dropped by [Sea Slater](../monsters/sea_slater.md) (0.05%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 21,000 mesos

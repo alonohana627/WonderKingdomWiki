@@ -2,7 +2,7 @@
 
 # Rooftop Greens
 
-*More of the great pot's greens come from the rooftop gardens every season. Go up to Old Parsnip's tubs near the Crooked Tower and ask what he can spare Mags this week.*
+*More of the great pot's greens come from the rooftop gardens every season. Go up to Old Parsnip's tubs near the Crooked Tower and ask what he can spare Mags this week. Mags also wants 30 gloomeye tails for a broth.*
 
 |  |  |
 |---|---|
@@ -16,11 +16,12 @@
 ## Objectives
 
 - Talk to [Old Parsnip](../npcs/parsnip.md)
+- Bring 30 [Gloomeye Tail](../items/gloomeye_tail.md) (taken)
 
 ## Rewards
 
-- 1,500 EXP
-- 1,560 mesos
+- 12,200 EXP
+- 4,680 mesos
 - +50 standing with [Mags](../npcs/mags_ferrow.md)
 - +20 standing with [Old Parsnip](../npcs/parsnip.md)
 - +15 standing with Urbanograd
@@ -28,12 +29,12 @@
 ??? quote "Dialogue"
 
     - Half the green in my pot grows on a roof now. Old Parsnip's cabbages, his leeks, his beans in the old bathtub. Twenty years ago I would have laughed. Now I would be lost without him.
-    - Go up and ask [Old Parsnip](../npcs/parsnip.md) what he can spare me this week. Be polite to him, and be polite to the cabbages. He says they listen. I say who am I to argue with a man who grows leeks in a bathtub.
-    - His garden is across three roofs near the Crooked Tower. If a big grey cat is asleep in a trough of catmint, you are there.
+    - Go up and ask [Old Parsnip](../npcs/parsnip.md) what he can spare me this week. Be polite to him, and be polite to the cabbages. He says they listen. I say who am I to argue with a man who grows leeks in a bathtub. And while you are out in the world, gloomeye tail, **30 [Gloomeye Tail](../items/gloomeye_tail.md)s**, for a broth. It cooks down like eel. Wash them in the ditch before you carry them; I will not say what they smell of.
+    - His garden is across three roofs near the Crooked Tower. If a big grey cat is asleep in a trough of catmint, you are there. The tails are from the gloomeyes in the Outworks. Bring them in a sack, not in your pocket.
     - Then I will send Bastian. He will come back with no greens and a long opinion about leeks.
-    - Old Parsnip, by the Crooked Tower. Greens. And mind your feet up there; I have fed enough people with sprained ankles this year.
+    - Old Parsnip, by the Crooked Tower. Greens. And mind your feet up there; I have fed enough people with sprained ankles this year. And **30 [Gloomeye Tail](../items/gloomeye_tail.md)s**, *Player*, for the broth. In a sack.
     - Mags sent you? Good. Hear that, you lot? Mags's pot. Best place a cabbage can go. They like to be useful, cabbages. Same as anybody.
     - Tell her: the leeks are ready, the beans next week, and the cabbages by the old bathtub in three days, if the weather holds. Pounce slept on the open slates this morning, so it will. I will send it all down by Rivet's lift.
     - And tell her people are coming up for seed every week now. More than ever. I give it gladly. Every tub on a roof is one more mouth that does not need a cart.
-    - Leeks now, beans next week, cabbages in three days. Down Rivet's lift. That old man is worth more to this city than half the Table, and do not tell Bastian I said so, he will want to debate it.
+    - And thirty tails, in a sack. You listen. The broth shall be a good one. Leeks now, beans next week, cabbages in three days. Down Rivet's lift. That old man is worth more to this city than half the Table, and do not tell Bastian I said so, he will want to debate it.
     - Thank you, *Player*. Sit, there is bread. Wash your hands first. I saw that cat.

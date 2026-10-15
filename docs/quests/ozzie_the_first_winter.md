@@ -2,7 +2,7 @@
 
 # The First Winter
 
-*Ozzie Lantry's history of Urbanograd has a hole in its middle: not one account of the Walkers' first winter. Ask the city's keepers of old things, Nana Gristle, Hambone and Thimble, whether they ever heard a word of it.*
+*Ozzie Lantry's history of Urbanograd has a hole in its middle: not one account of the Walkers' first winter. Ask the city's keepers of old things, Nana Gristle, Hambone and Thimble, whether they ever heard a word of it. The tower cellars are the last place the Table's oldest things were stored: thin out 25 lampbats there so they can be searched.*
 
 |  |  |
 |---|---|
@@ -17,11 +17,12 @@
 1. Talk to [Nana Gristle](../npcs/nana_gristle.md)
 2. Talk to [Hambone](../npcs/hambone.md)
 3. Talk to [Thimble](../npcs/thimble.md)
+4. Defeat 25 [Lampbat](../monsters/lampbat.md) in [The Outworks: Tower Cellars](../maps/outworks_cellars.md)
 
 ## Rewards
 
-- 2,400 EXP
-- 3,780 mesos
+- 6,400 EXP
+- 4,830 mesos
 - +50 standing with [Ozzie Lantry](../npcs/hob_lantry.md)
 - +15 standing with Urbanograd
 
@@ -29,10 +30,10 @@
 
     - Ah, hello, hello. Mind the box. And that one. Have you seen my spectacles? The reading ones. No, wait, I am wearing them. Then where are the distance ones? Never mind. You look like someone who asks questions. Good. I have one.
     - Eighteen years I have been writing Urbanograd's first hundred. I have the Walk, I have the spring after, I have the first lanterns. And of the **first winter** I have nothing. Not a letter, not a line. As if the whole city held its breath for a season and wrote none of it down.
-    - I have asked everyone, of course. But I am an old man, and old men ask the same way every time. Ask for me: [Nana Gristle](../npcs/nana_gristle.md) on her bench, [Hambone](../npcs/hambone.md) at the theatre cart, and [Thimble](../npcs/thimble.md) with her costume chests. Somebody's grandmother might have said something once.
-    - Nana is in Lantern Square, Hambone and Thimble in the Old Barracks Yard. If you find so much as a recipe from that winter, come back running. Well, walking. I would hate you to fall.
+    - I have asked everyone, of course. But I am an old man, and old men ask the same way every time. Ask for me: [Nana Gristle](../npcs/nana_gristle.md) on her bench, [Hambone](../npcs/hambone.md) at the theatre cart, and [Thimble](../npcs/thimble.md) with her costume chests. Somebody's grandmother might have said something once. Which leaves one place I have never been able to search: the tower cellars under the outer wall, where the Table stored its oldest things before the towers fell. The lampbats roost there now. Thin out **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Tower Cellars](../maps/outworks_cellars.md), and I can send someone to look at the shelves.
+    - Nana is in Lantern Square, Hambone and Thimble in the Old Barracks Yard. If you find so much as a recipe from that winter, come back running. Well, walking. I would hate you to fall. The cellars are down the Outworks, under the outer towers. Take a lamp. Take two. I would take three, but I cannot find mine.
     - Of course, of course. It has kept a hundred years. It will keep another week. Probably. I say that every week.
-    - Nana Gristle, Hambone, Thimble. Anything at all about the first winter. A word. A rumour of a word.
+    - Nana Gristle, Hambone, Thimble. Anything at all about the first winter. A word. A rumour of a word. Nana, Hambone and Thimble, and then **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Tower Cellars](../maps/outworks_cellars.md), so the shelves can be searched.
     - The first winter? Ozzie sent you. Of course he did. Sit, then. My mother, Posy, was a baby of a few months on the Long Walk, carried out of Selsior in a laundry basket, with her grandmother Marguerite's lace bobbins packed round her to keep her from rolling.
     - That is the most important fact in this city, and you may tell anyone who argues. The bobbins were blue, did I say that? They were blue.
     - The winter, though? I was not born, dear, and Mother was a baby. A baby remembers milk and a basket. Tell Ozzie I said that, and tell him the bobbins were blue.
@@ -42,6 +43,6 @@
     - Mm? Hold still, I am not talking to you, I am talking to this hem. The first winter? Ozzie asks me every year. Every year I tell him: I keep cloth, not stories.
     - I have a scrap of every Juna jacket I ever made, sewn in my coat lining, here. Thirty years of green. The oldest jacket of all, the very first one, I have never found. Not in any chest, not in any attic. If it ever turns up, it may have a letter in its pocket. They usually do. But it has not.
     - So no. Nothing. Tell him to eat something; he looks thin. And tell him he owes me a button.
-    - Blue bobbins. Three planks. A lost green jacket. And not one word of the winter. No, no, do not look like that; it is exactly what I expected. It is still useful. Every 'nothing' is a door I can stop knocking on.
+    - And the cellars thinned of bats! Then the shelves can be searched at last, spectacles willing. Blue bobbins. Three planks. A lost green jacket. And not one word of the winter. No, no, do not look like that; it is exactly what I expected. It is still useful. Every 'nothing' is a door I can stop knocking on.
     - Though the bobbins being blue is new. She has never once said blue. I shall write it down, with a small question mark, the way I write down everything Nana adds.
     - Thank you, *Player*. If you are ever in an old attic, and you see paper, think of me. Then think of my spectacles, and tell me where they are.

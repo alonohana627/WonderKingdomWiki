@@ -2,7 +2,7 @@
 
 # Lines for Pounce
 
-*Rue rehearses Juna's lines to Pounce the cat, who yawns at the best one. See whether Pounce is listening at all, then ask Dex what Rue is doing wrong.*
+*Rue rehearses Juna's lines to Pounce the cat, who yawns at the best one. See whether Pounce is listening at all, then ask Dex what Rue is doing wrong. Rue also asks you to thin the bats that shriek in the pauses: 20 lampbats.*
 
 |  |  |
 |---|---|
@@ -16,11 +16,12 @@
 
 1. Talk to [Pounce](../npcs/pounce.md)
 2. Talk to [Dex](../npcs/dex.md)
+3. Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,600 EXP
-- 2,520 mesos
+- 4,800 EXP
+- 3,360 mesos
 - +40 standing with [Rue](../npcs/rue.md)
 - +10 standing with Urbanograd
 
@@ -28,13 +29,13 @@
 
     - Oh. You saw me. I was... rehearsing. To the cat. (Rue goes red to the ears.) He is the only one who does not stare.
     - But I do not think he is listening. I give him my best speech, the one where Juna tells the guild to haul away the cart and the city with it, and he yawns. Right at the best line.
-    - Could you see whether [Pounce](../npcs/pounce.md) is listening at all? And then ask [Dex](../npcs/dex.md) what I am doing wrong. Dex knows timing. I only know the words.
-    - Pounce is usually in Perch's loft, or in Old Parsnip's catmint. Dex is at the theatre, being loud.
+    - Could you see whether [Pounce](../npcs/pounce.md) is listening at all? And then ask [Dex](../npcs/dex.md) what I am doing wrong. Dex knows timing. I only know the words. And the bats from the Outworks nest in the yard's gutters, and they shriek in the pauses. I wait, and they shriek. Could you thin out **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch? Where they come from?
+    - Pounce is usually in Perch's loft, or in Old Parsnip's catmint. Dex is at the theatre, being loud. The Outer Ditch is past the gate. The bats come from there.
     - No, it is fine. It is silly. It is a cat.
-    - See whether [Pounce](../npcs/pounce.md) is listening, *Player*, and then ask [Dex](../npcs/dex.md) about timing.
+    - See whether [Pounce](../npcs/pounce.md) is listening, *Player*, and then ask [Dex](../npcs/dex.md) about timing. See whether [Pounce](../npcs/pounce.md) is listening, ask [Dex](../npcs/dex.md), and **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch, *Player*.
     - You recite Rue's best line to Pounce. Pounce opens one eye. The tail lifts, flicks once at the tip, and settles again.
     - Then Pounce yawns, enormously, showing every tooth, and turns his back on you with great dignity. A purr starts up anyway, somewhere deep in the grey fur.
     - The cat yawns at the best line? Ha! Then the cat knows timing. (Dex booms with laughter, then stops.) No, listen. She rushes it. She is so afraid of the line that she says it fast to get it over with.
     - Tell her: say the line, then wait. Wait until it hurts. Wait until a cat yawns. The yawn is the laugh, *Player*. It means the audience was holding its breath.
-    - Wait until a cat yawns. (Rue says the line, very quietly, and waits. Then waits some more.)
+    - And the bats! Twenty fewer shrieks. Wait until a cat yawns. (Rue says the line, very quietly, and waits. Then waits some more.)
     - Oh. Oh, it is completely different. The quiet does half the work. Thank you, *Player*. And thank Pounce. No, do not thank Pounce. He will be unbearable.

@@ -16,7 +16,9 @@
 
 ## Objectives
 
-- Deliver 1 [Broken Keel Timber](../items/broken_keel_timber.md)
+1. Bring 20 [Shade Hook](../items/shade_hook.md) (taken)
+2. Deliver 1 [Broken Keel Timber](../items/broken_keel_timber.md)
+3. Defeat 40 [Hookshade](../monsters/hookshade.md) in [The Cliff Edge](../maps/cliff_edge.md)
 
 ## Rewards
 
@@ -28,10 +30,10 @@
 ??? quote "Dialogue"
 
     - You've got a keel with the marks on it? Annis sent you to ME? Ha! Finally!
-    - Seraphine saw something out there. She's never said what. She heard my eyes story once and shut herself in her cabin. Take that timber to **her**, and let me come with you. I'll stand at the door. I won't say a word. I'll say a few words.
+    - Seraphine saw something out there. She's never said what. She heard my eyes story once and shut herself in her cabin. Take that timber to **her**, and let me come with you. I'll stand at the door. I won't say a word. I'll say a few words. And bring **20 [Shade Hook](../items/shade_hook.md)s** with it. She'll believe a pile of them. And clear **40 [Hookshade](../monsters/hookshade.md)s** off the Cliff Edge, so she can stand there and look.
     - I'll stand at the door. Quiet as a mouse. A big mouse.
     - Another time, then.
-    - Take the broken keel timber to Seraphine, with Barnaby at the door.
+    - And bring **20 [Shade Hook](../items/shade_hook.md)s** with it. She'll believe a pile of them. Take the broken keel timber to Seraphine, with Barnaby at the door. And clear **40 [Hookshade](../monsters/hookshade.md)s** off the Cliff Edge, so she can stand there and look.
     - ...Sit down. Both of you. Barnaby, shut the door.
     - Last spring, the night run, deep water. A shoal of lights came up under the Morrow, pale ones, all round her. And in the middle of them something as long as my ship turned over, slow, and looked at me. Eyes as big as cartwheels.
     - Barnaby. You were right. I'm sorry I never said.

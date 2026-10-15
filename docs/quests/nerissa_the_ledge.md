@@ -15,8 +15,10 @@
 
 ## Objectives
 
-1. Bring 1 [Ledge Pearl](../items/ledge_pearl.md) (taken)
-2. Talk to [Tristram](../npcs/tristram.md)
+1. Defeat 50 [Glimshade](../monsters/glimshade.md) in [The Old Fellings](../maps/old_fellings.md)
+2. Bring 1 [Ledge Pearl](../items/ledge_pearl.md) (taken)
+3. Talk to [Tristram](../npcs/tristram.md)
+4. Bring 15 [Glim Shard](../items/glim_shard.md) (taken)
 
 ## Rewards
 
@@ -29,10 +31,10 @@
 
     - Saw the marks on Ambrose's chart. Under the headland.
     - Last dive, late spring. Reef's edge, outside the sea gates. A ledge with an oyster bed. Big pearls. Reaching for one. Something moved below the shelf, in the dark. Big. Saw it a moment. Came up.
-    - Haven't been down since. Bring me **a [Ledge Pearl](../items/ledge_pearl.md)** from that ledge: the pale sawbills nest on the gate stones above it at the Gullet. Then come with me. I want to tell **Tristram**. You there.
+    - Haven't been down since. Bring me **a [Ledge Pearl](../items/ledge_pearl.md)** from that ledge: the pale sawbills nest on the gate stones above it at the Gullet. Then come with me. I want to tell **Tristram**. You there. The glimshades light the way down to the ledge. Clear **50 [Glimshade](../monsters/glimshade.md)s** at the Old Fellings first. And **15 [Glim Shard](../items/glim_shard.md)s** to light the ledge for me.
     - Breathe first.
     - Another time, then.
-    - Bring a pearl from the ledge at the Gullet's sea gates, then be there when Nerissa tells Tristram.
+    - The glimshades light the way down to the ledge. Clear **50 [Glimshade](../monsters/glimshade.md)s** at the Old Fellings first. Bring a pearl from the ledge at the Gullet's sea gates, then be there when Nerissa tells Tristram. And **15 [Glim Shard](../items/glim_shard.md)s** to light the ledge for me.
     - That's the pearl. That's the ledge.
     - Told him. He went quiet, then put his hand on my shoulder. Didn't pick up the harpoon. That's why I didn't tell him before. Thought he'd go down to look. He won't. He wants to see it, not kill it. Different.
     - ...Nerissa told me. What she saw below the shelf.

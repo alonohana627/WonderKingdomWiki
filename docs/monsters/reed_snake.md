@@ -36,3 +36,7 @@
 | [Steel Corporal](../items/steel_corporal.md) | 0.15% | 1 |
 | [Steel Shield](../items/steel_shield.md) | 0.15% | 1 |
 | [Wooden Samurai Sword](../items/samurai_sword.md) | 0.1% | 1 |
+
+## Quests
+
+- [The Cart That Never Came](../quests/the_cart_that_never_came.md)

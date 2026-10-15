@@ -10,12 +10,14 @@
 | Category | Story |
 | Given by | [Wenna](../npcs/wenna.md) |
 | Level | 31 |
+| After | [A Claw Over the Bar](../quests/keziah_claw_over_the_bar.md) |
 | Leads to | [Long Straight Tears](../quests/tegan_long_straight_tears.md), [Twine for the Saltlark](../quests/wenna_twine_for_the_saltlark.md) |
 
 ## Objectives
 
-1. Talk to [Tegan](../npcs/tegan.md)
-2. Talk to [Maren](../npcs/maren.md)
+1. Defeat 30 [Sawbill Fry](../monsters/sawbill_fry.md) in [The Salt Reach](../maps/salt_reach.md)
+2. Talk to [Tegan](../npcs/tegan.md)
+3. Talk to [Maren](../npcs/maren.md)
 
 ## Rewards
 
@@ -29,10 +31,10 @@
     - Sit. Not there. That's Kenver's step. There.
     - You've been up the Old Cut. Everyone's talking about the crabs. Crabs don't do this.
     - Look. A strip of my son's net. A long straight rent, longer than my arm. Clean, but the edges are pulled. Not cut. Pulled. I've mended nets on these steps since I was five and I never saw a fish do that.
-    - I've shown it to no one. Take it to **Tegan** in the sail loft, she knows tears. And to **Maren**, she keeps those things on her shelf. Then bring it back to me.
+    - I've shown it to no one. Take it to **Tegan** in the sail loft, she knows tears. And to **Maren**, she keeps those things on her shelf. Then bring it back to me. And on your way, the fry are thick in the Salt Reach: clear **30 [Sawbill Fry](../monsters/sawbill_fry.md)** so the nets stop filling with them.
     - Bring it back. It's Cobb's net.
     - Another time, then.
-    - Show the strip of net to Tegan in the sail loft and to Maren on Merchant Street.
+    - And on your way, the fry are thick in the Salt Reach: clear **30 [Sawbill Fry](../monsters/sawbill_fry.md)** so the nets stop filling with them. Show the strip of net to Tegan in the sail loft and to Maren on Merchant Street.
     - Well?
     - Tegan's sails, the same tear. Maren's driftwood, the same grooves. So it's one thing doing all of it. One thing out in the deep water.
     - Good. Now I know I'm not a mad old woman. Off you go, then. Tegan will want you.

@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Quenna](../npcs/harbour_master_quenna.md) |
 | Level | 70 |
 | After | [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md) |
@@ -18,21 +18,22 @@
 2. Talk to [Annis](../npcs/captain_annis.md)
 3. Talk to [Marisol](../npcs/marisol.md)
 4. Talk to [Dunstan](../npcs/dunstan.md)
+5. Defeat 80 Holm Wood creatures ([Dusk Wolf](../monsters/dusk_wolf.md), [Whipshade](../monsters/whipshade.md), [Hookshade](../monsters/hookshade.md), [Glimshade](../monsters/glimshade.md))
 
 ## Rewards
 
-- 77,511 EXP
-- 1,540 mesos
+- 112,743 EXP
+- 2,100 mesos
 - +40 standing with [Quenna](../npcs/harbour_master_quenna.md)
 - +25 standing with Bain Harbour
 
 ??? quote "Dialogue"
 
     - The council sat late last night. They want to thank you. Separately. Because if I let them do it together it will take until the race.
-    - Go round them: **Corwin**, **Annis**, **Marisol**, **Dunstan**. Then come back to me and I'll ring the bell.
+    - Go round them: **Corwin**, **Annis**, **Marisol**, **Dunstan**. Then come back to me and I'll ring the bell. While they argue, keep the Holm Wood quiet: clear **80** of its creatures, any kind.
     - Corwin will be brief. Marisol won't.
     - Another time, then.
-    - Hear the council's thanks: Corwin, Annis, Marisol and Dunstan.
+    - Hear the council's thanks: Corwin, Annis, Marisol and Dunstan. While they argue, keep the Holm Wood quiet: clear **80** of its creatures, any kind.
     - Every one of them? Even Dunstan? He thanked you? Out loud?
     - Then it's official. Bain Harbour owes you, *Player*. The harbour council of captains, shipwrights and merchants, and me at the end of the table with my bell.
     - Thank you. The Heron sails deep water again next week. That is the thanks.

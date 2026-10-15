@@ -2,7 +2,7 @@
 
 # The Hunt at the Wallow
 
-*Hatch has a plan, a boar-spear from Ferro and a name for the beast: Hackleback. He cannot go himself. Make sure Torvi keeps Zip back from the Wallow, hear Zip out, then come back to Hatch for the way in.*
+*Hatch has a plan, a boar-spear from Ferro and a name for the beast: Hackleback. He cannot go himself. Make sure Torvi keeps Zip back from the Wallow, hear Zip out, then come back to Hatch for the way in. First, the lesser boar: bring down 45 bristle boars on the Tusk Path, because Hackleback calls them when it is hurt.*
 
 |  |  |
 |---|---|
@@ -10,18 +10,19 @@
 | Category | Story |
 | Given by | [Hatch](../npcs/hatch.md) |
 | Level | 46 |
-| After | [A Boar-Spear Head](../quests/ferro_a_boar_spear_head.md) |
+| After | [Clearing the Bottoms](../quests/hatch_clearing_the_bottoms.md) |
 | Leads to | [Hackleback](../quests/hatch_hackleback.md) |
 
 ## Objectives
 
-1. Talk to [Torvi Brask](../npcs/torvi_brask.md)
-2. Talk to [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
+1. Defeat 45 [Bristle Boar](../monsters/bristle_boar.md) in [The Tusk Path](../maps/tusk_path.md)
+2. Talk to [Torvi Brask](../npcs/torvi_brask.md)
+3. Talk to [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
 
 ## Rewards
 
-- 20,250 EXP
-- 5,520 mesos
+- 45,960 EXP
+- 9,660 mesos
 - +60 standing with [Hatch](../npcs/hatch.md)
 - +30 standing with Urbanograd
 - Unlocks `boss.hackleback`
@@ -31,15 +32,15 @@
     - Sit. This is the second cup, so you get the long version. Thirty years ago a thing in a ravine took my wagon and my horses and I came home on foot. I didn't know what it was. I still don't. I bought a spear the next week.
     - The beast in the Bottoms, I've given it a name: Hackleback, for the bristles. It lies up in the Wallow, a mud hollow at the heart of the Reedwater. It charges straight, sweeps with the tusks, and when it's hurt it calls the lesser boar. When it's badly hurt its hide goes hard as a cart-tyre. Hit it before then, and hit it often.
     - I'd go. I want you to know I'd go. But my knees would get me halfway down the bank and leave me there, and then you'd have two things to carry. So I plan, and you hunt. That's the deal.
-    - Two things first. Tell [Torvi Brask](../npcs/torvi_brask.md) that Zip does not come to the Wallow. Then go and tell [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) yourself, so she hears it from the one who's going. Then come back, and I'll show you the way in.
-    - Torvi's on the training ground inside the gate, most likely. Zip will be wherever Torvi told her not to be.
+    - Three things first. When Hackleback is hurt it calls the lesser boar, and they come in numbers. So, one: bring down **45 [Bristle Boar](../monsters/bristle_boar.md)s** on the [The Tusk Path](../maps/tusk_path.md) and learn to keep moving through a crowd. Then two more. Tell [Torvi Brask](../npcs/torvi_brask.md) that Zip does not come to the Wallow. Then go and tell [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) yourself, so she hears it from the one who's going. Then come back, and I'll show you the way in.
+    - Boar first, on the Tusk Path. Plenty there. Torvi's on the training ground inside the gate, most likely. Zip will be wherever Torvi told her not to be.
     - Good. Better to say no here than halfway down the bank.
-    - [Torvi Brask](../npcs/torvi_brask.md) first, then [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md). Then back to me, and I'll show you the way to the Wallow.
+    - **45 [Bristle Boar](../monsters/bristle_boar.md)s** on the [The Tusk Path](../maps/tusk_path.md) first. [Torvi Brask](../npcs/torvi_brask.md) first, then [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md). Then back to me, and I'll show you the way to the Wallow.
     - Hatch says Zip stays home. Ha. Hatch is right. I was going to say it myself, but it is better coming from three of us; she argues with one at a time.
     - Here is what I will tell her, and what I want you to tell her too. My grandmother Hulda said a fighter who never runs gets one bad day. That beast is a bad day. Knowing when to run is not the coward's part. It is the part that lets you come back.
     - I will keep her on the training ground until you are back. If I have to sit on her. Go and tell her. Gently. Then not gently.
     - No. No no no. You are going after my monster? The one from my bank? Without me? It is my story! I was there first! I fell off a bank for it!
     - ...Torvi says I am not ready. Torvi says when to run is the whole lesson. I hate the whole lesson. I can do footwork. I can do guard. I just cannot make my feet go backwards when everything in me says forwards.
     - Fine. FINE. I will stay. But you have to come back and tell me every single thing. The size of it. The noise. Everything. And if you do not come back I will be furious with you forever.
-    - Torvi's sitting on her, more or less. Good. Then everything's ready but you. Ferro's spear-head is on the shaft; Ferro named it, I expect, and won't tell me what.
+    - Forty-five boar, and you kept moving through them. Good. Torvi's sitting on her, more or less. Good. Then everything's ready but you. Ferro's spear-head is on the shaft; Ferro named it, I expect, and won't tell me what.
     - When you're ready, ask me, and I'll show you the way down to the Wallow. I'll be here. I'll be sitting in this chair the whole time, hating it.

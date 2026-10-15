@@ -24,4 +24,6 @@
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
 - Dropped by [Sea Slater](../monsters/sea_slater.md) (0.05%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 12,000 mesos

@@ -22,8 +22,10 @@
 ## Quests
 
 - [Hatch's Bounty: the Bristlewood](../quests/hatch_bristlewood_bounty.md) (gives)
+- [Clearing the Bottoms](../quests/hatch_clearing_the_bottoms.md) (gives)
 - [Hackleback](../quests/hatch_hackleback.md) (gives)
 - [Reading Tracks](../quests/hatch_reading_tracks.md) (gives)
+- [The Cutting Count](../quests/hatch_the_cutting_count.md) (gives)
 - [The Hunt at the Wallow](../quests/hatch_the_hunt_at_the_wallow.md) (gives)
 - [The Lost Notes](../quests/hatch_the_lost_notes.md) (gives)
 

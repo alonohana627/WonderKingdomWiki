@@ -21,7 +21,11 @@
 
 ## Quests
 
+- [Clear the Lower Downs](../quests/torvi_clear_the_lower_downs.md) (gives)
 - [Torvi's Bounty: the Downs](../quests/torvi_downs_bounty.md) (gives)
+- [Axes on the Descent](../quests/torvi_the_axe_stumps.md) (gives)
+- [The Bottoms Round](../quests/torvi_the_bottoms_round.md) (gives)
+- [The Crest Road](../quests/torvi_the_crest_road.md) (gives)
 - [The Wool Carts](../quests/torvi_the_wool_carts.md) (gives)
 - [The Touched Boar](../quests/torvi_touched_boar.md) (gives)
 - [Zip's Bank](../quests/torvi_zips_bank.md) (gives)

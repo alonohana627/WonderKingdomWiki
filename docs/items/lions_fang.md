@@ -18,7 +18,11 @@
 
 - Dropped by [Dusk Wolf](../monsters/dusk_wolf.md) (0.07%)
 - Dropped by [Whipshade](../monsters/whipshade.md) (0.07%)
-- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal), [The Gapclaw](../bosses/gapclaw.md) (Hard) (5%)
+- Dropped by [Gloaming Wisp](../monsters/deep_forest_wisp.md) (0.05%)
+- Dropped by [Old Grizzlemane](../monsters/old_grizzlemane.md), [Old Grizzlemane](../bosses/old_grizzlemane.md) (Normal) (4%)
+- Dropped by [Old Grizzlemane](../bosses/old_grizzlemane.md) (Hard) (9%)
+- Dropped by [Thorny Bramble](../monsters/thorny_bramble.md) (0.05%)
+- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal) (5%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.05%)
 - Dropped by [Saltdead Stump](../monsters/saltdead_stump.md) (0.05%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.05%)
@@ -29,4 +33,5 @@
 - Dropped by [Paleveil Cap](../monsters/paleveil_cap.md) (0.06%)
 - Dropped by [Spore Puff](../monsters/spore_puff.md) (0.07%)
 - Dropped by [Wallcreeper Cap](../monsters/wallcreeper_cap.md) (0.07%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 23,000 mesos

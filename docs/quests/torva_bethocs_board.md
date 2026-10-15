@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Torva](../npcs/torva_hunter.md) |
 | Level | 20 |
+| After | [The Gullwalk](../quests/moira_the_gullwalk.md) |
 | Leads to | [The Night Trap](../quests/caddoc_the_night_trap.md) |
 
 ## Objectives

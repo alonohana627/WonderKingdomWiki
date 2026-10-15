@@ -49,5 +49,6 @@
 
 ## Quests
 
+- [Proof for Dunstan](../quests/alwyn_proof_for_dunstan.md)
 - [Watch Bounty: The Outer Cut](../quests/jowan_watch_bounty_outer_cut.md)
 - [A Touched Sawbill](../quests/tristram_touched_sawbill.md)

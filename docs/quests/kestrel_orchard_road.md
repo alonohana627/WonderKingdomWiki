@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Kestrel](../npcs/kestrel_adventurer.md) |
 | Level | 9 |
-| Leads to | [Road Patrol](../quests/kestrel_road_patrol.md) |
+| After | [Lights on the Hem](../quests/ondine_carters_lights.md) |
+| Leads to | [Herbs from the Glimmer Path](../quests/hesper_glimmer_herbs.md), [Road Patrol](../quests/kestrel_road_patrol.md) |
 
 ## Objectives
 
@@ -33,3 +34,4 @@
     - Still slimy out there. Keep going.
     - That's the Hem clear. The carts go through tomorrow.
     - You're all right on a road, *Player*. I'll say that to anyone who asks.
+    - Oh, and Hesper's gardeners won't set foot on the Glimmer Path any more. Tell her it's clearer. She'll find you something to do. She always does.

@@ -18,3 +18,4 @@
 ## Used for
 
 - [Old Wall Iron](../quests/the_old_wall_iron.md) (bring 30)
+- [What Drove It Out](../quests/what_drove_it_out.md) (bring 10)

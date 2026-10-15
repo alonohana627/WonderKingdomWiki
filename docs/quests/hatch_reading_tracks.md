@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Hatch](../npcs/hatch.md) |
 | Level | 30 |
+| After | [The Gloamwing](../quests/brindle_the_gloamwing.md) |
 | Leads to | [A New Route](../quests/shade_a_new_route.md) |
 
 ## Objectives

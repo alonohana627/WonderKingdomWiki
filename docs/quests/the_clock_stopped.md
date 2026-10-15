@@ -11,6 +11,7 @@
 | Given by | [Ewan](../npcs/ewan.md) |
 | Level | 4 |
 | After | [Shells for the Mayor](../quests/shells_for_the_mayor.md) |
+| Leads to | [The Stretch at Dusk](../quests/the_stretch_at_dusk.md) |
 
 ## Objectives
 

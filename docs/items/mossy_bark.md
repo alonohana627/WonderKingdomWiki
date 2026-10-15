@@ -16,6 +16,11 @@
 ## Used for
 
 - [Seasoned Wood](../quests/hambone_seasoned_wood.md) (bring 30)
+- [The Returned Box](../quests/hex_the_returned_box.md) (bring 30)
 - [Owls for the Watch](../quests/knox_owls_for_the_watch.md) (bring 10)
+- [Moss for the Wounded](../quests/patch_moss_for_the_hunt.md) (bring 40)
 - [The Cedar Case](../quests/quint_the_cedar_case.md) (bring 20)
+- [Seen from the Gate Walk](../quests/splash_seen_from_the_gate_walk.md) (bring 35)
+- [The Walker Stars](../quests/starling_the_walker_stars.md) (bring 32)
+- [The Oldest Jacket](../quests/thimble_the_oldest_jacket.md) (bring 25)
 - [Short of Timber](../quests/vane_short_of_timber.md) (bring 25)

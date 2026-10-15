@@ -16,7 +16,8 @@
 ## Objectives
 
 1. Reach [The Mouths](../maps/sounding_mouths.md)
-2. Talk to [Ronan](../npcs/ronan_child.md)
+2. Defeat 30 Creature in the Mouthss in [The Mouths](../maps/sounding_mouths.md)
+3. Talk to [Ronan](../npcs/ronan_child.md)
 
 ## Rewards
 
@@ -29,7 +30,7 @@
 
     - My rope is gone. The long one. And Sorcha cannot find Ronan.
     - He has been at me for months to take him to the caves. Go, quick, to the Mouths. I will look along the coves.
-    - Go into the Sounding Caves' Mouths and find Ronan, then make sure he gets home.
+    - Go into the Sounding Caves' Mouths, clear 30 creatures between you and Ronan, then make sure he gets home.
     - Go! I will look along the coves.
     - Then I will go myself.
     - The Mouths. Find him.

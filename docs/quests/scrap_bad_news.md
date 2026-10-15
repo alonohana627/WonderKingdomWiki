@@ -2,7 +2,7 @@
 
 # Bad News
 
-*Scrap found a cracked lantern pane in a gutter under the outer towers and named it Bad News. Lux keeps the lanterns and ought to see it.*
+*Scrap found a cracked lantern pane in a gutter under the outer towers and named it Bad News. Lux keeps the lanterns and ought to see it. Scrap also asks you to thin out the lampbats over the place the pane was found: 20 in the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -16,11 +16,12 @@
 ## Objectives
 
 - Deliver 1 [Bad News](../items/bad_news_pane.md)
+- Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 920 EXP
-- 1,320 mesos
+- 4,120 EXP
+- 2,200 mesos
 - +40 standing with [Scrap](../npcs/scrap.md)
 - +10 standing with Urbanograd
 
@@ -28,10 +29,10 @@
 
     - Psst. Psst! Up here. No, here. You did not hear me sneak up, did you? Good. I am practising.
     - I keep a tin of lost things. This is Sir Wobble, he is a button. This is Lefty. And this one is **Bad News**. I found it in the gutter under the outer towers. It is a lantern pane, all cracked, and it smells like outside.
-    - Lux keeps the lanterns. I think Lux should see Bad News, because lanterns should not be lying in gutters. But I am not allowed down to the gate on my own. Will you take [Bad News](../items/bad_news_pane.md) to [Lux](../npcs/lux_lune.md) in Lantern Square?
-    - Be careful with him. He has sharp edges. That is why he is called Bad News.
+    - Lux keeps the lanterns. I think Lux should see Bad News, because lanterns should not be lying in gutters. But I am not allowed down to the gate on my own. Will you take [Bad News](../items/bad_news_pane.md) to [Lux](../npcs/lux_lune.md) in Lantern Square? And the bats over the place I found him are twenty too many. I counted from the wall. Could you thin out **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch? Then I can look for more Bad News safely. No, I will not go.
+    - Be careful with him. He has sharp edges. That is why he is called Bad News. The bats are in the Outer Ditch. Bad News first, then the bats, or the bats first, I do not mind.
     - Fine. Bad News can stay in the tin with Lefty. Lefty does not mind.
-    - [Bad News](../items/bad_news_pane.md) goes to [Lux](../npcs/lux_lune.md) in Lantern Square, *Player*. Do not cut yourself. He bites.
-    - Where did you get this? Under the outer towers... in a gutter. Scrap's tin, was it? Of course it was.
+    - [Bad News](../items/bad_news_pane.md) goes to [Lux](../npcs/lux_lune.md) in Lantern Square, *Player*. Do not cut yourself. He bites. Take [Bad News](../items/bad_news_pane.md) to [Lux](../npcs/lux_lune.md), *Player*, and **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch.
+    - And the bats! Twenty? Scrap counted? Well. Where did you get this? Under the outer towers... in a gutter. Scrap's tin, was it? Of course it was.
     - Outward side of the wall. The frame bent, the glass thrown clear. Just like the others. Something is breaking my lanterns where it thinks nobody will look.
     - Tell Scrap thank you. Tell Scrap it was well named. And tell Scrap to stay off the outer gutters, please, though I know how much good that will do.

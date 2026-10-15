@@ -75,7 +75,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 48 | 142,304 | 76,245 | 218 | 384 / 384 |
+| 48 | 63,380 | 34,965 | 205 | 360 / 360 |
 
 First clear: [Holdfast Fang Earrings](../items/holdfast_fang_earrings.md) x1, +140 standing with Bain Harbour
 
@@ -87,32 +87,6 @@ Attacks:
 | Area | Physical | 266 | 5.6 s |
 
 ### Phases
-
-**1. Out of the Hatches** (from the start): summons 3 [Hull Louse](../monsters/hull_louse.md) every 26 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 301 | 4.2 s |
-| Area | Physical | 326 | 5.6 s |
-| Area | Physical | 326 | 6.2 s |
-
-**2. The Hold Floods** (below 65% HP): Announces "Water pours up through the broken floor!"; summons 3 [Bilge Eel](../monsters/bilge_eel.md) every 24 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 313 | 4.2 s |
-| Area | Physical | 338 | 5.6 s |
-| Area | Physical | 338 | 6.2 s |
-| Area | Physical | 226 | 11 s |
-
-**3. Two Openings at Once** (below 30% HP): Announces "The Holdfast strikes from two openings at once!"; summons 2 [Barnacle Crab](../monsters/barnacle_crab.md) every 28 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 338 | 4.2 s |
-| Area | Physical | 364 | 4.2 s |
-| Area | Physical | 364 | 4.2 s |
-| Area | Physical | 251 | 11 s |
 
 ### Drops
 

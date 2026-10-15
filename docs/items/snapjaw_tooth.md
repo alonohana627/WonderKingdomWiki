@@ -16,4 +16,5 @@
 ## Used for
 
 - [Finch Wants to See One](../quests/finch_see_a_sea_creature.md) (bring 1)
+- [Back and Bigger](../quests/keziah_back_and_bigger.md) (bring 10)
 - [A Lesson from the Cut](../quests/maren_lesson_from_the_cut.md) (bring 5)

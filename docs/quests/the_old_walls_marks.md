@@ -2,7 +2,7 @@
 
 # The Old Wall's Marks
 
-*Lottie has heard there are masons' marks on the stones of Stonecap Keep. Copy the marks on the keep's gate and on the west and east towers of the Battlements for her notebook.*
+*Lottie has heard there are masons' marks on the stones of Stonecap Keep. Copy the marks on the keep's gate and on the west and east towers of the Battlements for her notebook. Hoarder Shrooms swarm the walls: defeat 60 while you copy the marks.*
 
 |  |  |
 |---|---|
@@ -18,6 +18,7 @@
 - Reach the keep's gate in [The Keep Road](../maps/keep_road_2.md)
 - Reach the west tower in [The Battlements](../maps/battlements_2.md)
 - Reach the east tower in [The Battlements](../maps/battlements_3.md)
+- Defeat 60 [Hoarder Shroom](../monsters/hoarder_shroom_keep.md)
 
 ## Rewards
 

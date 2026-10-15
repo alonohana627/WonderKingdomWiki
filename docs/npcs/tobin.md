@@ -23,6 +23,7 @@
 
 - [Settling In](../quests/settling_in.md) (gives)
 - [Shells for the Mayor](../quests/shells_for_the_mayor.md) (completes)
+- [Shells for the Wall](../quests/shells_for_the_wall.md) (gives)
 - [Snail Trouble](../quests/snail_trouble.md) (gives)
 - [Strength of a Warrior](../quests/strength_of_a_warrior.md) (gives)
 - [The Cart That Never Came](../quests/the_cart_that_never_came.md) (gives)

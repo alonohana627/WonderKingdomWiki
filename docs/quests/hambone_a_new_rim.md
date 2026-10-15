@@ -2,7 +2,7 @@
 
 # A New Rim
 
-*The cart's oldest wheel has new spokes, but its rim is split, and Hambone cannot bear to replace it. Ask Ferro whether an iron band could hold the old wood together.*
+*The cart's oldest wheel has new spokes, but its rim is split, and Hambone cannot bear to replace it. Ask Ferro whether an iron band could hold the old wood together. Hambone also needs 40 hog tusks, to wedge the spokes under the band.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 40 [Ironhide Hog Tusk](../items/hog_tusk.md) (taken)
 - Talk to [Ferro](../npcs/ferro.md)
 
 ## Rewards
 
-- 6,190 EXP
-- 2,520 mesos
+- 73,470 EXP
+- 10,920 mesos
 - +60 standing with [Hambone](../npcs/hambone.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - All right. All right! The wheel is cracked. The left rear, the oldest one. There, I said it, and the sky did not fall, though I half expected it to.
     - The spokes are new now, from your wood. But the rim is split, and a rim is a rim: replace it and the wheel is a new wheel. Fenwick fitted that rim. Fenwick said it came off Juna's own cart, or near enough.
-    - [Ferro](../npcs/ferro.md) works odd metals. Ask Ferro whether a thin iron band could go round the old rim and hold it, so the old wood stays and the cart still rolls. I cannot ask. I would cry at the anvil, and Ferro is very gruff about crying.
-    - Tell Ferro it is for Juna's cart. No, tell Ferro it is for the troupe. No... tell Ferro whichever will work.
+    - [Ferro](../npcs/ferro.md) works odd metals. Ask Ferro whether a thin iron band could go round the old rim and hold it, so the old wood stays and the cart still rolls. I cannot ask. I would cry at the anvil, and Ferro is very gruff about crying. And wedges. A band round an old rim wants hard wedges to seat the spokes, and wood splits, and iron rusts, and Ferro would say tusk. Ironhide tusk, no less. Bring me **40 [Ironhide Hog Tusk](../items/hog_tusk.md)s** from the [Ironhide Hog](../monsters/ironhide_hog.md)s on the [The Tusk Path](../maps/tusk_path.md) while you ask.
+    - Tell Ferro it is for Juna's cart. No, tell Ferro it is for the troupe. No... tell Ferro whichever will work. Tusks go in the cart, not the pocket. Mind the hogs, they have opinions.
     - Then I bind it in wire again, and hope, and hum.
-    - Ask [Ferro](../npcs/ferro.md) on Workshops Row about an iron band for the old rim, *Player*.
+    - Ask [Ferro](../npcs/ferro.md) on Workshops Row about an iron band for the old rim, *Player*. And **40 [Ironhide Hog Tusk](../items/hog_tusk.md)s** for the wedges. You carry (how many you carry).
     - A band round an old rim, so the wood stays. Hm. (Ferro turns a scrap of iron over and over, not looking at you.) That is not a weapon.
     - Good. Tell Hambone to bring the wheel. The band gets a name on the inside, small, where nobody looks. And tell Hambone the old wood stays. That is the whole point of a band.
-    - The old wood stays. (Hambone sits down on the tailboard.) The old wood stays, with an iron band round it and a name inside. Ferro said that?
+    - Tusks, and forty of them! They will wedge the spokes and look quite grand about it. The old wood stays. (Hambone sits down on the tailboard.) The old wood stays, with an iron band round it and a name inside. Ferro said that?
     - Then the cart rolls on Walkout Day on Juna's rim, or near enough, and nobody will ever know but us and Ferro and Dina and Thimble and Sprout. Which is half the troupe. Which is fine. Thank you, *Player*.

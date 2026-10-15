@@ -49,5 +49,9 @@
 ## Quests
 
 - [Checking the Marks](../quests/ambrose_checking_the_marks.md)
+- [The Council Hears It](../quests/harbour_master_quenna_the_council_hears_it.md)
+- [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md)
 - [Watch Bounty: The Holm Wood](../quests/jowan_watch_bounty_holm_wood.md)
+- [The Ledge She Was Reaching For](../quests/nerissa_the_ledge.md)
+- [To See It Once](../quests/tristram_to_see_it_once.md)
 - [A Touched Shade](../quests/tristram_touched_shade.md)

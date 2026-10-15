@@ -36,6 +36,11 @@
 | [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 0.35% | 1 |
 | [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 0.35% | 1 |
 | [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 0.35% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 0.05% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 0.05% | 1 |
+| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 0.05% | 1 |
+| [Gold Brist](../items/gold_brist.md) | 0.05% | 1 |
+| [Blue Magic Cape](../items/blue_magic_cape.md) | 0.05% | 1 |
 | [Root-Water](../items/root_water.md) | 40% | 1 |
 
 ## Quests

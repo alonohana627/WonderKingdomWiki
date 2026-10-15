@@ -11,7 +11,7 @@
 | Given by | [Shade](../npcs/shade.md) |
 | Level | 33 |
 | After | [Reading Tracks](../quests/hatch_reading_tracks.md) |
-| Leads to | [The Lost Notes](../quests/hatch_the_lost_notes.md) |
+| Leads to | [Quiet at the Cutting](../quests/shade_the_silent_cutting.md) |
 
 ## Objectives
 
@@ -36,4 +36,4 @@
     - Forty along the [The Tusk Path](../maps/tusk_path.md), and the far end. High side.
     - Boar on the path, hogs on the slope, and the big tracks crossing it twice, going down toward the wet ground. Not along it. Across. Hm.
     - So the high side holds, if you move in the morning and keep walking. That's a route. Not a good one. A route.
-    - Hatch will want to hear about those tracks. Go tell him. He'll pretend he isn't interested. He'll be lying.
+    - That's a route. Not the only one I need. Come back to me when you've had some rest, and we'll talk about the Cutting; I won't trust either way until I've seen both. Hatch will want to hear about the tracks, and he will pretend he isn't interested. He'll be lying.

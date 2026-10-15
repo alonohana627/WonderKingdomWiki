@@ -2,7 +2,7 @@
 
 # Bastian Gives His Time
 
-*Bastian has talked over Rivet twice at the Open Table and is mortified. He means to give up his own time at the next gathering so Rivet can speak about the second lift, but Rivet must not know. Make sure Rivet comes.*
+*Bastian has talked over Rivet twice at the Open Table and is mortified. He means to give up his own time at the next gathering so Rivet can speak about the second lift, but Rivet must not know. Make sure Rivet comes. Mags says Bastian must walk off his nerves first: bring down 30 barkbacks in the Silent Cutting.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Defeat 30 [Barkback](../monsters/barkback.md) in [The Silent Cutting](../maps/silent_cutting.md)
 - Talk to [Rivet](../npcs/rivet.md)
 
 ## Rewards
 
-- 3,610 EXP
-- 2,100 mesos
+- 21,940 EXP
+- 4,200 mesos
 - +70 standing with [Bastian 'Bellows' Krell](../npcs/bastian_krell.md)
 - +20 standing with Urbanograd
 
@@ -28,13 +29,13 @@
     - *Player*. Come here. Closer. No, closer, I am trying to be quiet, it does not come naturally. I have done a bad thing, twice, and I did not even notice I was doing it.
     - Rivet has waited two whole gatherings to speak about a second rooftop lift, by the Old Barracks. Both times I stood up first about my bridge, and both times I went on until the candles did. Dimity showed me the pages. Rivet's name is at the top of the list, and then there is me, for nine pages.
     - So at the next gathering, when Rook calls my name, I am going to stand up, say 'I give my time to Rivet', and sit down. Sit down! Me! Mags says she will believe it when she sees it, and she is bringing a stool to see it from.
-    - But Rivet must **not know**. If I promise and fail, that is worse than never promising. Just go to [Rivet](../npcs/rivet.md) on Workshops Row and make sure Rivet comes to the next gathering, with the drawings. Not a word about me. Can you be that quiet? I cannot.
-    - Good! Quietly! Rivet is by the lift at the end of the Row, the big one with the crates going up. Say whatever you like, except the true thing.
+    - But Rivet must **not know**. If I promise and fail, that is worse than never promising. Just go to [Rivet](../npcs/rivet.md) on Workshops Row and make sure Rivet comes to the next gathering, with the drawings. Not a word about me. Can you be that quiet? I cannot. And one more thing. Mags says I must walk off the nerves or I will give the speech in my sleep. So: out to the [The Silent Cutting](../maps/silent_cutting.md), **30 [Barkback](../monsters/barkback.md)s**, hit them as if they were the bridge. I would go myself, but I would talk the whole way, and the barkbacks would leave out of boredom.
+    - Good! Quietly! Rivet is by the lift at the end of the Row, the big one with the crates going up. Say whatever you like, except the true thing. The Silent Cutting is east, past the Edge. Quiet in there. Use the quiet. I cannot.
     - Ah. Then I shall have to persuade Rivet myself, and I will shout, and I will give the whole thing away in the first breath. Come back if you can, *Player*.
-    - Has Rivet promised to come? With the drawings? And you have not told? Good, good, quietly, quietly.
+    - Has Rivet promised to come? With the drawings? And you have not told? Good, good, quietly, quietly. And **30 [Barkback](../monsters/barkback.md)s** in the [The Silent Cutting](../maps/silent_cutting.md), for my nerves.
     - The next gathering? Why would I go? I have been twice. Both times I sat with my drawings on my knee while Bastian built a bridge out of words, and both times the candles went out first.
     - Margo says I should shout. I do not shout, I build. The second lift would save every porter on that stair by the Old Barracks a hundred climbs a day. My mother hauled crates up stairs like that for twenty years. It is not a bridge over a market. It works.
     - Fine. Because you asked, and because you have the look of someone who knows something. I will come, with the drawings. Third time. If Bastian starts on his bridge, I am leaving by the window.
-    - Rivet is coming? With the drawings? And you said nothing? *Player*, you are the quietest person I have ever liked. I could shout. I will not. Look at me not shouting.
+    - Thirty barkbacks? You are a better friend than I deserve, and I have deserved many. Rivet is coming? With the drawings? And you said nothing? *Player*, you are the quietest person I have ever liked. I could shout. I will not. Look at me not shouting.
     - I have practised. 'I give my time to Rivet.' Five words. I have never said five words at the Table in twenty years. Mags timed me this morning. I said it in four breaths and then added a speech about the beauty of brevity, so we are still working on it.
     - Come to the gathering, *Player*. Sit near the front. If you see me begin to stand up for longer than five words, cough.

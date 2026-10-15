@@ -20,6 +20,8 @@
 
 First clear: +100 standing with Selsior
 
+Every clear: +10 standing with Selsior
+
 ### Phases
 
 **1. The Face Stands Up** (from the start)
@@ -29,7 +31,7 @@ First clear: +100 standing with Selsior
 | Area | Physical | 453 | 4 s |
 | Projectile | Physical | 423 | 6 s |
 
-**2. Rubble Wakes** (below 70% HP): Announces "THE RUBBLE STANDS UP!"; summons 2 [Rubble Golem](../monsters/rubble_golem.md) every 30 s.
+**2. Rubble Wakes** (below 65% HP): Announces "THE RUBBLE STANDS UP!"; summons 2 [Rubble Golem](../monsters/rubble_golem.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
@@ -66,33 +68,13 @@ First clear: +100 standing with Selsior
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 74 | 645,612 | 332,536 | 393 | 740 / 740 |
+| 73 | 266,448 | 176,161 | 302 | 700 / 700 |
 
 First clear: +200 standing with Selsior
 
+Every clear: +20 standing with Selsior
+
 ### Phases
-
-**1. The Face Stands Up** (from the start)
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 590 | 3.4 s |
-| Projectile | Physical | 550 | 6 s |
-
-**2. Rubble Wakes** (below 70% HP): Announces "THE RUBBLE STANDS UP!"; summons 2 [Quarry Golem](../monsters/quarry_golem.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 590 | 3.4 s |
-| Projectile | Physical | 550 | 6 s |
-
-**3. The Cut Falls** (below 30% HP): Announces "THE FACE OF THE CUT CRACKS!"; moves faster.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 590 | 3.4 s |
-| Projectile | Physical | 550 | 6 s |
-| Area | Physical | 943 | 9.5 s |
 
 ### Drops
 

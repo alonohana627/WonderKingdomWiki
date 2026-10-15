@@ -7,10 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Knox](../npcs/knox.md) |
 | Level | 14 |
-| Leads to | [The Highland Traveler](../quests/knox_the_highland_traveler.md) |
+| Leads to | [Proof for the Notebook](../quests/tick_proof_for_the_notebook.md) |
 
 ## Objectives
 
@@ -18,7 +18,7 @@
 
 ## Rewards
 
-- 1,440 EXP
+- 1,800 EXP
 - 840 mesos
 - +40 standing with [Knox](../npcs/knox.md)
 - +10 standing with Urbanograd

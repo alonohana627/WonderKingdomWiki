@@ -2,7 +2,7 @@
 
 # Play with Saffi
 
-*Saffi has heard the whistle parts Piper wrote for her street tunes, and now Piper cannot go near Lantern Square. Ask Saffi whether Piper may play with her, once.*
+*Saffi has heard the whistle parts Piper wrote for her street tunes, and now Piper cannot go near Lantern Square. Ask Saffi whether Piper may play with her, once. Mags says Piper must face something that charges first: bring down 38 ironhide hogs on the Tusk Path.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Defeat 38 [Ironhide Hog](../monsters/ironhide_hog.md) in [The Tusk Path](../maps/tusk_path.md)
 - Talk to [Saffi](../npcs/saffi_quell.md)
 
 ## Rewards
 
-- 5,350 EXP
-- 2,400 mesos
+- 37,310 EXP
+- 5,440 mesos
 - +60 standing with [Piper](../npcs/piper.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - She heard them. Saffi heard the second parts, the whistle parts I wrote for all nine of her street tunes. Now she knows that the thin person with the tin whistle who never plays it is me.
     - I have carried them round for months. I know every one by heart. But now she knows, and I cannot go near Lantern Square without my hands going cold.
-    - Would you ask [Saffi](../npcs/saffi_quell.md)... whether she would mind... if I played with her. Once. Just the Night Market tune. If she says no, do not tell me how she said it.
-    - She is usually on the iron knee of Ferro's fiddler. If she is playing fast, wait. If she is playing very fast, wait longer.
+    - Would you ask [Saffi](../npcs/saffi_quell.md)... whether she would mind... if I played with her. Once. Just the Night Market tune. If she says no, do not tell me how she said it. Mags says that if I can stand in front of something that charges, I can stand in front of Saffi. I cannot, so you will have to. Bring down **38 [Ironhide Hog](../monsters/ironhide_hog.md)s** on the [The Tusk Path](../maps/tusk_path.md), and think of me while you do. Think of my hands, ideally, being warm.
+    - She is usually on the iron knee of Ferro's fiddler. If she is playing fast, wait. If she is playing very fast, wait longer. Hogs charge straight. Stand sideways. That is the only music I can give you.
     - No, you are right. Better she never sees how cold my hands get.
-    - Ask [Saffi](../npcs/saffi_quell.md) in Lantern Square whether Piper may play with her, *Player*.
+    - Ask [Saffi](../npcs/saffi_quell.md) in Lantern Square whether Piper may play with her, *Player*. And **38 [Ironhide Hog](../monsters/ironhide_hog.md)s** on the [The Tusk Path](../maps/tusk_path.md). Think of my hands.
     - Piper? The whistle? FINALLY. (Saffi laughs before anybody else can.) I have played the Night Market tune nineteen times this week waiting for that whistle to come in.
     - Tell Piper: tonight, when Drum starts. And tell Piper I play it fast. I mean fast. If the whistle keeps up, it stays.
-    - Tonight? When Drum starts? Fast? (Piper takes out the tin whistle, looks at it as if it might run away, and holds it up, ready.)
+    - Thirty-eight hogs? On my account? Then I have no excuse left. Tonight? When Drum starts? Fast? (Piper takes out the tin whistle, looks at it as if it might run away, and holds it up, ready.)
     - I can keep up. I wrote the parts keeping up; I have been playing them at her speed in my head for a year. Thank you, *Player*. If I faint, catch the whistle first.

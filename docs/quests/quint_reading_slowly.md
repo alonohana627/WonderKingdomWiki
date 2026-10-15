@@ -2,7 +2,7 @@
 
 # Reading Slowly
 
-*Every Walkout Day Quint reads the Open Charter before the play, and every year Dina Finch says he reads too slowly. Ask Dina how she times the cart's first entrance to his reading, and bring her answer back to Quint.*
+*Every Walkout Day Quint reads the Open Charter before the play, and every year Dina Finch says he reads too slowly. Ask Dina how she times the cart's first entrance to his reading, and bring her answer back to Quint. Quint also asks you to thin the lampbats that swarm the square at dusk: 25 in the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Dina Finch](../npcs/orla_finch.md)
+- Defeat 25 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 920 EXP
-- 1,320 mesos
+- 4,920 EXP
+- 2,420 mesos
 - +50 standing with [Quint](../npcs/quint_holloway.md)
 - +15 standing with Urbanograd
 
@@ -27,13 +28,13 @@
 
     - Thirteen years I have opened Dina Finch's play by reading the Charter, and thirteen years she has told me I read too slowly. I do. On purpose. A ruling that let a whole city exist should not be gabbled like a grocery list.
     - But I have never asked her how she does it: the cart comes round the corner the very moment I roll the scroll shut, every year, to the breath. I would ask her myself, but she would give me a note on my posture.
-    - Go to the [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) and ask [Dina Finch](../npcs/orla_finch.md) how she times her first entrance to my reading. Do not tell her I asked. She will know anyway, but do not tell her.
-    - The Old Barracks Yard. She will be the one directing, or eating breakfast and directing. It is the same voice.
+    - Go to the [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) and ask [Dina Finch](../npcs/orla_finch.md) how she times her first entrance to my reading. Do not tell her I asked. She will know anyway, but do not tell her. One more matter. At dusk the lampbats come down off the walls and swarm the lanterns over the square, and nothing spoils a reading like a bat in the Charter. Thin out **25 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch beforehand, if you would.
+    - The Old Barracks Yard. She will be the one directing, or eating breakfast and directing. It is the same voice. The bats, I am told, are in the Outer Ditch beyond the gate. A reading is no place for them.
     - Quite right. Some mysteries keep a festival going. I shall go on reading slowly and wondering.
-    - Dina, at the Old Barracks Yard. How does she time the cart to my last word? I have a theory involving a small boy and a mirror.
+    - Dina, at the Old Barracks Yard. How does she time the cart to my last word? I have a theory involving a small boy and a mirror. Dina, and then **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), *Player*, before Walkout Day.
     - Quint sent you. No, do not deny it, you have the look of a person carrying a question for an old man. How do I time it? Darling, I do not time it to the words. Nobody could. He changes his pace every year.
     - I time it to the crowd. When Quint starts, the square goes quiet. Halfway through, it goes quieter. And just before the end there is a moment when nobody in the whole square breathes. That is my cue. The cart moves on the silence, not the scroll.
     - Tell him he still reads too slowly. Tell him that if he ever reads faster, I shall have him replaced by Bastian. That should hold him another thirteen years.
-    - On the silence. Not the scroll. Well. Well, well. I have spent thirteen years trying to read so that the cart would be on time, and it was the crowd keeping time all along.
+    - And the bats thinned, too! Then the Charter shall be read in peace. On the silence. Not the scroll. Well. Well, well. I have spent thirteen years trying to read so that the cart would be on time, and it was the crowd keeping time all along.
     - That is the Charter, you know, in a nutshell. Nobody keeps it alone. The whole square holds its breath together, and then the play begins.
     - And she threatened me with Bastian? Ha! I shall read slower. Thank you, *Player*. Come and stand at the front this Walkout Day.

@@ -10,8 +10,8 @@
 | Category | Story |
 | Given by | [Perch](../npcs/perch.md) |
 | Level | 63 |
-| After | [The All-Hours Route](../quests/perch_the_all_hours_route.md) |
-| Leads to | [The Highbeacon](../quests/perch_the_highbeacon.md) |
+| After | [The Ridge Relay](../quests/kite_the_ridge_relay.md) |
+| Leads to | [The Crest Road](../quests/torvi_the_crest_road.md) |
 
 ## Objectives
 

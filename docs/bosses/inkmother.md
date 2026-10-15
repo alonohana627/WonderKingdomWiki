@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 40 | 28,952 | 26,040 | 141 | 240 / 240 |
+| 40 | 41,360 | 29,760 | 141 | 240 / 240 |
 
 First clear: +80 standing with Goa Harbour
 
@@ -24,25 +24,19 @@ First clear: +80 standing with Goa Harbour
 
 **1. Arms from the Pool** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 212 | 4.2 s |
-| Melee | Physical | 169 | 2.6 s |
-
-**2. Ink** (below 70% HP): Announces "THE INKMOTHER CLOUDS THE POOL!".
+**2. Ink** (below 65% HP): Announces "THE INKMOTHER CLOUDS THE POOL!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 113 | 9 s |
 | Area | Physical | 212 | 4.2 s |
-| Melee | Physical | 169 | 2.6 s |
 
 **3. The Brood** (below 30% HP): Announces "A BROOD CLIMBS ONTO THE LEDGES!"; summons 3 [Cave Octopus](../monsters/cave_octopus.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 212 | 4.2 s |
-| Area | Physical | 113 | 9 s |
+| Area | Physical | 113 | 6.75 s |
+| Area | Physical | 212 | 3.15 s |
 | Melee | Physical | 169 | 2.6 s |
 
 ### Drops

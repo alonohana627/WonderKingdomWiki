@@ -10,7 +10,7 @@
 | Category | Story |
 | Given by | [Patch](../npcs/patch.md) |
 | Level | 43 |
-| After | [The Spark Lamp](../quests/margo_the_spark_lamp.md) |
+| After | [Moss for the Wounded](../quests/patch_moss_for_the_hunt.md) |
 | Leads to | [A Boar-Spear Head](../quests/ferro_a_boar_spear_head.md) |
 
 ## Objectives

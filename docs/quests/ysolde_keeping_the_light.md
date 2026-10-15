@@ -17,6 +17,7 @@
 
 1. Defeat 50 [Dusk Wolf](../monsters/dusk_wolf.md) in [The Timber Path](../maps/timber_path.md)
 2. Look at the lighthouse's view over the Drop in [The Cliff Edge](../maps/cliff_edge.md)
+3. Bring 15 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md) (taken)
 
 ## Rewards
 
@@ -29,9 +30,9 @@
 
     - Halloran came to me. Forty years I've watched that water, and he's the first to ask what I've seen.
     - My knees won't climb tonight. You keep the light. The lighthouse path runs out through the Timber Path, and the dusk wolves are bold on it after dark. Clear **50** of them, then go out to **the Cliff Edge** where you can see the water past the headland from up high, the way the lamp sees it.
-    - And watch. Just watch. Then come back and tell me what you saw.
+    - And watch. Just watch. Then come back and tell me what you saw. And **15 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s**; it's cold on the lamp gallery.
     - Watch the water. Don't blink.
     - Another time, then.
-    - Clear fifty dusk wolves on the Timber Path, then watch from the Cliff Edge's view over the Drop.
+    - Clear fifty dusk wolves on the Timber Path, then watch from the Cliff Edge's view over the Drop. And **15 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s**; it's cold on the lamp gallery.
     - Pale lights. Under the water, out past the headland. Moving. You saw them.
     - Three summers I've seen them, about a dozen nights. I marked them only in the margin of the log, with a little sign of my own. I never told a soul. Not even Clemence. Here. Look at my margins.

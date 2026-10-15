@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Pale Sawbill](../monsters/pale_sawbill.md) (50%)
+
+## Used for
+
+- [The Ripsaw](../quests/cobb_the_ripsaw.md) (bring 15)

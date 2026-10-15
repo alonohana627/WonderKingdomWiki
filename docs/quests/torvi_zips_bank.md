@@ -10,7 +10,7 @@
 | Category | Story |
 | Given by | [Torvi Brask](../npcs/torvi_brask.md) |
 | Level | 40 |
-| After | [The Lost Notes](../quests/hatch_the_lost_notes.md) |
+| After | [Measuring Tusks](../quests/zip_the_tusk_measure.md) |
 | Leads to | [The Spark Lamp](../quests/margo_the_spark_lamp.md) |
 
 ## Objectives

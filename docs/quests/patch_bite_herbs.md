@@ -11,7 +11,7 @@
 | Given by | [Patch](../npcs/patch.md) |
 | Level | 24 |
 | After | [New Panes](../quests/tinsel_new_panes.md) |
-| Leads to | [The Rhythm Outside](../quests/drum_the_rhythm_outside.md) |
+| Leads to | [Wing Ash](../quests/tinsel_wing_ash.md) |
 
 ## Objectives
 
@@ -34,4 +34,4 @@
     - Then I will make do with salt water and swearing. It has worked before. Barely.
     - Fifteen [Bite Herb](../items/bite_herb.md)s from the [Ditch Rat](../monsters/ditch_rat.md)s' nests in the Outworks. You carry (how many you carry). Narrow leaves, peppery.
     - Peppery. Yes. Fresh, and not too much rat on it. This will clean every bite that comes through the gate this month, and the lamp-hangers will stop looking at me like I am the dangerous one.
-    - Thank you, *Player*. Go and see Drum; I hear Drum has some notion about noise and lanterns. Here, a sweet first. Everybody gets one.
+    - Thank you, *Player*. Go and see Tinsel; I hear the second batch of panes came out cloudy. Here, a sweet first. Everybody gets one.

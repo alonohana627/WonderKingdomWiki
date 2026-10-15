@@ -15,7 +15,8 @@
 
 ## Objectives
 
-- Bring 20 [Glass Jelly Stinger](../items/glass_jelly_stinger.md) (taken)
+1. Defeat 35 [Glass Jelly](../monsters/glass_jelly.md) in [The Timber Ponds](../maps/timber_ponds.md)
+2. Bring 20 [Glass Jelly Stinger](../items/glass_jelly_stinger.md) (taken)
 
 ## Rewards
 
@@ -29,9 +30,9 @@
 
     - Keziah tells me there are jellies in the Old Cut's basins now. Glassy ones. Floating over the water like soap bubbles.
     - I keep a book of wounds I can't explain. Two of them are stings, and they match no jellyfish I've ever treated. I'd like to know if they match these.
-    - Bring me **20 [Glass Jelly Stinger](../items/glass_jelly_stinger.md)s** from the Timber Ponds. Carefully. I'll make a salve from them, and you'll have the first jars.
+    - Bring me **20 [Glass Jelly Stinger](../items/glass_jelly_stinger.md)s** from the Timber Ponds. Carefully. I'll make a salve from them, and you'll have the first jars. The jellies drift in close to the ponds' banks; clear **35 [Glass Jelly](../monsters/glass_jelly.md)s** there as you gather.
     - Gloves, dear. Thick ones.
     - Another time, then.
-    - Twenty glass jelly stingers. You've got (how many you carry).
+    - The jellies drift in close to the ponds' banks; clear **35 [Glass Jelly](../monsters/glass_jelly.md)s** there as you gather. Twenty glass jelly stingers. You've got (how many you carry).
     - Let me see. The barb, the little ring of hooks... Yes. That's the sting in my book. Both of them.
     - So now I know what stung them, and soon I'll have a salve for it. Take these. And don't tell anyone about the book, would you? Not yet.

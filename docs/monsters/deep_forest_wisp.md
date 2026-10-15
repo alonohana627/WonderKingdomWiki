@@ -31,6 +31,11 @@
 | [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 0.35% | 1 |
 | [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) | 0.35% | 1 |
 | [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 0.35% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 0.05% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 0.05% | 1 |
+| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 0.05% | 1 |
+| [Gold Brist](../items/gold_brist.md) | 0.05% | 1 |
+| [Blue Magic Cape](../items/blue_magic_cape.md) | 0.05% | 1 |
 | [Root Soil](../items/root_soil.md) | 40% | 1 |
 
 ## Quests

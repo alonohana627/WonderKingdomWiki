@@ -15,7 +15,15 @@
 
 ## How to get
 
+- Dropped by [Blue Spring Sprite](../monsters/blue_spring_sprite.md) (0.05%)
+- Dropped by [Deep Spring Sprite](../monsters/deep_spring_sprite.md) (0.05%)
+- Dropped by [Forest Glimmerfox](../monsters/forest_glimmerfox.md) (0.05%)
+- Dropped by [Forest Howlet](../monsters/forest_howlet.md) (0.05%)
+- Dropped by [Night Glimmerfox](../monsters/night_glimmerfox.md) (0.05%)
+- Dropped by [Night Howlet](../monsters/night_howlet.md) (0.05%)
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.06%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.06%)
 - Dropped by [Wrackgolem](../monsters/wrackgolem.md) (0.06%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 9,100 mesos

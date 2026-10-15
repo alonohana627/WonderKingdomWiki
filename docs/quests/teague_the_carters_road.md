@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Teague](../npcs/teague_drover.md) |
 | Level | 16 |
-| Leads to | [Boots for the Road](../quests/teague_boots_for_the_road.md) |
+| After | [The Timber Carts](../quests/haldor_the_timber_carts.md) |
+| Leads to | [Pelts from the Woods](../quests/caddoc_woodland_pelts.md), [Boots for the Road](../quests/teague_boots_for_the_road.md) |
 
 ## Objectives
 

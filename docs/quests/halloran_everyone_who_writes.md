@@ -15,10 +15,12 @@
 
 ## Objectives
 
-1. Talk to [Brisa](../npcs/brisa.md)
-2. Talk to [Delphine](../npcs/delphine.md)
-3. Talk to [Clemence](../npcs/clemence.md)
-4. Talk to [Ottilie](../npcs/ottilie.md)
+1. Defeat 50 [Whipshade](../monsters/whipshade.md) in [The Crossways](../maps/crossways.md)
+2. Talk to [Brisa](../npcs/brisa.md)
+3. Talk to [Delphine](../npcs/delphine.md)
+4. Talk to [Clemence](../npcs/clemence.md)
+5. Talk to [Ottilie](../npcs/ottilie.md)
+6. Bring 15 [Shade Lash](../items/shade_lash.md) (taken)
 
 ## Rewards
 
@@ -30,10 +32,10 @@
 ??? quote "Dialogue"
 
     - I've been a fool. I've a watchwoman who keeps a list of every strange thing the sailors tell her. My own sister keeps a ledger of tales behind the bar, I'd bet. Clemence writes down every wound. Ottilie counts every boat.
-    - And not one of us has put our pages on the same table. Go and ask them, *Player*. **Brisa**, **Delphine**, **Clemence**, **Ottilie**. Tell them I asked. Tell them I'm sorry I didn't ask sooner.
+    - And not one of us has put our pages on the same table. Go and ask them, *Player*. **Brisa**, **Delphine**, **Clemence**, **Ottilie**. Tell them I asked. Tell them I'm sorry I didn't ask sooner. And the shapes we saw on the pilings: there are more at the Crossways. Clear **50 [Whipshade](../monsters/whipshade.md)s** while you go round. Bring **15 [Shade Lash](../items/shade_lash.md)es** back for the evidence box.
     - Tell them I asked. That matters.
     - Another time, then.
-    - Ask Brisa, Delphine, Clemence and Ottilie for their notes, for Halloran.
+    - And the shapes we saw on the pilings: there are more at the Crossways. Clear **50 [Whipshade](../monsters/whipshade.md)s** while you go round. Ask Brisa, Delphine, Clemence and Ottilie for their notes, for Halloran. Bring **15 [Shade Lash](../items/shade_lash.md)es** back for the evidence box.
     - Sixty-four entries in Brisa's list. Thirty years of tales in Delphine's ledger. Round welts in Clemence's book, the size of the marks on my pilings. And Ottilie's boats, half what they were ten summers ago.
     - It's all one thing. Out past the headland, and coming closer. Ysolde's been watching that water for forty years. I'll ask her next. Will you go?
     - Captain asked for my list? Finally. Sixty-four entries. Date and teller for every one.

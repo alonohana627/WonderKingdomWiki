@@ -11,7 +11,7 @@
 | Given by | [Lux](../npcs/lux_lune.md) |
 | Level | 57 |
 | After | [The Lower Beacon](../quests/starling_the_lower_beacon.md) |
-| Leads to | [The All-Hours Route](../quests/perch_the_all_hours_route.md) |
+| Leads to | [Horn for the Beacon Lamps](../quests/lux_horn_for_the_beacon_lamps.md) |
 
 ## Objectives
 

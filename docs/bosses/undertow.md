@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 70 | 196,140 | 102,795 | 259 | 420 / 420 |
+| 70 | 326,900 | 117,480 | 259 | 420 / 420 |
 
 First clear: +120 standing with Goa Harbour
 
@@ -24,27 +24,20 @@ First clear: +120 standing with Goa Harbour
 
 **1. Ripples** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 414 | 3.8 s |
-| Area | Physical | 414 | 4.6 s |
-
-**2. The Drag** (below 70% HP): Announces "THE UNDERTOW DRAGS THE WATER!".
+**2. The Drag** (below 65% HP): Announces "THE UNDERTOW DRAGS THE WATER!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 363 | 7 s |
 | Area | Physical | 414 | 3.8 s |
-| Area | Physical | 414 | 4.6 s |
 
 **3. The Tide Turns** (below 30% HP): Announces "THE TIDE TURNS IN THE SCOUR!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
+| Area | Physical | 363 | 4.9 s |
+| Area | Physical | 414 | 2.66 s |
 | Area | Physical | 518 | 8 s |
-| Area | Physical | 363 | 7 s |
-| Area | Physical | 414 | 3.8 s |
-| Area | Physical | 414 | 4.6 s |
 
 ### Drops
 
@@ -80,7 +73,7 @@ First clear: +120 standing with Goa Harbour
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 74 | 413,976 | 234,710 | 276 | 444 / 444 |
+| 74 | 326,900 | 117,480 | 259 | 420 / 420 |
 
 First clear: +160 standing with Goa Harbour
 
@@ -88,52 +81,19 @@ First clear: +160 standing with Goa Harbour
 
 **1. Ripples** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 596 | 3.8 s |
-| Area | Physical | 596 | 4.6 s |
-
-**2. The Drag** (below 70% HP): Announces "THE UNDERTOW DRAGS THE WATER!".
+**2. The Drag** (below 65% HP): Announces "THE UNDERTOW DRAGS THE WATER!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 522 | 7 s |
-| Area | Physical | 596 | 3.8 s |
-| Area | Physical | 596 | 4.6 s |
+| Area | Physical | 386 | 7 s |
+| Area | Physical | 442 | 3.8 s |
+| Area | Physical | 442 | 4.6 s |
 
 **3. The Tide Turns** (below 30% HP): Announces "THE TIDE TURNS IN THE SCOUR!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 745 | 8 s |
-| Area | Physical | 522 | 7 s |
-| Area | Physical | 596 | 3.8 s |
-| Area | Physical | 596 | 4.6 s |
-
-### Drops
-
-| Drop | Chance | Amount |
-|---|---|---|
-| Mesos | 100% | 6,000-9,000 |
-| [Undertow Scale](../items/undertow_scale.md) | 100% | 1 |
-| [Undertow Fang](../items/undertow_fang.md) | 12% | 1 |
-| [Grey Bull Coat](../items/grey_bull_coat.md) | 20% | 1 |
-| [Elixir](../items/elixir.md) | 80% | 4-6 |
-| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 20% | 1 |
-| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 16% | 1 |
-| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 16% | 1 |
-| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 12% | 1 |
-| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 12% | 1 |
-| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 12% | 1 |
-| [Red Katana](../items/red_katana.md) | 5% | 1 |
-| [Mikhail](../items/mikhail.md) | 5% | 1 |
-| [Doombringer](../items/doombringer.md) | 5% | 1 |
-| [Chrono](../items/chrono.md) | 5% | 1 |
-| [Redemption](../items/redemption.md) | 5% | 1 |
-| [Silver Planet](../items/silver_planet.md) | 6% | 1 |
-| [Mithril Platine](../items/mithril_platine.md) | 6% | 1 |
-| [Mithril Platine Pants](../items/mithril_platine_pants.md) | 6% | 1 |
-| [Dark Carzen Boots](../items/dark_carzen_boots.md) | 6% | 1 |
-| [Dark Husk](../items/dark_husk.md) | 6% | 1 |
-| [Green Seraph Cape](../items/green_seraph_cape.md) | 6% | 1 |
-| [Gold Ancient Shield](../items/gold_ancient_shield.md) | 6% | 1 |
+| Area | Physical | 386 | 4.9 s |
+| Area | Physical | 442 | 2.66 s |
+| Area | Physical | 442 | 3.22 s |
+| Area | Physical | 552 | 8 s |

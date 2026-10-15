@@ -10,8 +10,8 @@
 | Category | Story |
 | Given by | [Perch](../npcs/perch.md) |
 | Level | 60 |
-| After | [The Beacon Ruins](../quests/lux_the_beacon_ruins.md) |
-| Leads to | [Across the Crest](../quests/perch_across_the_crest.md) |
+| After | [Horn for the Beacon Lamps](../quests/lux_horn_for_the_beacon_lamps.md) |
+| Leads to | [The Ridge Relay](../quests/kite_the_ridge_relay.md) |
 
 ## Objectives
 

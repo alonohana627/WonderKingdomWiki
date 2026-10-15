@@ -24,7 +24,6 @@
 - Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.1%)
 - Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.1%)
 - Dropped by [Snapjaw](../monsters/snapjaw.md) (0.1%)
-- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
 - Dropped by [Wrack Boar](../monsters/wrack_boar.md) (0.05%)
 - Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.1%)
 - Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)

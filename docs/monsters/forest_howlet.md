@@ -36,6 +36,11 @@
 | [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 0.35% | 1 |
 | [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 0.35% | 1 |
 | [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 0.35% | 1 |
+| [Neocora](../items/neocora.md) | 0.05% | 1 |
+| [Holy Spear](../items/holy_spear.md) | 0.05% | 1 |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 0.05% | 1 |
+| [Black Camel Boots](../items/black_camel_boots.md) | 0.05% | 1 |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 0.05% | 1 |
 | [Howlet Earrings](../items/howlet_earrings.md) | 0.1% | 1 |
 
 ## Quests

@@ -44,3 +44,4 @@
 ## Quests
 
 - [The Keep Bounty](../quests/the_keep_bounty.md)
+- [Up the Walls](../quests/up_the_walls.md)

@@ -10,11 +10,14 @@
 | Category | Story |
 | Given by | [Halloran](../npcs/halloran.md) |
 | Level | 51 |
+| After | [The Ripsaw](../quests/cobb_the_ripsaw.md) |
 | Leads to | [Under the Pier](../quests/halloran_under_the_pier.md) |
 
 ## Objectives
 
-- Clear [The Outer Pier by Night](../runs/the_outer_pier_watch.md)
+1. Defeat 40 [Dusk Wolf](../monsters/dusk_wolf.md) in [The Timber Path](../maps/timber_path.md)
+2. Clear [The Outer Pier by Night](../runs/the_outer_pier_watch.md)
+3. Bring 10 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md) (taken)
 
 ## Rewards
 
@@ -27,9 +30,9 @@
 
     - You've done this harbour a lot of good, *Player*. The crabs, the sawbills, the night run. I've a favour to ask, and a thing to tell, and I've told it to one person only.
     - This spring, one morning at low tide, I found the Watch's launch hanging from her mooring line. The line pulled taut, straight down. Into the water. And fresh grooves in the pilings below the waterline. By the time help came the line was slack.
-    - Quenna knows. Nobody else. I've stood the night watch on the outer pier most nights since. Stand it with me tonight. Ask me when you're ready, and we'll go.
+    - Quenna knows. Nobody else. I've stood the night watch on the outer pier most nights since. Stand it with me tonight. Ask me when you're ready, and we'll go. Before the watch: the dusk wolves have come down the timber path to the harbour's back. Clear **40 [Dusk Wolf](../monsters/dusk_wolf.md)s** there. And **10 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s** for the Watch's cloaks.
     - Bring something warm. And don't tell Jowan.
     - Another time, then.
-    - Stand the night watch on the outer pier with Halloran (ask him when you're ready).
+    - Before the watch: the dusk wolves have come down the timber path to the harbour's back. Clear **40 [Dusk Wolf](../monsters/dusk_wolf.md)s** there. Stand the night watch on the outer pier with Halloran (ask him when you're ready). And **10 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s** for the Watch's cloaks.
     - Shadows climbing the pilings where that pale light fell. You saw them too. I'm not mad, then.
     - I'm glad it was you. Delphine would have made a speech, and Jowan would have stood at the end of the pier with his chest out. Thank you.

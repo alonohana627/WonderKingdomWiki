@@ -20,6 +20,8 @@
 
 First clear: +60 standing with Selsior
 
+Every clear: +10 standing with Selsior
+
 ### Phases
 
 **1. The Scratching** (from the start)
@@ -28,7 +30,7 @@ First clear: +60 standing with Selsior
 |---|---|---|---|
 | Area | Physical | 237 | 3.8 s |
 
-**2. Rats in the Walls** (below 70% HP): Announces "THE WALLS ARE FULL OF RATS!"; summons 3 [Drain Rat](../monsters/drain_rat.md) every 30 s.
+**2. Rats in the Walls** (below 65% HP): Announces "THE WALLS ARE FULL OF RATS!"; summons 3 [Drain Rat](../monsters/drain_rat.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
@@ -77,32 +79,13 @@ First clear: +60 standing with Selsior
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 33 | 58,234 | 30,316 | 205 | 198 / 198 |
+| 33 | 23,052 | 14,301 | 158 | 180 / 180 |
 
 First clear: +120 standing with Selsior
 
+Every clear: +20 standing with Selsior
+
 ### Phases
-
-**1. The Scratching** (from the start)
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 308 | 3.2 s |
-
-**2. Rats in the Walls** (below 70% HP): Announces "THE WALLS ARE FULL OF RATS!"; summons 3 [Black Drain Rat](../monsters/black_drain_rat.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 308 | 3.2 s |
-| Area | Physical | 410 | 7 s |
-
-**3. The Roof Comes Down** (below 30% HP): Announces "THE CEILING IS COMING DOWN!"; moves faster.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 308 | 3.2 s |
-| Area | Physical | 410 | 7 s |
-| Area | Physical | 451 | 9.5 s |
 
 ### Drops
 

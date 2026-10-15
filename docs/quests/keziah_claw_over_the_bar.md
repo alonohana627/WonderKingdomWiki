@@ -7,28 +7,30 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Keziah](../npcs/keziah.md) |
 | Level | 29 |
 | After | [The Bootbreaker](../quests/keziah_the_bootbreaker.md) |
+| Leads to | [A Strip of Net](../quests/wenna_strip_of_net.md) |
 
 ## Objectives
 
 - Deliver 1 [Bootbreaker's Claw](../items/bootbreaker_claw.md)
+- Defeat 40 [Bootcrab](../monsters/bootcrab.md) in [The Pinch](../maps/the_pinch.md)
 
 ## Rewards
 
-- 5,693 EXP
-- 638 mesos
+- 8,281 EXP
+- 870 mesos
 - +40 standing with [Keziah](../npcs/keziah.md)
 - +25 standing with Bain Harbour
 
 ??? quote "Dialogue"
 
     - You brought down the Bootbreaker, so you get a say. Bree wants its claw for her stall. I want it over the bar at the Salt and Bread, where every sailor who laughs at a crab can see it.
-    - Delphine says yes, if it doesn't drip. Bree says she'll have the second one. Bring me **a [Bootbreaker's Claw](../items/bootbreaker_claw.md)**. It drops when the thing goes down.
+    - Delphine says yes, if it doesn't drip. Bree says she'll have the second one. Bring me **a [Bootbreaker's Claw](../items/bootbreaker_claw.md)**. It drops when the thing goes down. Its brood scattered when it fell: clear **40 [Bootcrab](../monsters/bootcrab.md)s** at the Pinch while you're there.
     - Clean it first. Delphine meant the dripping.
     - Another time, then.
-    - A Bootbreaker's claw for over the bar. You have (how many you carry).
+    - A Bootbreaker's claw for over the bar. You have (how many you carry). Its brood scattered when it fell: clear **40 [Bootcrab](../monsters/bootcrab.md)s** at the Pinch while you're there.
     - There. Over the bar, just above Halloran's stool. He looked up at it and didn't say a word, which from Halloran is a speech.
     - Thank you, *Player*. Next time someone tells me crabs are nothing to fear, I'll point.

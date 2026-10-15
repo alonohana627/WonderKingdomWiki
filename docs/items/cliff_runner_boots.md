@@ -16,7 +16,7 @@
 
 ## How to get
 
-- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal), [The Gapclaw](../bosses/gapclaw.md) (Hard) (20%)
+- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal) (20%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
 - Reward from [The Chewed Ropes](../quests/kestra_the_chewed_ropes.md)
 - Reward from [The Hardest Step](../quests/ulric_the_hardest_step.md)

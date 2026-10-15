@@ -13,12 +13,6 @@
 | Aggressive | Yes |
 | Boss | Yes |
 
-## Attacks
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 262 | 4.8 s |
-
 ## Boss fight
 
 - [Old Grizzlemane](../bosses/old_grizzlemane.md)
@@ -36,3 +30,7 @@
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 15% | 1 |
 | [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 12% | 1 |
 | [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Jeweled Katar](../items/jeweled_katar.md) | 4% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 4% | 1 |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 4% | 1 |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 4% | 1 |

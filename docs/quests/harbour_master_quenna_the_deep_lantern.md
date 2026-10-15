@@ -15,8 +15,10 @@
 
 ## Objectives
 
-1. Talk to [Halloran](../npcs/halloran.md)
-2. Clear [The Deep Lantern](../bosses/deep_lantern.md)
+1. Defeat 60 lanternshades ([Whipshade](../monsters/whipshade.md), [Hookshade](../monsters/hookshade.md), [Glimshade](../monsters/glimshade.md)) in [The Rim](../maps/the_rim.md)
+2. Talk to [Halloran](../npcs/halloran.md)
+3. Clear [The Deep Lantern](../bosses/deep_lantern.md)
+4. Bring 20 [Glim Shard](../items/glim_shard.md) (taken)
 
 ## Rewards
 
@@ -30,10 +32,10 @@
 
     - Tristram stood in my hall this morning and told the council, in that voice of his, what he saw at the Rim. Nobody laughed. Not even Corwin.
     - The Deep Lantern, Ysolde calls it. It's what pulled Halloran's launch down, what brushed the Saltlark, what Barnaby saw, what Seraphine saw. And it's under my headland.
-    - The council voted. All of them. Talk to **Halloran**; the Watch will see you to the wood. Then go down to the Lantern Deep and put **the Deep Lantern** down. The felling stone at the Rim marks the way down.
+    - The council voted. All of them. Talk to **Halloran**; the Watch will see you to the wood. Then go down to the Lantern Deep and put **the Deep Lantern** down. The felling stone at the Rim marks the way down. Clear **60 lanternshades** at the Rim, so the Watch can hold the ledges while you go down. And bring **20 [Glim Shard](../items/glim_shard.md)s** to the Watch for lamps on the ledges.
     - Come back. That's not a request, that's the council's vote.
     - Another time, then.
-    - Talk to Halloran, then defeat the Deep Lantern in the Lantern Deep.
+    - Clear **60 lanternshades** at the Rim, so the Watch can hold the ledges while you go down. Talk to Halloran, then defeat the Deep Lantern in the Lantern Deep. And bring **20 [Glim Shard](../items/glim_shard.md)s** to the Watch for lamps on the ledges.
     - It's done. The lights are gone from the sea-hole. Ysolde says the water past the headland is dark tonight, the way it should be.
     - I'm not fool enough to call the sea healed. But this harbour can sleep tonight, and it's you we have to thank. The council will want to say so. Loudly.
     - The council voted. I heard. The Watch will see you as far as the Rim, and no further, because you won't need us.

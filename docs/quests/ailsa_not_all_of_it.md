@@ -14,6 +14,7 @@
 
 ## Objectives
 
+- Defeat 1 Elite Disturbance-touched bull ([Grey Bull](../monsters/grey_bull.md)) in [The Skerries](../maps/skerries.md)
 - Talk to [Brigid](../npcs/brigid_herbs.md)
 - Talk to [Cormac](../npcs/cormac_singer.md)
 
@@ -29,7 +30,7 @@
 
     - The slack came on its hour this morning. On the minute. And the run is back in the middle of the gap.
     - The spring highs are still a hand's breadth higher. I have written it in the margin: not all of it. Go and tell those who should hear it from you.
-    - Tell Brigid and Cormac what has changed.
+    - Put down the last touched bull on [The Skerries](../maps/skerries.md), then tell Brigid and Cormac what has changed.
     - Then come back and let me thank you properly.
     - As you like.
     - Brigid, and Cormac.

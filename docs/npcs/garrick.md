@@ -22,6 +22,7 @@
 ## Quests
 
 - [A Head for Heights](../quests/a_head_for_heights.md) (gives)
+- [The Broken Line](../quests/the_broken_line.md) (gives)
 - [Up the Walls](../quests/up_the_walls.md) (gives)
 - [Where the King Came From](../quests/where_the_king_came_from.md) (gives)
 

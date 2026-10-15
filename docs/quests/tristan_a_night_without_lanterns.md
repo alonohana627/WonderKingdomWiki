@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Tristan](../npcs/tristan.md) |
 | Level | 30 |
+| After | [Queen of the Downs](../quests/edric_queen_of_the_downs.md) |
 | Leads to | [Teeth for Comparing](../quests/aldith_teeth_for_comparing.md), [Low Water Finds](../quests/robin_low_water_finds.md) |
 
 ## Objectives

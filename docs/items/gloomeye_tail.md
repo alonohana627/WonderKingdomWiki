@@ -13,3 +13,10 @@
 
 - Dropped by [Gloomeye](../monsters/gloomeye.md) (50%)
 - Dropped by [Young Gloomeye](../monsters/young_gloomeye.md) (40%)
+
+## Used for
+
+- [The Awl by the Door](../quests/cobble_the_awl_by_the_door.md) (bring 20)
+- [A Serious Role](../quests/dex_a_serious_role.md) (bring 30)
+- [Rooftop Greens](../quests/mags_rooftop_greens.md) (bring 30)
+- [The Third Play](../quests/pip_the_third_play.md) (bring 30)

@@ -11,7 +11,7 @@
 | Given by | [Seren](../npcs/seren_warden.md) |
 | Level | 28 |
 | After | [Something Grey at the Lakehead](../quests/seren_grey_at_the_lakehead.md) |
-| Leads to | [The Beds Stay Whole](../quests/merrow_beds_stay_whole.md), [The Swarming Shore](../quests/kestrel_high_shore.md) |
+| Leads to | [The Beds Stay Whole](../quests/merrow_beds_stay_whole.md) |
 
 ## Objectives
 

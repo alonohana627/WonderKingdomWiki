@@ -15,6 +15,7 @@
 
 ## Objectives
 
+- Defeat 40 [Strand Fox](../monsters/strand_fox.md) in [Strandwood Rocks](../maps/strandwood_rocks.md)
 - Talk to [Torva](../npcs/torva_hunter.md)
 - Talk to [Kenna](../npcs/kenna_hunter.md)
 
@@ -30,7 +31,7 @@
 
     - It worked. It worked and it caught a cub. A little grey thing, all teeth and sulk. I let it go.
     - The old one is still out there. Torva says she knows where its earth is, under the fallen pine where Brigid's trail went. Talk to her. And Kenna, Gap Inn help us.
-    - Talk to Torva and Kenna on the Forest Shore.
+    - Thin the Strand Foxes on [Strandwood Rocks](../maps/strandwood_rocks.md) so the cub's kin keep their distance, then talk to Torva and Kenna on the Forest Shore.
     - Go on. I am going to sit here and be pleased with my trap.
     - It will wait. It has waited all season.
     - Torva and Kenna, on the Forest Shore.

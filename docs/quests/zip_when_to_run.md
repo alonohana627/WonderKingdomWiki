@@ -2,7 +2,7 @@
 
 # When to Run
 
-*Zip stayed home from the Wallow, and it was the hardest thing she has ever done. Now she wants Torvi to tell her whether that counts as learning to run. Carry the question.*
+*Zip stayed home from the Wallow, and it was the hardest thing she has ever done. Now she wants Torvi to tell her whether that counts as learning to run, and wants thirty duskhawks off the Lower Downs so something gets fought today that is not her. Carry the question, then take the hawks.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
-- Talk to [Torvi Brask](../npcs/torvi_brask.md)
+1. Talk to [Torvi Brask](../npcs/torvi_brask.md)
+2. Defeat 30 [Duskhawk](../monsters/duskhawk.md) in [Lower Downs](../maps/lower_downs.md)
 
 ## Rewards
 
-- 10,370 EXP
-- 3,000 mesos
+- 57,380 EXP
+- 6,000 mesos
 - +60 standing with [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
 - +15 standing with Urbanograd
 
@@ -27,13 +28,13 @@
 
     - I stayed home. You went to the Wallow and I stayed on the training ground with Torvi more or less sitting on me, and I did not climb the wall, and I did not follow you, and it was the worst afternoon of my whole life.
     - Torvi always says knowing when to run is the whole lesson. Well, I did not run, exactly. I did not go. Is that the same? Does it count? I need to know if it counts, or I am going to go and fight something just to feel normal.
-    - Ask [Torvi Brask](../npcs/torvi_brask.md). Properly. Does staying home count as running? And come straight back. I will be right here, not doing anything stupid. Probably.
-    - Go! Quickly. Before I think of a dare.
+    - Ask [Torvi Brask](../npcs/torvi_brask.md). Properly. Does staying home count as running? And then, because I will burst otherwise, go out on the [Lower Downs](../maps/lower_downs.md) and thin **30 [Duskhawk](../monsters/duskhawk.md)s** for me. Something should be fought today that is not me going after you. Then come straight back. I will be right here, not doing anything stupid. Probably.
+    - Torvi first, then the hawks. Go! Quickly. Before I think of a dare.
     - Fine. I will ask myself. Torvi will laugh. It is fine. It is all fine.
-    - Ask [Torvi Brask](../npcs/torvi_brask.md) if staying home counts. Please. I am being very good while I wait.
+    - Ask [Torvi Brask](../npcs/torvi_brask.md) if staying home counts, then **30 [Duskhawk](../monsters/duskhawk.md)s** off the [Lower Downs](../maps/lower_downs.md). Please. I am being very good while I wait.
     - Does it count? Ha! She stood at the wall the whole afternoon, gripping the sword, looking at the gate. Every part of her wanted to go. She did not go. Of course it counts.
     - Running is not the feet. It is deciding the fight is not yours today, and walking away from it with your head up. Hulda walked away from more fights than she ever told stories about, and came back to every one of them when it was hers. That is the lesson. The second day.
-    - Tell her she has learned it. Tell her I said so, which I do not say. And tell her tomorrow morning we start on the second day.
+    - Tell her she has learned it. Tell her I said so, which I do not say. And tell her tomorrow morning we start on the second day. If she needs a fight in her hands tonight, the hawks on the Lower Downs are a fair one for a friend to take for her. Thirty. Not thirty-one. Ha.
     - It counts. It COUNTS. Torvi said so, and Torvi does not say things like that. Torvi says things like "again" and "slower" and "ha".
-    - The second day. I like that. You walk away, and you come back when it is yours. That is not ordinary at all, is it? That is a whole verse.
+    - The second day. I like that. You walk away, and you come back when it is yours. That is not ordinary at all, is it? That is a whole verse. And thirty hawks! I felt every one from here. That is a lie, I felt nothing, but I felt busy.
     - Thank you, *Player*. For the Wallow, and for asking. One day I am going to walk through that gate with a crowd waiting. And I am going to walk back out of it, too, when I have to.

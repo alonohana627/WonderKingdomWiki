@@ -11,7 +11,7 @@
 | Given by | [Lux](../npcs/lux_lune.md) |
 | Level | 22 |
 | After | [Morning Prints](../quests/dagny_morning_prints.md) |
-| Leads to | [New Panes](../quests/tinsel_new_panes.md) |
+| Leads to | [Eyes on the Ditch](../quests/dagny_eyes_on_the_ditch.md) |
 
 ## Objectives
 

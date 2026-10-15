@@ -7,9 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Bree](../npcs/bree.md) |
 | Level | 18 |
+| After | [The Drying Racks](../quests/cobb_drying_racks.md) |
 | Leads to | [A Crab With No Name](../quests/bree_crab_with_no_name.md) |
 
 ## Objectives
@@ -19,8 +20,8 @@
 
 ## Rewards
 
-- 1,400 EXP
-- 396 mesos
+- 2,037 EXP
+- 540 mesos
 - +40 standing with [Bree](../npcs/bree.md)
 - +25 standing with Bain Harbour
 

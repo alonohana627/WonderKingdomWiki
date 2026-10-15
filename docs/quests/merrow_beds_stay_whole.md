@@ -11,6 +11,7 @@
 | Given by | [Merrow](../npcs/merrow_gardener.md) |
 | Level | 29 |
 | After | [The Blightstone](../quests/the_blightstone.md) |
+| Leads to | [The Swarming Shore](../quests/kestrel_high_shore.md) |
 
 ## Objectives
 

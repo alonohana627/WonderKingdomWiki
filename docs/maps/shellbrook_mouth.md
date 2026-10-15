@@ -7,7 +7,7 @@
 | Part of | Verdant Coast Road |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Road |
-| Levels | 9-12 |
+| Levels | 9-17 |
 | Difficulty | 6 |
 | Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
@@ -22,8 +22,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Shingle Crab](../monsters/shingle_crab.md) | 12 | 15 |
+| [Breaker Crab](../monsters/breaker_crab.md) | 17 | 9 |
 | [Orchard Pig](../monsters/orchard_pig.md) | 9 | 4 |
+| [Shingle Crab](../monsters/shingle_crab.md) | 12 | 7 |
 
 ## Gathering
 

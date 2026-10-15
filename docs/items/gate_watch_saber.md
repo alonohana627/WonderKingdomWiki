@@ -20,3 +20,4 @@
 - Dropped by [Gloomeye](../monsters/gloomeye.md) (0.12%)
 - Dropped by [Lampbat](../monsters/lampbat.md) (0.12%)
 - Sold at [Ferro's Forge](../shops/urbanograd_ferro.md) for 900 mesos
+- Reward from [Axes on the Descent](../quests/torvi_the_axe_stumps.md)

@@ -73,7 +73,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 33 | 72,303 | 29,705 | 152 | 330 / 330 |
+| 33 | 30,030 | 12,530 | 139 | 300 / 300 |
 
 First clear: +100 standing with Bain Harbour
 
@@ -85,29 +85,6 @@ Attacks:
 | Melee | Physical | 153 | 4.6 s |
 
 ### Phases
-
-**1. The Shell Wakes** (from the start)
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 218 | 5.2 s |
-| Melee | Physical | 192 | 4.6 s |
-
-**2. The Lock Floods** (below 60% HP): Announces "The tide pours into the Pinch!"; moves faster; summons 3 [Bootcrab](../monsters/bootcrab.md) every 26 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 227 | 5.2 s |
-| Melee | Physical | 201 | 4.6 s |
-| Area | Physical | 175 | 9 s |
-
-**3. Shedding Plates** (below 30% HP): Announces "The Bootbreaker sheds its plates!"; moves faster; summons 2 [Ironback Crab](../monsters/ironback_crab.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 245 | 5.2 s |
-| Melee | Physical | 218 | 4.6 s |
-| Area | Physical | 192 | 9 s |
 
 ### Drops
 

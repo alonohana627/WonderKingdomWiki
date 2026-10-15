@@ -2,7 +2,7 @@
 
 # Up the Walls
 
-*Garrick wants to know what can be seen from the top of Stonecap Keep. Climb to the highest point of the Battlements, the old lookout over the first wall.*
+*Garrick wants to know what can be seen from the top of Stonecap Keep. Climb to the highest point of the Battlements, the old lookout over the first wall. Clear 50 Spore Puffs from the walls on the way up. Bring Garrick 10 Spore Puff Sacs.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 - Reach the lookout on the Battlements in [The Battlements](../maps/battlements_1.md)
+- Defeat 50 [Spore Puff](../monsters/spore_puff.md)
+- Bring 10 [Spore Puff Sac](../items/spore_puff_sac.md) (taken)
 
 ## Rewards
 

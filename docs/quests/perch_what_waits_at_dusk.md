@@ -11,7 +11,7 @@
 | Given by | [Perch](../npcs/perch.md) |
 | Level | 51 |
 | After | [The Refused Message](../quests/perch_the_refused_message.md) |
-| Leads to | [Kite Laid Up](../quests/kite_laid_up.md) |
+| Leads to | [Feathers of the Late Hawks](../quests/perch_feathers_of_the_late_hawks.md) |
 
 ## Objectives
 

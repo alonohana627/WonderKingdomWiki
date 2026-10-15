@@ -11,6 +11,7 @@
 | Given by | [Tristan](../npcs/tristan.md) |
 | Level | 48 |
 | After | [The Fast Barge](../quests/bennet_the_fast_barge.md) |
+| Leads to | [Watch, Don't Kill](../quests/constance_watch_not_kill.md) |
 
 ## Objectives
 
@@ -33,4 +34,4 @@
     - Then I'll keep watching. It's what I do.
     - Defeat Longjaw in the Heron Pool. Ask Bennet to take you there.
     - (He walks the bank of the Heron Pool and stops.) A heron. Just one. Standing in the shallows like it never left.
-    - Lucan's put a wager on it already: that the river runs quiet till winter. First wager he's made since. Thank you, *Player*. From the whole river.
+    - Lucan's put a wager on it already: that the river runs quiet till winter. First wager he's made since. Thank you, *Player*. From the whole river. Constance, at the Crooked Lantern in the Old Quarter, keeps notes on every monster. She has a job upriver that needs someone steady.

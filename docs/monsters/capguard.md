@@ -43,3 +43,4 @@
 ## Quests
 
 - [A Dare](../quests/a_dare.md)
+- [Follow Her Home](../quests/follow_her_home.md)

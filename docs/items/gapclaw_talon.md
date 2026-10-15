@@ -11,4 +11,4 @@
 
 ## How to get
 
-- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal), [The Gapclaw](../bosses/gapclaw.md) (Hard) (100%)
+- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal) (100%)

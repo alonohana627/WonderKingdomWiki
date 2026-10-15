@@ -43,4 +43,7 @@
 
 ## Quests
 
+- [Bastian Gives His Time](../quests/bastian_gives_his_time.md)
+- [Names on the Tang](../quests/ferro_names_on_the_tang.md)
 - [Hatch's Bounty: the Bristlewood](../quests/hatch_bristlewood_bounty.md)
+- [The Cutting Count](../quests/hatch_the_cutting_count.md)

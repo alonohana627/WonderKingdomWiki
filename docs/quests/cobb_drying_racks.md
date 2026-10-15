@@ -7,18 +7,21 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Cobb](../npcs/cobb.md) |
 | Level | 16 |
+| After | [A Letter to Marram Cove](../quests/brisa_letter_to_marram_cove.md) |
+| Leads to | [The Prettiest Shells](../quests/bree_long_sands_shells.md) |
 
 ## Objectives
 
 - Defeat 35 [Dune Cat](../monsters/dune_cat.md) in [The Dune Reach](../maps/dune_reach.md)
+- Bring 15 [Dune Cat Fur](../items/dune_cat_fur.md) (taken)
 
 ## Rewards
 
-- 992 EXP
-- 352 mesos
+- 1,442 EXP
+- 480 mesos
 - +40 standing with [Cobb](../npcs/cobb.md)
 - +25 standing with Bain Harbour
 
@@ -26,9 +29,9 @@
 
     - My cousins dry fish on racks out on the Dune Reach. Along the south shore.
     - Dune cats get at them. Every night. Whole racks, gone. My cousins don't say much either. That's the family.
-    - Clear **35 [Dune Cat](../monsters/dune_cat.md)s** off the Dune Reach. I'd go myself. Gwennol says I'm needed here.
+    - Clear **35 [Dune Cat](../monsters/dune_cat.md)s** off the Dune Reach. I'd go myself. Gwennol says I'm needed here. And **15 [Dune Cat Fur](../items/dune_cat_fur.md)** for lining the fish baskets.
     - Thank you.
     - Another time, then.
-    - Thirty-five dune cats. The Dune Reach, west along the shore.
+    - Thirty-five dune cats. The Dune Reach, west along the shore. And **15 [Dune Cat Fur](../items/dune_cat_fur.md)** for lining the fish baskets.
     - My cousin sent word. The racks are full this week.
     - ...Thank you. Gwennol says to say it properly. Thank you very much.

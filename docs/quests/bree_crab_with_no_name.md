@@ -15,7 +15,8 @@
 
 ## Objectives
 
-- Bring 12 [Bootcrab Shell](../items/bootcrab_shell.md) (taken)
+1. Defeat 30 [Bootcrab](../monsters/bootcrab.md) in [The First Locks](../maps/first_locks.md)
+2. Bring 12 [Bootcrab Shell](../items/bootcrab_shell.md) (taken)
 
 ## Rewards
 
@@ -28,9 +29,9 @@
 
     - Look. LOOK. I caught it in the pools under the harbour wall this morning. I have named every crab in the bay, *Player*, and I can't name this one.
     - The shell's too hard. Hesketh's oyster knife wouldn't go in. And it's the wrong colour, like an old boot. Crabs aren't that colour. Not ours.
-    - Somebody said there are crabs like it up the Old Cut, past Baysight Hill. Bring me **12 [Bootcrab Shell](../items/bootcrab_shell.md)s** from the First Locks and I'll find one that matches.
+    - Somebody said there are crabs like it up the Old Cut, past Baysight Hill. Bring me **12 [Bootcrab Shell](../items/bootcrab_shell.md)s** from the First Locks and I'll find one that matches. First clear **30 [Bootcrab](../monsters/bootcrab.md)s** off the First Locks; they will not let you near the shells otherwise.
     - Bring them all. Even the ugly ones. Especially the ugly ones.
     - Another time, then.
-    - Twelve shells from the First Locks, on the Old Cut. You've got (how many you carry).
+    - First clear **30 [Bootcrab](../monsters/bootcrab.md)s** off the First Locks; they will not let you near the shells otherwise. Twelve shells from the First Locks, on the Old Cut. You've got (how many you carry).
     - This one. And this one. They MATCH. Same boot colour, same horrible hardness. So my crab came down the Cut from the locks.
     - I'm calling them bootcrabs. Because of the colour. And because they'd break your boot. Go and tell Keziah, she cleared crabs below the headland her first week. She'll want to know.

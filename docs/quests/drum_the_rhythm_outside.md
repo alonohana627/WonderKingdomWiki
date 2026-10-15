@@ -10,8 +10,8 @@
 | Category | Story |
 | Given by | [Drum](../npcs/drum.md) |
 | Level | 26 |
-| After | [Bite Herbs](../quests/patch_bite_herbs.md) |
-| Leads to | [Under the Fallen Tower](../quests/brindle_under_the_fallen_tower.md) |
+| After | [Wing Ash](../quests/tinsel_wing_ash.md) |
+| Leads to | [Rat Fever](../quests/patch_rat_fever.md) |
 
 ## Objectives
 

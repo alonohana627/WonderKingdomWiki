@@ -2,7 +2,7 @@
 
 # Items
 
-Wonder Kingdom has 664 items. Prices are what a shop pays you; shops sell for more.
+Wonder Kingdom has 665 items. Prices are what a shop pays you; shops sell for more.
 
 Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 
@@ -498,6 +498,7 @@ Rarities, from lowest to highest: Common, Uncommon, Rare, Epic, Legendary.
 | [Bootbreaker's Claw](../items/bootbreaker_claw.md) | 400 | A claw off the Bootbreaker, barnacled and scarred, as long as an oar. Bree wants it for her stall; Keziah wants it over the bar at the Salt and Bread. |
 | [Bootcrab Shell](../items/bootcrab_shell.md) | 30 | A cast shell from a bootcrab, too hard and the wrong colour for any crab of the bay. |
 | [Bramble Thorn](../items/bramble_thorn.md) | 88 | A thorn as long as a finger, dark at the tip. |
+| [Breaker Crab Shell](../items/breaker_crab_shell.md) | 18 | A heavy shell from the Strand's upper rocks. Ground fine, it hardens mortar. |
 | [Broken Binding](../items/broken_binding.md) | 38 | Leather and thread from the back of a very old book. |
 | [Bronze Ingot](../items/bronze_ingot.md) | 80 | A bar of smelted bronze, harder than copper. |
 | [Bronze Ore](../items/bronze_ore.md) | 15 | Soft ore that a smith can turn into bronze. |

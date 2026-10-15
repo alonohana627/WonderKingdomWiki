@@ -2,7 +2,7 @@
 
 # The Thin Whistler
 
-*A thin person with a tin whistle haunts the edge of Lantern Square whenever Saffi plays, and never plays a note. Saffi wants to know why. The whistler is Piper, the troupe's songwriter.*
+*A thin person with a tin whistle haunts the edge of Lantern Square whenever Saffi plays, and never plays a note. Saffi wants to know why. The whistler is Piper, the troupe's songwriter. Saffi also wants the boar thinned at Bristlewood Edge: 30 bristle boars.*
 
 |  |  |
 |---|---|
@@ -15,12 +15,13 @@
 
 ## Objectives
 
+- Defeat 30 [Bristle Boar](../monsters/bristle_boar.md) in [Bristlewood Edge](../maps/bristlewood_edge.md)
 - Talk to [Piper](../npcs/piper.md)
 
 ## Rewards
 
-- 3,030 EXP
-- 1,980 mesos
+- 16,740 EXP
+- 3,960 mesos
 - +70 standing with [Saffi](../npcs/saffi_quell.md)
 - +15 standing with Urbanograd
 
@@ -28,13 +29,13 @@
 
     - There's someone. Thin. Scarf. Tin whistle. Every time I play, there at the edge of the crowd, holding the whistle like it might bite. Never plays it. Not once. It's driving me mad.
     - I tried to go over last week and the whistler vanished round the theatre yard before I'd got my bow down. Ivo says it's Piper, from the Old Barracks troupe. The one who writes all the songs for the play.
-    - Find [Piper](../npcs/piper.md) at the Old Barracks Yard and ask what that whistle's for. Nicely. I'd ask, but I'd ask fast and loud, and apparently that makes people run.
-    - The Old Barracks Yard. Look for someone humming and pretending not to be. Go!
+    - Find [Piper](../npcs/piper.md) at the Old Barracks Yard and ask what that whistle's for. Nicely. I'd ask, but I'd ask fast and loud, and apparently that makes people run. And do me another favour while you are at it, I owe it to the square. Every carter who comes in with a boar story tells it to Ivo, Ivo tells it to the crowd, and nobody wants to dance. Thin the boar at [Bristlewood Edge](../maps/bristlewood_edge.md): **30 [Bristle Boar](../monsters/bristle_boar.md)s**. Fewer stories, more tunes.
+    - The Old Barracks Yard. Look for someone humming and pretending not to be. Go! Boar are brown and bad-tempered. You will know them. They are not subtle, unlike this whistler.
     - Fine. I'll keep playing and pretend I don't see the whistle. I see the whistle. I always see the whistle.
-    - Piper, at the Old Barracks Yard. The whistle. What's it for?
+    - Piper, at the Old Barracks Yard. The whistle. What's it for? And **30 [Bristle Boar](../monsters/bristle_boar.md)s** at [Bristlewood Edge](../maps/bristlewood_edge.md). Fewer boar stories.
     - Saffi sent you? Saffi knows I exist? Oh no. (Piper pulls out a bundle of papers tied in a ribbon.) The whistle's for these. A second part for each of her nine tunes. Written them all. I just... never asked. She plays so fast and so well.
     - Here. Listen. (Piper plays, very softly, a thin bright line that winds round the Night Market tune like a vine on a post.) That's the Night Market part. I've never played it out loud before.
     - Tonight, when Saffi plays the Night Market, I'll play this from the edge. Under it. Quietly. If she stops, I'll stop. Tell her that? No. Don't. Just let her hear.
-    - You found out? Tell me! No, wait. Don't. Something happened last night. I played the Night Market, and halfway through, underneath it, a whistle. A second part. Thin and bright, all round my tune like it had always been there.
+    - Boar thinned. Ivo says the carters came in smiling. You found out? Tell me! No, wait. Don't. Something happened last night. I played the Night Market, and halfway through, underneath it, a whistle. A second part. Thin and bright, all round my tune like it had always been there.
     - I didn't stop. I didn't dare stop. I played it three times through and the whistle kept up every time. Fast enough. Actually fast enough.
     - Nine second parts? Written and never played? (Saffi laughs, a little too loud.) Well. Somebody had better learn to ask. And it had better be quick. Thank you, *Player*.

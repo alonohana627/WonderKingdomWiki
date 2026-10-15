@@ -2,19 +2,22 @@
 
 # The Cart That Never Came
 
-*A harvest cart left Kaldemor for Bain Harbour along the Verdant Coast Road and never arrived. Walk the road and look for it in the Greenmarsh, then tell Percy, who built it, what you found.*
+*A harvest cart left Kaldemor for Bain Harbour along the Verdant Coast Road and never arrived. Walk the road and look for it in the Greenmarsh, then tell Percy, who built it, what you found. Clear 30 Reed Snakes from the reeds while you look.*
 
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Tobin](../npcs/tobin.md) |
 | Level | 10 |
+| After | [Down the Road](../quests/down_the_road.md) |
+| Leads to | [Quill's Test](../quests/quills_test.md) |
 
 ## Objectives
 
 1. Reach the tipped cart in the reeds in [The Greenmarsh](../maps/the_greenmarsh.md)
 2. Talk to [Percy](../npcs/percy.md)
+3. Defeat 30 [Reed Snake](../monsters/reed_snake.md)
 
 ## Rewards
 

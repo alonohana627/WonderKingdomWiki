@@ -71,3 +71,4 @@
 - [The Grand Swordmaster's Trial](../quests/grand_swordmasters_trial.md)
 - [The Sword Saint's Trial](../quests/sword_saints_trial.md)
 - [The Swordmaster's Trial](../quests/swordmasters_trial.md)
+- [Axes on the Descent](../quests/torvi_the_axe_stumps.md)

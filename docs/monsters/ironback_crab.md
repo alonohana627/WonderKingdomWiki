@@ -48,3 +48,4 @@
 - [Kit on the Lock Gate](../quests/alwyn_kit_on_the_lock_gate.md)
 - [Watch Bounty: The Old Cut](../quests/jowan_watch_bounty_old_cut.md)
 - [Back and Bigger](../quests/keziah_back_and_bigger.md)
+- [The Bootbreaker](../quests/keziah_the_bootbreaker.md)

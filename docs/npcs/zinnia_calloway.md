@@ -21,6 +21,7 @@
 
 ## Quests
 
+- [Measuring Tusks](../quests/zip_the_tusk_measure.md) (gives)
 - [What Bravery Costs](../quests/zip_what_bravery_costs.md) (gives)
 - [When to Run](../quests/zip_when_to_run.md) (gives)
 

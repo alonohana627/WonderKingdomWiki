@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Constance](../npcs/constance.md) |
 | Level | 50 |
+| After | [Longjaw](../quests/tristan_longjaw.md) |
 | Leads to | [A Bounty Alone](../quests/thurstan_a_bounty_alone.md) |
 
 ## Objectives

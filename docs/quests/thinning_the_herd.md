@@ -2,7 +2,7 @@
 
 # Thinning the Herd
 
-*Hale's bounty now reaches past the woods. Defeat 60 Tuskers in the deep Boarwood and one Disturbance-touched monster, so the herd stops pushing up toward the farms.*
+*Hale's bounty now reaches past the woods. Defeat 60 Tuskers in the deep Boarwood and one Disturbance-touched monster, so the herd stops pushing up toward the farms. Bring Hale 20 Hedge Boar Hides for the bounty book.*
 
 |  |  |
 |---|---|
@@ -17,6 +17,7 @@
 
 - Defeat 60 [Tusker](../monsters/tusker.md)
 - Defeat 1 Elite Disturbance-touched boar ([Hedge Boar](../monsters/hedge_boar.md), [Rooting Piglet](../monsters/rooting_piglet.md), [Tusker](../monsters/tusker.md))
+- Bring 20 [Hedge Boar Hide](../items/hedge_boar_hide.md) (taken)
 
 ## Rewards
 

@@ -47,6 +47,12 @@
 | [Steel Missel](../items/steel_missel.md) | 0.08% | 1 |
 | [Red Adventurer Cape](../items/red_adventurer_cape.md) | 0.08% | 1 |
 | [Cross Shield](../items/cross_shield.md) | 0.08% | 1 |
+| [Jeweled Katar](../items/jeweled_katar.md) | 0.08% | 1 |
+| [Buck](../items/buck.md) | 0.08% | 1 |
+| [Lion's Fang](../items/lions_fang.md) | 0.08% | 1 |
+| [The Rising](../items/the_rising.md) | 0.08% | 1 |
+| [Serpent's Tongue](../items/serpents_tongue.md) | 0.08% | 1 |
+| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 0.08% | 1 |
 
 ## Quests
 

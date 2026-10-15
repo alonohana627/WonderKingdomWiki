@@ -2,7 +2,7 @@
 
 # The Crooked Tower Run
 
-*Kite dreams of a run from the top of the Crooked Tower to the fortress gate without touching a stair. Run the line first, while Kite times it from outside.*
+*Kite dreams of a run from the top of the Crooked Tower to the fortress gate without touching a stair. Run the line first, while Kite times it from outside. Kite also wants the gloomeyes thinned beyond the gate, 30 of them, because they watch the runner and cost seconds.*
 
 |  |  |
 |---|---|
@@ -16,20 +16,21 @@
 
 1. Reach the top of the Crooked Tower in [Urbanograd](../maps/urbanograd.md)
 2. Reach the fortress gate in [Urbanograd](../maps/urbanograd.md)
+3. Defeat 30 [Gloomeye](../monsters/gloomeye.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 3,000 EXP
-- 3,120 mesos
+- 9,690 EXP
+- 4,680 mesos
 - +60 standing with [Kite](../npcs/kite.md)
 - +20 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - I have a run nobody has ever made. From **the top of the Crooked Tower**, where Perch's loft is, all the way down to **the fortress gate**, and not one stair. Not one! Cobble says it cannot be done in any boots he ever made, and he has made all of them.
-    - I need somebody to run the line first, so I can watch from outside where it goes wrong. Climb to the top of the tower, then run for the gate. I will turn the sand-glass the moment you start. Will you?
-    - Up the tower first. Say hello to the pigeons. Do not say hello to the cat, he takes it as an invitation.
+    - I need somebody to run the line first, so I can watch from outside where it goes wrong. Climb to the top of the tower, then run for the gate. I will turn the sand-glass the moment you start. Will you? And one more thing. Past the gate, the gloomeyes in the Outworks watch every runner from the grass, and they have cost me three seconds a night. Thin out **30 [Gloomeye](../monsters/gloomeye.md)s** in the Outer Ditch first, so the line has no eyes on it.
+    - Up the tower first. Say hello to the pigeons. Do not say hello to the cat, he takes it as an invitation. Gloomeyes first, then the tower. The glass can wait; it is a patient glass.
     - Fine, fine. I will run it blind one day and tell you about it. At length.
-    - Top of the Crooked Tower, then the gate, *Player*. No stairs. I have had the glass ready for an hour.
-    - There! Did you see where you had to drop off the Long Lean? That gap, right there, that is where the line breaks. I knew it was there. I just needed somebody else's legs to prove it.
+    - Top of the Crooked Tower, then the gate, *Player*. No stairs. I have had the glass ready for an hour. **30 [Gloomeye](../monsters/gloomeye.md)s** in the Outer Ditch, then the tower and the gate, *Player*.
+    - And no eyes on the line now, either. There! Did you see where you had to drop off the Long Lean? That gap, right there, that is where the line breaks. I knew it was there. I just needed somebody else's legs to prove it.
     - Not a record. Nobody gets a record on a line that does not exist yet. But your name goes on the back of Cobble's door under mine, as the first to run it. Smaller letters. Much smaller.

@@ -48,5 +48,10 @@
 ## Quests
 
 - [Entry Sixty-Five](../quests/brisa_entry_sixty_five.md)
+- [Everyone Who Writes Things Down](../quests/halloran_everyone_who_writes.md)
+- [Under the Pier](../quests/halloran_under_the_pier.md)
+- [The Council Hears It](../quests/harbour_master_quenna_the_council_hears_it.md)
+- [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md)
 - [Watch Bounty: The Holm Wood](../quests/jowan_watch_bounty_holm_wood.md)
+- [The Blue Logbook](../quests/ossie_the_blue_logbook.md)
 - [A Touched Shade](../quests/tristram_touched_shade.md)

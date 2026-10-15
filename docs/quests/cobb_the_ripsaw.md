@@ -11,11 +11,13 @@
 | Given by | [Cobb](../npcs/cobb.md) |
 | Level | 47 |
 | After | [Proof for Dunstan](../quests/alwyn_proof_for_dunstan.md) |
+| Leads to | [The Outer Pier](../quests/halloran_the_outer_pier.md) |
 
 ## Objectives
 
-1. Talk to [Tristram](../npcs/tristram.md)
-2. Clear [The Ripsaw](../bosses/ripsaw.md)
+1. Bring 15 [Pale Sawbill Fin](../items/pale_sawbill_fin.md) (taken)
+2. Talk to [Tristram](../npcs/tristram.md)
+3. Clear [The Ripsaw](../bosses/ripsaw.md)
 
 ## Rewards
 
@@ -29,10 +31,10 @@
 
     - The shoals follow one fish. A big one. Tristram's seen it, from the headland, lying up under the broken sea gates where the tide runs hardest.
     - He calls it the Ripsaw. Longer than my boat. Its saw scarred end to end. While it lives the shoals keep coming in through the Cut.
-    - Talk to **Tristram** on the docks. Then go down to **the Gullet** and put **the Ripsaw** down. The last lock post under the gates lets you climb down.
+    - Talk to **Tristram** on the docks. Then go down to **the Gullet** and put **the Ripsaw** down. The last lock post under the gates lets you climb down. The pale ones follow it: bring **15 [Pale Sawbill Fin](../items/pale_sawbill_fin.md)s** so Tristram can read where it lies up.
     - Breathe before you go down. Nerissa's rule.
     - Another time, then.
-    - Talk to Tristram on the docks, then defeat the Ripsaw in the Gullet Gates.
+    - The pale ones follow it: bring **15 [Pale Sawbill Fin](../items/pale_sawbill_fin.md)s** so Tristram can read where it lies up. Talk to Tristram on the docks, then defeat the Ripsaw in the Gullet Gates.
     - The Ripsaw. Gone.
     - The shoals will scatter without it. My nets will come up whole. I'll take Lowen's little sister out past the middle of the bay next week. First time in a year.
     - The Ripsaw. Under the sea gates, in the Gullet. I've watched it from the headland three mornings. It doesn't move much. It doesn't need to.

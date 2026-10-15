@@ -88,6 +88,7 @@
 - Dropped by [Strand Fox](../monsters/strand_fox.md) (5%)
 - Dropped by [Wrack Boar](../monsters/wrack_boar.md) (5%)
 - Dropped by [Bluecap](../monsters/bluecap.md) (6%)
+- Dropped by [Breaker Crab](../monsters/breaker_crab.md) (4%)
 - Dropped by [Capguard](../monsters/capguard.md) (6%)
 - Dropped by [Crowncap](../monsters/crowncap.md) (8%)
 - Dropped by [Horny Mushroom](../monsters/deepwood_horny.md) (6%)

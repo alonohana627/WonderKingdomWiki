@@ -5,11 +5,11 @@
 |  |  |
 |---|---|
 | Level | 70 |
-| HP | 348,580 |
+| HP | 308,742 |
 | MP | 200 |
 | EXP | 102,795 |
 | Touch damage | 316 |
-| Defense / Magic Defense | 700 / 700 |
+| Defense / Magic Defense | 420 / 420 |
 | Aggressive | Yes |
 | Boss | Yes |
 
@@ -17,7 +17,7 @@
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 364 | 4.2 s |
+| Projectile | Physical | 292 | 4.2 s |
 
 ## Boss fight
 
@@ -36,3 +36,7 @@
 | [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 15% | 1 |
 | [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
 | [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Red Katana](../items/red_katana.md) | 4% | 1 |
+| [Doombringer](../items/doombringer.md) | 4% | 1 |
+| [Redemption](../items/redemption.md) | 4% | 1 |
+| [Mithril Platine](../items/mithril_platine.md) | 4% | 1 |

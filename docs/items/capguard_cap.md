@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Capguard](../monsters/capguard.md) (45%)
+
+## Used for
+
+- [A Dare](../quests/a_dare.md) (bring 20)

@@ -17,5 +17,5 @@
 ## How to get
 
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.05%)
-- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal), [The Undertow](../bosses/undertow.md) (Hard) (5%)
+- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal) (5%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 28,000 mesos

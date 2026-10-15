@@ -2,7 +2,7 @@
 
 # What Drove It Out
 
-*Hale has wondered all year what drove old Mano out of the woods. The answer is at the top of Stonecap Keep. Reach the foot of the Crown Tower at the far end of the Inner Ward.*
+*Hale has wondered all year what drove old Mano out of the woods. The answer is at the top of Stonecap Keep. Reach the foot of the Crown Tower at the far end of the Inner Ward. Clear 60 Crowncaps from the tower's foot. Bring Hale 10 pieces of Old Wall Iron for the gate bars.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 - Reach the foot of the Crown Tower in [The Inner Ward](../maps/inner_ward_2.md)
+- Defeat 60 [Crowncap](../monsters/crowncap.md)
+- Bring 10 [Old Wall Iron](../items/old_wall_iron.md) (taken)
 
 ## Rewards
 

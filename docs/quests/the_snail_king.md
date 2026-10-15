@@ -10,7 +10,8 @@
 | Category | Story |
 | Given by | [Hale](../npcs/hale.md) |
 | Level | 12 |
-| After | [Shells for the Mayor](../quests/shells_for_the_mayor.md) |
+| After | [Shells for the Mayor](../quests/shells_for_the_mayor.md), [Quill's Test](../quests/quills_test.md) |
+| Leads to | [The King in the Hollow](../quests/the_king_in_the_hollow.md) |
 
 ## Objectives
 

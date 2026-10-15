@@ -15,6 +15,9 @@
 
 ## Used for
 
+- [Lark's Song](../quests/dex_larks_song.md) (bring 38)
 - [A Boar-Spear Head](../quests/ferro_a_boar_spear_head.md) (bring 30)
+- [A New Rim](../quests/hambone_a_new_rim.md) (bring 40)
 - [A Stove That Does Not Smoke](../quests/mags_a_stove_that_does_not_smoke.md) (bring 10)
 - [Spark Powder](../quests/margo_spark_powder.md) (bring 15)
+- [Measuring Tusks](../quests/zip_the_tusk_measure.md) (bring 30)

@@ -2,7 +2,7 @@
 
 # Roofs to Avoid
 
-*Nana Gristle warned Kite about the rotten gutter on the north end of the long roof over the Night Market. Kite jumped it anyway, and something happened. Nana wants Kite to admit she was right.*
+*Nana Gristle warned Kite about the rotten gutter on the north end of the long roof over the Night Market. Kite jumped it anyway, and something happened. Nana wants Kite to admit she was right. Nana also wants the swarm that rots the gutters thinned: 20 lampbats in the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Kite](../npcs/kite.md)
+- Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 800 EXP
-- 1,260 mesos
+- 4,000 EXP
+- 2,100 mesos
 - +50 standing with [Nana Gristle](../npcs/nana_gristle.md)
 - +10 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - That Kite. Fastest legs in the city and the deafest ears. I said, the long roof over the Night Market, the north end, the gutter's rotten. I said it a dozen times. I said it slowly.
     - Well, last night a whole length of gutter came down in the Night Market and nearly landed in Ladle's cider. And who was seen running away across the slates, very fast and very guilty?
-    - Go up and find [Kite](../npcs/kite.md) on the Rooftops, and ask, very politely, which end of the long roof the gutter came off. I want to hear Kite say it. Through you will do.
-    - And don't let Kite run off mid-sentence. Kite does that. Stand in front of the ladder.
+    - Go up and find [Kite](../npcs/kite.md) on the Rooftops, and ask, very politely, which end of the long roof the gutter came off. I want to hear Kite say it. Through you will do. And while you are about it, thin out the swarm that comes in off the Outworks, **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch. Their droppings are what rot the north gutters, and I will not have the next one come down on Ladle.
+    - And don't let Kite run off mid-sentence. Kite does that. Stand in front of the ladder. Kite first, then the bats. Kite will not stand still for either of us.
     - Pfah. I'll wait. I've been right for seventy-nine years. I can be right for a few more days.
-    - Kite. The Rooftops. Which end did the gutter come off? Make Kite say it.
+    - Kite. The Rooftops. Which end did the gutter come off? Make Kite say it. Kite, and **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch, *Player*. Droppings rot gutters; ask anybody.
     - Nana sent you, didn't she. I knew it. I KNEW it. (Kite jogs on the spot, not quite meeting your eyes.) Fine. FINE. It was the north end. The gutter. The rotten one. It went right out from under my back foot.
     - Tell Nana she was right. Tell her I said it. Tell her I'm not happy about it. And tell her... tell her thanks. She's always right about the roofs. It's so annoying.
-    - The north end. Out from under the back foot. Ha! And 'she's always right about the roofs'? Did Kite say 'always'? Say it again. Slowly.
+    - And the bats thinned? Pfah. Then at least the next gutter has a chance. The north end. Out from under the back foot. Ha! And 'she's always right about the roofs'? Did Kite say 'always'? Say it again. Slowly.
     - Lovely. That'll keep me warm all winter. Here, sit, have the cake side today. You earned it, *Player*. And go and tell Ladle to move her cider.

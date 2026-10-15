@@ -20,4 +20,6 @@
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.06%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.06%)
 - Dropped by [Wrackgolem](../monsters/wrackgolem.md) (0.06%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 16,000 mesos

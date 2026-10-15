@@ -20,6 +20,7 @@
 
 ## Quests
 
+- [Breakers on the Strand](../quests/breakers_on_the_strand.md) (gives)
 - [The Stretch at Dusk](../quests/the_stretch_at_dusk.md) (gives)
 
 ??? quote "Dialogue"

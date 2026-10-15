@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 30 | 34,398 | 8,580 | 145 | 240 / 240 |
+| 30 | 34,398 | 358 | 145 | 240 / 240 |
 
 First clear: +60 standing with Urbanograd
 
@@ -32,16 +32,36 @@ Attacks:
 
 **1. The Gloamwing Stirs** (from the start)
 
-**2. The Swarm Gathers** (below 60% HP): Announces "THE LAMPBATS ANSWER THEIR QUEEN... BUT DRUM'S BEAT IS LOUD TONIGHT!"; summons 3 [Lampbat](../monsters/lampbat.md) every 30 s.
+**2. The Swarm Gathers** (below 65% HP): Announces "THE LAMPBATS ANSWER THEIR QUEEN... BUT DRUM'S BEAT IS LOUD TONIGHT!"; summons 3 [Lampbat](../monsters/lampbat.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 232 | 3 s |
 | Area | Physical | 188 | 6 s |
 
-**3. Frenzy** (below 25% HP): Announces "THE GLOAMWING SCREECHES AND DIVES!"; moves faster.
+**3. Frenzy** (below 30% HP): Announces "THE GLOAMWING SCREECHES AND DIVES!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 261 | 2.4 s |
 | Projectile | Physical | 174 | 4 s |
+
+## Hard
+
+*Defeat The Gloamwing on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 33 | 34,398 | 358 | 145 | 240 / 240 |
+
+First clear: +100 standing with Urbanograd
+
+Every clear: +15 standing with Urbanograd
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 232 | 3.2 s |
+
+### Phases

@@ -23,8 +23,10 @@
 
 - [Kite Laid Up](../quests/kite_laid_up.md) (completes)
 - [Across the Crest](../quests/perch_across_the_crest.md) (gives)
+- [Feathers of the Late Hawks](../quests/perch_feathers_of_the_late_hawks.md) (gives)
 - [Stormcrest](../quests/perch_stormcrest.md) (gives)
 - [The All-Hours Route](../quests/perch_the_all_hours_route.md) (gives)
+- [The Dusk Count](../quests/perch_the_dusk_count.md) (gives)
 - [The Highbeacon](../quests/perch_the_highbeacon.md) (gives)
 - [The Refused Message](../quests/perch_the_refused_message.md) (gives)
 - [What Waits at Dusk](../quests/perch_what_waits_at_dusk.md) (gives)

@@ -22,7 +22,6 @@
 - Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.1%)
 - Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.1%)
 - Dropped by [Snapjaw](../monsters/snapjaw.md) (0.1%)
-- Dropped by [Gloomfur Lupin](../monsters/gloomfur_lupin.md) (0.08%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.06%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.06%)
 - Dropped by [Strand Fox](../monsters/strand_fox.md) (0.04%)

@@ -2,7 +2,7 @@
 
 # A Dare
 
-*Meg caught you following her. She makes it a dare: stand in the clearing on the Keep Road with her watching, and defeat 60 Capguards.*
+*Meg caught you following her. She makes it a dare: stand in the clearing on the Keep Road with her watching, and defeat 60 Capguards. Meg wants 20 Capguard Caps as proof.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,7 @@
 ## Objectives
 
 - Defeat 60 Capguard in the clearings ([Capguard](../monsters/capguard.md)) in [The Keep Road](../maps/keep_road.md)
+- Bring 20 [Capguard Cap](../items/capguard_cap.md) (taken)
 
 ## Rewards
 

@@ -76,7 +76,7 @@
 | [The Last Stile](../maps/the_last_stile.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | - | 4 | - |
 | [The Deep Boarwood](../maps/boarwood_deep.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 27 | 5 | [Tusker](../monsters/tusker.md) |
 | [The Greenmarsh](../maps/the_greenmarsh.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
-| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 9-12 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 9-17 | 6 | [Breaker Crab](../monsters/breaker_crab.md), [Orchard Pig](../monsters/orchard_pig.md), [Shingle Crab](../monsters/shingle_crab.md) |
 | [Stilebrook Farm](../maps/stilebrook_farm.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 30 | 6 | - |
 | [The Humming Trail](../maps/humming_trail.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 31-33 | 6 | [Hoarder Shroom](../monsters/hoarder_shroom.md), [Horny Mushroom](../monsters/deepwood_horny.md) |
 | [Windflower Glade](../maps/windflower_glade.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 33-35 | 7 | [Windflower Cap](../monsters/windflower_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom.md) |
@@ -94,7 +94,7 @@
 | [The Crown Tower](../maps/crown_tower.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 70 | 14 | - |
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | [The Royal Road](../world/index.md#royal-road) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
 | [The Crossing](../maps/the_crossing.md) | [The Royal Road](../world/index.md#royal-road) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
-| [The Greenwood](../maps/the_greenwood.md) | [The Royal Road](../world/index.md#royal-road) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [The Greenwood](../maps/the_greenwood.md) | [The Royal Road](../world/index.md#royal-road) | Road | 10-15 | 6 | [Horny Mushroom](../monsters/horny_mushroom.md), [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
 | [A Market House](../maps/market_house.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
 | [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |

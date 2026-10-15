@@ -11,7 +11,7 @@
 | Given by | [Ferro](../npcs/ferro.md) |
 | Level | 45 |
 | After | [The Rare Root](../quests/patch_the_rare_root.md) |
-| Leads to | [The Hunt at the Wallow](../quests/hatch_the_hunt_at_the_wallow.md) |
+| Leads to | [Clearing the Bottoms](../quests/hatch_clearing_the_bottoms.md) |
 
 ## Objectives
 

@@ -7,20 +7,22 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Brisa](../npcs/brisa.md) |
 | Level | 16 |
-| Leads to | [Faster Than Finch](../quests/brisa_faster_than_finch.md) |
+| After | [Carts on the Hill](../quests/garrow_carts_on_the_hill.md) |
+| Leads to | [The Drying Racks](../quests/cobb_drying_racks.md), [Faster Than Finch](../quests/brisa_faster_than_finch.md) |
 
 ## Objectives
 
 1. Reach [Marram Cove](../maps/marram_cove.md)
 2. Defeat 20 [Dune Cat](../monsters/dune_cat.md)
+3. Bring 10 [Dune Cat Fur](../items/dune_cat_fur.md) (taken)
 
 ## Rewards
 
-- 992 EXP
-- 352 mesos
+- 1,442 EXP
+- 480 mesos
 - +40 standing with [Brisa](../npcs/brisa.md)
 - +25 standing with Bain Harbour
 
@@ -28,9 +30,9 @@
 
     - You going west along the coast? Take this. It's a letter. Don't read it.
     - My mum and dad moved to a cousin's farm near Kaldemor. The post goes from Marram Cove, the fishing hamlet past the Dune Reach. I'd run it myself but I'm on watch. Sort of.
-    - Take it to **Marram Cove**, and knock some sense into the **20 [Dune Cat](../monsters/dune_cat.md)s** on the way, would you? They chase the post rider.
+    - Take it to **Marram Cove**, and knock some sense into the **20 [Dune Cat](../monsters/dune_cat.md)s** on the way, would you? They chase the post rider. Mum wants dune cat fur for the winter: **10 [Dune Cat Fur](../items/dune_cat_fur.md)**, if you would.
     - Run, don't walk. I always do.
     - Another time, then.
-    - Marram Cove, past the Dune Reach. And twenty dune cats, for the post rider.
+    - Marram Cove, past the Dune Reach. And twenty dune cats, for the post rider. Mum wants dune cat fur for the winter: **10 [Dune Cat Fur](../items/dune_cat_fur.md)**, if you would.
     - You took your time. No, that was quick. I'm just used to being faster.
     - Thanks. Here. Write that down somewhere: you did a Watch errand and nobody got shouted at.

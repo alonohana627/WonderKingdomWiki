@@ -2,7 +2,7 @@
 
 # Mother's Cake
 
-*Rue's mother sends a cake from the farm every Walkout Day. This year's came on the cider cart and vanished from the theatre yard gate, and Hambone has been humming very loudly ever since.*
+*Rue's mother sends a cake from the farm every Walkout Day. This year's came on the cider cart and vanished from the theatre yard gate, and Hambone has been humming very loudly ever since. The carter says ditch rats eat his loads on the Outworks road: Rue asks you to thin out 35 of them.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Hambone](../npcs/hambone.md)
+- Defeat 35 [Ditch Rat](../monsters/ditch_rat.md) in [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md)
 
 ## Rewards
 
-- 2,070 EXP
-- 1,740 mesos
+- 12,570 EXP
+- 3,770 mesos
 - +50 standing with [Rue](../npcs/rue.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - My mother sends a cake every Walkout Day. Honey and barley, wrapped in a cloth with geese on it. It came on the cider cart this week. The carter says he left it at the theatre yard gate.
     - It was not at the gate. It was not anywhere. And Hambone has been humming very loudly all morning and not looking at anybody.
-    - Would you ask [Hambone](../npcs/hambone.md) about it? If I ask, I will go quiet and he will go red, and we will both stand there until the lanterns come on.
-    - Do not be cross with him. Whatever he did, he did it for a reason. Probably the reason is Sprout.
+    - Would you ask [Hambone](../npcs/hambone.md) about it? If I ask, I will go quiet and he will go red, and we will both stand there until the lanterns come on. And the carter says ditch rats got into his load on the Outworks road, which is why the cake was half a day late. Could you thin out **35 [Ditch Rat](../monsters/ditch_rat.md)s** in the deep cellars too?
+    - Do not be cross with him. Whatever he did, he did it for a reason. Probably the reason is Sprout. The deep cellars are the far end of the Outworks. Do not be brave about it. Be careful.
     - It is only a cake. It is only my mother's cake. It is fine.
-    - Ask [Hambone](../npcs/hambone.md) about the cake in the geese cloth, *Player*.
+    - Ask [Hambone](../npcs/hambone.md) about the cake in the geese cloth, *Player*. Ask [Hambone](../npcs/hambone.md) about the cake, and thin out **35 [Ditch Rat](../monsters/ditch_rat.md)s**, *Player*.
     - Cake? What cake? I have not seen any cake. There is no cake in the cart's prop box under the grandee's spare cloak. (Hambone hears what he just said, and sighs.)
     - I put it there so Sprout would not find it. He finds everything. Here, take it to her, and tell her nobody touched it, which is true, except for the corner, which was already like that. Mostly.
-    - The geese cloth! And it is... mostly whole. (Rue laughs, properly, the way she laughs on stage and nowhere else.)
+    - And the rats thinned! The next cake will arrive whole. The geese cloth! And it is... mostly whole. (Rue laughs, properly, the way she laughs on stage and nowhere else.)
     - Tell Hambone thank you, and tell him he is the worst liar in the city. He will like that. Here, take a slice. My mother always sends too much, so that I have to share.

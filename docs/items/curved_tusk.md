@@ -19,3 +19,4 @@
 ## Used for
 
 - [The Wager](../quests/the_wager.md) (bring 15)
+- [The Woodcutter's Sign](../quests/the_woodcutters_sign.md) (bring 10)

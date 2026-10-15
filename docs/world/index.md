@@ -96,7 +96,7 @@ Lore: [Kaldemor](../lore/towns/kaldemor.md)
 | [The Last Stile](../maps/the_last_stile.md) | Hunting | - | 4 |
 | [The Deep Boarwood](../maps/boarwood_deep.md) | Hunting | 27 | 5 |
 | [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 |
-| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-12 | 6 |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-17 | 6 |
 | [Stilebrook Farm](../maps/stilebrook_farm.md) | Boss | 30 | 6 |
 | [The Humming Trail](../maps/humming_trail.md) | Hunting | 31-33 | 6 |
 | [Windflower Glade](../maps/windflower_glade.md) | Hunting | 33-35 | 7 |
@@ -124,7 +124,7 @@ Regional mastery, earned by making discoveries here:
 |---|---|---|---|
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 |
 | [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 |
-| [The Greenwood](../maps/the_greenwood.md) | Road | 10-12 | 6 |
+| [The Greenwood](../maps/the_greenwood.md) | Road | 10-15 | 6 |
 
 Regional mastery, earned by making discoveries here:
 

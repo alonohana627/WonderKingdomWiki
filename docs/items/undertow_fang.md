@@ -17,4 +17,4 @@
 
 ## How to get
 
-- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal), [The Undertow](../bosses/undertow.md) (Hard) (12%)
+- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal) (12%)

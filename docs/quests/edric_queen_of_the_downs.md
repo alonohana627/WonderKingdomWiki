@@ -11,7 +11,7 @@
 | Given by | [Edric](../npcs/edric.md) |
 | Level | 28 |
 | After | [The Great Hive](../quests/godwin_the_great_hive.md) |
-| Leads to | [A Relic for the Stage](../quests/lavinia_a_relic_for_the_stage.md) |
+| Leads to | [A Relic for the Stage](../quests/lavinia_a_relic_for_the_stage.md), [A Night Without Lanterns](../quests/tristan_a_night_without_lanterns.md) |
 
 ## Objectives
 
@@ -35,4 +35,4 @@
     - No shame in waiting. The hive's waited this long.
     - The Hive Hollow, *Player*. Ask me and I'll take you there.
     - The queen's dead? You're sure? ...You're sure. Ha! Sit down before you fall down.
-    - This goes to the palace tonight, the first report in a year I'll enjoy writing. And Gilbert sent word: his bees came back to the hives this morning. Calmer, he says. A little.
+    - This goes to the palace tonight, the first report in a year I'll enjoy writing. And Gilbert sent word: his bees came back to the hives this morning. Calmer, he says. A little. Tristan, the river scout down at Riverside, has been asking for someone who can hold their nerve at night. Go and see him.

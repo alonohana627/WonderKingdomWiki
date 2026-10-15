@@ -5,19 +5,13 @@
 |  |  |
 |---|---|
 | Level | 30 |
-| HP | 30,098 |
+| HP | 26,658 |
 | MP | 200 |
 | EXP | 12,530 |
 | Touch damage | 139 |
-| Defense / Magic Defense | 300 / 300 |
+| Defense / Magic Defense | 180 / 180 |
 | Aggressive | Yes |
 | Boss | Yes |
-
-## Attacks
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 171 | 5.2 s |
 
 ## Boss fight
 

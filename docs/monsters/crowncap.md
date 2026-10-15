@@ -45,3 +45,4 @@
 - [Meg's Count](../quests/megs_count.md)
 - [The Inner Ward](../quests/the_inner_ward.md)
 - [The Keep Bounty](../quests/the_keep_bounty.md)
+- [What Drove It Out](../quests/what_drove_it_out.md)

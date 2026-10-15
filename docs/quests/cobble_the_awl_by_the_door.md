@@ -2,7 +2,7 @@
 
 # The Awl by the Door
 
-*Cobble left a scrap of hide and an awl by the shop door to see what Edgar would do with them. Both are gone. Cobble will not ask Edgar; you can.*
+*Cobble left a scrap of hide and an awl by the shop door to see what Edgar would do with them. Both are gone. Cobble will not ask Edgar; you can. The Watch's night boots want lacing, so Cobble also needs 20 gloomeye tails from the Outworks.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Edgar Penhallow](../npcs/alder_penhallow.md)
+- Bring 20 [Gloomeye Tail](../items/gloomeye_tail.md) (taken)
 
 ## Rewards
 
-- 1,340 EXP
-- 1,500 mesos
+- 8,470 EXP
+- 3,500 mesos
 - +60 standing with [Cobble](../npcs/cobble.md)
 - +15 standing with Urbanograd
 
@@ -27,12 +28,12 @@
 
     - That Selsior boy. Edgar. Sweeps my step every morning whether I like it or not. Asked me three times to take him on. I said no once out loud and twice with my face.
     - So I left a scrap of hide and my second-best awl by the door. Wanted to see what he'd do. Pocket them, leave them, cut himself. This morning, both gone. Step swept. Not a word.
-    - I'm not asking him. I'd never hear the end of it. You ask. Find out what [Edgar Penhallow](../npcs/alder_penhallow.md) did with my hide and my awl. Don't say I want to know.
-    - He'll be somewhere on the Row with a notebook, drawing something that isn't his business. Go.
+    - I'm not asking him. I'd never hear the end of it. You ask. Find out what [Edgar Penhallow](../npcs/alder_penhallow.md) did with my hide and my awl. Don't say I want to know. And while you are out: the Watch wants night boots laced with gloomeye tail, and nobody brings me any. **20 [Gloomeye Tail](../items/gloomeye_tail.md)s**. Don't tell the boy I am in a hurry for them.
+    - He'll be somewhere on the Row with a notebook, drawing something that isn't his business. Go. Tails off the gloomeyes in the Outworks. Out the gate, down the ditch. Mind your eyes.
     - Hm. Then I'll wonder. I'm good at wondering. Had seventy-six years' practice.
-    - The hide and the awl. What the Selsior boy did with them. Don't say I asked.
+    - The hide and the awl. What the Selsior boy did with them. Don't say I asked. And **20 [Gloomeye Tail](../items/gloomeye_tail.md)s** for the Watch's laces.
     - The awl? Oh dear. Was it not meant for me? I am so sorry. It was lying right by the step, point up. Someone might have trodden on it. So I took the scrap of hide that was beside it, please forgive me, and cut a little sheath for it, and stitched it round.
     - Saddle stitch, eight to the inch, waxed thread; that is how we were taught at the guild hall. Then I put it back exactly where it was, in the sheath, a little further from the step. Is Cobble angry? Please say Cobble is not angry.
     - Oh. You will not say who asked. Of course. I understand entirely. (He looks down the Row toward the shop with no sign, and goes a little pink.)
-    - A sheath. For my awl. Out of a scrap. (Cobble picks up the awl from beside the door, turns the little sheath over in his fingers, and counts the stitches under his breath.) Eight to the inch. Straight. Waxed.
+    - Twenty tails, and good ones. A sheath. For my awl. Out of a scrap. (Cobble picks up the awl from beside the door, turns the little sheath over in his fingers, and counts the stitches under his breath.) Eight to the inch. Straight. Waxed.
     - Hm. Wrong sort of hands. Probably. (He does not put the awl down.) Go on. Shut the door behind you. No. Leave it open. The boy'll be along to sweep.

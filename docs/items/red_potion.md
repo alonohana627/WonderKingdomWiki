@@ -20,6 +20,7 @@
 - Dropped by [Shroom](../monsters/shroom.md) (5%)
 - Dropped by [Snail](../monsters/snail.md) (4%)
 - Dropped by [Stump](../monsters/stump.md) (6%)
+- Dropped by [Breaker Crab](../monsters/breaker_crab.md) (6%)
 - Dropped by [Marsh Slime](../monsters/marsh_slime.md) (6%)
 - Dropped by [Mud Octopus](../monsters/mud_octopus.md) (6%)
 - Dropped by [Orchard Pig](../monsters/orchard_pig.md) (6%)

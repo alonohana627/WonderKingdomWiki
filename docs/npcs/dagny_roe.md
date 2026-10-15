@@ -22,7 +22,9 @@
 ## Quests
 
 - [Eyes by the Stackyards](../quests/dagny_eyes_by_the_stackyards.md) (gives)
+- [Eyes on the Ditch](../quests/dagny_eyes_on_the_ditch.md) (gives)
 - [Morning Prints](../quests/dagny_morning_prints.md) (gives)
+- [The Ditch Rounds](../quests/dagny_the_ditch_rounds.md) (gives)
 - [The Eyes That Do Not Blink](../quests/dagny_touched_eyes.md) (gives)
 
 ??? quote "Dialogue"

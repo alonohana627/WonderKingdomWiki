@@ -2,7 +2,7 @@
 
 # Beat the Record
 
-*Tick means to beat Kite's record from the Gate Walk to the Great Hall, running by the streets instead of the roofs. He wants to know what Kite says about that. Ask Kite.*
+*Tick means to beat Kite's record from the Gate Walk to the Great Hall, running by the streets instead of the roofs. He wants to know what Kite says about that. Ask Kite. Tick also asks you to clear 25 lampbats for a training run along the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -14,11 +14,12 @@
 ## Objectives
 
 - Talk to [Kite](../npcs/kite.md)
+- Defeat 25 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 920 EXP
-- 1,320 mesos
+- 4,920 EXP
+- 2,420 mesos
 - +40 standing with [Tick](../npcs/tick.md)
 - +10 standing with Urbanograd
 
@@ -26,12 +27,12 @@
 
     - *Player*! Salute! Do you know Kite? The rooftop runner? Kite has the record from the Gate Walk to the Great Hall, over the roofs. Cobble keeps it written on the back of his shop door.
     - I am going to beat it. By the streets! I know every stair and alley and the shortcut behind the Night Market where the fish smell is. Everybody says it is impossible. I write down their names, so I know who to tell when I do it.
-    - Will you ask [Kite](../npcs/kite.md) what Kite thinks? Up on the Rooftops. I want to know before I start training properly. I want Kite to know I am coming.
-    - Thank you! Kite is fast; you might have to wait for Kite to land. Ask exactly: can it be done by the streets?
+    - Will you ask [Kite](../npcs/kite.md) what Kite thinks? Up on the Rooftops. I want to know before I start training properly. I want Kite to know I am coming. I am also training along the Outer Ditch, where the bats keep a runner honest. Clear **25 [Lampbat](../monsters/lampbat.md)s** there for me, so I have a clean run, and then I can write the kills in my training book.
+    - Thank you! Kite is fast; you might have to wait for Kite to land. Ask exactly: can it be done by the streets? The ditch is out the gate and down the side path from the Gate Meadows. Tell no bat I am coming.
     - That is all right. I will ask Kite myself. When I catch Kite. Which is the problem.
-    - Ask [Kite](../npcs/kite.md) on the Rooftops: can the record be beaten by the streets?
+    - Ask [Kite](../npcs/kite.md) on the Rooftops: can the record be beaten by the streets? Ask [Kite](../npcs/kite.md), and clear **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), *Player*. Salute!
     - By the streets? Ha! The streets go round things. The roofs go over them. I go over them faster than anyone alive, and I did it twice more since last summer, so the number on Cobble's door keeps getting smaller.
     - Tell Tick it is impossible. Tell Tick I said so, personally. And tell Tick I salute back. Not that I have ever seen Tick standing still long enough to salute.
-    - Kite said impossible? Personally? Yes! YES! Hold on. Notebook. Back page. The list.
+    - And a clean run! Twenty-five bats, in the book! Kite said impossible? Personally? Yes! YES! Hold on. Notebook. Back page. The list.
     - "People Who Say It Is Impossible." Da. Hatch, twice. Brindle, but kindly. Patch, but rudely. Dagny, then she said maybe. And now: Kite. In capitals. Underlined.
     - And Kite salutes back! That is going in the other book too. Thank you, *Player*. When I beat it, you will be the second to know. Kite first. That is only fair.

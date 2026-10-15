@@ -2,7 +2,7 @@
 
 # A Trail Too Broad
 
-*Something has cut a trail across Wilbur's far field, far too broad for any snail. Follow it down the farm track to the Last Stile, where the hedges end and the woods begin, then defeat 30 Hedge Boars in the Boarwood.*
+*Something has cut a trail across Wilbur's far field, far too broad for any snail. Follow it down the farm track to the Last Stile, where the hedges end and the woods begin, then defeat 30 Hedge Boars in the Boarwood. Bring Wilbur 10 Hedge Boar Hides to show him what crossed his field.*
 
 |  |  |
 |---|---|
@@ -10,12 +10,14 @@
 | Category | Story |
 | Given by | [Wilbur](../npcs/wilbur.md) |
 | Level | 20 |
+| After | [The Last Snail Line](../quests/the_last_snail_line.md) |
 | Leads to | [What the Ledger Says](../quests/what_the_ledger_says.md) |
 
 ## Objectives
 
 1. Reach [The Last Stile](../maps/the_last_stile.md)
 2. Defeat 30 [Hedge Boar](../monsters/hedge_boar.md)
+3. Bring 10 [Hedge Boar Hide](../items/hedge_boar_hide.md) (taken)
 
 ## Rewards
 

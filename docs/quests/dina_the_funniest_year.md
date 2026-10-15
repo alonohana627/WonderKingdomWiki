@@ -2,7 +2,7 @@
 
 # The Funniest Year
 
-*Dina Finch is sure this year's play will be the funniest in a decade. The words of Juna's play never change, so ask Dex and Rue what they would do to make it funnier.*
+*Dina Finch is sure this year's play will be the funniest in a decade. The words of Juna's play never change, so ask Dex and Rue what they would do to make it funnier. The night scene wants real bat wings, so Dina also asks for 25 lampbat wings.*
 
 |  |  |
 |---|---|
@@ -16,11 +16,12 @@
 
 1. Talk to [Dex](../npcs/dex.md)
 2. Talk to [Rue](../npcs/rue.md)
+3. Bring 25 [Lampbat Wing](../items/lampbat_wing.md) (taken)
 
 ## Rewards
 
-- 2,370 EXP
-- 2,880 mesos
+- 9,480 EXP
+- 5,550 mesos
 - +40 standing with [Dina Finch](../npcs/orla_finch.md)
 - +10 standing with Urbanograd
 
@@ -28,14 +29,14 @@
 
     - You! Yes, you. Stand there. No, there, in the light. Hm. Good posture. Bad timing, I can tell already. Never mind.
     - This year, *Player*, the play will be the funniest in a decade. I said that last year. I said it the year before. This year I mean it more.
-    - The words of Juna's play never change, so the funny has to come from the people. Go and ask [Dex](../npcs/dex.md) and [Rue](../npcs/rue.md) what they would do to make it funnier, and bring me their answers before they think too hard about it.
-    - Dex will say something enormous. Rue will say something small and right. Bring me both.
+    - The words of Juna's play never change, so the funny has to come from the people. Go and ask [Dex](../npcs/dex.md) and [Rue](../npcs/rue.md) what they would do to make it funnier, and bring me their answers before they think too hard about it. And something practical besides: the night scene wants real wings on the prop bats, because a real wing is funnier than a painted one. **25 [Lampbat Wing](../items/lampbat_wing.md)s**. The Outworks have lampbats by the thousand.
+    - Dex will say something enormous. Rue will say something small and right. Bring me both. The wings come off lampbats, in the Outer Ditch. Do not bring me the bats.
     - Coward. Lovely coward. Off you go.
-    - [Dex](../npcs/dex.md) and [Rue](../npcs/rue.md), *Player*. What would make it funnier. Quickly, before they rehearse an answer.
+    - [Dex](../npcs/dex.md) and [Rue](../npcs/rue.md), *Player*. What would make it funnier. Quickly, before they rehearse an answer. [Dex](../npcs/dex.md) and [Rue](../npcs/rue.md), and **25 [Lampbat Wing](../items/lampbat_wing.md)s**, *Player*. The night scene waits for nobody.
     - Funnier? The grandee falls off the cart in the fourth scene. What if he fell off TWICE? Off the cart, back on, and off the other side!
     - No, no, hear me out: three times. The crowd counts with him. ONE. TWO. Tell Dina three. She will say two. We will agree on three.
     - Funnier? (Rue thinks for a long time.) When the guild hauls Juna's cart away, in the first act... what if she just keeps performing? To nobody. To the empty space where the cart was.
     - Not for long. Just a breath. Then the crowd brings it back. I think that is funny. And a bit sad. Is that allowed?
-    - Three falls. Of course three. He will do four on the night and I will pretend to be furious.
+    - And the wings! The night scene shall flap. Three falls. Of course three. He will do four on the night and I will pretend to be furious.
     - And Rue... performing to the empty space where the cart was. (For once, Dina is quiet.) That is it. That is the whole play in one breath. That girl.
     - Funniest in a decade, *Player*. Mark my words. I have said them before, but this time write them down.

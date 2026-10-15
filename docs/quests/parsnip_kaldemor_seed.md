@@ -2,7 +2,7 @@
 
 # Seed from Kaldemor
 
-*Old Parsnip's oldest vegetable varieties came from Kaldemor's farms long ago, and his seed drawers are running empty. Rue grew up on a farm out that way.*
+*Old Parsnip's oldest vegetable varieties came from Kaldemor's farms long ago, and his seed drawers are running empty. Rue grew up on a farm out that way. Parsnip also wants the ditch rats that climb in from the Outworks thinned out: 35 of them.*
 
 |  |  |
 |---|---|
@@ -15,22 +15,23 @@
 ## Objectives
 
 - Talk to [Rue](../npcs/rue.md)
+- Defeat 35 [Ditch Rat](../monsters/ditch_rat.md) in [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md)
 
 ## Rewards
 
-- 1,870 EXP
-- 1,680 mesos
+- 12,370 EXP
+- 3,640 mesos
 - +50 standing with [Old Parsnip](../npcs/parsnip.md)
 - +15 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - My old varieties, the yellow beet, the long white radish, the wrinkled pea that tastes of honey, came up the road from Kaldemor's farms a long time ago. I have kept them going by saving seed. But every year a few more drawers come up empty.
-    - Young [Rue](../npcs/rue.md), the girl who plays Juna, grew up on a farm out Kaldemor way. Ask whether her people could send fresh seed of the old kinds when the carts run. I would ask her myself, but she goes all quiet when anybody looks at her.
-    - She rehearses up here sometimes, to the cat. Or try the theatre yard. Follow the sound of somebody being very brave at a wall.
+    - Young [Rue](../npcs/rue.md), the girl who plays Juna, grew up on a farm out Kaldemor way. Ask whether her people could send fresh seed of the old kinds when the carts run. I would ask her myself, but she goes all quiet when anybody looks at her. And the ditch rats have found my seed drawers. They come in from the Outworks, up the gutters. Thin them where they breed, **35 [Ditch Rat](../monsters/ditch_rat.md)s** in the [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md), and I will sleep again.
+    - She rehearses up here sometimes, to the cat. Or try the theatre yard. Follow the sound of somebody being very brave at a wall. The deep cellars are the far end of the Outworks. Wear boots; the water is cold, the rats are not.
     - Then the drawers make do. Drawers are patient. I am less so, at my age.
-    - Ask [Rue](../npcs/rue.md) about seed from Kaldemor's farms, *Player*.
+    - Ask [Rue](../npcs/rue.md) about seed from Kaldemor's farms, *Player*. Rue, and **35 [Ditch Rat](../monsters/ditch_rat.md)s** in the [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md), *Player*. For the drawers.
     - The honey pea? We grow that! My mother calls it the wrinkled pea; she says it looks like my grandad. (Rue laughs, then remembers you are listening, and goes quiet.)
     - I will write home tonight. The cider cart goes next week, if the road is open. Tell Old Parsnip I will ask for the yellow beet too. It turns the soup pink.
-    - The yellow beet too? Did you hear that, drawers? Help is coming. Slowly, by cart, the way help always comes.
+    - And the rats thinned, too? The drawers will keep their seed. The yellow beet too? Did you hear that, drawers? Help is coming. Slowly, by cart, the way help always comes.
     - You are a good seed, *Player*. That is the highest thing I say about anybody. Do not tell the beans.

@@ -2,7 +2,7 @@
 
 # Kite Laid Up
 
-*Kite has twisted an ankle and cannot run. An urgent message from the gate has to reach Perch's loft on the Crooked Tower before dusk, over the Rooftops.*
+*Kite has twisted an ankle and cannot run. An urgent message from the gate has to reach Perch's loft on the Crooked Tower, and the rider who brought it was cut off by howlers on the Beacon Line road: thin thirty of them for the next rider.*
 
 |  |  |
 |---|---|
@@ -11,27 +11,28 @@
 | Given by | [Kite](../npcs/kite.md) |
 | Completed with | [Perch](../npcs/perch.md) |
 | Level | 53 |
-| After | [What Waits at Dusk](../quests/perch_what_waits_at_dusk.md) |
+| After | [Feathers of the Late Hawks](../quests/perch_feathers_of_the_late_hawks.md) |
 | Leads to | [The Newest Lens](../quests/tinsel_the_newest_lens.md) |
 
 ## Objectives
 
 - Deliver 1 [Urgent Message](../items/urgent_message.md)
+- Defeat 30 [Downs Howler](../monsters/downs_wolf.md) in [Beacon Line](../maps/beacon_line.md)
 
 ## Rewards
 
-- 15,410 EXP
-- 3,180 mesos
+- 88,350 EXP
+- 6,360 mesos
 - +60 standing with [Kite](../npcs/kite.md)
 - +20 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - Do not laugh. I came down off the Wobbler wrong, and the Wobbler does not even wobble, that is the insulting part. Twisted ankle. Ivo says a week. A week! I have never been still for a week in my life.
-    - And this came in from the gate an hour ago for Perch's loft. It has to go out with a bird before dusk, and the streets will take too long tonight, the market is setting up.
-    - Take the [Urgent Message](../items/urgent_message.md) over the Rooftops to [Perch](../npcs/perch.md), up on the Crooked Tower. Please. I do not say please. You know it is bad when I say please.
-    - Go by the roofs, not the stairs. You know the way. Tell Perch I am fine. Tell Perch I am bored.
+    - And this came in from the gate an hour ago for Perch's loft. The rider says downs howlers cut the Beacon Line road and sent the rider round the long way, white as milk. The message will go out with a bird at the next light, and the streets will take too long tonight, the market is setting up.
+    - Take the [Urgent Message](../items/urgent_message.md) over the Rooftops to [Perch](../npcs/perch.md), up on the Crooked Tower. And clear **30 [Downs Howler](../monsters/downs_wolf.md)s** off the [Beacon Line](../maps/beacon_line.md) so the next rider is not white as milk. Please. I do not say please. You know it is bad when I say please.
+    - Go by the roofs, not the stairs, when you come back. Howlers first or after, I do not mind. Tell Perch I am fine. Tell Perch I am bored.
     - Then I will hop. On one foot. Over the Fiddler's Crossing. You will hear about it.
-    - The [Urgent Message](../items/urgent_message.md) goes to [Perch](../npcs/perch.md) on the Crooked Tower, before dusk. Please do not make me hop.
+    - The [Urgent Message](../items/urgent_message.md) goes to [Perch](../npcs/perch.md) on the Crooked Tower, and **30 [Downs Howler](../monsters/downs_wolf.md)s** come off the [Beacon Line](../maps/beacon_line.md). Please do not make me hop.
     - From the gate, and in a hurry. Kite's knot on the string, too, but not Kite's feet. Ah. The ankle. Ivo told me this morning.
-    - Thank you, *Player*. It goes out with Greyfeather's daughter before the light turns. She will fly this route at this hour. Whether she would fly it an hour later, I do not know any more. That is the trouble, these days.
+    - Thank you, *Player*, for the message and for the road. It goes out with Greyfeather's daughter at the next light. She will fly this route at this hour. Whether she would fly it an hour later, I do not know any more. That is the trouble, these days.

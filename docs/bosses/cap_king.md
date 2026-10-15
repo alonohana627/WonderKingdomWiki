@@ -78,7 +78,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 73 | 280,000 | 420,000 | 230 | 400 / 400 |
+| 73 | 120,000 | 180,000 | 230 | 400 / 400 |
 
 First clear: +250 standing with Kaldemor
 

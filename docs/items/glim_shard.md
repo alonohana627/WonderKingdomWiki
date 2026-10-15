@@ -14,3 +14,10 @@
 - Dropped by [The Deep Lantern](../monsters/deep_lantern.md), [The Deep Lantern](../bosses/deep_lantern.md) (Normal) (80% x2-4)
 - Dropped by [The Deep Lantern](../bosses/deep_lantern.md) (Hard) (100% x3-6)
 - Dropped by [Glimshade](../monsters/glimshade.md) (50%)
+
+## Used for
+
+- [Checking the Marks](../quests/ambrose_checking_the_marks.md) (bring 15)
+- [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md) (bring 20)
+- [The Ledge She Was Reaching For](../quests/nerissa_the_ledge.md) (bring 15)
+- [To See It Once](../quests/tristram_to_see_it_once.md) (bring 20)

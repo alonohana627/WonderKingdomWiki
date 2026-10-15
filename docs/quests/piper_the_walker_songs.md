@@ -2,7 +2,7 @@
 
 # The Walker Songs
 
-*Piper keeps the Walker songs Ozzie Lantry once sang, all but the third verse of the fiddler's song. Ask Ozzie for it.*
+*Piper keeps the Walker songs Ozzie Lantry once sang, all but the third verse of the fiddler's song. Ask Ozzie for it. Piper also needs 30 boar bristles first, to hair a bare fiddle bow.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
-- Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
+1. Bring 30 [Boar Bristle](../items/boar_bristle.md) (taken)
+2. Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
 
 ## Rewards
 
-- 3,030 EXP
-- 1,980 mesos
+- 27,400 EXP
+- 6,380 mesos
 - +50 standing with [Piper](../npcs/piper.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Oh, hello, sorry, I was humming. I am always humming. This one is new; I fell in love with it on the way here from the Night Market. It will be gone by Thursday.
     - Ozzie sang me the Walker songs his grandfather taught him, years ago. I have them all written out, tied up with a ribbon. All but one verse: the fiddler's song, the third verse. Ozzie got to it, started crying, and told a story about a goat instead.
-    - Would you ask [Ozzie Lantry](../npcs/hob_lantry.md) for the third verse? I cannot ask again. Last time he cried, and I cried, and then the goat story was so long that we both missed supper.
-    - If he starts on the goat, just nod. It ends eventually. I think.
+    - Would you ask [Ozzie Lantry](../npcs/hob_lantry.md) for the third verse? I cannot ask again. Last time he cried, and I cried, and then the goat story was so long that we both missed supper. One thing more. Ozzie's grandfather's fiddle bow is bare, and I think the verse will come if there is hair on it. Boar bristle will do in a city with no horses. Bring me **30 [Boar Bristle](../items/boar_bristle.md)s** from the [Bristle Boar](../monsters/bristle_boar.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md) first, and then go and ask.
+    - If he starts on the goat, just nod. It ends eventually. I think. Bristle first, then the verse. Mind the tusks. Tusks are very flat notes.
     - That is all right. Some songs are better with a hole in them. The hole hums.
-    - The third verse of the fiddler's song, from [Ozzie Lantry](../npcs/hob_lantry.md), *Player*.
+    - The third verse of the fiddler's song, from [Ozzie Lantry](../npcs/hob_lantry.md), *Player*. First **30 [Boar Bristle](../items/boar_bristle.md)s** for the bow; you carry (how many you carry). Then the verse.
     - The third verse? Oh. Oh, dear. Yes. My grandfather always sang that one last. Selsior's theatres had turned his songs away, you see, so he played them on the road out instead.
     - Write this down, I cannot say it twice: 'They would not let us play inside, so we played it on the way.' That is the whole verse. One line, sung three times, slower each time. Tell Piper not to change it.
-    - 'They would not let us play inside, so we played it on the way.' (Piper hums it, then hums it again, slower.)
+    - That is a good thick handful. The bow will sing. 'They would not let us play inside, so we played it on the way.' (Piper hums it, then hums it again, slower.)
     - Oh, that is going in the play. Unchanged. Not one note. Well, maybe one, on the third time round. No. Not one. Thank you, *Player*.

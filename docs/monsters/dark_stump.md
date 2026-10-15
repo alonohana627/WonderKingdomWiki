@@ -42,3 +42,4 @@
 - [The Long Way](../quests/perrin_the_long_way.md)
 - [A Count for the Slate](../quests/brindle_a_count_for_the_slate.md)
 - [The Highland Traveler](../quests/knox_the_highland_traveler.md)
+- [Axes on the Descent](../quests/torvi_the_axe_stumps.md)

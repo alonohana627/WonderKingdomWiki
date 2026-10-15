@@ -21,6 +21,7 @@
 
 ## Quests
 
+- [Clearing the Tower Cellars](../quests/knox_clear_the_tower_cellars.md) (gives)
 - [Owls for the Watch](../quests/knox_owls_for_the_watch.md) (gives)
 - [The Highland Traveler](../quests/knox_the_highland_traveler.md) (gives)
 - [The Late Egg Cart](../quests/knox_the_late_egg_cart.md) (gives)

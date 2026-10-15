@@ -13,3 +13,8 @@
 
 - Dropped by [Ditch Rat](../monsters/ditch_rat.md) (50%)
 - Dropped by [Stack Rat](../monsters/stack_rat.md) (45%)
+
+## Used for
+
+- [The Rain Rule](../quests/figgy_the_rain_rule.md) (bring 30)
+- [Rat Fever](../quests/patch_rat_fever.md) (bring 30)

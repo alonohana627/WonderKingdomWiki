@@ -163,7 +163,7 @@ The 400 NPCs you can talk to, by town. Each one's story is in the lore's people 
 | [Orin](../npcs/orin.md) | Retired Woodcutter | [Mushroom Park](../maps/kaldemor_park.md) | Quests |
 | [Pell](../npcs/pell.md) | Taxi Driver | [Kaldemor](../maps/kaldemor.md) | Taxi, Quests |
 | [Percy](../npcs/percy.md) | Wheelwright | [The Workshops](../maps/the_workshops.md) | Quests |
-| [Quill](../npcs/quill.md) | Drillmaster | [Mushroom Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) |
+| [Quill](../npcs/quill.md) | Drillmaster | [Mushroom Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md), Quests |
 | [Rosa](../npcs/rosa.md) | Baker | [Kaldemor Market](../maps/kaldemor_market.md) | Quests |
 | [Rufus](../npcs/rufus.md) | Town Crier | [Kaldemor](../maps/kaldemor.md) | Quests |
 | [Tam](../npcs/tam.md) |  | [Kaldemor](../maps/kaldemor.md) |  |

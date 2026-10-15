@@ -20,3 +20,4 @@
 - [Proof for Dunstan](../quests/alwyn_proof_for_dunstan.md) (bring 1)
 - [The Swordfish Scar](../quests/barnaby_the_swordfish_scar.md) (bring 3)
 - [The Long Scrape](../quests/clemence_the_long_scrape.md) (bring 8)
+- [What Tears the Nets](../quests/cobb_what_tears_the_nets.md) (bring 10)

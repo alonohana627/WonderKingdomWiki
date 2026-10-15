@@ -342,7 +342,7 @@ class Wiki:
 
         self.skill_sources = defaultdict(list)
         for aid, a in self.accomplishments.items():
-            if a["reward"].get("passive"):
+            if a.get("reward", {}).get("passive"):
                 self.skill_sources[a["reward"]["passive"]].append(f"Accomplishment: {a['name']} ({a['description']})")
         for rid, r in self.regions.items():
             for m in r.get("mastery", []):
@@ -430,6 +430,8 @@ class Wiki:
             out.append(f"{self.item(i['item'])} x{i['count']}")
         for s in r.get("skills", []):
             out.append(f"Skill: {self.skill(s['skill'])}")
+        if r.get("passive"):
+            out.append(f"Passive: {self.skill(r['passive'])}")
         for rec in r.get("recipes", []):
             out.append(f"Recipe: {self.recipe_name(rec)}")
         if r.get("random"):
@@ -1311,9 +1313,9 @@ class Wiki:
              table(["Rank", "Points"], [[x["name"], num(x["points"])] for x in r["ranks"]])]
         self.write("systems/standing.md", "\n".join(s))
 
-        a = ["# Accomplishments\n", "Each accomplishment grants a passive skill.\n"]
+        a = ["# Accomplishments\n", "Goals that reward you once when reached: a lasting passive, honor, reputation or other rewards.\n"]
         a.append(table(["Accomplishment", "Goal", "Reward"], [
-            [x["name"], x["description"], self.skill(x["reward"]["passive"]) if x["reward"].get("passive") else "-"]
+            [x["name"], x["description"], ", ".join(self.rewards(x.get("reward"))) or "-"]
             for x in self.accomplishments.values()]))
         self.write("systems/accomplishments.md", "\n".join(a))
 
@@ -1518,7 +1520,7 @@ class Wiki:
             b.append("## Accomplishments\n")
             b.append(table(["Accomplishment", "Goal", "Reward"], [
                 [self.accomplishments[a]["name"], self.accomplishments[a]["description"],
-                 self.skill(self.accomplishments[a]["reward"]["passive"]) if self.accomplishments[a].get("reward", {}).get("passive") else "-"]
+                 ", ".join(self.rewards(self.accomplishments[a].get("reward"))) or "-"]
                 for a in acc]))
         disc = [d for d, x in self.discoveries["discoveries"].items() if x.get("region") == t]
         r = self.regions.get(t, {})
