@@ -31,7 +31,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 - Age 8. Only child of Brask and Halvara. Never been to the surface.
 - Rhenna is one year older (9).
-- Told Doran the sun was impossible in front of Annick and three Wardens. If the sun is real he'll give it his best stone (shown to no one).
+- Told Doran the sun was impossible in front of Annick and three Wardens. Holds out even though the Swordmasters who come down to swear their oath agree with Doran. If the sun is real he'll give it his best stone (shown to no one).
 
 ## Thera (warden_thera)
 
@@ -49,7 +49,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Knows about Corvan's hidden honey jar (found it three times); not supposed to. Not engaged or married.
 - Takes Deep Watch turns; sings under her breath on the lowest passages.
 - Started the sun song after Doran's return last autumn; suspects she must see the sun herself.
-- No Oath song about the sun exists: for centuries no one in Cavelor saw it, and none of the few who have climbed the Stair since the expedition (messengers, Doran, Marrun) was a singer.
+- No Oath song about the sun exists: for centuries no one in Cavelor saw it, and none of those who have climbed the Stair since the expedition (messengers, Doran, Marrun) was a singer.
 
 ## Gorran (gorran_anvil)
 

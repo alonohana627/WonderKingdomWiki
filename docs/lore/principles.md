@@ -5,9 +5,9 @@ These principles guide all future lore. New pages and stories should stay true t
 1. **Wonder Kingdom is genuinely united.** Its communities are not secretly hostile toward one another.
 2. **The four original peoples were once divided.** Their conflict ended through cooperation against the Balrog and the founding treaty that followed.
 3. **Cultural differences still matter.** Unity did not erase the traditions or identities of Veligor's communities.
-4. **Urbanograd was founded 100 years ago.** Its people are rebels in a cultural sense, not political insurgents.
+4. **Urbanograd was founded 100 years ago, in the west of Veligor.** Its people are rebels in a cultural sense, not political insurgents.
 5. **Bain Harbour and Goa Harbour are independent towns.** Their resemblance to other towns is cultural and atmospheric, not a sign that anyone governs them.
-6. **Bain Harbour and Goa Harbour lie on opposite sides of Veligor.** They have different identities without being rivals.
+6. **Bain Harbour lies on the east coast of Veligor and Goa Harbour on the west.** They have different identities without being rivals.
 7. **Selsior is the City of Everything.** It is a joyful, bustling, cosmopolitan metropolis with classic medieval fantasy architecture.
 8. **Kaldemor is the Town of Joyful Craftsmanship.** It is a cheerful, prosperous, pastoral community inspired by Henesys.
 9. **Midbarium is a rugged, rural highland town of four families.** Each family chooses its chieftain, and together they choose the Old One who leads them all. It stands for strength, resilience, independence and ancestral tradition, and its dry, desert-like highlands draw on highland, canyon and steppe cultures, not Middle Eastern ones.

@@ -16,7 +16,7 @@ npcs:
     place: Great Hall
     age: adult
     personality: Precise, ink-stained and secretly delighted by every argument. She writes down the jokes as carefully as the decisions.
-    story: Dimity has kept the Table's record for twelve years, and her shelves hold every heckle and every vote. She is quietly worried that the oldest record books, from the first winters, are crumbling and nobody has copied them.
+    story: Dimity has kept the Table's record for twelve years, and her shelves hold every heckle and every vote. She is quietly worried that the oldest record books, from the city's earliest years, are crumbling and nobody has copied them.
   - id: quint_holloway
     name: Quint
     title: Keeper of the Charter Scroll

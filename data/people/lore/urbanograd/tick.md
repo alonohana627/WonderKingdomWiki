@@ -12,7 +12,7 @@ Tick began running messages when he was seven, because there was always someone 
 
 ### The notebook
 
-Tick keeps a notebook of every strange story a traveler tells him. It is on its third volume. In it are a talking crow on the road from Kaldemor, a ford where the water ran backwards for an evening, a stag with antlers like a burnt tree, and lights seen moving in a wood where nobody lives. Tick does not judge the stories; he writes them all down, with the teller's name and the date. Some are obviously nonsense. Some are not, and the not-nonsense ones have been arriving more often.
+Tick keeps a notebook of every strange story a traveler tells him. It is on its third volume. In it are a talking crow on the road from Kaldemor, a ford where the water ran backwards for an evening, a stag with antlers like a burnt tree, and lights seen moving in a wood where nobody lives. Tick does not judge the stories; he writes them all down, with the teller's name and the date. Some are obviously nonsense. Some, Tick is sure, are not, and those have been arriving more often.
 
 Zip Calloway's broken arm is in the notebook three times, in three different versions, all told by Zip.
 

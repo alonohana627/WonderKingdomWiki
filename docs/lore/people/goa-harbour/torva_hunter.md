@@ -41,7 +41,7 @@ Moira, of the Cliff Watch, admires Torva openly and would rather be out on the w
 
 ### What she wants to know
 
-Every year there are more monsters on the wild coast, and every year they come closer to the town. Torva wants to know why. She has heard the old stories about the Balrog, and the talk that drifts up the coast about the deep places of the island, but she trusts what she can track, not what she is told. What she has tracked is this: the creatures are not just more numerous, they are coming from deeper in the forest, as if something there were pushing them out.
+Every year there are more monsters on the wild coast, and every year they come closer to the town. Torva wants to know why. She has heard the old stories about the Balrog, and the talk that drifts in from across the island about its deep places, but she trusts what she can track, not what she is told. What she has tracked is this: the creatures are not just more numerous, they are coming from deeper in the forest, as if something there were pushing them out.
 
 ### Hooks
 

@@ -1,4 +1,4 @@
-Hale stands at the park gate most days with his arms folded, looking out at the meadow. He is forty-seven, lean and weathered, quiet, watchful and slow to worry, and he says more with a nod than most people say in a speech. Newcomers sometimes take him for unfriendly. They are wrong; he is listening. From the gate, he says, you can hear the whole meadow rustle, and if you listen long enough you can tell what is rustling it.
+Hale stands at the park gate most days with his arms folded, looking out at the meadow. He is forty-seven, lean and weathered, quiet, watchful and slow to worry, and he says more with a nod than most people say in a speech. Visitors sometimes take him for unfriendly. They are wrong; he is listening. From the gate, he says, you can hear the whole meadow rustle, and if you listen long enough you can tell what is rustling it.
 
 ### The road years
 
@@ -8,7 +8,7 @@ When Hale was twenty-nine, Mayor Tobin asked him to come home and look after the
 
 ### The meadow
 
-Hale's work is the meadow beyond the gate and everything in it: green snails near the town, blue and red ones farther out, and lately a great many more of all three. He pays a bounty, out of the town's purse and sometimes his own, to anyone who thins them out, thirty at a time, and he pays it again whenever they come back with thirty more. He collected shells for the mayor's fence from the same young hunters. He teaches newcomers the basics at the gate, how to swing and when to drink a potion, and sends them out with the same three words every time: mind the meadow.
+Hale's work is the meadow beyond the gate and everything in it: green snails near the town, blue and red ones farther out, and lately a great many more of all three. He pays a bounty, out of the town's purse and sometimes his own, to anyone who thins them out, thirty at a time, and he pays it again whenever they come back with thirty more. He collected shells for the mayor's fence from the same young hunters. He teaches young hunters the basics at the gate, how to swing and when to drink a potion, and sends them out with the same three words every time: mind the meadow.
 
 His scout is Meg, the cocky young snail hunter, who ranges further than anyone and boasts about it more. Hale has never told her how good she is, because she would never stop saying it, but he trusts her eyes more than anyone's but Quill's. He has noticed she has been out past the hills farther than she admits, and he is waiting for her to tell him herself.
 
@@ -24,4 +24,4 @@ Hale wants the meadow quiet and the farms safe, and every hunter he sends out to
 
 ### Hooks
 
-A quest might follow Hale out past the hollow, to find where Mano came from and what drove it out. Another might begin when Meg comes back from beyond the hills with something she cannot explain, and Hale, for the first time, asks a stranger to go and look before he tells anyone.
+A quest might follow Hale out past the hollow, to find where Mano came from and what drove it out. Another might begin when Meg comes back from beyond the hills with something she cannot explain, and Hale, for the first time, asks a traveller to go and look before he tells anyone.

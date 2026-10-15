@@ -1210,8 +1210,15 @@ class Wiki:
             lines.append(f"      - {folder.name.replace('-', ' ').title()}:")
             # Pages directly in the folder, and the index of each subfolder (a town's people);
             # the rest are reached through those indexes, not the navigation.
-            lines += [f"          - {p}" for p in lore_order() if p.startswith(f"lore/{folder.name}/")
-                      and (p.count("/") == 2 or (p.count("/") == 3 and p.endswith("/index.md")))]
+            pages = [p for p in lore_order() if p.startswith(f"lore/{folder.name}/")
+                     and (p.count("/") == 2 or (p.count("/") == 3 and p.endswith("/index.md")))]
+            # Towns and their people follow the order of the Towns table on the Veligor page.
+            veligor = (DOCS / "lore" / "veligor.md").read_text(encoding="utf-8").split("## Towns", 1)[-1]
+            town_order = re.findall(r"\(towns/([a-z-]+)\.md\)", veligor)
+            rank = {t: i for i, t in enumerate(town_order)}
+            pages.sort(key=lambda p: (p.split("/")[2] != "index.md",
+                                      rank.get(p.split("/")[2].removesuffix(".md"), len(rank))))
+            lines += [f"          - {p}" for p in pages]
         for section in order:
             pages = self.nav[section]
             if isinstance(pages, str):

@@ -35,7 +35,7 @@ He treats every watchman exactly the same, and that includes Jowan, the Harbour 
 
 This spring Halloran began posting a watch on the outer pier at night, and he will only say it is a precaution. The truth is something he has told only the Harbour Master. Early one morning this spring he walked to the end of the outer pier at low tide and found the Watch's own launch hanging from a mooring line pulled taut straight down into the water, and long fresh grooves scored into the pilings below the waterline, deeper than any boat could have made. By the time he had fetched help, the line had gone slack and the water was still.
 
-Since then he has kept men on the pier every night and stood most of those watches himself. He has asked Garrow to stop unloading at the end of the pier after dark. Jowan has asked three times for the outer pier watch, and Halloran has said no three times, not because the boy is not good enough, but because Quenna is the one person who knows what is under that water, and he will not stand her son over it. Delphine knows it is more than a precaution. He has not told her, and she has not asked, which is how he knows she knows.
+Since then he has kept men on the pier every night and stood most of those watches himself. He has asked Garrow to stop unloading at the end of the pier after dark. Jowan has asked three times for the outer pier watch, and Halloran has said no three times, not because the boy is not good enough, but because Quenna is the one person he has told about what he found under that water, and he will not stand her son over it. Delphine knows it is more than a precaution. He has not told her, and she has not asked, which is how he knows she knows.
 
 ### What he wants and fears
 

@@ -23,7 +23,7 @@ Ida is thirty-eight, the night watchwoman of the old quarters, and she knows the
 
 She grew up in the old quarters, in a cramped house at the bottom of a lane so steep it has steps instead of cobbles. Her father, long dead now, worked the old drains under the lanes, clearing them and mending the brickwork, and as a girl Ida carried his lamp. She learned the city from below before she learned it from above: which lanes have water running under them, where the old channels join, which gratings carry a voice and which swallow it. Her mother kept a mending stall. Both are gone, and Ida has no brothers or sisters.
 
-She joined the Royal Guard at twenty, eighteen years ago, and asked for the night watch almost at once. Nobody else wanted it. Ida took it gladly, because the old quarters at night are quieter, stranger and more honest than they are by day, and because she could hear them properly at last. She has walked the night watch for sixteen years.
+She joined the Royal Guard at twenty, eighteen years ago, and asked for the night watch within two years. Nobody else wanted it. Ida took it gladly, because the old quarters at night are quieter, stranger and more honest than they are by day, and because she could hear them properly at last. She has walked the night watch for sixteen years.
 
 ### Days and nights
 

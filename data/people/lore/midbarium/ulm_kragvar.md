@@ -18,7 +18,7 @@ Old One Hask trusts Ulm more than anyone. Many nights, long after a council has 
 
 ### The ones who stayed
 
-Ulm knows every Kragvar song about the fighters who stood in the front line of the Balrog War and never came home, but stayed beneath the World Tree to keep watch. When he was young, those songs were simply history. Lately he finds himself wondering aloud, to the fire mostly, whether anyone down there still remembers the Kragvar: whether the songs are true, whether those fighters' children's children still keep watch, and whether they know the names that Midbarium still sings for them. He does not know. Nobody in Midbarium does.
+Ulm knows every Kragvar song about the fighters who stood in the front line of the Balrog War and never came home, but stayed beneath the World Tree to keep watch. When he was young, those songs were simply history. Lately he finds himself wondering aloud, to the fire mostly, about the city of guardians that he knows lies beneath the Tree: whether any of its people are Kragvar, whether those fighters' children's children still keep watch among them, and whether they remember the names that Midbarium still sings for them. He does not know. Nobody in Midbarium does.
 
 He fears that the families are forgetting how to ask for help, and that the fire will outlast the people who gather around it.
 

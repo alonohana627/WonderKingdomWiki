@@ -16,7 +16,7 @@ They learned magic by listening: to the trees, to the wind, to the creatures tha
 
 Through the Age of Division, the Magicians guarded the forest and, above all, the World Tree. Any attempt to cut, claim or exploit a place of power was met by Magician resistance, and that was the root of their long alliance with the Savages, who had no love for outside rulers either.
 
-In the Balrog War, it was the Magicians of Fairy Forest who understood what the Balrog was enough to know it could not be destroyed, and who designed the great seal that holds it beneath the World Tree. The knowledge of how that seal was made has been one of the forest's most closely guarded secrets ever since. Since the expedition damaged it, the forest's scholars have been studying old records day and night, trying to understand how it might be strengthened.
+In the Balrog War, it was the Magicians of Fairy Forest who decided it could not be destroyed, and who designed the great seal that holds it beneath the World Tree. The knowledge of how that seal was made has been one of the forest's most closely guarded secrets ever since. Since the expedition damaged it, the forest's scholars have been studying old records day and night, trying to understand how it might be strengthened.
 
 ### The Children Arrive
 

@@ -26,4 +26,4 @@ Hob wants plenty of grain, a steady westerly, and his father to stay well enough
 
 ### Hooks
 
-A quest might begin when a millstone cracks before the harvest, and the only stone fit to replace it lies in an old quarry past the hills where the snails are thick. Or a traveller might help Hob find out why his sails shudder on still mornings, and what is moving beneath the ground when they do.
+A quest might begin when a millstone cracks before the harvest, and the only stone fit to replace it lies in an old quarry past the hills where the snails are thick. Or a traveller might help Hob find out why his sails shudder on still mornings, and whether something is moving beneath the ground when they do.

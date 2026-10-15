@@ -33,7 +33,7 @@ Crispin has been her house playwright for fifteen years, and his comedies have p
 
 ### The bet
 
-Lavinia wants one last triumph before she hands the Gilded Stage on. She has bet everything on it: the theatre's savings, a loan against the building, and her own name. The play is Crispin's Balrog War, the whole of it, from the First Burning to the weaving of the seal, the largest thing the Row has ever attempted. Crispin has written four acts and cannot find a fifth. Rosamund wants to play the Magician and will not share the stage with Percival. Percival wants the Savage warrior who held the Balrog at the Tree. Lavinia reminds Crispin roughly once a day that she has bet everything on him, in case he forgets. He has not forgotten.
+Lavinia wants one last triumph before she hands the Gilded Stage on. She has bet everything on it: the theatre's savings, a loan against the building, and her own name. The play is Crispin's Balrog War, the whole of it, from the First Burning to the weaving of the seal, the largest thing the Row has ever attempted. Crispin has written four acts and cannot find a fifth. Rosamund wants to play the play's Magician and will not share the stage with Percival. Percival wants the play's Savage warrior, who stands for the whole front line that held the Balrog at the Tree. Lavinia reminds Crispin roughly once a day that she has bet everything on him, in case he forgets. He has not forgotten.
 
 She has not said to whom she will hand the theatre. People on the Row speculate about it constantly, which she enjoys.
 

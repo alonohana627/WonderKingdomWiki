@@ -45,7 +45,7 @@ He has not told his family because he does not know what to tell them, and Osmun
 
 Osmund wants to pole the ferry until the day he cannot lift the pole, and then to hand it on to someone who will listen to the river. What he fears is the deep channel, and the day Robin decides he is old enough to find out what is in it.
 
-A quest might begin with Osmund, for the first time anyone can remember, asking a stranger to cross with him after dark, or with the ferry found one morning drifting in the middle of the river with its pole gone.
+A quest might begin with Osmund, for the first time anyone can remember, asking someone he trusts to cross with him after dark, or with the ferry found one morning drifting in the middle of the river with its pole gone.
 
 ## Relationships
 

@@ -21,7 +21,7 @@ Friendly to every customer and stubborn with everyone else, he can talk about ca
 
 Bram keeps the potion stall at the far end of Kaldemor Market, under a striped awning gone pale with steam, behind a row of bottles that glow red, orange, white and blue when the sun catches them. He is fifty-one, friendly to every customer and stubborn with everyone else, and he can talk about cauldrons for an hour without drawing breath. He admits he is wrong about once a year, usually in winter, and never about cauldrons.
 
-Nearly every newcomer to Kaldemor meets him in their first week. Mayor Tobin sends them down to the Market to learn where to shop, and Bram greets each one as if Tobin had sent them personally, which he has. "Tell the mayor Bram says hello," he says, and sends them out to the fields with a few red potions and a warning not to drink anything blue on an empty stomach.
+Nearly every young adventurer in Kaldemor meets him in their first week out. Mayor Tobin sends them down to the Market before their first trip to the fields, and Bram greets each one as if Tobin had sent them personally, which he has. "Tell the mayor Bram says hello," he says, and sends them out to the fields with a few red potions and a warning not to drink anything blue on an empty stomach.
 
 ### Brewing
 

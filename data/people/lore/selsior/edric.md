@@ -4,7 +4,7 @@ Edric is forty-six, Lieutenant of the Road Patrol, and he has the face of a man 
 
 Edric and his younger brother Tristan grew up on the roads before either of them could ride them. Their father was a carter who hauled goods between the capital and the other towns, and the boys spent their childhood on the bench beside him, learning every milestone, ford and good place to water a horse. Their mother kept the house in Riverside, and both parents are dead now. Tristan took to the river, and scouts its banks for the barges. Edric took to the road. They still meet whenever they can to compare notes, and the notes, lately, are always about the same thing: what the wilds are doing, and how fast.
 
-Edric joined the Guard at twenty, twenty-six years ago, and rode his first patrol three years later. He was already a seasoned rider when a young recruit called Rhys came to the Knights' Court with a borrowed sword, and he likes to remind the Captain of it when nobody else is listening. Rhys made him lieutenant seven years ago, in his first year as Captain, and Edric has never wanted any post but this one.
+Edric joined the Guard at twenty, twenty-six years ago, and rode his first patrol three years later. He was already riding patrols when a young recruit called Rhys came to the Knights' Court with a borrowed sword, and he likes to remind the Captain of it when nobody else is listening. Rhys made him lieutenant eight years ago, in his first year as Captain, and Edric has never wanted any post but this one.
 
 ### The patrol
 

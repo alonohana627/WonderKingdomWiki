@@ -22,4 +22,4 @@ Tick, Knox's son, follows Hatch about with a notebook and asks for stories at ev
 
 Hatch is too old to go out alone now, and he knows it; his knees told him first. He wants someone worth teaching before the knowledge in his head is lost: someone patient, who listens to the land and does not hunt for glory. He fears dying in a chair with nobody knowing what he knows.
 
-A quest might earn Hatch's respect by tracking a beast he can no longer follow, retrieve his notes from a camp he had to abandon, or prove a newcomer worth teaching.
+A quest might earn Hatch's respect by tracking a beast he can no longer follow, retrieve his notes from a camp he had to abandon, or prove a young hunter worth teaching.

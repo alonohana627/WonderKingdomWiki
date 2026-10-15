@@ -4,7 +4,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 ## Korrin (korrin_kragvar)
 
-- Age 9. Brakka is 10 years older (19).
+- Age 9. Brakka is 10 years older (19). Korrin is Dorrek and Gorra's only son and youngest child.
 - Korrin and Kesh met as small children hiding under the same cistern lid; Gorra and Yarrek share terrace cisterns.
 - Secret lookout on a ledge above the terraces with a low stone wall the boys built together; Brakka has secretly inspected it (she knows of it).
 - Korrin may sit on the woodpile by the council fire while Ulm tends it; Ulm tells him the songs of the Kragvar who stayed beneath the Tree.
@@ -101,6 +101,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Kept the fire alone the night Baruk died (11 years ago) while Dorrek dug.
 - Wife: Hessa, a Kragvar stone-carver, died 16 years ago. Dead.
 - Hask sits with him late after councils. Brakka brings him wood (when she remembers).
+- Knows there is a city of guardians beneath the Tree; does not know whether any of its people are Kragvar or remember the names Midbarium sings.
 
 ## Vosk (vosk_kragvar)
 

@@ -20,4 +20,4 @@ Hask's private worry is the canyon patrols. Every season they are stretched thin
 
 He also carries the weight of being young for the post. An Old One can be any age, but Hask feels that he will be in the great hall for a long time, and that the hardest years of the Age of Disturbance may well fall within his.
 
-A quest could begin with Hask quietly asking an outsider to walk the patrols and tell him the truth about them, or with a rope bridge gnawed through on the night before a gathering.
+A quest could begin with Hask quietly asking someone from outside the four families to walk the patrols and tell him the truth about them, or with a rope bridge gnawed through on the night before a gathering.

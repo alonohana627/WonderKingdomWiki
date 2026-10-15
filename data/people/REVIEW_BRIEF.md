@@ -35,7 +35,7 @@ it.
   different invented people with the same name.
 - Lore that settles an open question (the Balrog's nature, how to fix the
   seal, the Children of the Tree's nature or appearance, how the monarch is
-  chosen, which coast a harbour is on) or names a person from another town
+  chosen) or names a person from another town
   outside kingdom.yml's links.
 - Disagreement with the game files or the lore pages.
 

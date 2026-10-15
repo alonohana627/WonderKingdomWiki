@@ -120,6 +120,7 @@ All counts are "years before the present day". The present is 50 years after the
 
 - Sworn 15 years ago, in the first year of Aveline's reign: she came down the Upper Stair, the first reigning monarch to do so, walked a full shift of the Deep Watch beside Marrun, and they swore in the Oath Hall.
 - Terms: the crown answers every message from below; Cavelor sends word of every change in the seal.
+- The Swordmaster's oath (canon, decided by Alon 2026-10-15): since the alliance, every Royal Guard warrior who passes the Swordmaster's trial (the game's 3rd job, level 70) walks down the Upper Stair and swears the oath in the Oath Hall before the Keeper of the Oath: to stand with the guardians if the seal fails and carry Cavelor's warnings to the surface. At the alliance, every serving Swordmaster and Grand Swordmaster (Aubrey among them; Rhys, then a Swordsman, was in the queen's escort and swore it later on passing the Swordmaster's trial) went down to swear it. Rowena swore it 10 years ago. Marrun hears every oath and keeps a page of the names.
 - Letters by messenger each month since. Aveline has been down twice more (three visits in all).
 - Aveline trusts Marrun most outside her family and fears she cannot make the kingdom believe him. Marrun: she is the first on the surface who listened to him to the end; he worries she carries too much.
 
@@ -144,6 +145,10 @@ All counts are "years before the present day". The present is 50 years after the
 - At the feast they now compare sea-creature sightings. Quenna thinks Iska the finest pilot alive (never says so); Iska thinks Quenna the loudest, bravest and luckiest sailor on Veligor and her best friend outside her harbour.
 
 ## Set by the coordinator (applies everywhere)
+
+- Geography (canon, decided by Alon 2026-10-15, from the game's world map): Selsior in the middle; the World Tree north of it; Midbarium northwest; Fairy Forest northeast; Urbanograd in the west; Goa Harbour on the west coast; Kaldemor in the southeast, inland; Bain Harbour on the east coast.
+- Elite and Epic monsters are called "Disturbance-touched" in the world; the worst are "deeply touched".
+- The first standing rank is "Neighbour" (was "Stranger"): the player is a native.
 
 - Today is early summer, 50 years after the expedition. The Bain-Goa race is later this summer. Midbarium's dry spring "went dry this summer" means in the past few weeks.
 - Tavi (Uskari chieftain) and Rook (Caller of the Open Table) have no stated gender: never use he/she for them; use their names or they/them.

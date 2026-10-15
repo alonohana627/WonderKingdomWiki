@@ -33,8 +33,8 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 ## Edric (edric)
 
-- Age 46. Joined the Guard at 20 (26 years ago); first patrol at 23. Already a seasoned rider when Rhys arrived as a recruit (22 years ago).
-- Lieutenant of the Road Patrol 7 years, appointed by Rhys in Rhys's first year as Captain.
+- Age 46. Joined the Guard at 20 (26 years ago); first patrol at 23. Already riding patrols when Rhys arrived as a recruit (22 years ago).
+- Lieutenant of the Road Patrol 8 years, appointed by Rhys in Rhys's first year as Captain.
 - Tristan is his younger brother. Father (unnamed, dead) was a carter between the capital and the other towns; mother (unnamed, dead) kept the house in Riverside. No other family.
 - Writes a report after every patrol; it goes to Leofric's map and to Gervase's monster map.
 - Patrols leave the Knights' Court before dawn, aim to be back before the gates close.
@@ -237,7 +237,7 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 
 ## Bartholomew (bartholomew)
 
-- Age 77. Shepherd's son from the downs north of the capital; came to the Academy at 14, studied 10 years, began teaching at 24.
+- Age 77. Shepherd's son from the downs beyond the capital; came to the Academy at 14, studied 10 years, began teaching at 24.
 - Master of the Academy 21 years, chosen by the other masters. Still teaches one class a season.
 - Known Morwen since she began teaching, 28 years ago. Thomasin is his protegee.
 

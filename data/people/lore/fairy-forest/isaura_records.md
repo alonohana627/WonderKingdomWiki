@@ -14,7 +14,7 @@ Calyra, the Eldest, is her confidante. They have known each other most of their 
 
 Caelum has been her student for twenty years. He is the most brilliant scholar she has trained and the one most likely to wear himself to nothing, and she is harder on him than on anyone because she fears for him most. She has never told him that his drawer of wrong theories is the most honest work in the Heart Tree.
 
-Wynne came to live with her five years ago, at fourteen, from Selsior, where Wynne's mother, Isaura's daughter Mirren, lives with her husband and keeps a bookbinder's shop. Isaura's husband Corvin died fifteen years ago, and the house had been very quiet until Wynne came. Wynne now copies crumbling records onto fresh paper so the originals can rest. Isaura does not know that Wynne has found a gap in the numbering of one old seal record, as though pages were taken out long ago. If she knew, it would answer her suspicion in a way she has not considered.
+Wynne came to live with her five years ago, at fourteen, from Selsior, where Wynne's mother, Isaura's daughter Mirren, lives with her husband and keeps a bookbinder's shop. Isaura's husband Corvin died fifteen years ago, and the house had been very quiet until Wynne came. Wynne now copies crumbling records onto fresh paper so the originals can rest. Isaura does not know that Wynne has found a gap in the numbering of one old seal record, as though pages were taken out long ago. If she knew, it might bear on her suspicion in a way she has not considered.
 
 ### What she fears
 

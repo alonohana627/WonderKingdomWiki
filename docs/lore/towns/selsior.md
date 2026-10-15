@@ -30,6 +30,8 @@ The **Royal Vault** beneath the palace keeps the kingdom's treasures and records
 
 The **Royal Guard** keeps the peace in the capital and on the royal roads. Its home is the Knights' Court, where recruits drill from dawn and its captains train warriors in the way of the sword. The Guard is open to anyone from any town who can pass its trials, and since the Age of Disturbance began, it has had no shortage of work. Its ranks run from the Swordsman to the Swordmaster and the Grand Swordmaster, and old books name one more, the Sword Saint, earned by very few.
 
+A warrior who passes the Swordmaster's trial is not a Swordmaster until they have sworn the **Swordmaster's oath**. They walk down the Upper Stair to [Cavelor](cavelor.md) and swear it in the Oath Hall before the Keeper of the Oath, binding the Guard's blades to the founders' duty of keeping the Balrog imprisoned. The custom began with Queen Aveline's alliance with Cavelor fifteen years ago, when every serving Swordmaster and Grand Swordmaster went down to swear it, and every new Swordmaster has sworn it since.
+
 ### The Crown Market
 
 The Crown Market is the busiest place on Veligor. Here, Kaldemor's bread sits beside Midbarium's wool, Bain Harbour's fish beside Fairy Forest's herbs, and Urbanograd's strange inventions beside the finest blades in the kingdom. Its shopkeepers, apothecaries, weaponsmiths and armourers serve adventurers from every town.
@@ -76,4 +78,4 @@ In the first year of her reign, Aveline became the first reigning monarch to wal
     Selsior is in the game today. See [Selsior in the world guide](../../world/index.md#selsior) for its maps, NPCs and shops.
 
 !!! abstract "Design notes"
-    Classic medieval fantasy architecture. Joyful, bustling and cosmopolitan. New with this page: the Treaty Field and the treaty signed where the plaza now stands, the Great Bell cast from all four peoples' metal, and the crown's role as keeper of the treaty. Still open: who the current monarch is, and how monarchs are chosen.
+    Classic medieval fantasy architecture. Joyful, bustling and cosmopolitan. New with this page: the Treaty Field and the treaty signed where the plaza now stands, the Great Bell cast from all four peoples' metal, and the crown's role as keeper of the treaty. Still open: how monarchs are chosen.

@@ -21,7 +21,7 @@
 - Advance to [Sword Saint](../jobs/sword_saint.md)
 
 !!! note "Placeholder"
-    A stand-in until the fields past level 120 exist: it asks for the strongest monsters there are today, the Greenwood Clearing's. Its hunt moves to the far fields when they are built (IMPL Phase 14).
+    A stand-in until the fields past level 120 exist: it asks for the strongest monsters there are today, the Greenwood Clearing's. Its hunt moves to the far fields when they are built.
 
 ??? quote "Dialogue"
 

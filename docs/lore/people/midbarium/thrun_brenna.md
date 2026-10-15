@@ -38,7 +38,7 @@ Six years ago, Thrun drummed through the whole night of the choosing that named 
 
 ### The split hide
 
-This spring, at the first feast of the year, the drum's old hide split across its face with a sound like a branch breaking. Thrun has patched it, but a patched drum only mutters. A new hide must come from one of the great horned beasts of the plateau, the kind the Uskari hunted in the old days, and the hide on the drum now was taken in Thrun's grandfather's time. Few such beasts have been seen in years, and those that have been seen are wild and vicious in a way the old songs never describe. Few hunters would dare to track one now.
+This spring, at the first feast of the year, the drum's old hide split across its face with a sound like a branch breaking. Thrun has patched it, but a patched drum only mutters. A new hide must come from one of the great horned beasts of the plateau, the kind the Uskari hunted in the old days, and the hide on the drum now was taken in Thrun's grandfather's time. Few such beasts have been seen in years, and those that have been seen are wild and vicious in a way the songs Thrun knows never describe. Few hunters would dare to track one now.
 
 Thrun fears the next choosing will be called by a muttering drum. He would never say it, but he also fears that the next choosing may come sooner than anyone thinks, the way the canyons are now.
 

@@ -24,6 +24,10 @@ For generations, Cavelor had almost no contact with the rest of the kingdom. The
 
 It was a joyful meeting, and a terrible one. Within days of that first contact, the expedition's explorers, pushing deeper than the guardians advised, opened the rift that damaged the seal. Cavelor's ledgers recorded the change at once. For fifty years since, the guardians have watched the seal grow weaker, and they have tried, with growing urgency, to make the surface understand what that means.
 
+## The Swordmaster's Oath
+
+Since Queen Aveline's alliance with Cavelor fifteen years ago, the Royal Guard's Swordmasters come down the Upper Stair to swear their oath in the Oath Hall, before the Keeper of the Oath. They swear to stand with the guardians if the seal ever fails, and to carry Cavelor's warnings to the surface. For a city that was forgotten for generations, it is a promise that someone above is listening, and Cavelor takes it as seriously as its own Oath Below.
+
 ## Cultural Identity
 
 Cavelor's people live by responsibility, vigilance, discipline and endurance. They keep the traditions of the first guardians and guard the records of the Balrog, the ancient battle and the magic that holds the prison shut. Every adult in Cavelor serves a turn as a Warden.

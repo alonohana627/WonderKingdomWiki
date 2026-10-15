@@ -39,7 +39,7 @@ He is afraid, though he would never use the word, that one day the roster will n
 
 ### Hooks
 
-A quest might help Brask learn what the Wardens hear on the lowest passages at night, or fill a gap in the roster when too many Wardens are hurt or exhausted at once. A brave outsider who can stand a shift without complaint would earn his respect quickly, though he would never say so.
+A quest might help Brask learn what the Wardens hear on the lowest passages at night, or fill a gap in the roster when too many Wardens are hurt or exhausted at once. A brave surface-dweller who can stand a shift without complaint would earn his respect quickly, though he would never say so.
 
 ## Relationships
 

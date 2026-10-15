@@ -6,6 +6,8 @@ She grew up in the city's inner streets, the only child of a locksmith, and she 
 
 She joined the Guard at seventeen, seventeen years ago, and served her first years on the walls and at the palace gates before she was moved to the Court. She was not the strongest recruit in her intake, nor the fastest. She was the most exact. She earned the Swordsman's rank in good time and the Swordmaster's at twenty-four, ten years ago, which was young for it, and Captain Rhys gave her the advanced classes not long after he took command. He trusts her judgment as he trusts his own, and says so, and she has never given him cause to regret it. She has never married. She says she has a yard full of people who need her attention more than any husband would.
 
+Like every Swordmaster since the alliance with Cavelor, she walked down the Upper Stair after her trial and swore the Swordmaster's oath in the Oath Hall before Keeper Marrun. She says it was the quietest place she has ever stood, and that she has never broken a promise made there.
+
 ### The advanced classes
 
 Her pupils are the Guard's best: Swordsmen working toward the Swordmaster's trial, and the few Swordmasters reaching for more. She drives them hard and quietly. Drill Sergeant Bertrand bellows the recruits into shape in the main yard; Rowena takes what he has made and refines it, in a corner of the Court where her voice never needs to carry. She teaches that a sword is not swung but placed. Rhys says a sword is only as good as the arm behind it, and Rowena adds, when he is out of earshot, that the arm is only as good as the eye.

@@ -29,7 +29,7 @@ For most of his life Ozzie taught reading to the city's children in his front ro
 
 Ozzie's corner of the hall is a landslide of boxes. He has copied hundreds of letters, written down songs from the city's oldest grandmothers before they could be forgotten, and borrowed diaries from attics all over the city, always returning them, usually late. Nana Gristle has told him her mother's story so often that he could recite it, and he still writes it down every time in case she adds something.
 
-But there is a hole in the middle of the book. Every account of the first winter is missing. The Walkers wrote about the road, and they wrote about the spring that followed, but of the first winter itself there is almost nothing, not a letter or a page. Ozzie has a dozen theories. Perhaps they were too cold and hungry to write. Perhaps the pages were burned for warmth. Perhaps somebody hid them. He does not know, and it nags at him every day. He would pay well for anyone who finds one in an old attic.
+But there is a hole in the middle of the book. Every account of the first winter is missing. The Walkers wrote about the road, and they wrote about the spring that followed, but of the first winter itself there is nothing, not a letter or a page. Ozzie has a dozen theories. Perhaps they were too cold and hungry to write. Perhaps the pages were burned for warmth. Perhaps somebody hid them. He does not know, and it nags at him every day. He would pay well for anyone who finds one in an old attic.
 
 ### Friends and foes
 

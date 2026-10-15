@@ -33,7 +33,7 @@ Cobble makes the soft-soled boots the rooftop runners swear by, and Edgar has ne
 
 ### Rivet
 
-Rivet, who built the lift, is the first friend Edgar made in the city, and the most unexpected. Rivet is cocky where he is careful, loud where he is polite, and builds things without asking anyone's leave. Edgar admires all of it. He follows Rivet about asking how things work, and Rivet pretends to be annoyed and answers every question. Lately Rivet has started letting him hold the tools, and once, on a windy evening at the top of the lift, told him he would make a decent builder if he stopped apologizing to the ropes.
+Rivet, who built the lift, is the first friend Edgar made in the city, and the most unexpected. Rivet is cocky where Edgar is careful, loud where Edgar is polite, and builds things without asking anyone's leave. Edgar admires all of it. He follows Rivet about asking how things work, and Rivet pretends to be annoyed and answers every question. Lately Rivet has started letting him hold the tools, and once, on a windy evening at the top of the lift, told him he would make a decent builder if he stopped apologizing to the ropes.
 
 ### What he has not written home
 

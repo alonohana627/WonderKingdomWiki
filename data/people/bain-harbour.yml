@@ -17,7 +17,7 @@ npcs:
     age: adult
     sells: Sea charts, tide tables and coastal maps
     personality: Quiet, patient and fond of tiny handwriting. He apologises to his ink when he spills it.
-    story: Ambrose draws the charts every captain in the harbour sails by. Since the Disturbance the captains keep bringing him marks for places where something was seen in the water, and he has started a separate chart for them that he keeps locked in a drawer.
+    story: Ambrose draws the charts every captain in the harbour sails by. Since the deep water turned strange, the captains keep bringing him marks for places where something was seen in the water, and he has started a separate chart for them that he keeps locked in a drawer.
 
   - id: jowan
     name: Jowan

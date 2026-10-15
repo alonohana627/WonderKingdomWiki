@@ -14,6 +14,10 @@ The monsters roaming Veligor are tied to the weakening seal. The spread of the B
 
 That does not mean the Balrog commands every one of them. Some are ordinary animals whose nature it has twisted. Others are magical beings changed by a changing land.
 
+## The Disturbance-touched
+
+Some creatures carry the Disturbance far more strongly than others. They are bigger and fiercer than the rest of their kind, harder to kill, and often strange: some shrug off blows behind a shimmering shield, some heal as fast as they are wounded, some burn or freeze or sting with a power no ordinary beast has. The longer a hunter stays in one place, the more of them seem to appear. People across the kingdom call them **Disturbance-touched**, and the very worst of them, rarer still, are said to be deeply touched.
+
 ## Life Under the Disturbance
 
 The growing danger in the wilds has made travel, exploration, farming and any work outside the towns harder. Yet Wonder Kingdom carries on. Its towns are still prosperous and welcoming, and its people work together against the threat.
@@ -21,4 +25,4 @@ The growing danger in the wilds has made travel, exploration, farming and any wo
 The kingdom has not fallen into fear, hostility or division. The monsters are simply a new challenge, met by a civilization that was already united.
 
 !!! abstract "Design notes"
-    "The Age of Disturbance" is a provisional name. Exactly how the Balrog's influence creates or changes monsters is not settled, including whether entirely new creatures can appear.
+    "The Age of Disturbance" is a provisional name. Exactly how the Balrog's influence creates or changes monsters is not settled, including whether entirely new creatures can appear. In the game, the Disturbance-touched are the Elite and Epic monsters.

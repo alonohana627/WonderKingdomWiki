@@ -18,4 +18,4 @@ They learned that the descendants of ancient guardians had lived in the hidden c
 
 Exploring the passages deeper still, the explorers accidentally opened a rift, and the rift damaged the magic that held the Balrog.
 
-The seal did not break. It began, very slowly, to weaken. At first nobody realized what had happened. But over the following decades, the failing seal began to reach the world above, and the [Age of Disturbance](age-of-disturbance.md) began.
+The seal did not break. It began, very slowly, to weaken. At first, almost nobody on the surface realized what had happened. But over the following decades, the failing seal began to reach the world above, and the [Age of Disturbance](age-of-disturbance.md) began.
