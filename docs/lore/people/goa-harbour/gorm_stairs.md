@@ -27,7 +27,7 @@ Ulric taught him everything: how to read the grain in a cliff face, where a stai
 
 ### The crews and the rival
 
-Gorm's builders are a small, loud crew of stone-cutters and riggers. The best of them is Kestra, who strings the rope bridges on the cliff paths above the harbour and crosses them blindfold. Gorm is proud of her and shouts at her constantly, mostly because she will not wear a safety line. Lately something has been chewing the ropes on the highest bridge, and Kestra means to catch it. Gorm means to make sure she does not get killed trying, and has not yet worked out how.
+Gorm's builders are a small, loud crew of stone-cutters and riggers. The best of them is Kestra, who strings the rope bridges across the clefts of the cliff above the harbour and crosses them blindfold. Gorm is proud of her and shouts at her constantly, mostly because she will not wear a safety line. Lately something has been chewing the ropes on the highest bridge, and Kestra means to catch it. Gorm means to make sure she does not get killed trying, and has not yet worked out how.
 
 His friendly rival is Hamish, who works the rope lift from the quay to the top of the cliffs. Gorm calls lifts lazy. He says a town that stops climbing its own stairs will forget how they were made. Hamish says Gorm just cannot bear anything that goes up the cliff without a step under it. They have had this argument at the Gap Inn for years, and both enjoy it far too much to settle it. Gorm is very fond of Hamish's nephew Fionn, who runs messages on the stairs and knows shortcuts that Gorm himself never cut, and he pretends to be furious about every one of them.
 
