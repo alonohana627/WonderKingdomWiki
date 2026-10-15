@@ -118,6 +118,7 @@ Urbanograd still has no lord. Each year the Open Table chooses a **Caller** to c
 
 | Name | Role |
 |---|---|
+| [Torvi Brask](../people/urbanograd/torvi_brask.md) | Axe-fighter from the highlands, who teaches Warriors the Berserker's way |
 | [Dimity 'Inkpot' Ash](../people/urbanograd/dimity_ash.md) | Scribe of the Open Table |
 | [Quint](../people/urbanograd/quint_holloway.md) | Keeper of the Charter Scroll |
 | [Brindle](../people/urbanograd/brindle.md) | Captain of the Gate Watch |

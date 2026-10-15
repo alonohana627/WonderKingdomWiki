@@ -22,6 +22,12 @@ Last spring Torvi guarded the caravan to Kaldemor that Zip had talked her way on
 
 Back in the city, Zip followed Torvi around the Gate Walk until Torvi gave in. Now they train most mornings on the open ground inside the gate: footwork, guard, when to stand and, above all, when to run. Torvi is proud of how fast she learns everything except the running.
 
+### The Berserker's way
+
+Swordsmen learn their trade at the Knights' Court in Selsior, under drill and rank. The other way a Warrior can go has no court at all, and in Urbanograd it has Torvi. A Warrior who has reached the thirtieth year of their training and wants to fight the way Hulda fought, with a heavy blade, a short temper kept on a long leash and everything put into every blow, can find Torvi on the Gate Walk and ask. Torvi calls it the Berserker's way, because that is what the highland fires call a fighter who stops counting the odds, and Torvi teaches it plainly, the way the slopes taught it.
+
+The trial is a hunt, because Torvi does not believe in any other kind. Torvi sends the Warrior out to the Outworks, the old ditches and ruined towers outside the walls, after the Gloomeyes in the outer ditch, then down into the flooded cellars after the rats that have grown fat and bold there, and last to the edge of the Bristlewood after the bristle boars, the same kind that crashed out of the brush at Zip's caravan. Torvi watches from a distance, says nothing until it is over, and then says only one thing, which is Hulda's: a Berserker who never runs gets one bad day. Torvi means it. The fury is the easy part. Knowing when to put it down is what Torvi is actually teaching, and Zip, who has been learning it for a year, says it is the hardest lesson in the city.
+
 ### Wants and fears
 
 Torvi wants the roads open, because the music needs them: fewer outside traders come every year, and Torvi knows a city that cannot trade will stop dancing first. One day Torvi wants to walk home with the city's tunes in Torvi's head and play them badly at a highland fire. What Torvi fears is the day Zip stands when she should run, with Torvi too far away to carry her back.

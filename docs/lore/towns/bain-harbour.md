@@ -104,6 +104,7 @@ The creatures of the Bellcaves are strange even by the Disturbance's standards: 
 
 | Name | Role |
 |---|---|
+| [Tristram](../people/bain-harbour/tristram.md) | Harpooner, who teaches Warriors the Spearman's way |
 | [Dunstan](../people/bain-harbour/dunstan.md) | Master Shipwright, who builds the race boats |
 | [Annis](../people/bain-harbour/captain_annis.md) | The oldest captain on the harbour council |
 | [Halloran](../people/bain-harbour/halloran.md) | Captain of the Harbour Watch |
