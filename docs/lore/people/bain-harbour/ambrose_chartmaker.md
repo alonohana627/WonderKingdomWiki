@@ -11,6 +11,7 @@
 | Role | Scholar |
 | Age | Adult |
 | Sells | Sea charts, tide tables and coastal maps |
+| In the game | [Ambrose](../../../npcs/ambrose_chartmaker.md) |
 
 ## Personality
 

@@ -6,15 +6,17 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Story |
 | Given by | [Tobin](../npcs/tobin.md) |
 | Completed with | [Tobin](../npcs/tobin.md) |
 | Level | 1 |
 | After | [Welcome Home](../quests/welcome_home.md) |
+| Leads to | [Snail Trouble](../quests/snail_trouble.md), [A Head for Heights](../quests/a_head_for_heights.md) |
 
 ## Objectives
 
-- Reach [Kaldemor Market](../maps/kaldemor_market.md)
+- Reach the market in [Kaldemor](../maps/kaldemor.md)
 - Talk to [Bram](../npcs/bram.md)
 
 ## Rewards
@@ -25,10 +27,10 @@
 
 ??? quote "Dialogue"
 
-    - A good traveller knows where to shop. Would you visit the **Market**, east of the square, and say hello to **Bram**, the potion seller? Tell him I sent you.
-    - Thank you, *Player*! Take the **glowing portal** on the east side with the **up arrow**. Bram's stall is at the far end of the Market.
+    - A good traveller knows where to shop. Would you visit the **Market**, down the east end of the main street, and say hello to **Bram**, the potion seller? Tell him I sent you.
+    - Thank you, *Player*! Walk east along the main street and down the steps. Bram stands among the shops.
     - Of course, of course. Come back whenever you like.
-    - Have you been to the **Market** yet? Bram's stall is at the far end. Take the portal east of the square.
+    - Have you been to the **Market** yet? Walk east along the main street and down the steps; Bram stands among the shops.
     - Oh, Tobin sent you? Welcome, *Player*! Come back to me whenever you need **potions**. Tell the mayor that Bram says hello!
     - You met Bram? Splendid! I knew you would fit right in.
     - Please take these **Red Potions**. They will keep you going out in the fields. Good luck, *Player*!

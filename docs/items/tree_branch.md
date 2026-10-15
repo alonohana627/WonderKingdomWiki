@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Dropped by [Dark Stump](../monsters/dark_stump.md) (25%)
 - Dropped by [Stump](../monsters/stump.md) (55%)
 - Gathered from Fallen Log ([Gathering](../professions/gathering.md) level 3)
 

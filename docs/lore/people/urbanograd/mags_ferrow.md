@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Service |
 | Age | Adult |
+| In the game | [Mags](../../../npcs/mags_ferrow.md) |
 
 ## Personality
 

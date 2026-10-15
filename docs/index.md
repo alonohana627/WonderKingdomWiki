@@ -16,9 +16,12 @@ world, its story and everything you can find, fight and make in it.
 ## Sections
 
 - [Lore](lore/index.md)
+- [Town Guides](towns/index.md): each town's maps, theme dungeon, bosses, people, shops and quest lines
+- [Theme Dungeons](dungeons/index.md)
 - [Items](items/index.md), [Skills](skills/index.md), [Jobs](jobs/index.md)
 - [Monsters](monsters/index.md), [Bosses](bosses/index.md)
 - [NPCs](npcs/index.md), [Quests](quests/index.md), [Shops](shops/index.md)
 - [World](world/index.md), [Maps](maps/index.md)
 - [Professions](professions/index.md), [Runs](runs/index.md)
-- [Game Systems](systems/index.md)
+- [Game Systems](systems/index.md), including [Gear Tiers](systems/gear.md) and [Honor](systems/honor.md)
+- [Roads of Veligor](world/roads.md)

@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Service |
 | Age | Young |
+| In the game | [Agnes](../../../npcs/agnes.md) |
 
 ## Personality
 

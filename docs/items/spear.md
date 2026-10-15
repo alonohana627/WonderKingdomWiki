@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Weapon |
 | Weapon type | Spear |
-| Stats | Attack +17 |
+| Stats | Attack +30 |
 | Upgrade slots | 8 |
 | Sells for | 150 mesos |
 

@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Brindle](../../../npcs/brindle.md) |
 
 ## Personality
 

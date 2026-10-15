@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Healer |
 | Age | Elder |
+| In the game | [Edwina](../../../npcs/edwina.md) |
 
 ## Personality
 

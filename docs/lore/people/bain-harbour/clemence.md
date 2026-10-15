@@ -11,6 +11,7 @@
 | Role | Healer |
 | Age | Adult |
 | Sells | Salves, bandages and seasickness tonic |
+| In the game | [Clemence](../../../npcs/clemence.md) |
 
 ## Personality
 

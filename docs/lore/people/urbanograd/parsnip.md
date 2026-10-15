@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Old Parsnip](../../../npcs/parsnip.md) |
 
 ## Personality
 

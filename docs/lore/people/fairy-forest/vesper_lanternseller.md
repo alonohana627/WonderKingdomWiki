@@ -9,6 +9,7 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Lantern Paths |
 | Sells | Lanterns, glow-oil and travelling lights |
+| In the game | [Vesper](../../../npcs/vesper_lanternseller.md) |
 
 ## Relationships
 

@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Child |
 | Age | Child |
+| In the game | [Mab](../../../npcs/mab.md) |
 
 ## Personality
 

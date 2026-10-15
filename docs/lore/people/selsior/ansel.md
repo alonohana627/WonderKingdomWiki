@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Healer |
 | Age | Elder |
+| In the game | [Ansel](../../../npcs/ansel.md) |
 
 ## Personality
 

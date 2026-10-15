@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | One-Handed Sword |
 | Required level | 10 |
-| Stats | Attack +34 |
+| Stats | Attack +46 |
 | Upgrade slots | 8 |
 | Sells for | 150 mesos |
 
@@ -18,5 +18,11 @@
 
 - Dropped by [Red Snail](../monsters/red_snail.md) (0.2%)
 - Dropped by [Stump](../monsters/stump.md) (0.2%)
-- Sold at [Selene's Arms](../shops/selsior_arms.md) for 300 mesos
+- Dropped by [Bog-Lurcher](../monsters/bog_lurcher.md) (0.12%)
+- Dropped by [Pool Octopus](../monsters/pool_octopus.md) (0.12%)
+- Dropped by [Seep Toad](../monsters/seep_toad.md) (0.12%)
+- Dropped by [Stack Rat](../monsters/stack_rat.md) (0.12%)
+- Dropped by [Verge Adder](../monsters/verge_adder.md) (0.12%)
+- Dropped by [Young Gloomeye](../monsters/young_gloomeye.md) (0.12%)
 - Sold at [Gareth's Smithy](../shops/smith.md) for 300 mesos
+- Sold at [Selene's Arms](../shops/selsior_arms.md) for 300 mesos

@@ -9,6 +9,7 @@
 | Town | [Kaldemor](../../towns/kaldemor.md) |
 | Where | Farms |
 | Sells | Honey, beeswax and candles |
+| In the game | [Hattie](../../../npcs/hattie.md) |
 
 ## Relationships
 

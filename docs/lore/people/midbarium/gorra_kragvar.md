@@ -11,6 +11,7 @@
 | Role | Worker |
 | Age | Adult |
 | Family | Kragvar |
+| In the game | [Gorra](../../../npcs/gorra_kragvar.md) |
 
 ## Personality
 

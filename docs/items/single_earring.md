@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Earring |
 | Required level | 15 |
-| Stats | Max MP +20, Magic Defense +3 |
+| Stats | Max MP +20, Magic Defense +2 |
 | Sells for | 150 mesos |
 
 ## How to get
 
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.1%)
+- Sold at [Jasper's Curiosities](../shops/jasper_curios.md) for 300 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 300 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 300 mesos

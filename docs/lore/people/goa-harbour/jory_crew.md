@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Worker |
 | Age | Young |
+| In the game | [Jory](../../../npcs/jory_crew.md) |
 
 ## Personality
 

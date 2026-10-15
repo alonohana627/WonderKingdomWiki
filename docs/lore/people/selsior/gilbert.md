@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Candles, lamp oil and wax seals |
+| In the game | [Gilbert](../../../npcs/gilbert.md) |
 
 ## Personality
 

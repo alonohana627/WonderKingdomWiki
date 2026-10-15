@@ -10,6 +10,7 @@
 | Where | Fish Market |
 | Role | Animal |
 | Age | Adult |
+| In the game | [Barnacle](../../../npcs/barnacle.md) |
 
 ## Personality
 

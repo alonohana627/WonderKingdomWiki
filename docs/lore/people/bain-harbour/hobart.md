@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Hobart](../../../npcs/hobart.md) |
 
 ## Personality
 

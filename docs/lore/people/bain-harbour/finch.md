@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Child |
 | Age | Child |
+| In the game | [Finch](../../../npcs/finch.md) |
 
 ## Personality
 

@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Plaza |
 | Sells | Flowers, garlands and festival ribbons |
+| In the game | [Emmeline](../../../npcs/emmeline.md) |
 
 ## Relationships
 

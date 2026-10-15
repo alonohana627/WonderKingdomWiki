@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 4 mesos
 - Gathered from Hay Bale ([Gathering](../professions/gathering.md) level 1)
 
 ## Used for

@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Child |
 | Age | Child |
+| In the game | [Arlo](../../../npcs/arlo_child.md) |
 
 ## Personality
 

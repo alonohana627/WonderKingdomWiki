@@ -11,6 +11,7 @@
 | Role | Ruler |
 | Age | Adult |
 | Family | Uskari |
+| In the game | [Hask](../../../npcs/old_one_hask.md) |
 
 ## Personality
 

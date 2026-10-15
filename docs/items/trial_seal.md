@@ -11,8 +11,8 @@
 
 ## How to get
 
-- Dropped by [Axe Stump](../monsters/axe_stump.md) (25%)
-- Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (25%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (25%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (25%)
 
 ## Used for
 

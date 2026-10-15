@@ -6,20 +6,28 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior.md) |
 | Where | [Selsior Gate](../maps/selsior_gate.md) |
+| Story | [Tilda in the lore](../lore/people/selsior/tilda.md) |
 | Services | Taxi |
-
-> Cab for hire, *Player*!
 
 ## Says
 
-- "Cabs to any town you have walked to once."
+- "Cab for hire! Any town you've walked to once."
 - "Walk the road to Kaldemor once, and my cab will know the way home."
+- "Easy, Thistle. It's a bridge, not a dragon."
+- "Home before dusk. Thistle likes his supper."
 
 ??? quote "Dialogue"
 
-    - Hello, *Player*. I drive the Selsior cab from the gate stand.
-        - *Choice:* How does the cab work?
-        - *Choice:* Nothing, thanks.
-    - A cab runs between **towns** with a taxi stand, never into the wilds. You have to have walked to a town before I will drive you there.
+    - Hello there, *Player*. **Tilda**, and that's **Thistle**, the finest grey that ever sulked at a bridge. What's on your mind?
+        - *Choice:* What are your rules?
+        - *Choice:* You know the roads well?
+        - *Choice:* Ever had trouble out there?
+        - *Choice:* Goodbye.
+    - Stand to stand only, never into the wilds. And I drive you only where you've walked once, on your own feet.
+    - A person ought to know the road they're paying to skip. If a wheel comes off halfway, I want a passenger who knows which way to walk.
+    - Drive a road once with your eyes open and you never need ask the way again. The Royal Road to **Kaldemor**? Every bend, every ford, and the puddle that never dries.
+    - Last autumn, past the **Greenwood** at dusk, Thistle stopped dead. Ears flat. Something big went through the trees beside us and never once showed itself.
+    - Then he walked on like nothing happened. I don't drive that stretch at dusk any more. I tell passengers Thistle likes his supper. He does, too.
     - Mind the road!

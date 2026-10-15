@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Elder |
 | Sells | Boots, shoes and repairs |
+| In the game | [Simkin](../../../npcs/simkin.md) |
 
 ## Personality
 

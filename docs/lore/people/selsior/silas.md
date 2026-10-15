@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Fresh fish from both harbours and smoked river eel |
+| In the game | [Silas](../../../npcs/silas.md) |
 
 ## Relationships
 

@@ -10,7 +10,7 @@
 | Rarity | Rare |
 | Slot | Overall |
 | Required level | 30 |
-| Stats | Defense +144, STR +2, DEX +2 |
+| Stats | Defense +50, STR +2, DEX +2 |
 | Upgrade slots | 11 |
 | Sells for | 1,200 mesos |
 
@@ -18,4 +18,21 @@
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.03%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.02%)
+- Dropped by [Bluecap](../monsters/bluecap.md) (0.05%)
+- Dropped by [Gnarltusk](../bosses/gnarltusk.md) (Hard) (8%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 2,400 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 2,400 mesos

@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Tristram](../../../npcs/tristram.md) |
 
 ## Personality
 

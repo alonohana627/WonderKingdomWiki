@@ -11,6 +11,7 @@
 | Role | Scholar |
 | Age | Adult |
 | Family | none |
+| In the game | [Imre](../../../npcs/imre.md) |
 
 ## Personality
 

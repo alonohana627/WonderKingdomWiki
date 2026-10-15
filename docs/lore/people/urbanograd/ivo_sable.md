@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Healer |
 | Age | Adult |
+| In the game | [Ivo Sable](../../../npcs/ivo_sable.md) |
 
 ## Personality
 

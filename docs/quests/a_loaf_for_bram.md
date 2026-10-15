@@ -6,11 +6,12 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Rosa](../npcs/rosa.md) |
 | Level | 3 |
 | After | [Rosa's Recipe](../quests/rosas_recipe.md) |
-| Condition | `standing npc rosa >= Friend` |
+| Condition | Friend standing with [Rosa](../npcs/rosa.md) |
 
 ## Objectives
 

@@ -10,6 +10,7 @@
 | Where | Kaldemor Market |
 | Role | Service |
 | Age | Adult |
+| In the game | [Molly](../../../npcs/molly.md) |
 
 ## Personality
 

@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Puzzle boxes, locks and clever latches |
+| In the game | [Hex](../../../npcs/hex_dunmore.md) |
 
 ## Personality
 

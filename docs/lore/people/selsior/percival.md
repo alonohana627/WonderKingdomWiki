@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Percival](../../../npcs/percival.md) |
 
 ## Personality
 

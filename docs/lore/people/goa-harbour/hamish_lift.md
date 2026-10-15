@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Service |
 | Age | Adult |
+| In the game | [Hamish](../../../npcs/hamish_lift.md) |
 
 ## Personality
 

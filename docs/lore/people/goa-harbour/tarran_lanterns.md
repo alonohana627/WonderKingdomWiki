@@ -10,6 +10,7 @@
 | Where | Lantern Market |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Tarran](../../../npcs/tarran_lanterns.md) |
 
 ## Personality
 

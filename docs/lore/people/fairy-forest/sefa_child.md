@@ -10,6 +10,7 @@
 | Where | Children's Glade |
 | Role | Performer |
 | Kind | Child of the Tree |
+| In the game | [Sefa](../../../npcs/sefa_child.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Fishers' Coves |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Agna](../../../npcs/agna_netmender.md) |
 
 ## Personality
 

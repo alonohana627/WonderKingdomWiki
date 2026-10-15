@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Lorcan](../../../npcs/lorcan.md) |
 
 ## Personality
 

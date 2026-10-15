@@ -2,38 +2,428 @@
 
 # NPCs
 
+The 389 NPCs you can talk to, by town. Each one's story is in the lore's people pages.
+
+## Selsior
+
 | NPC | Title | Where | Services |
 |---|---|---|---|
-| [Aldous](../npcs/aldous.md) | Keeper of the Royal Vault | [Selsior](../maps/selsior.md) | Storage |
-| [Biscuit](../npcs/biscuit.md) |  | [Crown Market](../maps/selsior_market.md) |  |
-| [Bram](../npcs/bram.md) | Potion Seller | [Kaldemor Market](../maps/kaldemor_market.md) | Shop: [Bram's Potions](../shops/potions.md), Quests |
-| [Brann](../npcs/brann.md) | Gate Sergeant | [Selsior Gate](../maps/selsior_gate.md) |  |
-| [Dame Orsa](../npcs/orsa.md) | Shopkeeper | [Crown Market](../maps/selsior_market.md) | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) |
-| [Ewan](../npcs/ewan.md) | Clockkeeper | [Kaldemor Park](../maps/kaldemor_park.md) | Quests |
-| [Fen](../npcs/fen.md) |  | [Kaldemor Park](../maps/kaldemor_park.md) |  |
-| [Gareth](../npcs/gareth.md) | Smith | [Kaldemor Market](../maps/kaldemor_market.md) | Shop: [Gareth's Smithy](../shops/smith.md), Quests |
-| [Garrick](../npcs/garrick.md) | The Climber | [Kaldemor Park](../maps/kaldemor_park.md) | Quests |
-| [Gideon](../npcs/gideon.md) | Retired Herald | [Selsior](../maps/selsior.md) |  |
-| [Hale](../npcs/hale.md) | Park Ranger | [Kaldemor Park](../maps/kaldemor_park.md) | Boss: [The Snail King](../bosses/snail_king.md), Quests |
-| [Hilda](../npcs/hilda.md) | Storage Keeper | [Kaldemor Market](../maps/kaldemor_market.md) | Storage |
-| [Hollis](../npcs/hollis.md) | Gate Guard | [Selsior Gate](../maps/selsior_gate.md) |  |
-| [Lia](../npcs/lia.md) | Town Guide | [Kaldemor](../maps/kaldemor.md) | Quests |
-| [Maud](../npcs/maud.md) | Housekeeper | [Crown Market](../maps/selsior_market.md) |  |
-| [Mirabel](../npcs/mirabel.md) | Dancer | [Selsior](../maps/selsior.md) |  |
-| [Mirel](../npcs/mirel.md) | Apothecary | [Crown Market](../maps/selsior_market.md) | Shop: [Mirel's Potions](../shops/selsior_potions.md) |
-| [Nell](../npcs/nell.md) |  | [Kaldemor](../maps/kaldemor.md) |  |
-| [Old Marta](../npcs/marta.md) | Grocer | [Kaldemor Market](../maps/kaldemor_market.md) | Shop: [Marta's General Store](../shops/grocer.md) |
-| [Orin](../npcs/orin.md) | Retired Woodcutter | [Kaldemor Park](../maps/kaldemor_park.md) |  |
-| [Pell](../npcs/pell.md) | Taxi Driver | [Kaldemor](../maps/kaldemor.md) | Taxi |
-| [Perrin](../npcs/perrin.md) | Royal Courier | [Selsior](../maps/selsior.md) |  |
-| [Pim](../npcs/pim.md) | Recruit | [Knights' Court](../maps/selsior_court.md) |  |
-| [Quill](../npcs/quill.md) | Drillmaster | [Kaldemor Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) |
-| [Rhys](../npcs/rhys.md) | Captain of the Royal Guard | [Knights' Court](../maps/selsior_court.md) | Quests |
-| [Rosa](../npcs/rosa.md) | Baker | [Kaldemor Market](../maps/kaldemor_market.md) | Quests |
-| [Selene](../npcs/selene.md) | Weaponsmith | [Crown Market](../maps/selsior_market.md) | Shop: [Selene's Arms](../shops/selsior_arms.md) |
-| [Tam](../npcs/tam.md) |  | [Kaldemor](../maps/kaldemor.md) |  |
+| [Agatha](../npcs/agatha.md) | River Fisher | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Agnes](../npcs/agnes.md) | Palace Maid | [Palace](../maps/selsior_palace.md) | Quests |
+| [Alaric](../npcs/alaric.md) | Young Prince | [Palace](../maps/selsior_palace.md) | Quests |
+| [Aldith](../npcs/aldith.md) | Herb Wife of the Riverside | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Aldous](../npcs/aldous.md) | Keeper of the Royal Vault | [The Royal Vault](../maps/royal_vault.md) | Storage |
+| [Alys](../npcs/alys.md) | Cheesemonger | [Royal Plaza](../maps/selsior.md) | Shop: [Alys's Cheeses](../shops/alys_cheese.md) |
+| [Ansel](../npcs/ansel.md) | Palace Physician | [Palace](../maps/selsior_palace.md) | Quests |
+| [Aubrey](../npcs/aubrey.md) | Old Grand Swordmaster | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Aveline](../npcs/queen_aveline.md) | Queen of Wonder Kingdom | [Palace](../maps/selsior_palace.md) | Quests |
+| [Avice](../npcs/avice.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Aylwin](../npcs/aylwin.md) | Road Patrol Guard | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Baldwin](../npcs/baldwin.md) | Lamplighter | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Bartholomew](../npcs/bartholomew.md) | Master of the Royal Academy | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Benedict](../npcs/benedict.md) | Head Librarian | [The Royal Academy Library](../maps/academy_library.md) | Quests |
+| [Bennet](../npcs/bennet.md) | Boatwright | [Riverside](../maps/selsior_riverside.md) | Boss: [Longjaw](../bosses/longjaw.md), Quests |
+| [Bertrand](../npcs/bertrand.md) | Drill Sergeant | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Biscuit](../npcs/biscuit.md) | Gate Dog | [Selsior Gate](../maps/selsior_gate.md) | Quests |
+| [Brann](../npcs/brann.md) | Gate Sergeant | [Selsior Gate](../maps/selsior_gate.md) | Quests |
+| [Cecily](../npcs/cecily.md) | Singer | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Clement](../npcs/clement.md) | Royal Herald | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Constance](../npcs/constance.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests |
+| [Courier's Runner](../npcs/plaza_courier_lad.md) |  | [Royal Plaza](../maps/selsior.md) |  |
+| [Crispin](../npcs/crispin.md) | Playwright | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Cuthbert](../npcs/cuthbert.md) | Royal Cook | [Palace](../maps/selsior_palace.md) | Quests |
+| [Dame Orsa](../npcs/orsa.md) | Shopkeeper | [Royal Plaza](../maps/selsior.md) | Shop: [Dame Orsa's General Store](../shops/selsior_general.md) |
+| [Dickon](../npcs/dickon.md) | Skywalk Carpenter | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Edith](../npcs/edith.md) | Costumer | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Edric](../npcs/edric.md) | Lieutenant of the Road Patrol | [Knights' Court](../maps/selsior_court.md) | Boss: [Old Cairn, the Ancient of the Quarries](../bosses/old_cairn.md), Boss: [Queen Amberwing](../bosses/queen_amberwing.md), Quests |
+| [Edwina](../npcs/edwina.md) | Midwife | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Elinor](../npcs/elinor.md) | Princess of Wonder Kingdom | [Palace](../maps/selsior_palace.md) | Quests |
+| [Emmeline](../npcs/emmeline.md) | Flower Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Emmeline's Flower Stall](../shops/emmeline_flowers.md) |
+| [Ermengarde](../npcs/ermengarde.md) | Bookbinder | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Everard](../npcs/everard.md) | Academy Student | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Fulke](../npcs/fulke.md) | Ballad Singer | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Gate Guard](../npcs/gate_guard_ardo.md) |  | [Selsior Gate](../maps/selsior_gate.md) |  |
+| [Gate Guard](../npcs/gate_guard_benna.md) |  | [Selsior Gate](../maps/selsior_gate.md) |  |
+| [Gervase](../npcs/gervase.md) | Cartographer | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Gideon](../npcs/gideon.md) | Retired Herald | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Gilbert](../npcs/gilbert.md) | Candlemaker | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Godwin](../npcs/godwin.md) | Palace Gardener | [Palace](../maps/selsior_palace.md) | Quests |
+| [Guard of the Court](../npcs/court_guard_hal.md) |  | [Knights' Court](../maps/selsior_court.md) |  |
+| [Guard of the Court](../npcs/court_guard_mira.md) |  | [Knights' Court](../maps/selsior_court.md) |  |
+| [Gytha](../npcs/gytha.md) | Washerwoman | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Hamon](../npcs/hamon.md) | Keeper of the Gate Inn | [The Gate Inn](../maps/gate_inn.md) | Quests |
+| [Hawise](../npcs/hawise.md) | Dyer | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Helewise](../npcs/helewise.md) | Guard Quartermaster | [The Captain's Hall](../maps/knights_hall.md) | Quests |
+| [Hereward](../npcs/hereward.md) | Miller | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Hodge](../npcs/hodge.md) | Lane Child | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Hollis](../npcs/hollis.md) | Gate Guard | [Selsior Gate](../maps/selsior_gate.md) | Quests |
+| [Hugh](../npcs/hugh.md) | Warden of the Great Bell | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Ida](../npcs/ida.md) | Night Watchwoman | [Old Quarter](../maps/selsior_old_quarter.md) | Boss: [The Delver](../bosses/delver.md), Quests |
+| [Isabeau](../npcs/isabeau.md) | Cloth Merchant | [Royal Plaza](../maps/selsior.md) | Shop: [Isabeau's Cloth](../shops/isabeau_cloth.md) |
+| [Jasper](../npcs/jasper.md) | Curio Dealer | [Royal Plaza](../maps/selsior.md) | Shop: [Jasper's Curiosities](../shops/jasper_curios.md) |
+| [Joan](../npcs/joan.md) | Keeper of the Crooked Lantern | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests |
+| [Jocelyn](../npcs/jocelyn.md) | Vault Clerk | [The Royal Vault](../maps/royal_vault.md) | Quests |
+| [Kenric](../npcs/kenric.md) | Smith's Apprentice | [Selene's Forge](../maps/selenes_forge.md) | Quests |
+| [Lambert](../npcs/lambert.md) | Street Juggler | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Lavinia](../npcs/lavinia.md) | Mistress of the Gilded Stage | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Leofric](../npcs/leofric.md) | Queen's Consort | [Palace](../maps/selsior_palace.md) | Quests |
+| [Lettice](../npcs/lettice.md) | Rat Catcher | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Lucan](../npcs/lucan.md) | Bargemaster | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Mab](../npcs/mab.md) | Pie Seller's Daughter | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Margery](../npcs/margery.md) | Baker | [Royal Plaza](../maps/selsior.md) | Shop: [Margery's Bakery](../shops/margery_bakery.md) |
+| [Marigold](../npcs/marigold.md) | Child Actor | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Mariota](../npcs/mariota.md) | Academy Student | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Market Shopper](../npcs/market_shopper_fen.md) |  | [Royal Plaza](../maps/selsior.md) |  |
+| [Maud](../npcs/maud.md) | Housekeeper | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Melisende](../npcs/melisende.md) | Mistress of the Envoys' Hall | [The Envoys' Hall](../maps/envoys_hall.md) | Quests |
+| [Merrick](../npcs/merrick.md) | Caravan Master | [The Gate Inn](../maps/gate_inn.md) | Quests |
+| [Mirabel](../npcs/mirabel.md) | Dancer | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Mirel](../npcs/mirel.md) | Apothecary | [Royal Plaza](../maps/selsior.md) | Shop: [Mirel's Potions](../shops/selsior_potions.md) |
+| [Morwen](../npcs/morwen.md) | Teacher of Magic | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Old Quarter Neighbour](../npcs/lane_neighbour_bess.md) |  | [Old Quarter](../maps/selsior_old_quarter.md) |  |
+| [Osbert](../npcs/osbert.md) | Royal Steward | [Palace](../maps/selsior_palace.md) | Quests |
+| [Osmund](../npcs/osmund.md) | Ferryman | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Palace Guard](../npcs/palace_guard_olen.md) |  | [Palace](../maps/selsior_palace.md) |  |
+| [Palace Guard](../npcs/palace_guard_rue.md) |  | [Palace](../maps/selsior_palace.md) |  |
+| [Percival](../npcs/percival.md) | Leading Man | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Perrin](../npcs/perrin.md) | Royal Courier | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Peterkin](../npcs/peterkin.md) | Palace Page | [Palace](../maps/selsior_palace.md) | Quests |
+| [Petronella](../npcs/petronella.md) | Royal Scribe | [The Envoys' Hall](../maps/envoys_hall.md) | Quests |
+| [Piers](../npcs/piers.md) | Pie Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Piers's Pies](../shops/piers_pies.md) |
+| [Pim](../npcs/pim.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Prudence](../npcs/prudence.md) | Alchemist | [Prudence's Workshop](../maps/alchemists_workshop.md) | Shop: [Prudence's Reagents](../shops/prudence_reagents.md), Quests |
+| [Rafe](../npcs/rafe.md) | Puppeteer | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Reynold](../npcs/reynold.md) | Warden of the Crown Market | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Rhys](../npcs/rhys.md) | Captain of the Royal Guard | [The Captain's Hall](../maps/knights_hall.md) | Quests |
+| [Robin](../npcs/robin.md) | Mudlark | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Roland](../npcs/roland.md) | Retired Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests |
+| [Rosalind](../npcs/rosalind.md) | Herb Seller | [Royal Plaza](../maps/selsior.md) | Shop: [Rosalind's Herbs](../shops/rosalind_herbs.md) |
+| [Rosamund](../npcs/rosamund.md) | Leading Lady | [Theatre Row](../maps/selsior_theatre.md) | Quests |
+| [Rowena](../npcs/rowena.md) | Swordmaster of the Guard | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Selene](../npcs/selene.md) | Weaponsmith | [Selene's Forge](../maps/selenes_forge.md) | Shop: [Selene's Arms](../shops/selsior_arms.md) |
+| [Selsior Citizen](../npcs/plaza_citizen_corra.md) |  | [Royal Plaza](../maps/selsior.md) |  |
+| [Silas](../npcs/silas.md) | Fishmonger | [Royal Plaza](../maps/selsior.md) | Shop: [Silas's Fish Stall](../shops/silas_fish.md) |
+| [Simkin](../npcs/simkin.md) | Cobbler | [Old Quarter](../maps/selsior_old_quarter.md) | Shop: [Simkin's Boots](../shops/simkin_boots.md), Quests |
+| [Swithin](../npcs/swithin.md) | Gate Clerk | [Selsior Gate](../maps/selsior_gate.md) | Quests |
+| [Sybil](../npcs/sybil.md) | Royal Wardrobe Mistress | [Palace](../maps/selsior_palace.md) | Quests |
+| [Tancred](../npcs/tancred.md) | Retired Drain-Mender | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Theobald](../npcs/theobald.md) | Stargazer | [Scholars' Quarter](../maps/selsior_scholars.md) | Quests |
+| [Thomasin](../npcs/thomasin.md) | Historian of the Balrog War | [The Royal Academy Library](../maps/academy_library.md) | Quests |
+| [Thurstan](../npcs/thurstan.md) | Adventurer | [The Crooked Lantern](../maps/crooked_lantern.md) | Quests |
+| [Tibb](../npcs/tibb.md) | Stagehand | [Theatre Row](../maps/selsior_theatre.md) | Quests |
 | [Tilda](../npcs/tilda.md) | Taxi Driver | [Selsior Gate](../maps/selsior_gate.md) | Taxi |
-| [Tobe](../npcs/tobe.md) | Recruit | [Knights' Court](../maps/selsior_court.md) |  |
+| [Tobe](../npcs/tobe.md) | Recruit | [Knights' Court](../maps/selsior_court.md) | Quests |
+| [Tristan](../npcs/tristan.md) | River Scout | [Riverside](../maps/selsior_riverside.md) | Quests |
+| [Vessa](../npcs/vessa.md) | Armourer | [Selene's Forge](../maps/selenes_forge.md) | Shop: [Vessa's Armour](../shops/selsior_armour.md) |
+| [Wat](../npcs/wat.md) | Errand Boy | [Royal Plaza](../maps/selsior.md) | Quests |
+| [Winifred](../npcs/winifred.md) | Storyteller of the Old Quarter | [Old Quarter](../maps/selsior_old_quarter.md) | Quests |
+| [Wulfric](../npcs/wulfric.md) | Vault Warden | [The Royal Vault](../maps/royal_vault.md) | Quests |
+| [Wystan](../npcs/wystan.md) | Stablemaster | [Knights' Court](../maps/selsior_court.md) | Quests |
+
+## Kaldemor
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Alfie](../npcs/alfie.md) | Head of the Carpenters' Guild | [Kaldemor](../maps/kaldemor.md) |  |
+| [Archie](../npcs/archie.md) | Carpenter's Apprentice | [Kaldemor](../maps/kaldemor.md) |  |
+| [Bertie](../npcs/bertie.md) | Mushroom House Shaper | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Bess](../npcs/bess.md) | Herbalist | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Bram](../npcs/bram.md) | Potion Seller | [Kaldemor](../maps/kaldemor.md) | Shop: [Bram's Potions](../shops/potions.md), Quests |
+| [Clem](../npcs/clem.md) | Orchard Keeper | [The Last Stile](../maps/the_last_stile.md) | Quests |
+| [Daisy](../npcs/daisy.md) | House Painter | [Kaldemor](../maps/kaldemor.md) |  |
+| [Digby](../npcs/digby.md) | Gauntlet Hopeful | [Kaldemor](../maps/kaldemor.md) |  |
+| [Dottie](../npcs/dottie.md) | Shepherd Girl | [The Last Stile](../maps/the_last_stile.md) | Quests |
+| [Elsie](../npcs/elsie.md) | Dairy Farmer | [The Last Stile](../maps/the_last_stile.md) |  |
+| [Ewan](../npcs/ewan.md) | Clockkeeper | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Fen](../npcs/fen.md) |  | [Kaldemor](../maps/kaldemor.md) |  |
+| [Gareth](../npcs/gareth.md) | Smith | [Kaldemor](../maps/kaldemor.md) | Shop: [Gareth's Smithy](../shops/smith.md), Quests |
+| [Garrick](../npcs/garrick.md) | The Climber | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Hale](../npcs/hale.md) | Park Ranger | [Kaldemor](../maps/kaldemor.md) | Boss: [The Bluecap Mother](../bosses/bluecap_mother.md), Boss: [The Cap King](../bosses/cap_king.md), Boss: [Gnarltusk](../bosses/gnarltusk.md), Boss: [The Snail King](../bosses/snail_king.md), Quests |
+| [Hattie](../npcs/hattie.md) | Beekeeper | [The Last Stile](../maps/the_last_stile.md) |  |
+| [Hilda](../npcs/hilda.md) | Storage Keeper | [Kaldemor](../maps/kaldemor.md) | Storage |
+| [Hob](../npcs/hob.md) | Miller | [Kaldemor](../maps/kaldemor.md) |  |
+| [Jem](../npcs/jem.md) | Fiddler | [Kaldemor](../maps/kaldemor.md) |  |
+| [Lia](../npcs/lia.md) | Town Guide | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Lottie](../npcs/lottie.md) | Schoolteacher | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Mabel](../npcs/mabel.md) | Potter | [Kaldemor](../maps/kaldemor.md) |  |
+| [Meg](../npcs/meg.md) | Snail Hunter | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Mildred](../npcs/mildred.md) | Town Clerk | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Molly](../npcs/molly.md) | Innkeeper of the Sleepy Snail | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Mott](../npcs/mott.md) | Travelling Pedlar | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Ned](../npcs/ned.md) | Cobbler | [Kaldemor](../maps/kaldemor.md) |  |
+| [Nell](../npcs/nell.md) |  | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Old Marta](../npcs/marta.md) | Grocer | [Kaldemor](../maps/kaldemor.md) | Shop: [Marta's General Store](../shops/grocer.md) |
+| [Orin](../npcs/orin.md) | Retired Woodcutter | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Pell](../npcs/pell.md) | Taxi Driver | [Kaldemor](../maps/kaldemor.md) | Taxi, Quests |
+| [Percy](../npcs/percy.md) | Wheelwright | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Quill](../npcs/quill.md) | Drillmaster | [Kaldemor](../maps/kaldemor.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) |
+| [Rosa](../npcs/rosa.md) | Baker | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Rufus](../npcs/rufus.md) | Town Crier | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Tam](../npcs/tam.md) |  | [Kaldemor](../maps/kaldemor.md) |  |
 | [Tobin](../npcs/tobin.md) | Mayor of Kaldemor | [Kaldemor](../maps/kaldemor.md) | Quests |
-| [Vessa](../npcs/vessa.md) | Armourer | [Crown Market](../maps/selsior_market.md) | Shop: [Vessa's Armour](../shops/selsior_armour.md) |
-| [Wren](../npcs/wren.md) | Orin's Wife | [Kaldemor Park](../maps/kaldemor_park.md) |  |
+| [Wilbur](../npcs/wilbur.md) | Farmer | [The Last Stile](../maps/the_last_stile.md) | Quests |
+| [Wilf](../npcs/wilf.md) | Spore Gatherer | [The Last Stile](../maps/the_last_stile.md) | Quests |
+| [Winnie](../npcs/winnie.md) | Weaver | [Kaldemor](../maps/kaldemor.md) | Quests |
+| [Wren](../npcs/wren.md) | Orin's Wife | [Kaldemor](../maps/kaldemor.md) |  |
+
+## Midbarium
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Ahvi](../npcs/ahvi_brenna.md) | Song-Keeper | [Midbarium](../maps/midbarium.md) | Quests |
+| [Bekk](../npcs/bekk_uskari.md) | Trail Watch Scout | [Midbarium](../maps/midbarium.md) | Boss: [Grimhorn](../bosses/grimhorn.md), Quests |
+| [Brakka](../npcs/brakka_kragvar.md) | Apprentice Mason | [Midbarium](../maps/midbarium.md) | Quests |
+| [Corwell](../npcs/corwell.md) | Keeper of the Trading Post | [The Trading Post](../maps/trading_post.md) | Quests |
+| [Dorrek](../npcs/dorrek_kragvar.md) | Chieftain of the Kragvar | [Midbarium](../maps/midbarium.md) | Quests |
+| [Ennek](../npcs/ennek_tolmach.md) | Canyon Guide | [Midbarium](../maps/midbarium.md) | Boss: [The Rootdrinker](../bosses/rootdrinker.md), Taxi, Quests |
+| [Gorra](../npcs/gorra_kragvar.md) | Cistern Keeper | [Midbarium](../maps/midbarium.md) | Quests |
+| [Hallek](../npcs/hallek_kragvar.md) | Kragvar Mason | [Midbarium](../maps/midbarium.md) | Quests |
+| [Harra](../npcs/harra_tolmach.md) | Wool and Cheese Seller | [The Trading Post](../maps/trading_post.md) | Quests |
+| [Hask](../npcs/old_one_hask.md) | The Old One | [The Great Hall](../maps/great_hall.md) | Quests |
+| [Imre](../npcs/imre.md) | Stargazer | [Midbarium](../maps/midbarium.md) | Quests |
+| [Kesh](../npcs/kesh_tolmach.md) | Young Goatherd | [Midbarium](../maps/midbarium.md) | Quests |
+| [Ketta](../npcs/ketta_uskari.md) | Returned Adventurer | [Midbarium](../maps/midbarium.md) | Boss: [Hollowmaw](../bosses/hollowmaw.md), Quests |
+| [Korrin](../npcs/korrin_kragvar.md) | Chieftain's Son | [Midbarium](../maps/midbarium.md) | Quests |
+| [Kragvar Mason](../npcs/kragvar_mason.md) |  | [Midbarium](../maps/midbarium.md) |  |
+| [Lessa](../npcs/lessa_brenna.md) | Bonesetter | [Midbarium](../maps/midbarium.md) | Quests |
+| [Mabbu](../npcs/mabbu_tolmach.md) | Elder of the Camps | [Midbarium](../maps/midbarium.md) | Storage, Quests |
+| [Neffa](../npcs/neffa_brenna.md) | Song Learner | [Midbarium](../maps/midbarium.md) | Quests |
+| [Odda](../npcs/odda_brenna.md) | Chieftain of the Brenna | [Midbarium](../maps/midbarium.md) | Quests |
+| [Sennu](../npcs/sennu_tolmach.md) | Chieftain of the Tolmach | [Midbarium](../maps/midbarium.md) | Quests |
+| [Skarra](../npcs/skarra_uskari.md) | Captain of the Trail Watch | [Midbarium](../maps/midbarium.md) | Quests |
+| [Tavi](../npcs/tavi_uskari.md) | Chieftain of the Uskari | [Midbarium](../maps/midbarium.md) | Boss: [Old Gnarl](../bosses/old_gnarl.md), Quests |
+| [Thrun](../npcs/thrun_brenna.md) | Drummer of the Gatherings | [The Great Hall](../maps/great_hall.md) | Quests |
+| [Tolmach Hen](../npcs/camp_hen.md) |  | [Midbarium](../maps/midbarium.md) |  |
+| [Tolmach Herder](../npcs/tolmach_herder.md) |  | [Midbarium](../maps/midbarium.md) |  |
+| [Trail Watch Dog](../npcs/rim_dog.md) |  | [Midbarium](../maps/midbarium.md) |  |
+| [Trail Watch Lookout](../npcs/ridge_watcher.md) |  | [The North Ridge](../maps/north_ridge.md) |  |
+| [Trail Watch Lookout](../npcs/trail_watch_lookout.md) |  | [The Old War Camp](../maps/old_war_camp.md) |  |
+| [Trail Watch Warden](../npcs/trail_watch_warden.md) |  | [The Old War Camp](../maps/old_war_camp.md) |  |
+| [Ulm](../npcs/ulm_kragvar.md) | Keeper of the Council Fire | [The Great Hall](../maps/great_hall.md) | Quests |
+| [Uskari Scout](../npcs/uskari_scout.md) |  | [Midbarium](../maps/midbarium.md) |  |
+| [Vosk](../npcs/vosk_kragvar.md) | Master of Bridges | [Midbarium](../maps/midbarium.md) | Run: [The Night Watch](../runs/far_bridge_watch.md), Quests |
+| [Yarrek](../npcs/yarrek_tolmach.md) | Goat Herder | [Midbarium](../maps/midbarium.md) | Quests |
+| [Zirra](../npcs/zirra_uskari.md) | Bowyer | [Zirra's Workshop](../maps/zirras_workshop.md) | Quests |
+
+## Fairy Forest
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Ailo](../npcs/ailo_child.md) | Garden Helper | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Alder](../npcs/alder_student.md) | Grove School Student | [Grove School](../maps/grove_school.md) | Quests |
+| [Amaryl](../npcs/amaryl_teacher.md) | Teacher of Growing | [Grove School](../maps/grove_school.md) | Quests |
+| [Aspen](../npcs/aspen_elder.md) | Retired Treewright | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Quests |
+| [Aurel](../npcs/aurel_teacher.md) | Junior Teacher | [Grove School](../maps/grove_school.md) | Quests |
+| [Briony](../npcs/briony_councillor.md) | Grove Councillor | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Broken Bough Stump](../npcs/torn_crown_waymark.md) |  | [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) | Boss: [Old Grizzlemane](../bosses/old_grizzlemane.md) |
+| [Caelum](../npcs/caelum_scholar.md) | Seal Scholar | [The Old Records](../maps/old_records.md) | Quests |
+| [Calyra](../npcs/eldest_calyra.md) | Eldest of the Grove | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Quests |
+| [Celandine](../npcs/celandine_herbalist.md) | Herbalist | [Fairy Forest](../maps/fairy_forest.md) | Shop: [Celandine's Remedies](../shops/celandine_remedies.md) |
+| [Corisande](../npcs/corisande_key.md) | Keeper of the Old Wing's Key | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Edge Watch Guard](../npcs/edge_watch_guard.md) |  | [Fairy Forest](../maps/fairy_forest.md) |  |
+| [Faelan](../npcs/faelan_apprentice.md) | Lantern-maker's Apprentice | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Forest Cab](../npcs/fairy_forest_cab.md) | Taxi | [Fairy Forest](../maps/fairy_forest.md) | Taxi |
+| [Galen](../npcs/galen_wandseller.md) | Staff and Wand Seller | [Galen's Staves and Scrolls](../maps/galens_shop.md) | Shop: [Galen's Staves and Scrolls](../shops/galens_shop.md) |
+| [Halcy](../npcs/halcy_child.md) | Garland Weaver | [Children's Glade](../maps/childrens_glade.md) | Shop: [Halcy's Baskets and Garlands](../shops/halcys_garlands.md), Quests |
+| [Hesper](../npcs/hesper_herbalist.md) | Mistress of the Herb Gardens | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Ilwen](../npcs/ilwen_steward.md) | Steward of the Heart Tree | [Fairy Forest](../maps/fairy_forest.md) | Storage, Quests |
+| [Isaura](../npcs/isaura_records.md) | Keeper of the Old Records | [The Old Records](../maps/old_records.md) | Quests |
+| [Juniper](../npcs/juniper_adventurer.md) | Wilds Naturalist | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Kestrel](../npcs/kestrel_adventurer.md) | Wandering Magician | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Linnet](../npcs/linnet_treewright.md) | Keeper of Living Homes | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Liri](../npcs/liri_student.md) | Grove School Student | [Grove School](../maps/grove_school.md) | Quests |
+| [Lumi](../npcs/lumi_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests |
+| [Lyra](../npcs/lyra_singer.md) | Singer of the Old Songs | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Merrow](../npcs/merrow_gardener.md) | Gardener | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Moonmane](../npcs/glade_unicorn.md) |  | [Children's Glade](../maps/childrens_glade.md) |  |
+| [Niv](../npcs/niv_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests |
+| [Old Listening Tree](../npcs/lakehead_waymark.md) |  | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) | Boss: [The Blightstone](../bosses/blightstone.md) |
+| [Ondine](../npcs/ondine_lanterns.md) | Keeper of the Lanterns | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Oriel](../npcs/oriel_treewright.md) | Master Treewright | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Orla](../npcs/orla_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests |
+| [Penny](../npcs/dewdrop_cat.md) |  | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) |  |
+| [Sefa](../npcs/sefa_child.md) | Glade Storyteller | [Children's Glade](../maps/childrens_glade.md) | Quests |
+| [Seren](../npcs/seren_warden.md) | Warden of the Forest Edge | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Shimmer Songbird](../npcs/glade_songbird.md) |  | [Children's Glade](../maps/childrens_glade.md) |  |
+| [Siora](../npcs/siora_student.md) | Grove School Student | [Grove School](../maps/grove_school.md) | Quests |
+| [Sorrel](../npcs/sorrel_teacher.md) | Teacher of Listening | [Grove School](../maps/grove_school.md) | Quests |
+| [Spring-Root Tree](../npcs/hidden_spring_waymark.md) |  | [The Twilit Wood, III](../maps/twilit_wood_3.md) | Boss: [The Knotbriar](../bosses/knotbriar.md) |
+| [Tansy](../npcs/tansy_teahouse.md) | Keeper of the Dewdrop Tea House | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Shop: [The Dewdrop Tea House](../shops/dewdrop_tea_house.md), Quests |
+| [The Reading Stump](../npcs/inner_door_waymark.md) |  | [The Shadowed Grove](../maps/shadowed_grove.md) | Boss: [The Unbound](../bosses/the_unbound.md) |
+| [Thessaly](../npcs/thessaly_councillor.md) | Grove Councillor | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Quests |
+| [Thorne](../npcs/thorne_guard.md) | Edge Guard | [Fairy Forest](../maps/fairy_forest.md) | Quests |
+| [Vesper](../npcs/vesper_lanternseller.md) | Lantern Seller | [Fairy Forest](../maps/fairy_forest.md) | Shop: [Vesper's Lights](../shops/vesper_lights.md) |
+| [Wynne](../npcs/wynne_copyist.md) | Copyist of the Old Records | [The Old Records](../maps/old_records.md) | Quests |
+| [Young Pupil](../npcs/school_pupil.md) |  | [Grove School](../maps/grove_school.md) |  |
+
+## Urbanograd
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Bastian 'Bellows' Krell](../npcs/bastian_krell.md) | Loudest Voice at the Table | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Bolt](../npcs/bolt.md) | Tinker's Apprentice | [Margo's Workshop](../maps/urbanograd_workshop.md) | Quests |
+| [Brindle](../npcs/brindle.md) | Captain of the Gate Watch | [Urbanograd](../maps/urbanograd.md) | Boss: [The Gloamwing](../bosses/gloamwing.md), Quests |
+| [Cobble](../npcs/cobble.md) | Bootmaker | [Cobble's Shop](../maps/urbanograd_bootmaker.md) | Quests |
+| [Crow](../npcs/crow_hadley.md) | Tonic Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Crow's Tonics](../shops/urbanograd_crow.md) |
+| [Crumb](../npcs/crumb.md) | Baker from the Farmlands | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Crumb's Bakery](../shops/urbanograd_crumb.md) |
+| [Dagny 'Two-Lamps' Roe](../npcs/dagny_roe.md) | Night Watch Guard | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Dex](../npcs/dex.md) | Plays the Grandee | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Dimity 'Inkpot' Ash](../npcs/dimity_ash.md) | Scribe of the Open Table | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Dina Finch](../npcs/orla_finch.md) | Director of the Old Barracks Troupe | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Drum](../npcs/drum.md) | Bucket Drummer | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Dyna](../npcs/dyna_wick.md) | Tailor of Loud Clothes | [Dyna's Shop](../maps/urbanograd_tailor.md) | Shop: [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) |
+| [Edgar Penhallow](../npcs/alder_penhallow.md) | Guild Apprentice from Selsior | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Ferro](../npcs/ferro.md) | Smith of Odd Metals | [Ferro's Forge](../maps/urbanograd_forge.md) | Quests |
+| [Figgy](../npcs/figgy.md) | Chalk Artist | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Gate Walk Carter](../npcs/urbanograd_carter.md) | Carts for Hire | [Urbanograd](../maps/urbanograd.md) | Taxi |
+| [Glim](../npcs/glim_kessel.md) | Paper Lantern Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Glim's Lanterns](../shops/urbanograd_glim.md) |
+| [Hambone](../npcs/hambone.md) | Keeper of the Theatre Cart | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Hatch](../npcs/hatch.md) | Monster Hunter | [Urbanograd](../maps/urbanograd.md) | Boss: [Hackleback](../bosses/hackleback.md), Quests |
+| [Hester 'Ladle' Cray](../npcs/juniper_cray.md) | Skewer Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Ladle's Skewers](../shops/urbanograd_ladle.md) |
+| [Hex](../npcs/hex_dunmore.md) | Puzzle-Box Maker | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Ivo Sable](../npcs/ivo_sable.md) | Street Healer | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Jinx](../npcs/jinx.md) | Juggler of Lantern Square | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Kite](../npcs/kite.md) | Rooftop Runner | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Knox](../npcs/knox.md) | Gate Watch Guard | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Leland](../npcs/leland.md) | Keeper of the Low Door | [The Great Hall](../maps/urbanograd_great_hall.md) | Boss: [The Warmstone Colossus](../bosses/warmstone_colossus.md), Quests |
+| [Lux](../npcs/lux_lune.md) | Keeper of the Lanterns | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Mags](../npcs/mags_ferrow.md) | Cook of the Great Hall | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Margo 'Sparks' Venn](../npcs/margo_venn.md) | Inventor of Sparking Things | [Margo's Workshop](../maps/urbanograd_workshop.md) | Quests |
+| [Moth](../npcs/moth_kessel.md) | Keeper of the Night Market Stalls | [The Night Market](../maps/urbanograd_night_market.md) | Quests |
+| [Nana Gristle](../npcs/nana_gristle.md) | Bench-Sitter of Lantern Square | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Nix](../npcs/nix.md) | Mask Maker | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Nix's Masks](../shops/urbanograd_nix.md) |
+| [Ochre](../npcs/ochre.md) | Muralist | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Old Parsnip](../npcs/parsnip.md) | Rooftop Gardener | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Ozzie Lantry](../npcs/hob_lantry.md) | Historian of the Walkers | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Patch](../npcs/patch.md) | Herbalist of the Gate Walk | [Patch's Herb House](../maps/urbanograd_herb_house.md) | Quests |
+| [Perch](../npcs/perch.md) | Pigeon Keeper | [Urbanograd](../maps/urbanograd.md) | Boss: [Stormcrest](../bosses/stormcrest.md), Quests |
+| [Pip Marrow](../npcs/pip_marrow.md) | Juna's Great-Granddaughter | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Piper](../npcs/piper.md) | Songwriter of the Troupe | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Pounce](../npcs/pounce.md) | Rooftop Cat | [Urbanograd](../maps/urbanograd.md) |  |
+| [Prism](../npcs/prism.md) | Light-Painter from the Forest | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Quint](../npcs/quint_holloway.md) | Keeper of the Charter Scroll | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Remy Marlo](../npcs/kesh_marlo.md) | Smoked Fish Seller | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Remy's Smoked Fish](../shops/urbanograd_remy.md) |
+| [Rivet](../npcs/rivet.md) | Builder of the Rooftop Lift | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Rook](../npcs/rook_tallow.md) | Caller of the Open Table | [The Great Hall](../maps/urbanograd_great_hall.md) | Quests |
+| [Rue](../npcs/rue.md) | Plays Juna on Walkout Day | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Saffi](../npcs/saffi_quell.md) | Fiddler of Lantern Square | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Saucer](../npcs/saucer.md) | Tea Stall Keeper | [The Night Market](../maps/urbanograd_night_market.md) | Storage |
+| [Scrap](../npcs/scrap.md) | Rooftop Scamp | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Shade](../npcs/shade.md) | Knife-Thrower and Road Guide | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Splash](../npcs/splash.md) | Night Painter | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Sprout](../npcs/sprout.md) | Troupe Urchin | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Starling](../npcs/starling.md) | Rooftop Stargazer | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Thimble](../npcs/thimble.md) | Costume Maker | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Quests |
+| [Tick](../npcs/tick.md) | Gate Messenger | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Tinder](../npcs/tinder.md) | Fire-Eater | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Tinsel](../npcs/tinsel.md) | Glassblower | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Torvi Brask](../npcs/torvi_brask.md) | Axe-Fighter from the Highlands | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Vane](../npcs/vane.md) | Rooftop Bridge-Builder | [Urbanograd](../maps/urbanograd.md) | Quests |
+| [Velvet](../npcs/velvet.md) | Trader of Curios | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Velvet's Curios](../shops/urbanograd_velvet.md) |
+| [Wendel 'Dog-Ear' Tuck](../npcs/dog_ear_tuck.md) | Seller of Old Books and Banned Plays | [The Night Market](../maps/urbanograd_night_market.md) | Shop: [Dog-Ear's Old Books](../shops/urbanograd_dogear.md) |
+| [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) | Young Adventurer | [Urbanograd](../maps/urbanograd.md) | Quests |
+
+## Bain Harbour
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Alwyn](../npcs/alwyn.md) | Shipwright | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Ambrose](../npcs/ambrose_chartmaker.md) | Chartmaker | [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | Quests |
+| [Annis](../npcs/captain_annis.md) | Captain of the Saltlark | [The Docks](../maps/bain_docks.md) | Quests |
+| [Barnaby](../npcs/barnaby.md) | Bosun of the Bright Morrow | [The Docks](../maps/bain_docks.md) | Quests |
+| [Barnacle](../npcs/barnacle.md) | Harbour Cat | [Bain Harbour](../maps/bain_harbour.md) |  |
+| [Bree](../npcs/bree.md) | Fishmonger's Daughter | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Brisa](../npcs/brisa.md) | Harbour Watchwoman | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Broken Bulkhead](../npcs/saltgrace_bulkhead.md) |  | [The Lower Deck](../maps/saltgrace_lower_deck.md) | Boss: [The Holdfast](../bosses/holdfast.md) |
+| [Bryony](../npcs/bryony.md) | Baker of Merchant Street | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Bryony's Bakery](../shops/bain_bakery.md) |
+| [Caspian](../npcs/caspian.md) | Navigator of the Heron | [The Docks](../maps/bain_docks.md) | Quests |
+| [Clemence](../npcs/clemence.md) | Harbour Healer | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Cobb](../npcs/cobb.md) | Fisherman | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Cordelia](../npcs/cordelia.md) | Cloth Merchant | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Cordelia's Cloth Shop](../shops/bain_cloth.md) |
+| [Corwin](../npcs/captain_corwin.md) | Captain of the Heron | [The Docks](../maps/bain_docks.md) | Quests |
+| [Delphine](../npcs/delphine.md) | Innkeeper of the Salt and Bread | [The Salt and Bread](../maps/bain_inn.md) | Quests |
+| [Dunstan](../npcs/dunstan.md) | Master Shipwright | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Finch](../npcs/finch.md) | Errand Runner | [The Docks](../maps/bain_docks.md) | Quests |
+| [Garrow](../npcs/garrow.md) | Dock Foreman | [The Docks](../maps/bain_docks.md) | Quests |
+| [Gwennol](../npcs/gwennol.md) | Fishmonger | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Gwennol's Fish Stall](../shops/bain_fish.md) |
+| [Halloran](../npcs/halloran.md) | Captain of the Harbour Watch | [The Watch House](../maps/bain_watch_house.md) | Run: [The Outer Pier by Night](../runs/the_outer_pier_watch.md), Run: [Under the Outer Pier](../runs/under_the_pier.md), Quests |
+| [Hesketh](../npcs/hesketh.md) | Oyster Seller | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Hesketh's Oyster Stall](../shops/bain_oysters.md) |
+| [Hobart](../npcs/hobart.md) | Warehouseman | [The Docks](../maps/bain_docks.md) | Storage, Quests |
+| [Jowan](../npcs/jowan.md) | Harbour Watchman | [The Docks](../maps/bain_docks.md) | Quests |
+| [Kenwyn](../npcs/kenwyn.md) | Salvager of the Bellcaves | [Bain Harbour](../maps/bain_harbour.md) | Boss: [The Holdfast](../bosses/holdfast.md), Quests |
+| [Keziah](../npcs/keziah.md) | Sword for Hire | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Kit](../npcs/kit.md) | Shipwright's Son | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Lorcan](../npcs/lorcan.md) | Shanty Singer | [The Salt and Bread](../maps/bain_inn.md) | Quests |
+| [Lowen](../npcs/lowen.md) | Deckhand | [The Docks](../maps/bain_docks.md) | Quests |
+| [Mabyn](../npcs/mabyn.md) | Keeper of the Hall Door | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Maren](../npcs/maren.md) | Harbour Schoolteacher | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Marisol](../npcs/marisol.md) | Spice Merchant | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Merriwether](../npcs/merriwether.md) | Ship's Chandler | [Bain Harbour](../maps/bain_harbour.md) | Shop: [Merriwether's Chandlery](../shops/bain_chandler.md) |
+| [Morwenna](../npcs/morwenna.md) | Sailor of the Saltlark | [The Docks](../maps/bain_docks.md) | Quests |
+| [Nerissa](../npcs/nerissa.md) | Pearl Diver | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Old Felling Stone](../npcs/rim_waymark.md) |  | [The Rim](../maps/the_rim.md) | Boss: [The Deep Lantern](../bosses/deep_lantern.md) |
+| [Old Lock Post](../npcs/gullet_gate_post.md) |  | [The Gullet](../maps/the_gullet.md) | Boss: [The Ripsaw](../bosses/ripsaw.md) |
+| [Old Lock Post](../npcs/pinch_lock_gate.md) |  | [The Pinch](../maps/the_pinch.md) | Boss: [The Bootbreaker](../bosses/bootbreaker.md) |
+| [Ossie](../npcs/ossie.md) | Lighthouse Boy | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Ottilie](../npcs/ottilie.md) | Clerk of the Harbour Hall | [Harbour Hall](../maps/bain_hall.md) | Quests |
+| [Peregrine](../npcs/peregrine.md) | Shipwright's Apprentice | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Poppy](../npcs/poppy.md) | Baker's Daughter | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Quenna](../npcs/harbour_master_quenna.md) | Harbour Master | [Harbour Hall](../maps/bain_hall.md) | Quests |
+| [Seraphine](../npcs/captain_seraphine.md) | Captain of the Bright Morrow | [The Docks](../maps/bain_docks.md) | Run: [The Bright Morrow's Night Run](../runs/the_night_run.md), Quests |
+| [Tegan](../npcs/tegan.md) | Sailmaker | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Thaddeus](../npcs/thaddeus.md) | Retired Captain | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Tristram](../npcs/tristram.md) | Harpooner | [The Docks](../maps/bain_docks.md) | Quests |
+| [Tully](../npcs/tully.md) | Dockworker | [The Docks](../maps/bain_docks.md) | Quests |
+| [Wenna](../npcs/wenna.md) | Net-Mender | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Wilmot](../npcs/wilmot.md) | Ropemaker | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+| [Ysolde](../npcs/ysolde.md) | Keeper of the Light | [Bain Harbour](../maps/bain_harbour.md) | Quests |
+
+## Goa Harbour
+
+| NPC | Title | Where | Services |
+|---|---|---|---|
+| [Agna](../npcs/agna_netmender.md) | Net-Mender | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Ailsa](../npcs/ailsa_tidebook.md) | Keeper of the Tide Book | [The Wardens' House](../maps/wardens_house.md) | Quests |
+| [Arlo](../npcs/arlo_child.md) | Son of the First Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Bethoc](../npcs/bethoc_innkeeper.md) | Keeper of the Gap Inn | [The Gap Inn](../maps/gap_inn.md) | Shop: [The Gap Inn](../shops/gap_inn.md), Quests |
+| [Brigid](../npcs/brigid_herbs.md) | Herb Gatherer | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Brodie](../npcs/brodie_fishmonger.md) | Fishmonger | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Brodie's Fish](../shops/brodies_fish.md) |
+| [Caddoc](../npcs/caddoc_trapper.md) | Trapper | [Goa Harbour](../maps/goa_harbour.md) | Run: [Caddoc's Night Trap](../runs/caddocs_night.md), Quests |
+| [Calder](../npcs/calder_fisher.md) | Cove Fisher | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Cormac](../npcs/cormac_singer.md) | Shanty Singer | [The Gap Inn](../maps/gap_inn.md) | Quests |
+| [Corrie](../npcs/corrie_pilot.md) | Apprentice Pilot | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Dougal](../npcs/dougal_quaywatch.md) | Night Watchman of the Quay | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Dunmor](../npcs/dunmor_lamplighter.md) | Lamplighter of the Quays | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Eilidh](../npcs/eilidh_child.md) | Fisher's Daughter | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Elspeth](../npcs/elspeth_healer.md) | Healer | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Elspeth's Remedies](../shops/elspeths_remedies.md), Quests |
+| [Esk](../npcs/esk_adventurer.md) | Sellsword of the Wild Coast | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Fionn](../npcs/fionn_child.md) | Stair Runner | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Gorm](../npcs/gorm_stairs.md) | Master of the Stairs | [Goa Harbour](../maps/goa_harbour.md) | Run: [Below the Anvil](../runs/gorms_night_work.md), Quests |
+| [Greer](../npcs/greer_furs.md) | Fur Trader | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Greer's Furs](../shops/greers_furs.md) |
+| [Gunna](../npcs/gunna_lanterns.md) | Master Lantern-Maker | [Gunna's Workshop](../maps/gunnas_workshop.md) | Quests |
+| [Gwenna](../npcs/gwenna_outfitter.md) | Outfitter | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | Shop: [Gwenna's Outfitting](../shops/gwennas_outfitting.md) |
+| [Haldor](../npcs/haldor_timber.md) | Head of the Timber Crews | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Halvard](../npcs/halvard_clerk.md) | Clerk of the Wardens' House | [The Wardens' House](../maps/wardens_house.md) | Quests |
+| [Hamish](../npcs/hamish_lift.md) | Rope-Lift Keeper | [Goa Harbour](../maps/goa_harbour.md) | Storage, Quests |
+| [Iska](../npcs/first_warden_iska.md) | First Warden | [The Wardens' House](../maps/wardens_house.md) | Boss: [The Undertow](../bosses/undertow.md), Quests |
+| [Jory](../npcs/jory_crew.md) | Race Crew | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Kenna](../npcs/kenna_hunter.md) | Young Hunter | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Kestra](../npcs/kestra_bridges.md) | Rope-Bridge Builder | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Kor](../npcs/warden_kor.md) | Sea Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Lachlan](../npcs/lachlan_adventurer.md) | Adventurer | [Goa Harbour](../maps/goa_harbour.md) | Boss: [The Inkmother](../bosses/inkmother.md), Quests |
+| [Merrin](../npcs/merrin_timber.md) | Timber Cutter | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Mhairi](../npcs/mhairi_fiddler.md) | Fiddler | [The Gap Inn](../maps/gap_inn.md) | Quests |
+| [Moira](../npcs/moira_watch.md) | Cliff Watch Guard | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Morag](../npcs/morag_wool.md) | Wool Trader | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Morag's Wool](../shops/morags_wool.md) |
+| [Nessa](../npcs/warden_nessa.md) | Sea Warden | [The Wardens' House](../maps/wardens_house.md) | Quests |
+| [Osric](../npcs/osric_woodsman.md) | Woodsman | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Ronan](../npcs/ronan_child.md) | Fisher's Son | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Ruan](../npcs/ruan_cliffwatch.md) | Captain of the Cliff Watch | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Sorcha](../npcs/sorcha_fisher.md) | Cove Fisher | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Tamsin](../npcs/tamsin_boatwright.md) | Boatwright | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Tarran](../npcs/tarran_lanterns.md) | Lantern-Maker's Apprentice | [Gunna's Workshop](../maps/gunnas_workshop.md) | Quests |
+| [Teague](../npcs/teague_drover.md) | Highland Drover | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Torva](../npcs/torva_hunter.md) | Hunter of the Wild Coast | [Goa Harbour](../maps/goa_harbour.md) | Boss: [The Gapclaw](../bosses/gapclaw.md), Boss: [Old Brushtail](../bosses/old_brushtail.md), Quests |
+| [Ulric](../npcs/ulric_stonecarver.md) | Stonecarver | [Goa Harbour](../maps/goa_harbour.md) | Quests |
+| [Varro](../npcs/warden_varro.md) | Eldest of the Sea Wardens | [The Wardens' House](../maps/wardens_house.md) | Quests |
+| [Ysmay](../npcs/grizel_elder.md) | Retired Sea Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests |

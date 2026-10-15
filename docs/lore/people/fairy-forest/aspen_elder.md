@@ -10,6 +10,7 @@
 | Where | Lantern Paths |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Aspen](../../../npcs/aspen_elder.md) |
 
 ## Personality
 

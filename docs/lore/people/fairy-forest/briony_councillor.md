@@ -10,6 +10,7 @@
 | Where | Herb Gardens |
 | Role | Council |
 | Age | Elder |
+| In the game | [Briony](../../../npcs/briony_councillor.md) |
 
 ## Personality
 

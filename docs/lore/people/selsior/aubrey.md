@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Guard |
 | Age | Elder |
+| In the game | [Aubrey](../../../npcs/aubrey.md) |
 
 ## Personality
 

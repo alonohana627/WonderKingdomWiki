@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Official |
 | Age | Adult |
+| In the game | [Dimity 'Inkpot' Ash](../../../npcs/dimity_ash.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Adventurer |
 | Age | Elder |
+| In the game | [Roland](../../../npcs/roland.md) |
 
 ## Personality
 

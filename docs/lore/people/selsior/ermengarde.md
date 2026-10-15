@@ -10,6 +10,7 @@
 | Where | Scholars' Quarter |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Ermengarde](../../../npcs/ermengarde.md) |
 
 ## Personality
 

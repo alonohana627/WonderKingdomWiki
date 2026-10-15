@@ -9,6 +9,7 @@
 | Town | [Midbarium](../../towns/midbarium.md) |
 | Where | Trading Post |
 | Sells | Lowland goods, lamp oil, salt, tools and travel supplies |
+| In the game | [Corwell](../../../npcs/corwell.md) |
 
 ## Relationships
 

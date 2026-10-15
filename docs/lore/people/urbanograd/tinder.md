@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Tinder](../../../npcs/tinder.md) |
 
 ## Personality
 

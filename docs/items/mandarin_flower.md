@@ -11,6 +11,7 @@
 
 ## How to get
 
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 40 mesos
 - Gathered from Mandarin Patch ([Herbalism](../professions/herbalism.md) level 10)
 
 ## Used for
@@ -19,4 +20,5 @@
 - [Speed Potion](../items/speed_potion.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Warrior Potion](../items/warrior_potion.md) ([Alchemy](../professions/alchemy.md), x2)
 - [White Potion](../items/white_potion.md) ([Alchemy](../professions/alchemy.md), x2)
+- [Spore Draught](../items/spore_draught.md) ([Alchemy](../professions/alchemy.md), x1)
 - [Mandarin Dango](../items/mandarin_dango.md) ([Cooking](../professions/cooking.md), x2)

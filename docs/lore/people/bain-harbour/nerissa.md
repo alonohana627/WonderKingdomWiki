@@ -10,6 +10,7 @@
 | Where | Fish Market |
 | Role | Worker |
 | Age | Young |
+| In the game | [Nerissa](../../../npcs/nerissa.md) |
 
 ## Personality
 

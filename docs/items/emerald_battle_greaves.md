@@ -9,12 +9,41 @@
 | Type | Equipment |
 | Slot | Shoe |
 | Required level | 30 |
-| Stats | Defense +40, Speed +14, Jump +8 |
+| Stats | Defense +14, Speed +14, Jump +8 |
 | Upgrade slots | 6 |
 | Sells for | 900 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.05%)
+- Dropped by [Curse Eye](../monsters/curse_eye.md) (0.08%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.03%)
+- Dropped by [Bootcrab](../monsters/bootcrab.md) (0.1%)
+- Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.1%)
+- Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.1%)
+- Dropped by [Snapjaw](../monsters/snapjaw.md) (0.1%)
+- Dropped by [Gloomfur Lupin](../monsters/gloomfur_lupin.md) (0.08%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (0.05%)
+- Dropped by [Sea Newt](../monsters/sea_newt.md) (0.06%)
+- Dropped by [Shore Crab](../monsters/shore_crab.md) (0.06%)
+- Dropped by [Gnarltusk](../monsters/gnarltusk.md), [Gnarltusk](../bosses/gnarltusk.md) (Normal) (6%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.1%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.03%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 1,800 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,800 mesos
+- Sold at [Simkin's Boots](../shops/simkin_boots.md) for 1,800 mesos
+- Sold at [Cobble's Boots](../shops/urbanograd_cobble.md) for 1,800 mesos

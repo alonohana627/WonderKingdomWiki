@@ -12,4 +12,5 @@
 
 ## How to get
 
+- Sold at [Margery's Bakery](../shops/margery_bakery.md) for 70 mesos
 - Made with [Cooking](../professions/cooking.md) (level 3)

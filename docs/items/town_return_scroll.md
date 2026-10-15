@@ -12,8 +12,19 @@
 
 ## How to get
 
+- Sold at [Merriwether's Chandlery](../shops/bain_chandler.md) for 400 mesos
+- Sold at [Galen's Staves and Scrolls](../shops/galens_shop.md) for 400 mesos
+- Sold at [Vesper's Lights](../shops/vesper_lights.md) for 400 mesos
+- Sold at [Gwenna's Outfitting](../shops/gwennas_outfitting.md) for 400 mesos
 - Sold at [Marta's General Store](../shops/grocer.md) for 400 mesos
 - Sold at [Bram's Potions](../shops/potions.md) for 400 mesos
+- Sold at [The Trading Post](../shops/midbarium_trading_post.md) for 400 mesos
 - Sold at [Dame Orsa's General Store](../shops/selsior_general.md) for 400 mesos
 - Sold at [Mirel's Potions](../shops/selsior_potions.md) for 400 mesos
+- Sold at [Dog-Ear's Old Books](../shops/urbanograd_dogear.md) for 400 mesos
+- Sold at [Glim's Lanterns](../shops/urbanograd_glim.md) for 400 mesos
 - Made with [Scrollcrafting](../professions/scrollcrafting.md) (level 4)
+- Reward from [The Council's Letters](../quests/ilwen_letters_kaldemor.md)
+- Reward from [Letters for the Capital](../quests/ilwen_letters_selsior.md)
+- Reward from [The First Report](../quests/hask_the_first_report.md)
+- Reward from [Spring Letters](../quests/odda_spring_letters.md)

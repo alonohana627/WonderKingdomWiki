@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Eye Accessorie |
 | Required level | 10 |
-| Stats | Max HP +30, Defense +5 |
+| Stats | Max HP +30, Defense +4 |
 | Sells for | 150 mesos |
 
 ## How to get
 
 - Dropped by [Stump](../monsters/stump.md) (0.12%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 300 mesos
+- Sold at [Nix's Masks](../shops/urbanograd_nix.md) for 300 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 300 mesos

@@ -10,6 +10,7 @@
 | Where | Shipyard |
 | Role | Child |
 | Age | Child |
+| In the game | [Kit](../../../npcs/kit.md) |
 
 ## Personality
 

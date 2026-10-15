@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Gytha](../../../npcs/gytha.md) |
 
 ## Personality
 

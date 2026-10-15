@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Ozzie Lantry](../../../npcs/hob_lantry.md) |
 
 ## Personality
 

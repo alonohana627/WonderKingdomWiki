@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Thurstan](../../../npcs/thurstan.md) |
 
 ## Personality
 

@@ -11,6 +11,7 @@
 | Role | Child |
 | Age | Child |
 | Family | Kragvar |
+| In the game | [Korrin](../../../npcs/korrin_kragvar.md) |
 
 ## Personality
 

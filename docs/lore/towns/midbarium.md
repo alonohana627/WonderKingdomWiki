@@ -120,6 +120,9 @@ The four chieftains today are:
 !!! tip "People"
     Everyone who lives here in the first release: [People of Midbarium](../people/midbarium/index.md).
 
+!!! info "In the game"
+    Midbarium is in the game. Its [town guide](../../towns/midbarium.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/midbarium_quests.md) are laid out line by line.
+
 !!! abstract "Design notes"
     The geography and look are inspired by MapleStory's Perion. Midbarium is rural and mountainous, ruled by the chieftains of four families and the Old One, with a dry highland and desert feel. It should draw on highland, canyon and steppe cultures, not on Middle Eastern or Arabian desert cultures. Still open: how a family decides between rivals when it chooses a chieftain.
 

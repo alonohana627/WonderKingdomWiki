@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Hat |
 | Required level | 5 |
-| Stats | Defense +12 |
+| Stats | Defense +11 |
 | Upgrade slots | 8 |
 | Sells for | 120 mesos |
 

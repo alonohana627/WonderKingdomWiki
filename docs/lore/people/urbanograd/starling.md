@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Starling](../../../npcs/starling.md) |
 
 ## Personality
 

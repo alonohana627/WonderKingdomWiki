@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Grilled skewers, pepper buns and hot cider |
+| In the game | [Hester 'Ladle' Cray](../../../npcs/juniper_cray.md) |
 
 ## Relationships
 

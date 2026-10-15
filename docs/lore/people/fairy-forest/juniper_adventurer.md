@@ -10,6 +10,7 @@
 | Where | Forest Edge |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Juniper](../../../npcs/juniper_adventurer.md) |
 
 ## Personality
 

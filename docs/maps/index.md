@@ -2,23 +2,237 @@
 
 # Maps
 
-| Map | Region | Kind | Level | Monsters |
-|---|---|---|---|---|
-| [Kaldemor](../maps/kaldemor.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - |
-| [Kaldemor Market](../maps/kaldemor_market.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - |
-| [Kaldemor Park](../maps/kaldemor_park.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - |
-| [Kaldemor Field](../maps/kaldemor_field.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1 | [Snail](../monsters/snail.md), [Blue Snail](../monsters/blue_snail.md), [Red Snail](../monsters/red_snail.md) |
-| [Kaldemor Hills](../maps/kaldemor_hills.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1 | [Red Snail](../monsters/red_snail.md), [Pig](../monsters/pig.md) |
-| [Kaldemor Woods](../maps/kaldemor_woods.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 2 | [Shroom](../monsters/shroom.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
-| [The Hanging Course](../maps/gauntlet_course.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
-| [The Last Stand](../maps/gauntlet_holdout.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
-| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 3 | - |
-| [The Training Yard](../maps/gauntlet_yard.md) | [Kaldemor](../world/index.md#kaldemor) | Run | 3 | - |
-| [Kaldemor Reach](../maps/royal_road_1.md) | [The Royal Road](../world/index.md#royal-road) | Road | 3 | [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md) |
-| [The Crossing](../maps/royal_road_2.md) | [The Royal Road](../world/index.md#royal-road) | Road | 4 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
-| [Selsior Approach](../maps/royal_road_3.md) | [The Royal Road](../world/index.md#royal-road) | Road | 5 | [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
-| [Greenwood Clearing](../maps/greenwood_clearing.md) | [The Royal Road](../world/index.md#royal-road) | Hunting | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md), [Horny Mushroom](../monsters/horny_mushroom.md), [Axe Stump](../monsters/axe_stump.md) |
-| [Crown Market](../maps/selsior_market.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Selsior](../maps/selsior.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
-| [Selsior Gate](../maps/selsior_gate.md) | [Selsior](../world/index.md#selsior) | Town | - | - |
+| Map | Region | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|---|
+| [Ambrose's Chart Shop](../maps/bain_chart_shop.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Bain Harbour](../maps/bain_harbour.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Harbour Hall](../maps/bain_hall.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [Marram Cove](../maps/marram_cove.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Docks](../maps/bain_docks.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Salt and Bread](../maps/bain_inn.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Watch House](../maps/bain_watch_house.md) | [Bain Harbour](../world/index.md#bain-harbour) | Town | - | - | - |
+| [The Chalk Downs](../maps/chalk_downs.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 13 | 4 | [Scrub Wolf](../monsters/scrub_wolf.md) |
+| [Baysight Hill](../maps/baysight_hill.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 15 | 5 | [Bluff Wildcat](../monsters/bluff_wildcat.md) |
+| [The Dune Reach](../maps/dune_reach.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 17 | 6 | [Dune Cat](../monsters/dune_cat.md) |
+| [The Long Sands](../maps/long_sands.md) | [Bain Harbour](../world/index.md#bain-harbour) | Road | 19 | 7 | [Grey Tom](../monsters/grey_tom.md) |
+| [The First Locks](../maps/first_locks.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 22-24 | 8 | [Snapjaw](../monsters/snapjaw.md), [Bootcrab](../monsters/bootcrab.md) |
+| [The Timber Ponds](../maps/timber_ponds.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 26-28 | 9 | [Glass Jelly](../monsters/glass_jelly.md), [Ironback Crab](../monsters/ironback_crab.md) |
+| [The Main Deck](../maps/saltgrace_deck.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 21-22 | 10 | [Cave Bat](../monsters/cave_bat.md), [Hull Louse](../monsters/hull_louse.md) |
+| [The Pinch](../maps/the_pinch.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 22-28 | 10 | [Ironback Crab](../monsters/ironback_crab.md), [Bootcrab](../monsters/bootcrab.md) |
+| [The Main Deck, Aft](../maps/saltgrace_deck_aft.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 22-24 | 11 | [Hull Louse](../monsters/hull_louse.md), [Barnacle Crab](../monsters/barnacle_crab.md) |
+| [The Pinch Lock](../maps/pinch_lock.md) | [Bain Harbour](../world/index.md#bain-harbour) | Boss | 30 | 11 | - |
+| [The Rigging](../maps/saltgrace_rigging.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 21-22 | 11 | [Cave Bat](../monsters/cave_bat.md), [Hull Louse](../monsters/hull_louse.md) |
+| [The Holds](../maps/saltgrace_holds.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 24-28 | 12 | [Barnacle Crab](../monsters/barnacle_crab.md), [Wreck Mimic](../monsters/wreck_mimic.md) |
+| [The Salt Reach](../maps/salt_reach.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 33-38 | 12 | [Sawbill Fry](../monsters/sawbill_fry.md), [Sawbill](../monsters/sawbill.md) |
+| [The Galley](../maps/saltgrace_galley.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 24-26 | 13 | [Bilge Eel](../monsters/bilge_eel.md), [Barnacle Crab](../monsters/barnacle_crab.md) |
+| [The Lower Deck](../maps/saltgrace_lower_deck.md) | [Bain Harbour](../world/index.md#bain-harbour) | Dungeon | 22-28 | 14 | [Bilge Eel](../monsters/bilge_eel.md), [Wreck Mimic](../monsters/wreck_mimic.md), [Hull Louse](../monsters/hull_louse.md) |
+| [The Sea Locks](../maps/sea_locks.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 38-43 | 14 | [Spitting Sawbill](../monsters/spitting_sawbill.md), [Sawbill](../monsters/sawbill.md) |
+| [The Bright Morrow, by Night](../maps/bright_morrow_deck.md) | [Bain Harbour](../world/index.md#bain-harbour) | Run | - | 15 | - |
+| [The Captain's Cabin](../maps/saltgrace_cabin.md) | [Bain Harbour](../world/index.md#bain-harbour) | Boss | 45 | 15 | - |
+| [The Gullet](../maps/the_gullet.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 43-47 | 16 | [Pale Sawbill](../monsters/pale_sawbill.md), [Spitting Sawbill](../monsters/spitting_sawbill.md) |
+| [The Gullet Gates](../maps/gullet_gates.md) | [Bain Harbour](../world/index.md#bain-harbour) | Boss | 50 | 17 | - |
+| [The Outer Pier by Night](../maps/outer_pier_night.md) | [Bain Harbour](../world/index.md#bain-harbour) | Run | - | 18 | - |
+| [The Timber Path](../maps/timber_path.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 52 | 18 | [Dusk Wolf](../monsters/dusk_wolf.md) |
+| [Under the Outer Pier](../maps/under_the_pier.md) | [Bain Harbour](../world/index.md#bain-harbour) | Run | - | 18 | - |
+| [The Crossways](../maps/crossways.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 57 | 19 | [Whipshade](../monsters/whipshade.md) |
+| [The Cliff Edge](../maps/cliff_edge.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 62 | 20 | [Hookshade](../monsters/hookshade.md) |
+| [The Old Fellings](../maps/old_fellings.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 66 | 21 | [Glimshade](../monsters/glimshade.md) |
+| [The Rim](../maps/the_rim.md) | [Bain Harbour](../world/index.md#bain-harbour) | Hunting | 57-66 | 22 | [Whipshade](../monsters/whipshade.md), [Glimshade](../monsters/glimshade.md), [Hookshade](../monsters/hookshade.md) |
+| [The Lantern Deep](../maps/lantern_deep.md) | [Bain Harbour](../world/index.md#bain-harbour) | Boss | 70 | 23 | - |
+| [Kaldemor](../maps/kaldemor.md) | [Kaldemor](../world/index.md#kaldemor) | Town | - | - | - |
+| [Kaldemor Field](../maps/kaldemor_field.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 1-4 | 1 | [Shroom](../monsters/shroom.md), [Red Snail](../monsters/red_snail.md), [Blue Snail](../monsters/blue_snail.md), [Snail](../monsters/snail.md) |
+| [Kaldemor Hills](../maps/kaldemor_hills.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 7-10 | 2 | [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md), [Pig](../monsters/pig.md) |
+| [The Hanging Course](../maps/gauntlet_course.md) | [Kaldemor](../world/index.md#kaldemor) | Run | - | 3 | - |
+| [The Last Stand](../maps/gauntlet_holdout.md) | [Kaldemor](../world/index.md#kaldemor) | Run | - | 3 | - |
+| [The Snail King's Hollow](../maps/snail_kings_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 15 | 3 | - |
+| [The Training Yard](../maps/gauntlet_yard.md) | [Kaldemor](../world/index.md#kaldemor) | Run | - | 3 | - |
+| [The Boarwood](../maps/boarwood.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 21-22 | 4 | [Rooting Piglet](../monsters/rooting_piglet.md), [Hedge Boar](../monsters/hedge_boar.md) |
+| [The Cider Lanes](../maps/cider_lanes.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 8-9 | 4 | [Orchard Pig](../monsters/orchard_pig.md), [Orchard Snail](../monsters/orchard_snail.md) |
+| [The Last Stile](../maps/the_last_stile.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | - | 4 | - |
+| [The Deep Boarwood](../maps/boarwood_deep.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 27 | 5 | [Tusker](../monsters/tusker.md) |
+| [The Greenmarsh](../maps/the_greenmarsh.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | [Kaldemor](../world/index.md#kaldemor) | Road | 9-12 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
+| [Stilebrook Farm](../maps/stilebrook_farm.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 30 | 6 | - |
+| [The Humming Trail](../maps/humming_trail.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 31-33 | 6 | [Hoarder Shroom](../monsters/hoarder_shroom.md), [Horny Mushroom](../monsters/deepwood_horny.md) |
+| [Windflower Glade](../maps/windflower_glade.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 33-35 | 7 | [Windflower Cap](../monsters/windflower_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom.md) |
+| [The Bluecap Groves](../maps/bluecap_groves.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 40 | 8 | [Bluecap](../monsters/bluecap.md) |
+| [The Bluecap Groves](../maps/bluecap_groves_deep.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 40 | 8 | [Bluecap](../monsters/bluecap.md) |
+| [Breezy Hollow](../maps/breezy_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 46 | 9 | [Paleveil Cap](../monsters/paleveil_cap.md) |
+| [The Bluecap Hollow](../maps/bluecap_hollow.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 50 | 10 | - |
+| [The Keep Road](../maps/keep_road.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 53 | 10 | [Capguard](../monsters/capguard.md) |
+| [The Keep Road](../maps/keep_road_2.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 53-55 | 11 | [Capguard](../monsters/capguard.md), [Spore Puff](../monsters/spore_puff.md) |
+| [The Battlements](../maps/battlements_1.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 55-57 | 12 | [Spore Puff](../monsters/spore_puff.md), [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) |
+| [The Battlements](../maps/battlements_2.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 55-61 | 12 | [Hoarder Shroom](../monsters/hoarder_shroom_keep.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Spore Puff](../monsters/spore_puff.md) |
+| [The Battlements](../maps/battlements_3.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 57-61 | 12 | [Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) |
+| [The Inner Ward](../maps/inner_ward_1.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 61-66 | 13 | [Crowncap](../monsters/crowncap.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md) |
+| [The Inner Ward](../maps/inner_ward_2.md) | [Kaldemor](../world/index.md#kaldemor) | Hunting | 61-66 | 13 | [Crowncap](../monsters/crowncap.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md) |
+| [The Crown Tower](../maps/crown_tower.md) | [Kaldemor](../world/index.md#kaldemor) | Boss | 70 | 14 | - |
+| [Kaldemor Woods](../maps/kaldemor_woods.md) | [The Royal Road](../world/index.md#royal-road) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
+| [The Crossing](../maps/the_crossing.md) | [The Royal Road](../world/index.md#royal-road) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
+| [The Greenwood](../maps/the_greenwood.md) | [The Royal Road](../world/index.md#royal-road) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [Knights' Court](../maps/selsior_court.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Old Quarter](../maps/selsior_old_quarter.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Palace](../maps/selsior_palace.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Prudence's Workshop](../maps/alchemists_workshop.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Riverside](../maps/selsior_riverside.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Royal Plaza](../maps/selsior.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Scholars' Quarter](../maps/selsior_scholars.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Selene's Forge](../maps/selenes_forge.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Selsior Gate](../maps/selsior_gate.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Captain's Hall](../maps/knights_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Crooked Lantern](../maps/crooked_lantern.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Envoys' Hall](../maps/envoys_hall.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Gate Inn](../maps/gate_inn.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Royal Academy Library](../maps/academy_library.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Royal Vault](../maps/royal_vault.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [Theatre Row](../maps/selsior_theatre.md) | [Selsior](../world/index.md#selsior) | Town | - | - | - |
+| [The Delver's Burrow](../maps/delvers_burrow.md) | [Selsior](../world/index.md#selsior) | Boss | 30 | 0 | - |
+| [The First Cut](../maps/first_cut.md) | [Selsior](../world/index.md#selsior) | Boss | 70 | 0 | - |
+| [The Heron Pool](../maps/heron_pool.md) | [Selsior](../world/index.md#selsior) | Boss | 50 | 0 | - |
+| [The Hive Hollow](../maps/hive_hollow.md) | [Selsior](../world/index.md#selsior) | Boss | 30 | 0 | - |
+| [The Hedge Lanes](../maps/hedge_lanes.md) | [Selsior](../world/index.md#selsior) | Road | 7-9 | 3 | [Slime](../monsters/slime.md), [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
+| [The Waystone Meadows](../maps/waystone_meadows.md) | [Selsior](../world/index.md#selsior) | Road | 11-15 | 4 | [Ribbon Pig](../monsters/ribbon_pig.md), [Green Mushroom](../monsters/green_mushroom.md), [Horny Mushroom](../monsters/horny_mushroom.md) |
+| [The Rootlands](../maps/rootlands.md) | [Selsior](../world/index.md#selsior) | Road | 10-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Stump](../monsters/stump.md), [Axe Stump](../monsters/axe_stump.md) |
+| [Downs Edge](../maps/downs_edge.md) | [Selsior](../world/index.md#selsior) | Hunting | 21-24 | 6 | [Wild Bee](../monsters/wild_bee.md), [Downs Boar](../monsters/downs_boar.md) |
+| [The Thyme Banks](../maps/thyme_banks.md) | [Selsior](../world/index.md#selsior) | Hunting | 21-24 | 7 | [Downs Boar](../monsters/downs_boar.md), [Wild Bee](../monsters/wild_bee.md) |
+| [The Chalk Hives](../maps/chalk_hives.md) | [Selsior](../world/index.md#selsior) | Hunting | 28 | 8 | [Chalk Hive Bee](../monsters/chalk_hive_bee.md) |
+| [The Quarry Landing](../maps/quarry_landing.md) | [Selsior](../world/index.md#selsior) | Road | - | 9 | - |
+| [The Old Drains](../maps/old_drains.md) | [Selsior](../world/index.md#selsior) | Dungeon | 22-24 | 10 | [Drain Rat](../monsters/drain_rat.md), [Drain Stirge](../monsters/drain_stirge.md) |
+| [The Reed Beds](../maps/reed_beds.md) | [Selsior](../world/index.md#selsior) | Hunting | 32 | 10 | [Reed Ligator](../monsters/reed_ligator.md) |
+| [The Cisterns](../maps/cisterns.md) | [Selsior](../world/index.md#selsior) | Dungeon | 25-28 | 12 | [Cistern Bubbling](../monsters/cistern_bubbling.md), [Black Drain Rat](../monsters/black_drain_rat.md), [Tunnel Bat](../monsters/tunnel_bat.md) |
+| [The Long Reach Banks](../maps/reach_banks.md) | [Selsior](../world/index.md#selsior) | Hunting | 32-41 | 12 | [Bank Lorang](../monsters/bank_lorang.md), [Bank Clang](../monsters/bank_clang.md), [Reed Ligator](../monsters/reed_ligator.md) |
+| [The Buried Street](../maps/buried_street.md) | [Selsior](../world/index.md#selsior) | Dungeon | 26-28 | 14 | [Black Drain Rat](../monsters/black_drain_rat.md), [Tunnel Bat](../monsters/tunnel_bat.md) |
+| [The Undercut](../maps/the_undercut.md) | [Selsior](../world/index.md#selsior) | Hunting | 46 | 14 | [Undercut Croco](../monsters/undercut_croco.md) |
+| [The Spoil Heaps](../maps/spoil_heaps.md) | [Selsior](../world/index.md#selsior) | Hunting | 53 | 16 | [Rubble Golem](../monsters/rubble_golem.md) |
+| [The Terraced Cuts](../maps/terraced_cuts.md) | [Selsior](../world/index.md#selsior) | Hunting | 58 | 18 | [Quarry Golem](../monsters/quarry_golem.md) |
+| [The Deep Cut](../maps/deep_cut.md) | [Selsior](../world/index.md#selsior) | Hunting | 63-67 | 20 | [Dark Quarry Golem](../monsters/dark_quarry_golem.md), [Cut Golem](../monsters/cut_golem.md) |
+| [Children's Glade](../maps/childrens_glade.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Fairy Forest](../maps/fairy_forest.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Galen's Staves and Scrolls](../maps/galens_shop.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [Grove School](../maps/grove_school.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Old Records](../maps/old_records.md) | [Fairy Forest](../world/index.md#fairy-forest) | Town | - | 0 | - |
+| [The Forest's Hem](../maps/forests_hem.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 9-11 | 3 | [Bubbling](../monsters/bubbling.md), [Slime](../monsters/slime.md) |
+| [The Glimmer Path](../maps/glimmer_path.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 9-12 | 4 | [Slime](../monsters/slime.md), [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [The Bloomwood](../maps/bloomwood.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 11-13 | 5 | [Glimmerwing](../monsters/glimmerwing.md), [Bubbling](../monsters/bubbling.md) |
+| [The Bloomwood, South](../maps/bloomwood_south.md) | [Fairy Forest](../world/index.md#fairy-forest) | Road | 13-17 | 6 | [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md), [Glimmerwing](../monsters/glimmerwing.md) |
+| [Shimmerwater, the First Path](../maps/shimmerwater_path_1.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 19 | 8 | [Firefly Slime](../monsters/firefly_slime.md) |
+| [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 19-22 | 9 | [Shimmer Slime](../monsters/fairy_slime.md), [Firefly Slime](../monsters/firefly_slime.md) |
+| [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 25-27 | 10 | [Water Sprite](../monsters/water_sprite.md), [Forest Sprite](../monsters/forest_sprite.md) |
+| [The Lakehead](../maps/lakehead.md) | [Fairy Forest](../world/index.md#fairy-forest) | Boss | 30 | 11 | - |
+| [The High Shore](../maps/high_shore_1.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 31 | 12 | [Evil Eye](../monsters/evil_eye.md) |
+| [The High Shore, Upper Banks](../maps/high_shore_2.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 31-34 | 13 | [Evil Eye](../monsters/evil_eye.md), [Curse Eye](../monsters/curse_eye.md) |
+| [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 34-37 | 14 | [Cold Eye](../monsters/cold_eye.md), [Curse Eye](../monsters/curse_eye.md) |
+| [The Hushed Grove](../maps/hushed_grove.md) | [Fairy Forest](../world/index.md#fairy-forest) | Dungeon | 20-24 | 15 | [Flying Book](../monsters/flying_book.md), [Dust Wisp](../monsters/dust_wisp.md) |
+| [The Shadowed Grove](../maps/shadowed_grove.md) | [Fairy Forest](../world/index.md#fairy-forest) | Dungeon | 22-26 | 15 | [Flying Book](../monsters/flying_book.md), [Snapping Book](../monsters/snapping_book.md), [Ink Imp](../monsters/ink_imp.md) |
+| [The Stilled Grove](../maps/stilled_grove.md) | [Fairy Forest](../world/index.md#fairy-forest) | Dungeon | 22-26 | 15 | [Ink Imp](../monsters/ink_imp.md), [Snapping Book](../monsters/snapping_book.md) |
+| [The Hollow Oak, Boughs](../maps/hollow_oak_boughs.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 41 | 16 | [Sharpened Lupin](../monsters/sharpened_lupin.md) |
+| [The Old Reading Room](../maps/old_reading_room.md) | [Fairy Forest](../world/index.md#fairy-forest) | Boss | 30 | 16 | - |
+| [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 44-47 | 18 | [Gloomfur Lupin](../monsters/gloomfur_lupin.md), [Surgeon Eye](../monsters/surgeon_eye.md) |
+| [The Torn Crown](../maps/torn_crown.md) | [Fairy Forest](../world/index.md#fairy-forest) | Boss | 50 | 20 | - |
+| [The Deepening, I](../maps/deepening_1.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 51 | 22 | [Gloaming Wisp](../monsters/deep_forest_wisp.md) |
+| [The Deepening, II](../maps/deepening_2.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 51-55 | 23 | [Gloaming Wisp](../monsters/deep_forest_wisp.md), [Thorny Bramble](../monsters/thorny_bramble.md) |
+| [The Deepening, III](../maps/deepening_3.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 55-58 | 24 | [Thorny Bramble](../monsters/thorny_bramble.md), [Forest Howlet](../monsters/forest_howlet.md) |
+| [The Deepening, IV](../maps/deepening_4.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 58-60 | 25 | [Night Howlet](../monsters/night_howlet.md), [Forest Howlet](../monsters/forest_howlet.md) |
+| [The Deepening, V](../maps/deepening_5.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 62 | 26 | [Forest Glimmerfox](../monsters/forest_glimmerfox.md) |
+| [The Twilit Wood, I](../maps/twilit_wood_1.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 64 | 27 | [Night Glimmerfox](../monsters/night_glimmerfox.md) |
+| [The Twilit Wood, II](../maps/twilit_wood_2.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 64-66 | 28 | [Night Glimmerfox](../monsters/night_glimmerfox.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
+| [The Twilit Wood, III](../maps/twilit_wood_3.md) | [Fairy Forest](../world/index.md#fairy-forest) | Hunting | 66-68 | 29 | [Deep Spring Sprite](../monsters/deep_spring_sprite.md), [Blue Spring Sprite](../monsters/blue_spring_sprite.md) |
+| [The Hidden Spring](../maps/hidden_spring.md) | [Fairy Forest](../world/index.md#fairy-forest) | Boss | 70 | 30 | - |
+| [Goa Harbour](../maps/goa_harbour.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Gull Heath](../maps/gull_heath.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Gunna's Workshop](../maps/gunnas_workshop.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [The Gap Inn](../maps/gap_inn.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [The Wardens' House](../maps/wardens_house.md) | [Goa Harbour](../world/index.md#goa-harbour) | Town | - | - | - |
+| [Below the Anvil, at Night](../maps/anvil_night.md) | [Goa Harbour](../world/index.md#goa-harbour) | Run | - | - | - |
+| [Brushtail's Earth](../maps/brushtails_earth.md) | [Goa Harbour](../world/index.md#goa-harbour) | Boss | 30 | - | - |
+| [Caddoc's Trap, at Night](../maps/caddocs_trap_night.md) | [Goa Harbour](../world/index.md#goa-harbour) | Run | - | - | - |
+| [The Gapclaw's Hollow](../maps/gapclaws_hollow.md) | [Goa Harbour](../world/index.md#goa-harbour) | Boss | 50 | - | - |
+| [The Inkmother's Pool](../maps/inkmothers_pool.md) | [Goa Harbour](../world/index.md#goa-harbour) | Boss | 40 | - | - |
+| [The Scour](../maps/the_scour.md) | [Goa Harbour](../world/index.md#goa-harbour) | Boss | 70 | - | - |
+| [Gorse Downs](../maps/gorse_downs.md) | [Goa Harbour](../world/index.md#goa-harbour) | Road | 11-16 | 4 | [Ribbon Pig](../monsters/ribbon_pig.md), [Ditch Eye](../monsters/ditch_eye.md) |
+| [Saltwood Road](../maps/saltwood_road.md) | [Goa Harbour](../world/index.md#goa-harbour) | Road | 17-18 | 5 | [Dark Stump](../monsters/dark_stump.md), [Zombie Mushroom](../monsters/zombie_mushroom.md) |
+| [Seaward Woods](../maps/seaward_woods.md) | [Goa Harbour](../world/index.md#goa-harbour) | Road | 17-18 | 5 | [Lorang](../monsters/lorang.md), [Lupin](../monsters/lupin.md) |
+| [Dusk Ford](../maps/dusk_ford.md) | [Goa Harbour](../world/index.md#goa-harbour) | Road | 19-20 | 6 | [Ligator](../monsters/ligator.md), [Jr. Necki](../monsters/jr_necki.md) |
+| [The Gullwalk](../maps/gullwalk.md) | [Goa Harbour](../world/index.md#goa-harbour) | Road | 17-19 | 6 | [Kestrel](../monsters/kestrel.md), [Lorang](../monsters/lorang.md) |
+| [Strandwood Edge](../maps/strandwood_edge.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 22-24 | 7 | [Wrack Boar](../monsters/wrack_boar.md), [Driftstump](../monsters/driftstump.md) |
+| [Strandwood Rocks](../maps/strandwood_rocks.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 24-27 | 8 | [Driftstump](../monsters/driftstump.md), [Strand Fox Cub](../monsters/strand_fox_cub.md), [Strand Fox](../monsters/strand_fox.md) |
+| [The Mouths](../maps/sounding_mouths.md) | [Goa Harbour](../world/index.md#goa-harbour) | Dungeon | 20 | 8 | [Cave Crab](../monsters/cave_crab.md), [Glowjelly](../monsters/glowjelly.md) |
+| [Gwenna's Drop](../maps/gwennas_drop.md) | [Goa Harbour](../world/index.md#goa-harbour) | Dungeon | 20 | 10 | [Blind Bat](../monsters/blind_bat.md), [Cave Crab](../monsters/cave_crab.md), [Cave Octopus](../monsters/cave_octopus.md) |
+| [The Saltface](../maps/saltface.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 32-38 | 10 | [Shore Crab](../monsters/shore_crab.md), [Sea Newt](../monsters/sea_newt.md) |
+| [The Undercliff](../maps/undercliff.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 32-42 | 11 | [Shore Crab](../monsters/shore_crab.md), [Sea Newt](../monsters/sea_newt.md), [Sea Slater](../monsters/sea_slater.md) |
+| [The Long Echo](../maps/long_echo.md) | [Goa Harbour](../world/index.md#goa-harbour) | Dungeon | 20 | 12 | [Blind Bat](../monsters/blind_bat.md), [Glowjelly](../monsters/glowjelly.md), [Cave Octopus](../monsters/cave_octopus.md) |
+| [The Wrack Ledges](../maps/wrack_ledges.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 38-46 | 12 | [Sea Slater](../monsters/sea_slater.md), [Sea Newt](../monsters/sea_newt.md), [Saltgull](../monsters/saltgull.md) |
+| [The Forest Jaw](../maps/forest_jaw.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 52-56 | 14 | [Jaw Crab](../monsters/jaw_crab.md), [Saltdead Stump](../monsters/saltdead_stump.md) |
+| [The Still Pool](../maps/still_pool.md) | [Goa Harbour](../world/index.md#goa-harbour) | Dungeon | 20 | 14 | [Cave Octopus](../monsters/cave_octopus.md), [Glowjelly](../monsters/glowjelly.md), [Blind Bat](../monsters/blind_bat.md) |
+| [The Greystrand](../maps/drowned_strand.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 52-61 | 15 | [Saltdead Stump](../monsters/saltdead_stump.md), [Wrackgolem](../monsters/wrackgolem.md) |
+| [The Skerries](../maps/skerries.md) | [Goa Harbour](../world/index.md#goa-harbour) | Hunting | 61-66 | 16 | [Wrackgolem](../monsters/wrackgolem.md), [Grey Bull](../monsters/grey_bull.md) |
+| [Midbarium](../maps/midbarium.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Great Hall](../maps/great_hall.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Old War Camp](../maps/old_war_camp.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Trading Post](../maps/trading_post.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [Zirra's Workshop](../maps/zirras_workshop.md) | [Midbarium](../world/index.md#midbarium) | Town | - | - | - |
+| [The Canyon Road](../maps/canyon_road.md) | [Midbarium](../world/index.md#midbarium) | Road | 15 | 5 | [Dust Boggle](../monsters/dust_boggle.md) |
+| [The North Ridge](../maps/north_ridge.md) | [Midbarium](../world/index.md#midbarium) | Road | 17 | 6 | [Ridge Stump](../monsters/ridge_stump.md) |
+| [The South Path](../maps/south_path.md) | [Midbarium](../world/index.md#midbarium) | Road | 15-17 | 6 | [Ridge Stump](../monsters/ridge_stump.md), [Dust Boggle](../monsters/dust_boggle.md) |
+| [The Edgewood](../maps/edgewood.md) | [Midbarium](../world/index.md#midbarium) | Road | 18 | 7 | [Edge Lizard](../monsters/edge_lizard.md) |
+| [The Young Woods](../maps/young_woods.md) | [Midbarium](../world/index.md#midbarium) | Road | 19 | 7 | [Snapping Lizard](../monsters/snapping_lizard.md) |
+| [Windworn Hill](../maps/windworn_hill.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 22 | 8 | [Gnarled Stump](../monsters/gnarled_stump.md) |
+| [The Long Ridge](../maps/long_ridge.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 21-22 | 9 | [Axe Stump](../monsters/axe_stump.md), [Gnarled Stump](../monsters/gnarled_stump.md) |
+| [The Broken Ground](../maps/broken_ground.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 26-28 | 10 | [Dark Axe Stump](../monsters/dark_axe_stump.md), [Pale Stump](../monsters/pale_stump.md) |
+| [The Dustfall Mouth](../maps/dustfall_mouth.md) | [Midbarium](../world/index.md#midbarium) | Dungeon | 22 | 10 | [Drakeling](../monsters/drakeling.md) |
+| [The Cliff Gallery](../maps/cliff_gallery.md) | [Midbarium](../world/index.md#midbarium) | Dungeon | 22-24 | 11 | [Drakeling](../monsters/drakeling.md), [Cave Drake](../monsters/cave_drake.md) |
+| [Howling Peak](../maps/howling_peak.md) | [Midbarium](../world/index.md#midbarium) | Boss | 30 | 12 | - |
+| [The Cold Draught](../maps/cold_draught.md) | [Midbarium](../world/index.md#midbarium) | Dungeon | 24-26 | 12 | [Cave Drake](../monsters/cave_drake.md), [Frost Drake](../monsters/frost_drake.md) |
+| [The Chill Caves](../maps/chill_caves.md) | [Midbarium](../world/index.md#midbarium) | Dungeon | 26 | 13 | [Frost Drake](../monsters/frost_drake.md) |
+| [The Far Anchor](../maps/far_anchor.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 32-34 | 13 | [Cliff Gnawer](../monsters/cliff_gnawer.md), [Wild Boar](../monsters/wild_boar.md) |
+| [The Boar Runs](../maps/boar_runs.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 34-38 | 14 | [Wild Boar](../monsters/wild_boar.md), [Scarred Boar](../monsters/scarred_boar.md) |
+| [The Far Anchor at Night](../maps/far_anchor_night.md) | [Midbarium](../world/index.md#midbarium) | Run | - | 14 | - |
+| [The Sunken Pool](../maps/sunken_pool.md) | [Midbarium](../world/index.md#midbarium) | Boss | 26 | 14 | - |
+| [The Ironback Flats](../maps/ironback_flats.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 38-42 | 15 | [Scarred Boar](../monsters/scarred_boar.md), [Flint Hog](../monsters/flint_hog.md) |
+| [The Hot Rocks](../maps/hot_rocks.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 42-46 | 16 | [Flint Hog](../monsters/flint_hog.md), [Iron Boar](../monsters/iron_boar.md) |
+| [The Ash Mesa](../maps/ash_mesa.md) | [Midbarium](../world/index.md#midbarium) | Boss | 50 | 18 | - |
+| [The Dry Hills](../maps/dry_hills.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 52 | 20 | [Swollen Stump](../monsters/swollen_stump.md) |
+| [The Grey Road](../maps/grey_road.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 52-55 | 21 | [Swollen Stump](../monsters/swollen_stump.md), [Raider Boar](../monsters/raider_boar.md) |
+| [The Lonely Rocks](../maps/lonely_rocks.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 55-57 | 22 | [Swollen Dark Stump](../monsters/swollen_dark_stump.md), [Raider Boar](../monsters/raider_boar.md) |
+| [The Weathered Rocks](../maps/weathered_rocks.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 52-57 | 23 | [Swollen Dark Stump](../monsters/swollen_dark_stump.md), [Raider Boar](../monsters/raider_boar.md), [Swollen Stump](../monsters/swollen_stump.md) |
+| [The War Camp Ruins](../maps/war_camp_ruins.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 60-62 | 24 | [War Mask](../monsters/war_mask.md), [Bone Hound](../monsters/bone_hound.md) |
+| [The Deserted Ridge](../maps/deserted_ridge.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 65 | 25 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md) |
+| [The Red Ravine](../maps/red_ravine.md) | [Midbarium](../world/index.md#midbarium) | Hunting | 65-67 | 27 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md), [Stone Hulk](../monsters/stone_hulk.md) |
+| [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | [Midbarium](../world/index.md#midbarium) | Boss | 70 | 30 | - |
+| [Cobble's Shop](../maps/urbanograd_bootmaker.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Dyna's Shop](../maps/urbanograd_tailor.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Ferro's Forge](../maps/urbanograd_forge.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Margo's Workshop](../maps/urbanograd_workshop.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Patch's Herb House](../maps/urbanograd_herb_house.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Great Hall](../maps/urbanograd_great_hall.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Night Market](../maps/urbanograd_night_market.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [Urbanograd](../maps/urbanograd.md) | [Urbanograd](../world/index.md#urbanograd) | Town | - | - | - |
+| [The Halfway Stone](../maps/halfway_stone.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 14-15 | 3 | [Stack Rat](../monsters/stack_rat.md), [Pool Octopus](../monsters/pool_octopus.md) |
+| [Gate Meadows](../maps/gate_meadows.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 16-17 | 4 | [Verge Adder](../monsters/verge_adder.md), [Young Gloomeye](../monsters/young_gloomeye.md) |
+| [Seepwater Foothills](../maps/seepwater_foothills.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 17-18 | 4 | [Bog-Lurcher](../monsters/bog_lurcher.md), [Seep Toad](../monsters/seep_toad.md) |
+| [Western Descent](../maps/western_descent.md) | [Urbanograd](../world/index.md#urbanograd) | Road | 17-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Axe Stump](../monsters/axe_stump.md) |
+| [The Outworks: Outer Ditch](../maps/outworks_ditch.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 22-25 | 6 | [Gloomeye](../monsters/gloomeye.md), [Lampbat](../monsters/lampbat.md) |
+| [The Outworks: Tower Cellars](../maps/outworks_cellars.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 22 | 7 | [Lampbat](../monsters/lampbat.md) |
+| [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 22-28 | 8 | [Ditch Rat](../monsters/ditch_rat.md), [Lampbat](../monsters/lampbat.md), [Gloomeye](../monsters/gloomeye.md) |
+| [The Fallen Tower](../maps/fallen_tower.md) | [Urbanograd](../world/index.md#urbanograd) | Boss | 30 | 9 | - |
+| [Bristlewood Edge](../maps/bristlewood_edge.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 33-37 | 10 | [Bristle Boar](../monsters/bristle_boar.md), [Barkback](../monsters/barkback.md) |
+| [Low Grad: the Undercroft](../maps/lowgrad_undercroft.md) | [Urbanograd](../world/index.md#urbanograd) | Dungeon | 45 | 10 | [Dust Drifter](../monsters/dust_drifter.md), [Creeping Slime](../monsters/creeping_slime.md) |
+| [The Silent Cutting](../maps/silent_cutting.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 37 | 11 | [Barkback](../monsters/barkback.md) |
+| [Hatch's Camp](../maps/hatchs_camp.md) | [Urbanograd](../world/index.md#urbanograd) | Road | - | 12 | - |
+| [Low Grad: the Floodwells](../maps/lowgrad_floodwells.md) | [Urbanograd](../world/index.md#urbanograd) | Dungeon | 45 | 12 | [Floodwell Eel](../monsters/floodwell_eel.md) |
+| [The Tusk Path](../maps/tusk_path.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 33-42 | 12 | [Bristle Boar](../monsters/bristle_boar.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
+| [The Reedwater Bottoms](../maps/reedwater_bottoms.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 42-47 | 13 | [Reed-Lurker](../monsters/reed_lurker.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
+| [Low Grad: the Deep Roads](../maps/lowgrad_deep_roads.md) | [Urbanograd](../world/index.md#urbanograd) | Dungeon | 45 | 14 | [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) |
+| [Reedwater Bottoms: Zip's Bank](../maps/reedwater_deep.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 47 | 14 | [Reed-Lurker](../monsters/reed_lurker.md) |
+| [The Wallow](../maps/the_wallow.md) | [Urbanograd](../world/index.md#urbanograd) | Boss | 50 | 15 | - |
+| [Low Grad: the Warm Quarry](../maps/lowgrad_warm_quarry.md) | [Urbanograd](../world/index.md#urbanograd) | Dungeon | 45 | 16 | [Darkstone Golem](../monsters/darkstone_golem.md) |
+| [Lower Downs](../maps/lower_downs.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 54 | 16 | [Duskhawk](../monsters/duskhawk.md) |
+| [Beacon Line](../maps/beacon_line.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 54-59 | 17 | [Duskhawk](../monsters/duskhawk.md), [Downs Howler](../monsters/downs_wolf.md) |
+| [Ram Hills](../maps/ram_hills.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 59-64 | 18 | [Millstone Ram](../monsters/millstone_ram.md), [Downs Howler](../monsters/downs_wolf.md) |
+| [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | [Urbanograd](../world/index.md#urbanograd) | Boss | 45 | 18 | - |
+| [The Crest](../maps/the_crest.md) | [Urbanograd](../world/index.md#urbanograd) | Hunting | 54-64 | 19 | [Millstone Ram](../monsters/millstone_ram.md), [Downs Howler](../monsters/downs_wolf.md), [Duskhawk](../monsters/duskhawk.md) |
+| [The Highbeacon](../maps/highbeacon.md) | [Urbanograd](../world/index.md#urbanograd) | Boss | 70 | 20 | - |

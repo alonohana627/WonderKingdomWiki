@@ -25,7 +25,8 @@ DATA = WIKI / "data" / "people"
 OUT = WIKI / "docs" / "lore" / "people"
 LORE = DATA / "lore"
 MIN_LORE_WORDS = 400
-GAME_NPCS = WIKI.parent / "GameLib" / "games" / "wonder_kingdom" / "content" / "npcs"
+GAME_CONTENT = WIKI.parent / "GameLib" / "games" / "wonder_kingdom" / "content"
+GAME_PAGES = WIKI / "docs" / "npcs"  # the game's NPC pages, written by tools/generate.py
 
 ROLES = {
     "ruler": "Ruler", "council": "Council", "official": "Official", "guard": "Guard",
@@ -184,15 +185,17 @@ class Registry:
                     self.err(f"{nid} has {len(ps)} {parent}s: {', '.join(ps)}")
 
     def check_game(self):
-        if not GAME_NPCS.exists():
+        """An NPC that is in the game (its id, or its "game" id) must have the game's name and title."""
+        if not GAME_CONTENT.exists():
             return
+        files = {p.stem: p for p in GAME_CONTENT.glob("npcs/*.json")}
+        files.update({p.stem: p for p in GAME_CONTENT.glob("towns/*/npcs/*.json")})
         for nid, n in self.npcs.items():
-            g = n.get("game")
-            if not g:
-                continue
-            path = GAME_NPCS / f"{g}.json"
-            if not path.exists():
-                self.err(f"{nid}: game NPC {g} does not exist")
+            g = n.get("game") or nid
+            path = files.get(g)
+            if path is None:
+                if n.get("game"):
+                    self.err(f"{nid}: game NPC {g} does not exist")
                 continue
             game = yaml.safe_load(path.read_text(encoding="utf-8"))
             if game.get("title") and game["title"] != n["title"]:
@@ -241,8 +244,9 @@ class Registry:
                 facts.append(["Kind", n["kind"]])
         if n.get("sells"):
             facts.append(["Sells", n["sells"]])
-        if n.get("game"):
-            facts.append(["In the game", f"[{n['name']}](../../../npcs/{n['game']}.md)"])
+        game = n.get("game") or nid
+        if (GAME_PAGES / f"{game}.md").exists():
+            facts.append(["In the game", f"[{n['name']}](../../../npcs/{game}.md)"])
         out += ["|  |  |", "|---|---|"] + [f"| {a} | {b} |" for a, b in facts] + [""]
         if not n.get("menu"):
             out += ["## Personality\n", f"{n['personality'].strip()}\n"]

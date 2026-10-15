@@ -57,7 +57,9 @@ EXP to the next level is `24 + 1 * (L-1)^2 + 0 * (L-1)^3` at level L.
 | 8 | [Eyedrop](../items/eyedrop.md) | [Rosemary Flower](../items/rosemary_flower.md) x2, [Red Snail Shell](../items/red_snail_shell.md) x1 | 28 | can make double |
 | 10 | [Tonic](../items/tonic.md) | [Mandarin Flower](../items/mandarin_flower.md) x2, [Pig's Ribbon](../items/pigs_ribbon.md) x1 | 40 | can make double |
 | 11 | [Speed Potion](../items/speed_potion.md) | [Mandarin Flower](../items/mandarin_flower.md) x2, [Mushroom Spore](../items/mushroom_spore.md) x2 | 46 | can make double |
+| 12 | [Bluecap Poultice](../items/bluecap_poultice.md) | [Bluecap Spore Sac](../items/bluecap_spore_sac.md) x2, [Wild Spore](../items/wild_spore.md) x2, [Lavender Flower](../items/lavender_flower.md) x2 | 50 | learned from a quest; can make double |
 | 13 | [Warrior Potion](../items/warrior_potion.md) | [Mandarin Flower](../items/mandarin_flower.md) x2, [Pig's Head](../items/pigs_head.md) x1 | 56 | can make double |
 | 14 | [White Potion](../items/white_potion.md) | [Mandarin Flower](../items/mandarin_flower.md) x2, [Lemon Balm Flower](../items/lemon_balm_flower.md) x2, [Green Mushroom Cap](../items/green_mushroom_cap.md) x2 | 70 | can make double |
 | 15 | [Holy Water](../items/holy_water.md) | [Lemon Balm Flower](../items/lemon_balm_flower.md) x2, [Horny Mushroom Cap](../items/horny_mushroom_cap.md) x1 | 76 | can make double |
 | 17 | [All Cure Potion](../items/all_cure_potion.md) | [Antidote](../items/antidote.md) x1, [Eyedrop](../items/eyedrop.md) x1, [Tonic](../items/tonic.md) x1, [Holy Water](../items/holy_water.md) x1 | 100 | can make double |
+| 18 | [Spore Draught](../items/spore_draught.md) | [Spore Puff Sac](../items/spore_puff_sac.md) x2, [Lemon Balm Flower](../items/lemon_balm_flower.md) x2, [Mandarin Flower](../items/mandarin_flower.md) x1 | 110 | learned from a quest; can make double |

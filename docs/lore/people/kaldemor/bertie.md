@@ -10,6 +10,7 @@
 | Where | Workshops |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Bertie](../../../npcs/bertie.md) |
 
 ## Personality
 

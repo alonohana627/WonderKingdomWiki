@@ -10,6 +10,7 @@
 | Where | Lantern Market |
 | Role | Performer |
 | Age | Elder |
+| In the game | [Cormac](../../../npcs/cormac_singer.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Selsior Gate |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Merrick](../../../npcs/merrick.md) |
 
 ## Personality
 

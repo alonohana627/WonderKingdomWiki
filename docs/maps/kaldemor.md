@@ -6,18 +6,51 @@
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Town |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 
 ## Exits
 
 - [Kaldemor Hills](../maps/kaldemor_hills.md)
-- [Kaldemor Park](../maps/kaldemor_park.md)
-- [Kaldemor Market](../maps/kaldemor_market.md)
 - [Kaldemor Field](../maps/kaldemor_field.md)
 
 ## NPCs
 
-- [Tobin](../npcs/tobin.md) (Mayor of Kaldemor)
-- [Lia](../npcs/lia.md) (Town Guide)
+- [Pell](../npcs/pell.md) (Taxi Driver)
 - [Tam](../npcs/tam.md)
 - [Nell](../npcs/nell.md)
-- [Pell](../npcs/pell.md) (Taxi Driver)
+- [Fen](../npcs/fen.md)
+- [Hale](../npcs/hale.md) (Park Ranger)
+- [Quill](../npcs/quill.md) (Drillmaster)
+- [Orin](../npcs/orin.md) (Retired Woodcutter)
+- [Wren](../npcs/wren.md) (Orin's Wife)
+- [Ewan](../npcs/ewan.md) (Clockkeeper)
+- [Garrick](../npcs/garrick.md) (The Climber)
+- [Tobin](../npcs/tobin.md) (Mayor of Kaldemor)
+- [Gareth](../npcs/gareth.md) (Smith)
+- [Bram](../npcs/bram.md) (Potion Seller)
+- [Hilda](../npcs/hilda.md) (Storage Keeper)
+- [Lia](../npcs/lia.md) (Town Guide)
+- [Old Marta](../npcs/marta.md) (Grocer)
+- [Rosa](../npcs/rosa.md) (Baker)
+- [Mildred](../npcs/mildred.md) (Town Clerk)
+- [Rufus](../npcs/rufus.md) (Town Crier)
+- [Lottie](../npcs/lottie.md) (Schoolteacher)
+- [Jem](../npcs/jem.md) (Fiddler)
+- [Bess](../npcs/bess.md) (Herbalist)
+- [Molly](../npcs/molly.md) (Innkeeper of the Sleepy Snail)
+- [Hob](../npcs/hob.md) (Miller)
+- [Meg](../npcs/meg.md) (Snail Hunter)
+- [Digby](../npcs/digby.md) (Gauntlet Hopeful)
+- [Alfie](../npcs/alfie.md) (Head of the Carpenters' Guild)
+- [Archie](../npcs/archie.md) (Carpenter's Apprentice)
+- [Bertie](../npcs/bertie.md) (Mushroom House Shaper)
+- [Daisy](../npcs/daisy.md) (House Painter)
+- [Mabel](../npcs/mabel.md) (Potter)
+- [Percy](../npcs/percy.md) (Wheelwright)
+- [Winnie](../npcs/winnie.md) (Weaver)
+- [Ned](../npcs/ned.md) (Cobbler)
+- [Mott](../npcs/mott.md) (Travelling Pedlar)
+
+## Discoveries
+
+- [Above the Square](../world/discoveries.md#above-the-square)

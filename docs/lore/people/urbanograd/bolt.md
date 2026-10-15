@@ -10,6 +10,7 @@
 | Where | Workshops Row |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Bolt](../../../npcs/bolt.md) |
 
 ## Personality
 

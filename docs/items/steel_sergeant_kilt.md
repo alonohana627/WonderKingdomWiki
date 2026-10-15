@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Bottom |
 | Required level | 20 |
-| Stats | Defense +32 |
+| Stats | Defense +17 |
 | Upgrade slots | 8 |
 | Sells for | 400 mesos |
 
@@ -17,4 +17,21 @@
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.1%)
 - Dropped by [Stump](../monsters/stump.md) (0.08%)
+- Dropped by [Dust Wisp](../monsters/dust_wisp.md) (0.08%)
+- Dropped by [Shimmer Slime](../monsters/fairy_slime.md) (0.08%)
+- Dropped by [Flying Book](../monsters/flying_book.md) (0.08%)
+- Dropped by [Ink Imp](../monsters/ink_imp.md) (0.08%)
+- Dropped by [Snapping Book](../monsters/snapping_book.md) (0.08%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (0.1%)
+- Dropped by [Rooting Piglet](../monsters/rooting_piglet.md) (0.12%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 800 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 800 mesos
+- Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 800 mesos

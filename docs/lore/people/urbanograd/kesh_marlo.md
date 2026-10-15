@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Smoked fish, sea-salt crisps and pickled kelp |
+| In the game | [Remy Marlo](../../../npcs/kesh_marlo.md) |
 
 ## Relationships
 

@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Barnaby](../../../npcs/barnaby.md) |
 
 ## Personality
 

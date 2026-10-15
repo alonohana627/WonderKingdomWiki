@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Wren in the lore](../lore/people/kaldemor/wren.md) |
 
 > Hello, dear. Orin tells the same stories, but I never tire of them.
 

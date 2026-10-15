@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Worker |
 | Age | Young |
+| In the game | [Merrin](../../../npcs/merrin_timber.md) |
 
 ## Personality
 

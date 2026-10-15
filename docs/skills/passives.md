@@ -177,3 +177,115 @@ Formulas (x is the skill level, division rounds down): DEX = `2 * x`
 | 1 | 25 |
 
 Formulas (x is the skill level, division rounds down): Max HP = `25 * x`
+
+## Highland Lungs {#highland-lungs}
+
+*You have walked the high ridges until the thin air stopped bothering you.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Midbarium mastery: Friend of the Four Families (4 discoveries) |
+
+| Level | Max HP |
+|---|---|
+| 1 | 60 |
+
+Formulas (x is the skill level, division rounds down): Max HP = `60 * x`
+
+## Warden-Friend {#warden-friend}
+
+*The wardens of the sea count you as one of their own, and it steadies you.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: Friend of the Wardens (See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow.) |
+
+| Level | Max HP |
+|---|---|
+| 1 | 60 |
+
+Formulas (x is the skill level, division rounds down): Max HP = `60 * x`
+
+## Cave Sense {#cave-sense}
+
+*You know which way the water moves in a dark place, and which way out.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: The First True Map (Help Lachlan finish the first true map of the Sounding Caves.) |
+
+| Level | Defense |
+|---|---|
+| 1 | 6 |
+
+Formulas (x is the skill level, division rounds down): Defense = `6 * x`
+
+## Brush and Sinew {#brush-and-sinew}
+
+*Two hundred foxes taught you to watch the dust, not the fox.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: Brush and Sinew (Defeat 200 Strand Foxes.) |
+
+| Level | Critical Rate |
+|---|---|
+| 1 | 1 |
+
+Formulas (x is the skill level, division rounds down): Critical Rate = `x`
+
+## Climbers' Grip {#climbers-grip}
+
+*You have pulled enough newts off the cliffs to keep your own feet on them.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: Climbers' Bane (Defeat 300 Sea Newts.) |
+
+| Level | Max HP |
+|---|---|
+| 1 | 40 |
+
+Formulas (x is the skill level, division rounds down): Max HP = `40 * x`
+
+## Salt-Hardened {#salt-hardened}
+
+*Stone and weed and salt water have made you hard to move.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: Salt and Stone (Defeat 300 Wrackgolems.) |
+
+| Level | Defense |
+|---|---|
+| 1 | 8 |
+
+Formulas (x is the skill level, division rounds down): Defense = `8 * x`
+
+## Gap Inn Regular {#gap-inn-regular}
+
+*Bethoc keeps a bowl of stew back for you, and a seat by the fire.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+| Gained from | Accomplishment: A Regular at the Gap (Hand in each of Bethoc's three sighting boards.) |
+
+| Level | Max MP |
+|---|---|
+| 1 | 40 |
+
+Formulas (x is the skill level, division rounds down): Max MP = `40 * x`

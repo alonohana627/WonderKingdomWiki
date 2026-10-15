@@ -11,6 +11,7 @@
 | Role | Merchant |
 | Age | Adult |
 | Sells | Tinware and ribbons, every summer |
+| In the game | [Mott](../../../npcs/mott.md) |
 
 ## Personality
 

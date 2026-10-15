@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Old Marta in the lore](../lore/people/kaldemor/marta.md) |
 | Services | Shop: [Marta's General Store](../shops/grocer.md) |
 
 ## Shop

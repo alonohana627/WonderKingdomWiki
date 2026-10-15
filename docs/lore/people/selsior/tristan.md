@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Adventurer |
 | Age | Adult |
+| In the game | [Tristan](../../../npcs/tristan.md) |
 
 ## Personality
 

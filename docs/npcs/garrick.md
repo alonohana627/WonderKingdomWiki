@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Garrick in the lore](../lore/people/kaldemor/garrick.md) |
 | Services | Quests |
 
 > Fine view from up here, *Player*. Fine view.
@@ -20,6 +22,8 @@
 ## Quests
 
 - [A Head for Heights](../quests/a_head_for_heights.md) (gives)
+- [Up the Walls](../quests/up_the_walls.md) (gives)
+- [Where the King Came From](../quests/where_the_king_came_from.md) (gives)
 
 ??? quote "Dialogue"
 

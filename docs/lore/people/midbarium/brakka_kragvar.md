@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Young |
 | Family | Kragvar |
+| In the game | [Brakka](../../../npcs/brakka_kragvar.md) |
 
 ## Personality
 

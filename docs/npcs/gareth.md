@@ -6,13 +6,16 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Gareth in the lore](../lore/people/kaldemor/gareth.md) |
 | Services | Shop: [Gareth's Smithy](../shops/smith.md), Quests |
 
 ## Quests
 
-- [A Smith's First Bar](../quests/a_smiths_first_bar.md) (gives)
 - [A Sharper Sword](../quests/a_sharper_sword.md) (gives)
+- [A Smith's First Bar](../quests/a_smiths_first_bar.md) (gives)
+- [Old Wall Iron](../quests/the_old_wall_iron.md) (gives)
 
 ## Shop
 

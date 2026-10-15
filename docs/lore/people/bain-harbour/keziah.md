@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Keziah](../../../npcs/keziah.md) |
 
 ## Personality
 

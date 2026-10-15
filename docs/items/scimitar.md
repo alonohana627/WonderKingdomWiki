@@ -10,12 +10,43 @@
 | Slot | Weapon |
 | Weapon type | Two-Handed Sword |
 | Required level | 30 |
-| Stats | Attack +144 |
+| Stats | Attack +90 |
 | Upgrade slots | 8 |
 | Sells for | 3,950 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.05%)
+- Dropped by [Cold Eye](../monsters/cold_eye.md) (0.08%)
+- Dropped by [Evil Eye](../monsters/evil_eye.md) (0.08%)
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.03%)
+- Dropped by [The Bootbreaker](../monsters/bootbreaker.md), [The Bootbreaker](../bosses/bootbreaker.md) (Normal) (4%)
+- Dropped by [The Bootbreaker](../bosses/bootbreaker.md) (Hard) (10%)
+- Dropped by [Bootcrab](../monsters/bootcrab.md) (0.1%)
+- Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.1%)
+- Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.1%)
+- Dropped by [Snapjaw](../monsters/snapjaw.md) (0.1%)
+- Dropped by [Sharpened Lupin](../monsters/sharpened_lupin.md) (0.08%)
+- Dropped by [Old Brushtail](../monsters/old_brushtail.md), [Old Brushtail](../bosses/old_brushtail.md) (Normal), [Old Brushtail](../bosses/old_brushtail.md) (Hard) (5%)
+- Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
+- Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
+- Dropped by [Wrack Boar](../monsters/wrack_boar.md) (0.04%)
+- Dropped by [Gnarltusk](../bosses/gnarltusk.md) (Hard) (10%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.03%)
+- Dropped by [Windflower Cap](../monsters/windflower_cap.md) (0.1%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 7,900 mesos
+- Sold at [Ferro's Forge](../shops/urbanograd_ferro.md) for 7,900 mesos

@@ -2,6 +2,35 @@
 
 # Bosses
 
-| Boss | Arena | Modes |
-|---|---|---|
-| [The Snail King](../bosses/snail_king.md) | [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Normal, Hard |
+Each town has a boss for each of its level bands and one in its theme dungeon.
+
+| Boss | Town | Level | Arena | Modes |
+|---|---|---|---|---|
+| [Queen Amberwing](../bosses/queen_amberwing.md) | [Selsior](../towns/selsior.md) | 30 | [The Hive Hollow](../maps/hive_hollow.md) | Normal, Hard |
+| [The Delver](../bosses/delver.md) | [Selsior](../towns/selsior.md) | 30 | [The Delver's Burrow](../maps/delvers_burrow.md) | Normal, Hard |
+| [Longjaw](../bosses/longjaw.md) | [Selsior](../towns/selsior.md) | 50 | [The Heron Pool](../maps/heron_pool.md) | Normal, Hard |
+| [Old Cairn, the Ancient of the Quarries](../bosses/old_cairn.md) | [Selsior](../towns/selsior.md) | 70 | [The First Cut](../maps/first_cut.md) | Normal, Hard |
+| [The Snail King](../bosses/snail_king.md) | [Kaldemor](../towns/kaldemor.md) | 15 | [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Normal, Hard |
+| [Gnarltusk](../bosses/gnarltusk.md) | [Kaldemor](../towns/kaldemor.md) | 30 | [Stilebrook Farm](../maps/stilebrook_farm.md) | Normal, Hard |
+| [The Bluecap Mother](../bosses/bluecap_mother.md) | [Kaldemor](../towns/kaldemor.md) | 50 | [The Bluecap Hollow](../maps/bluecap_hollow.md) | Normal, Hard |
+| [The Cap King](../bosses/cap_king.md) | [Kaldemor](../towns/kaldemor.md) | 70 | [The Crown Tower](../maps/crown_tower.md) | Normal, Hard |
+| [Hollowmaw](../bosses/hollowmaw.md) | [Midbarium](../towns/midbarium.md) | 26 | [The Sunken Pool](../maps/sunken_pool.md) | Normal |
+| [Old Gnarl](../bosses/old_gnarl.md) | [Midbarium](../towns/midbarium.md) | 30 | [Howling Peak](../maps/howling_peak.md) | Normal |
+| [Grimhorn](../bosses/grimhorn.md) | [Midbarium](../towns/midbarium.md) | 50 | [The Ash Mesa](../maps/ash_mesa.md) | Normal |
+| [The Rootdrinker](../bosses/rootdrinker.md) | [Midbarium](../towns/midbarium.md) | 70 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Normal |
+| [The Blightstone](../bosses/blightstone.md) | [Fairy Forest](../towns/fairy_forest.md) | 30 | [The Lakehead](../maps/lakehead.md) | Normal, Hard |
+| [The Unbound](../bosses/the_unbound.md) | [Fairy Forest](../towns/fairy_forest.md) | 30 | [The Old Reading Room](../maps/old_reading_room.md) | Normal, Hard |
+| [Old Grizzlemane](../bosses/old_grizzlemane.md) | [Fairy Forest](../towns/fairy_forest.md) | 50 | [The Torn Crown](../maps/torn_crown.md) | Normal, Hard |
+| [The Knotbriar](../bosses/knotbriar.md) | [Fairy Forest](../towns/fairy_forest.md) | 70 | [The Hidden Spring](../maps/hidden_spring.md) | Normal, Hard |
+| [The Gloamwing](../bosses/gloamwing.md) | [Urbanograd](../towns/urbanograd.md) | 30 | [The Fallen Tower](../maps/fallen_tower.md) | Normal |
+| [The Warmstone Colossus](../bosses/warmstone_colossus.md) | [Urbanograd](../towns/urbanograd.md) | 45 | [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Normal |
+| [Hackleback](../bosses/hackleback.md) | [Urbanograd](../towns/urbanograd.md) | 50 | [The Wallow](../maps/the_wallow.md) | Normal |
+| [Stormcrest](../bosses/stormcrest.md) | [Urbanograd](../towns/urbanograd.md) | 70 | [The Highbeacon](../maps/highbeacon.md) | Normal |
+| [The Bootbreaker](../bosses/bootbreaker.md) | [Bain Harbour](../towns/bain_harbour.md) | 30 | [The Pinch Lock](../maps/pinch_lock.md) | Normal, Hard |
+| [The Holdfast](../bosses/holdfast.md) | [Bain Harbour](../towns/bain_harbour.md) | 45 | [The Captain's Cabin](../maps/saltgrace_cabin.md) | Normal, Hard |
+| [The Ripsaw](../bosses/ripsaw.md) | [Bain Harbour](../towns/bain_harbour.md) | 50 | [The Gullet Gates](../maps/gullet_gates.md) | Normal, Hard |
+| [The Deep Lantern](../bosses/deep_lantern.md) | [Bain Harbour](../towns/bain_harbour.md) | 70 | [The Lantern Deep](../maps/lantern_deep.md) | Normal, Hard |
+| [Old Brushtail](../bosses/old_brushtail.md) | [Goa Harbour](../towns/goa_harbour.md) | 30 | [Brushtail's Earth](../maps/brushtails_earth.md) | Normal, Hard |
+| [The Inkmother](../bosses/inkmother.md) | [Goa Harbour](../towns/goa_harbour.md) | 40 | [The Inkmother's Pool](../maps/inkmothers_pool.md) | Normal |
+| [The Gapclaw](../bosses/gapclaw.md) | [Goa Harbour](../towns/goa_harbour.md) | 50 | [The Gapclaw's Hollow](../maps/gapclaws_hollow.md) | Normal, Hard |
+| [The Undertow](../bosses/undertow.md) | [Goa Harbour](../towns/goa_harbour.md) | 70 | [The Scour](../maps/the_scour.md) | Normal, Hard |

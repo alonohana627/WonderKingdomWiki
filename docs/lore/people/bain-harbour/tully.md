@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Tully](../../../npcs/tully.md) |
 
 ## Personality
 

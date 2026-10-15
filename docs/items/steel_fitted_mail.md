@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Overall |
 | Required level | 10 |
-| Stats | Defense +36 |
+| Stats | Defense +28 |
 | Upgrade slots | 11 |
 | Sells for | 350 mesos |
 
@@ -18,5 +18,6 @@
 - Dropped by [Mano](../monsters/mano.md), [The Snail King](../bosses/snail_king.md) (Normal) (6%)
 - Dropped by [The Snail King](../bosses/snail_king.md) (Hard) (10%)
 - Dropped by [Pig](../monsters/pig.md) (0.2%)
-- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 700 mesos
 - Sold at [Gareth's Smithy](../shops/smith.md) for 700 mesos
+- Sold at [Vessa's Armour](../shops/selsior_armour.md) for 700 mesos
+- Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 700 mesos

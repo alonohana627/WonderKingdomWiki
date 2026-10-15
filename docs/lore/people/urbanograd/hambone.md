@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Hambone](../../../npcs/hambone.md) |
 
 ## Personality
 

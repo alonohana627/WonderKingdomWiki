@@ -10,6 +10,7 @@
 | Where | Plaza |
 | Role | Guard |
 | Age | Elder |
+| In the game | [Hugh](../../../npcs/hugh.md) |
 
 ## Personality
 

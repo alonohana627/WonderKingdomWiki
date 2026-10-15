@@ -10,6 +10,7 @@
 | Where | Wardens' House |
 | Role | Ruler |
 | Age | Adult |
+| In the game | [Iska](../../../npcs/first_warden_iska.md) |
 
 ## Personality
 

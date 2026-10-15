@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Scholar |
 | Age | Elder |
+| In the game | [Isaura](../../../npcs/isaura_records.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Morwenna](../../../npcs/morwenna.md) |
 
 ## Personality
 

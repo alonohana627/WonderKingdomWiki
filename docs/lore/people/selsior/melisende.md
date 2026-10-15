@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Official |
 | Age | Adult |
+| In the game | [Melisende](../../../npcs/melisende.md) |
 
 ## Personality
 

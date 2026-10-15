@@ -9,6 +9,7 @@
 | Town | [Fairy Forest](../../towns/fairy-forest.md) |
 | Where | Herb Gardens |
 | Sells | Healing salves, herb teas and potions |
+| In the game | [Celandine](../../../npcs/celandine_herbalist.md) |
 
 ## Relationships
 

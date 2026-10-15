@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Weapon |
 | Weapon type | Two-Handed Sword |
-| Stats | Attack +18 |
+| Stats | Attack +32 |
 | Upgrade slots | 8 |
 | Sells for | 40 mesos |
 

@@ -6,7 +6,10 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Orin in the lore](../lore/people/kaldemor/orin.md) |
+| Services | Quests |
 
 > Good day, *Player*. Sit a while, if your legs allow.
 
@@ -15,3 +18,7 @@
 - "Forty winters I felled trees. Now I count them from my bench."
 - "The treehouse was a sapling when my grandfather was a boy."
 - "Wren, did you hear that? The clock has stopped."
+
+## Quests
+
+- [The Woodcutter's Sign](../quests/the_woodcutters_sign.md) (gives)

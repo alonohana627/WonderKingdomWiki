@@ -10,6 +10,7 @@
 | Where | Merchant Street |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Maren](../../../npcs/maren.md) |
 
 ## Personality
 

@@ -9,6 +9,7 @@
 | Town | [Goa Harbour](../../towns/goa-harbour.md) |
 | Where | Lantern Market |
 | Sells | Fresh fish, smoked fish and salted fish for the road |
+| In the game | [Brodie](../../../npcs/brodie_fishmonger.md) |
 
 ## Relationships
 

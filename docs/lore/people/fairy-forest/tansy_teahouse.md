@@ -11,6 +11,7 @@
 | Role | Service |
 | Age | Adult |
 | Sells | Dew tea, honey cakes and a bed for the night |
+| In the game | [Tansy](../../../npcs/tansy_teahouse.md) |
 
 ## Personality
 

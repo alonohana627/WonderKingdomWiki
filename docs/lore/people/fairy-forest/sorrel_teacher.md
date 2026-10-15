@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Sorrel](../../../npcs/sorrel_teacher.md) |
 
 ## Personality
 

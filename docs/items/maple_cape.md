@@ -9,14 +9,35 @@
 | Type | Equipment |
 | Slot | Cape |
 | Required level | 20 |
-| Stats | Defense +16 |
+| Stats | Defense +9 |
 | Upgrade slots | 6 |
 | Sells for | 500 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.1%)
+- Dropped by [Bubbling](../monsters/bubbling.md) (0.08%)
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.08%)
+- Dropped by [Slime](../monsters/slime.md) (0.08%)
 - Dropped by [Stump](../monsters/stump.md) (0.08%)
+- Dropped by [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md) (0.08%)
+- Dropped by [Firefly Slime](../monsters/firefly_slime.md) (0.08%)
+- Dropped by [Forest Sprite](../monsters/forest_sprite.md) (0.08%)
+- Dropped by [Glimmerwing](../monsters/glimmerwing.md) (0.08%)
+- Dropped by [Water Sprite](../monsters/water_sprite.md) (0.08%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (0.08%)
+- Dropped by [Strand Fox](../monsters/strand_fox.md) (0.08%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.08%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 1,000 mesos
+- Sold at [Greer's Furs](../shops/greers_furs.md) for 1,000 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,000 mesos
+- Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 1,000 mesos
 - Made with [Tailoring](../professions/tailoring.md) (level 16)

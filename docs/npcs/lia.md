@@ -6,14 +6,16 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Lia in the lore](../lore/people/kaldemor/lia.md) |
 | Services | Quests |
 
-> Welcome to Kaldemor, *Player*!
+> Morning, *Player*!
 
 ## Says
 
-- "New in town? Ask me anything!"
+- "Need a hand with anything? Just ask!"
 - "Press Space near someone to talk to them."
 - "The market is just east of here."
 
@@ -23,7 +25,7 @@
 
 ??? quote "Dialogue"
 
-    - Hi, *Player*! I show newcomers around **Kaldemor**. Ask me anything!
+    - Hi, *Player*! What can I do for you? Nobody knows **Kaldemor** better than me.
         - *Choice:* Where am I?
         - *Choice:* What is there to do here?
         - *Choice:* Anything new in town?

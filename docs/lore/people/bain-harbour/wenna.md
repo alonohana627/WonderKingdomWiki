@@ -10,6 +10,7 @@
 | Where | Fish Market |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Wenna](../../../npcs/wenna.md) |
 
 ## Personality
 

@@ -10,9 +10,11 @@
 | Rarity | Uncommon |
 | Slot | Pendant |
 | Required level | 30 |
-| Stats | STR +1, DEX +1, INT +1, LUK +1, Defense +18, Magic Defense +18 |
+| Stats | STR +1, DEX +1, INT +1, LUK +1, Defense +6, Magic Defense +6 |
 | Sells for | 1,000 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.02%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.04%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 2,000 mesos

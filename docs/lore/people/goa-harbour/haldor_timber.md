@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Haldor](../../../npcs/haldor_timber.md) |
 
 ## Personality
 

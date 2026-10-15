@@ -10,6 +10,7 @@
 | Where | Harbour Hall |
 | Role | Service |
 | Age | Elder |
+| In the game | [Mabyn](../../../npcs/mabyn.md) |
 
 ## Personality
 

@@ -6,12 +6,14 @@
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Boss |
-| Level | 3 |
+| Levels | 15 |
+| Difficulty | 3 |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
 
 ## Exits
 
-- [Kaldemor Park](../maps/kaldemor_park.md)
+- [Kaldemor](../maps/kaldemor.md)
 
 ## Encounters
 

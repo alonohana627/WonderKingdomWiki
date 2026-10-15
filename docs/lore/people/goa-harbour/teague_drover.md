@@ -10,6 +10,7 @@
 | Where | Lantern Market |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Teague](../../../npcs/teague_drover.md) |
 
 ## Personality
 

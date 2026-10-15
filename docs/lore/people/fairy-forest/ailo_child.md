@@ -10,6 +10,7 @@
 | Where | Herb Gardens |
 | Role | Worker |
 | Kind | Child of the Tree |
+| In the game | [Ailo](../../../npcs/ailo_child.md) |
 
 ## Personality
 

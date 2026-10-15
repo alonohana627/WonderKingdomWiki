@@ -12,6 +12,7 @@
 ## How to get
 
 - Dropped by [Shroom](../monsters/shroom.md) (50%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (30%)
 
 ## Used for
 
@@ -20,3 +21,4 @@
 - [Mushroom Rice Ball](../items/mushroom_rice_ball.md) ([Cooking](../professions/cooking.md), x1)
 - [Mandarin Dango](../items/mandarin_dango.md) ([Cooking](../professions/cooking.md), x3)
 - [Rosa's Recipe](../quests/rosas_recipe.md) (bring 10)
+- [Rosa's Standing Order](../quests/rosas_standing_order.md) (bring 10)

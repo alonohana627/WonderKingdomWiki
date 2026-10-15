@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Resident |
 | Age | Young |
+| In the game | [Alder](../../../npcs/alder_student.md) |
 
 ## Personality
 

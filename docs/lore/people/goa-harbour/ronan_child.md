@@ -10,6 +10,7 @@
 | Where | Fishers' Coves |
 | Role | Child |
 | Age | Child |
+| In the game | [Ronan](../../../npcs/ronan_child.md) |
 
 ## Personality
 

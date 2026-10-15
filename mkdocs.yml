@@ -80,7 +80,52 @@ nav:
           - lore/towns/bain-harbour.md
           - lore/towns/goa-harbour.md
           - lore/towns/cavelor.md
+  - Town Guides:
+      - towns/index.md
+      - Selsior:
+          - towns/selsior.md
+          - towns/selsior_quests.md
+      - Kaldemor:
+          - towns/kaldemor.md
+          - towns/kaldemor_quests.md
+      - Midbarium:
+          - towns/midbarium.md
+          - towns/midbarium_quests.md
+      - Fairy Forest:
+          - towns/fairy_forest.md
+          - towns/fairy_forest_quests.md
+      - Urbanograd:
+          - towns/urbanograd.md
+          - towns/urbanograd_quests.md
+      - Bain Harbour:
+          - towns/bain_harbour.md
+          - towns/bain_harbour_quests.md
+      - Goa Harbour:
+          - towns/goa_harbour.md
+          - towns/goa_harbour_quests.md
+  - Dungeons:
+      - dungeons/index.md
+      - dungeons/old_drains.md
+      - dungeons/dustfall_cave.md
+      - dungeons/rootbound_wing.md
+      - dungeons/low_grad.md
+      - dungeons/the_saltgrace.md
+      - dungeons/sounding_caves.md
+  - Quests: quests/index.md
+  - NPCs: npcs/index.md
+  - Monsters: monsters/index.md
+  - Bosses: bosses/index.md
+  - Runs:
+      - runs/index.md
+      - runs/the_night_run.md
+      - runs/the_outer_pier_watch.md
+      - runs/under_the_pier.md
+      - runs/caddocs_night.md
+      - runs/gorms_night_work.md
+      - runs/kaldemor_gauntlet.md
+      - runs/far_bridge_watch.md
   - Items: items/index.md
+  - Shops: shops/index.md
   - Skills:
       - skills/index.md
       - skills/warrior.md
@@ -98,110 +143,11 @@ nav:
       - jobs/swordmaster.md
       - jobs/grand_swordmaster.md
       - jobs/sword_saint.md
-  - Monsters:
-      - monsters/index.md
-      - monsters/snail.md
-      - monsters/blue_snail.md
-      - monsters/shroom.md
-      - monsters/red_snail.md
-      - monsters/pig.md
-      - monsters/orange_mushroom.md
-      - monsters/stump.md
-      - monsters/green_mushroom.md
-      - monsters/horny_mushroom.md
-      - monsters/mano.md
-      - monsters/axe_stump.md
-  - Bosses:
-      - bosses/index.md
-      - bosses/snail_king.md
-  - NPCs:
-      - npcs/index.md
-      - npcs/aldous.md
-      - npcs/biscuit.md
-      - npcs/bram.md
-      - npcs/brann.md
-      - npcs/orsa.md
-      - npcs/ewan.md
-      - npcs/fen.md
-      - npcs/gareth.md
-      - npcs/garrick.md
-      - npcs/gideon.md
-      - npcs/hale.md
-      - npcs/hilda.md
-      - npcs/hollis.md
-      - npcs/lia.md
-      - npcs/maud.md
-      - npcs/mirabel.md
-      - npcs/mirel.md
-      - npcs/nell.md
-      - npcs/marta.md
-      - npcs/orin.md
-      - npcs/pell.md
-      - npcs/perrin.md
-      - npcs/pim.md
-      - npcs/quill.md
-      - npcs/rhys.md
-      - npcs/rosa.md
-      - npcs/selene.md
-      - npcs/tam.md
-      - npcs/tilda.md
-      - npcs/tobe.md
-      - npcs/tobin.md
-      - npcs/vessa.md
-      - npcs/wren.md
-  - Quests:
-      - quests/index.md
-      - quests/welcome_home.md
-      - quests/settling_in.md
-      - quests/snail_trouble.md
-      - quests/shells_for_the_mayor.md
-      - quests/strength_of_a_warrior.md
-      - quests/rosas_recipe.md
-      - quests/a_loaf_for_bram.md
-      - quests/the_clock_stopped.md
-      - quests/hales_bounty.md
-      - quests/a_smiths_first_bar.md
-      - quests/a_pot_for_rosa.md
-      - quests/a_steady_brew.md
-      - quests/a_head_for_heights.md
-      - quests/a_sharper_sword.md
-      - quests/the_snail_king.md
-      - quests/swordsmans_trial.md
-      - quests/swordmasters_trial.md
-      - quests/grand_swordmasters_trial.md
-      - quests/sword_saints_trial.md
-  - Shops:
-      - shops/index.md
-      - shops/grocer.md
-      - shops/potions.md
-      - shops/selsior_armour.md
-      - shops/selsior_arms.md
-      - shops/selsior_general.md
-      - shops/selsior_potions.md
-      - shops/smith.md
   - World:
       - world/index.md
+      - world/roads.md
       - world/discoveries.md
-  - Maps:
-      - maps/index.md
-      - maps/kaldemor.md
-      - maps/kaldemor_market.md
-      - maps/kaldemor_park.md
-      - maps/kaldemor_field.md
-      - maps/kaldemor_hills.md
-      - maps/kaldemor_woods.md
-      - maps/gauntlet_course.md
-      - maps/gauntlet_holdout.md
-      - maps/snail_kings_hollow.md
-      - maps/gauntlet_yard.md
-      - maps/royal_road_1.md
-      - maps/royal_road_2.md
-      - maps/royal_road_3.md
-      - maps/greenwood_clearing.md
-      - maps/selsior_market.md
-      - maps/selsior_court.md
-      - maps/selsior.md
-      - maps/selsior_gate.md
+  - Maps: maps/index.md
   - Professions:
       - professions/index.md
       - professions/gathering.md
@@ -212,13 +158,12 @@ nav:
       - professions/scrollcrafting.md
       - professions/tailoring.md
       - professions/smithing.md
-  - Runs:
-      - runs/index.md
-      - runs/kaldemor_gauntlet.md
   - Game Systems:
       - systems/index.md
       - systems/experience.md
+      - systems/gear.md
       - systems/standing.md
+      - systems/honor.md
       - systems/accomplishments.md
       - systems/weapons.md
       - systems/statuses.md

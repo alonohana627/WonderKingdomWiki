@@ -12,86 +12,494 @@ Exploration EXP by discovery size: common 10, rare 30, major 100.
 | 2 | 50 | 500 mesos |
 | 3 | 90 | [Orange Potion](../items/orange_potion.md) x5 |
 
-## The Hills' Lookout {#hills-lookout}
+## Old Bain's Boat-Hook {#old-bains-boat-hook}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Size | Common |
+| Reward | 400 EXP, 200 mesos |
+
+??? quote "What you see"
+    Above the Harbour Hall's door hangs Old Bain's boat-hook, ash and iron, every nick on its shaft a story Mabyn will tell. You stood under it and counted them.
+
+## Baysight {#baysight}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [Baysight Hill](../maps/baysight_hill.md) |
+| Size | Common |
+| Reward | 600 EXP, 250 mesos |
+
+??? quote "What you see"
+    From the highest ledge of Baysight Hill the whole bay opens below: the lighthouse on its headland, the masts, the terracotta roofs and the bright lines of the canals.
+
+## The Pinch's Rotten Gates {#rotten-sea-gates}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [The Pinch](../maps/the_pinch.md) |
+| Size | Rare |
+| Reward | 2,500 EXP, 600 mesos |
+
+??? quote "What you see"
+    On the high bank above the Pinch the old lock gates hang rotten on their hinges. Whatever broke the sea gates at the Cut's far end, the tide now runs all the way up to here.
+
+## The Lighthouse Through the Trees {#lighthouse-through-the-trees}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [The Timber Path](../maps/timber_path.md) |
+| Size | Common |
+| Reward | 9,000 EXP, 900 mesos |
+
+??? quote "What you see"
+    From the Timber Path's highest ledge the holm oaks part, and the lighthouse stands white against the sea, so close you could count its windows.
+
+## The Sea-Hole {#the-sea-hole}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [The Rim](../maps/the_rim.md) |
+| Size | Rare |
+| Reward | 30,000 EXP, 2,500 mesos |
+
+??? quote "What you see"
+    At the Rim the ground drops away into a round pool of sea water open to the sky, joined somewhere below to the Drop under the headland. At night a pale light comes up out of it through the trees.
+
+## The Bell in the Cliff {#the-bell-in-the-cliff}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [The Rigging](../maps/saltgrace_rigging.md) |
+| Size | Rare |
+| Reward | 4,000 EXP, 1,200 mesos |
+
+??? quote "What you see"
+    At the top of the Saltgrace's broken mast, high in the Bellcaves, the tide comes in below and the whole cave booms like a struck bell. The sound goes on and on in the timbers under your hands.
+
+## Marram Cove's Post Box {#marram-post-box}
+
+|  |  |
+|---|---|
+| Region | [Bain Harbour](../world/index.md#bain-harbour) |
+| Where | [Marram Cove](../maps/marram_cove.md) |
+| Size | Common |
+| Reward | 800 EXP, 300 mesos |
+
+??? quote "What you see"
+    In Marram Cove a weathered box on a post takes the letters for the inland roads. Somebody has carved a tiny ship on its lid.
+
+## The Heart Tree's Crown {#heart-tree-crown}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [Fairy Forest](../maps/fairy_forest.md) |
+| Size | Common |
+| Reward | 400 EXP, 300 mesos |
+
+??? quote "What you see"
+    From the top of the Heart Tree the whole forest lies below, lanterns and all, and on a clear day the World Tree stands far off to the west.
+
+## The Carters' Rest {#carters-rest}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [The Forest's Hem](../maps/forests_hem.md) |
+| Size | Common |
+| Reward | 250 EXP, 200 mesos |
+
+??? quote "What you see"
+    A stile where Kaldemor's carters have rested for a hundred years. Someone has carved a little lantern into the top rail.
+
+## A Carpet of Bluebells {#bluebell-carpet}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [The Bloomwood](../maps/bloomwood.md) |
+| Size | Common |
+| Reward | 600 EXP, 400 mesos |
+
+??? quote "What you see"
+    A glade in the Bloomwood so thick with bluebells that the ground looks like water.
+
+## Where the Lake Glows {#shimmerwater-glow}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [Shimmerwater, the Second Path](../maps/shimmerwater_path_2.md) |
+| Size | Rare |
+| Reward | 3,000 EXP, 1,200 mesos |
+
+??? quote "What you see"
+    At dusk the water here glows faintly from below, the colour of Faelan's favourite glass.
+
+## The Oak's Lookout {#oak-lookout}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [The Hollow Oak, Heights](../maps/hollow_oak_heights.md) |
+| Size | Rare |
+| Reward | 9,000 EXP, 3,000 mesos |
+
+??? quote "What you see"
+    A bough of the Hollow Oak juts out over the lake, and from it Shimmerwater and the High Shore lie spread out like a map.
+
+## Where the Great Root Breaks the Surface {#great-root}
+
+|  |  |
+|---|---|
+| Region | [Fairy Forest](../world/index.md#fairy-forest) |
+| Where | [The Deepening, III](../maps/deepening_3.md) |
+| Size | Major |
+| Reward | 30,000 EXP, 8,000 mesos |
+
+??? quote "What you see"
+    A root as thick as a house rises out of the ground here and dives back under. Press an ear to it and it hums. The forest believes it runs all the way to the World Tree.
+
+## The Gap from Gull Heath {#the-gap-from-gull-heath}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [Gull Heath](../maps/gull_heath.md) |
+| Size | Common |
+| Reward | 2,000 EXP, 300 mesos |
+
+??? quote "What you see"
+    From the middle of the heath the whole inlet lies below: the town on its cliffs, the quay, and far out the narrow gap between the two headlands where every ship waits for a pilot.
+
+## The Seabird Ledge {#seabird-ledge}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [The Gullwalk](../maps/gullwalk.md) |
+| Size | Common |
+| Reward | 3,000 EXP, 400 mesos |
+
+??? quote "What you see"
+    On the Gullwalk's highest ledge the seabirds fly level with you, and below them the waves break white on rocks nobody has ever named.
+
+## The Timber Crews' Lookout {#timber-crews-lookout}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [Strandwood Edge](../maps/strandwood_edge.md) |
+| Size | Common |
+| Reward | 6,000 EXP, 600 mesos |
+
+??? quote "What you see"
+    A notched post on the Strandwood's top ledge, where the crews' lookout used to stand. Every notch is a tree brought out safely; the newest are old now.
+
+## The Old Rope-Way {#the-old-rope-way}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [The Saltface](../maps/saltface.md) |
+| Size | Rare |
+| Reward | 20,000 EXP, 1,500 mesos, [Sea-Herb Salve](../items/sea_herb_salve.md) x2 |
+
+??? quote "What you see"
+    High on the Saltface the stumps of an old rope-way still stand, the iron rings worn smooth. The wardens hauled goods up the cliff here before the Long Stair was cut.
+
+## The Outermost Stack {#the-outermost-stack}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [The Skerries](../maps/skerries.md) |
+| Size | Rare |
+| Reward | 60,000 EXP, 3,000 mesos, [Elixir](../items/elixir.md) x2 |
+
+??? quote "What you see"
+    From the top of the last skerry you can see past the gap into the open sea, and back across the inlet to the lanterns of the quay.
+
+## The Breathing Pool {#the-breathing-pool}
+
+|  |  |
+|---|---|
+| Region | [Goa Harbour](../world/index.md#goa-harbour) |
+| Where | [The Still Pool](../maps/still_pool.md) |
+| Size | Rare |
+| Reward | 8,000 EXP, 1,000 mesos |
+
+??? quote "What you see"
+    At the Still Pool's edge the water rises a finger's width, then falls again, slow as a sleeper's breath.
+
+## The Hills' Lookout {#the-hills-lookout}
 
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Where | [Kaldemor Hills](../maps/kaldemor_hills.md) |
 | Size | Common |
-| Reward | 25 EXP, 100 mesos |
+| Reward | 150 EXP, 150 mesos |
 
 ??? quote "What you see"
-    From the top of the long vine the whole of the western hills lies below you. Far off in the woods one birch stands taller than the rest, and a squirrel keeps vanishing behind it.
+    From the top of Kaldemor Hills the whole town lies below: the mushroom roofs, the windmills turning, the park's green and the clock tower. Westward the woods begin, darker than they used to look.
 
-## Face to Face with the Clock {#clock-ledge}
+## Above the Square {#above-the-square}
 
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
 | Size | Common |
-| Reward | 25 EXP |
+| Reward | 150 EXP |
 
 ??? quote "What you see"
-    From the climbers' ledge you stand level with the clock tower's face. The hands are stuck, and the gears behind the glass look like they only need a patient hand.
+    From the high west ledge you can see over every roof in Kaldemor to the far end of the main street. Somebody has left a tin cup up here, as if they come often.
 
-## The Squirrel's Hollow {#squirrels-hollow}
+## The High Causeway {#the-greenmarsh-causeway}
 
 |  |  |
 |---|---|
 | Region | [Kaldemor](../world/index.md#kaldemor) |
-| Where | [Kaldemor Woods](../maps/kaldemor_woods.md) |
-| Size | Rare |
-| Reward | 40 EXP, 250 mesos, [Red Potion](../items/red_potion.md) x5 |
+| Where | [The Greenmarsh](../maps/the_greenmarsh.md) |
+| Size | Common |
+| Reward | 300 EXP, 200 mesos |
 
 ??? quote "What you see"
-    Behind the woods' birch a hollow in the trunk held a tin box, wrapped in oilcloth, that some traveller hid long ago. The squirrel had been guarding it.
+    The old high path above the Greenmarsh stays dry when the reeds flood. From here the tipped cart below looks very small, and the coast road runs on toward the sea.
 
-## The Crossing's Hilltop {#crossing-hilltop}
+## Where the Brook Meets the Sea {#where-the-brook-meets-the-sea}
+
+|  |  |
+|---|---|
+| Region | [Kaldemor](../world/index.md#kaldemor) |
+| Where | [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
+| Size | Rare |
+| Reward | 500 EXP, 300 mesos, [White Potion](../items/white_potion.md) x5 |
+
+??? quote "What you see"
+    On the ledge above Shellbrook Mouth the brook runs out over the sand and the shingle starts. To the east the Strand runs on to Bain Harbour; to the west a path climbs along the coast.
+
+## The Crossing's High Seat {#the-crossings-high-seat}
 
 |  |  |
 |---|---|
 | Region | [The Royal Road](../world/index.md#royal-road) |
-| Where | [The Crossing](../maps/royal_road_2.md) |
-| Size | Common |
-| Reward | 25 EXP, 150 mesos |
+| Where | [The Crossing](../maps/the_crossing.md) |
+| Size | Rare |
+| Reward | 400 EXP, 300 mesos |
 
 ??? quote "What you see"
-    From the gazebo's hill both roads show at once: the royal road running west to the capital, and the narrow path that leaves it for the Greenwood.
+    At the very top of the Crossing a little stone seat looks down on every lane that meets there: the royal road, the farm tracks, the paths that lead nowhere now.
 
-## The Greenwood's Crown {#greenwood-crown}
+## Under the Greenwood's Canopy {#the-greenwood-canopy}
 
 |  |  |
 |---|---|
 | Region | [The Royal Road](../world/index.md#royal-road) |
-| Where | [Greenwood Clearing](../maps/greenwood_clearing.md) |
-| Size | Rare |
-| Reward | 40 EXP, [Orange Potion](../items/orange_potion.md) x3 |
+| Where | [The Greenwood](../maps/the_greenwood.md) |
+| Size | Common |
+| Reward | 250 EXP, 200 mesos |
 
 ??? quote "What you see"
-    The crown ledge above the clearing is cut off from the rest by two ladders. Someone has set a log bench here, as if to watch the mushrooms from above.
+    High in the Greenwood the trees close overhead and the road below disappears. The light is green and the only sound is the wind, and somewhere ahead, the capital's bells.
 
-## The Skywalk's View {#skywalk-view}
+## The Stargazer's Terrace {#stargazers-terrace}
 
 |  |  |
 |---|---|
-| Region | [Selsior](../world/index.md#selsior) |
-| Where | [Selsior](../maps/selsior.md) |
+| Region | [Midbarium](../world/index.md#midbarium) |
+| Where | [Midbarium](../maps/midbarium.md) |
 | Size | Common |
-| Reward | 25 EXP, 150 mesos |
+| Reward | 400 EXP, 300 mesos |
 
 ??? quote "What you see"
-    From the skywalk above the plaza the capital spreads out: the Great Bell on its dais, the fountain, and the throne hall's red carpet running up the palace steps.
+    From the highest terrace the whole night sky opens over the plateau. Someone has scratched star names into the low wall in two hands: a lowlander's letters, and the old Brenna marks beside them.
+
+## The Greywater Cleft {#greywater-cleft}
+
+|  |  |
+|---|---|
+| Region | [Midbarium](../world/index.md#midbarium) |
+| Where | [The South Path](../maps/south_path.md) |
+| Size | Common |
+| Reward | 500 EXP, 300 mesos |
+
+??? quote "What you see"
+    A narrow cleft halfway down the South Path, its stone stained dark where water ran for longer than anyone remembers. A Tolmach cup hangs from a peg above it.
+
+## The Far Canyon Bridge {#the-far-canyon-bridge}
+
+|  |  |
+|---|---|
+| Region | [Midbarium](../world/index.md#midbarium) |
+| Where | [The Broken Ground](../maps/broken_ground.md) |
+| Size | Common |
+| Reward | 1,200 EXP, 500 mesos |
+
+??? quote "What you see"
+    The far canyon bridge sways over a drop with no bottom you can see. Its new lashings are doubled, and there are tooth marks on the old ones.
+
+## The High Pasture {#the-high-pasture}
+
+|  |  |
+|---|---|
+| Region | [Midbarium](../world/index.md#midbarium) |
+| Where | [The Long Ridge](../maps/long_ridge.md) |
+| Size | Rare |
+| Reward | 2,500 EXP, [Goat Cheese](../items/goat_cheese.md) x10 |
+
+??? quote "What you see"
+    Above the Long Ridge the old Tolmach pasture is still green in the hollows. A ring of herders' stones marks where the camps stood every summer for longer than the songs go back.
+
+## The War Camp's Lookout {#war-camp-lookout}
+
+|  |  |
+|---|---|
+| Region | [Midbarium](../world/index.md#midbarium) |
+| Where | [The Old War Camp](../maps/old_war_camp.md) |
+| Size | Rare |
+| Reward | 15,000 EXP, [Travel Ration](../items/travel_ration.md) x10 |
+
+??? quote "What you see"
+    The old camp's highest wall still stands. From here the Savages watched the western edge of the highlands, and from here you can see the storm walking over the Withered Reach.
 
 ## The Great Bell {#great-bell}
 
 |  |  |
 |---|---|
 | Region | [Selsior](../world/index.md#selsior) |
-| Where | [Selsior](../maps/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
 | Size | Common |
-| Reward | 25 EXP |
+| Reward | 300 EXP, 200 mesos |
 
 ??? quote "What you see"
-    You laid a hand on the Great Bell's rim and it hummed through your arm. The guards say it rings only for coronations, and for no one else.
+    Up close the Great Bell is green with age and warm from the sun. The metal of all four peoples went into it, and the plaza was a treaty field before it was a plaza.
+
+## The View from the High Lane {#skywalk-view}
+
+|  |  |
+|---|---|
+| Region | [Selsior](../world/index.md#selsior) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Size | Common |
+| Reward | 500 EXP, 200 mesos |
+
+??? quote "What you see"
+    From the highest lane above the plaza the whole capital spreads out: the palace roofs, the market's awnings and, far to the north, the World Tree against the sky.
+
+## The World Tree's Foot {#the-trees-foot}
+
+|  |  |
+|---|---|
+| Region | [Selsior](../world/index.md#selsior) |
+| Where | [The Rootlands](../maps/rootlands.md) |
+| Size | Common |
+| Reward | 2,500 EXP, 300 mesos |
+
+??? quote "What you see"
+    Up on the highest root the Tree is a wall that goes up and up and never ends. The road stops here; the way in is somewhere higher.
+
+## Above the Chalk Hives {#above-the-hives}
+
+|  |  |
+|---|---|
+| Region | [Selsior](../world/index.md#selsior) |
+| Where | [The Chalk Hives](../maps/chalk_hives.md) |
+| Size | Common |
+| Reward | 6,000 EXP, 500 mesos |
+
+??? quote "What you see"
+    From the top of the chalk bank you can see the hives cut into the white walls below, and the air hums with them.
+
+## The First Keep's Stone {#first-keeps-stone}
+
+|  |  |
+|---|---|
+| Region | [Selsior](../world/index.md#selsior) |
+| Where | [The Deep Cut](../maps/deep_cut.md) |
+| Size | Rare |
+| Reward | 60,000 EXP, 2,000 mesos |
+
+??? quote "What you see"
+    High in the Deep Cut, an old face still shows the chisel marks of the masons who cut the first keep's walls, long before the golems stood up.
+
+## The Buried Street's Name {#buried-street-sign}
+
+|  |  |
+|---|---|
+| Region | [Selsior](../world/index.md#selsior) |
+| Where | [The Buried Street](../maps/buried_street.md) |
+| Size | Rare |
+| Reward | 8,000 EXP, 800 mesos |
+
+??? quote "What you see"
+    Under the dust on an old wall, a street sign of the first fortress town. The letters are an Aristocrat hand, and the name is one nobody in Selsior uses any more.
+
+## The Crooked Tower's Roof {#the-crooked-tower-roof}
+
+|  |  |
+|---|---|
+| Region | [Urbanograd](../world/index.md#urbanograd) |
+| Where | [Urbanograd](../maps/urbanograd.md) |
+| Size | Common |
+| Reward | 3,000 EXP, 400 mesos |
+
+??? quote "What you see"
+    From the highest roof in the city the whole of Old Grad lies below: the lanterns strung between the towers, the Night Market's glow, the Gate Walk, and the walls the Walkers patched a hundred years ago.
+
+## The Walkers' Pictures {#the-walkers-pictures}
+
+|  |  |
+|---|---|
+| Region | [Urbanograd](../world/index.md#urbanograd) |
+| Where | [Urbanograd](../maps/urbanograd.md) |
+| Size | Common |
+| Reward | 3,000 EXP, 400 mesos |
+
+??? quote "What you see"
+    Under the newer paint by Lantern Square the oldest pictures show through, repainted line for line every spring: a cart full of laughing people, a line of walkers with bundles, a lantern between two towers.
+
+## The Halfway Stone {#the-halfway-stone}
+
+|  |  |
+|---|---|
+| Region | [Urbanograd](../world/index.md#urbanograd) |
+| Where | [The Halfway Stone](../maps/halfway_stone.md) |
+| Size | Common |
+| Reward | 1,500 EXP, 300 mesos |
+
+??? quote "What you see"
+    The tall grey marker is worn smooth at shoulder height. Carters touch it for luck on the way to Selsior; the Walkers, the story goes, sat down here and nearly turned back.
+
+## The Old Cart Track {#the-old-cart-track}
+
+|  |  |
+|---|---|
+| Region | [Urbanograd](../world/index.md#urbanograd) |
+| Where | [The Outworks: Outer Ditch](../maps/outworks_ditch.md) |
+| Size | Rare |
+| Reward | 8,000 EXP, 800 mesos |
+
+??? quote "What you see"
+    The grooves along the outer ditch are older than the city: the Aristocrats hauled their stone along them to build Old Grad's walls. Nobody has used them since.
+
+## The Last Beacon {#the-last-beacon}
+
+|  |  |
+|---|---|
+| Region | [Urbanograd](../world/index.md#urbanograd) |
+| Where | [Beacon Line](../maps/beacon_line.md) |
+| Size | Rare |
+| Reward | 30,000 EXP, 2,000 mesos |
+
+??? quote "What you see"
+    From the highest stone of the Beacon Line the chain of ruined towers runs east along the crest, each one in sight of the next. Once a fire here could have been seen from the middle of the island.

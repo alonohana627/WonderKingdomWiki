@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Child |
 | Age | Child |
+| In the game | [Hodge](../../../npcs/hodge.md) |
 
 ## Personality
 

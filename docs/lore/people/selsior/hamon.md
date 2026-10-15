@@ -10,6 +10,7 @@
 | Where | Selsior Gate |
 | Role | Service |
 | Age | Adult |
+| In the game | [Hamon](../../../npcs/hamon.md) |
 
 ## Personality
 

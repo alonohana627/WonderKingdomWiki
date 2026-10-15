@@ -2,10 +2,11 @@
 
 # The Swordsman's Trial
 
-*Captain Rhys will take a Warrior of level 30 into the Swordsman's way. Prove it in the Greenwood Clearing on the royal road: defeat 30 of its monsters and bring back 5 trial seals.*
+*Captain Rhys will take a Warrior of level 30 into the Swordsman's way. Prove it on the Selsior Downs: defeat 30 of the Downs Boars of the Thyme Banks or the Chalk Hive Bees of the Chalk Hives and bring back 5 trial seals.*
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior_quests.md) |
 | Category | Story |
 | Given by | [Rhys](../npcs/rhys.md) |
 | Level | 30 |
@@ -13,7 +14,7 @@
 
 ## Objectives
 
-- Defeat 30 Greenwood monsters ([Horny Mushroom](../monsters/horny_mushroom.md), [Axe Stump](../monsters/axe_stump.md))
+- Defeat 30 Downs monsters ([Downs Boar](../monsters/downs_boar.md), [Chalk Hive Bee](../monsters/chalk_hive_bee.md))
 - Deliver 5 [Guard's Trial Seal](../items/trial_seal.md)
 
 ## Rewards
@@ -25,10 +26,10 @@
 
     - *Player*. Level thirty, and a steady arm. I have been waiting to say this: you are ready for the Guard's trial.
     - A Swordsman does not swing harder. He swings truer. That is learned where the fight is real, not on a practice dummy.
-    - Go to the **Greenwood Clearing**, on the royal road outside the city. Defeat **30** of the [Horny Mushroom](../monsters/horny_mushroom.md)s and [Axe Stump](../monsters/axe_stump.md)s there, and bring me **5 [Guard's Trial Seal](../items/trial_seal.md)s**. The Guard stamps a seal on a leaf, and those creatures carry them off while you are on trial.
+    - Go out to the **Selsior Downs**, off the Hedge Lanes north of the Tree Gate. Defeat **30** of the [Downs Boar](../monsters/downs_boar.md)s of the Thyme Banks and the [Chalk Hive Bee](../monsters/chalk_hive_bee.md)s of the Chalk Hives, and bring me **5 [Guard's Trial Seal](../items/trial_seal.md)s**. The Guard stamps a seal on a leaf, and those creatures carry them off while you are on trial.
     - Good. Mind the Axe Stumps: they hit harder than they look. Keep your potions close, and come back when it is done.
     - A sword that is not ready is worse than no sword. Come back when you are.
-    - Thirty of the Greenwood's monsters and five trial seals, *Player*. The clearing is on the royal road, outside the city.
+    - Thirty of the Downs' boars and hive bees and five trial seals, *Player*. The Downs are off the Hedge Lanes, north through the Tree Gate.
     - Five seals, and the clearing quieter for it. I watched for a steady arm, and here it is.
     - Kneel, *Player*. By the authority of the Royal Guard, I name you a **Swordsman**.
     - Your cuts will come quicker and truer from now on: the Swordsman's attacks are yours. Use them well.

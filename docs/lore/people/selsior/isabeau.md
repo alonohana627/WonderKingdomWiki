@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Highland wool, linen and dyed cloth |
+| In the game | [Isabeau](../../../npcs/isabeau.md) |
 
 ## Relationships
 

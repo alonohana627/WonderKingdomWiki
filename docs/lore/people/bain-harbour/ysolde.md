@@ -10,6 +10,7 @@
 | Where | Lighthouse |
 | Role | Service |
 | Age | Elder |
+| In the game | [Ysolde](../../../npcs/ysolde.md) |
 
 ## Personality
 

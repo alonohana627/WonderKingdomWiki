@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Cheeses from every town and fresh butter |
+| In the game | [Alys](../../../npcs/alys.md) |
 
 ## Relationships
 

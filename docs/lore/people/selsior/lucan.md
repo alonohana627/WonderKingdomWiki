@@ -10,6 +10,7 @@
 | Where | Riverside |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Lucan](../../../npcs/lucan.md) |
 
 ## Personality
 

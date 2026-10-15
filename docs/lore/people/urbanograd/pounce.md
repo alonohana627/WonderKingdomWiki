@@ -10,6 +10,7 @@
 | Where | Rooftops |
 | Role | Animal |
 | Age | Adult |
+| In the game | [Pounce](../../../npcs/pounce.md) |
 
 ## Personality
 

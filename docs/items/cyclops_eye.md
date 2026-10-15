@@ -10,9 +10,12 @@
 | Rarity | Uncommon |
 | Slot | Eye Accessorie |
 | Required level | 30 |
-| Stats | STR +1, DEX +1, INT +1, LUK +1, Max HP +50, Max MP +50, Defense +15 |
+| Stats | STR +1, DEX +1, INT +1, LUK +1, Max HP +50, Max MP +50, Defense +5 |
 | Sells for | 900 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.02%)
+- Dropped by [Bluecap](../monsters/bluecap.md) (0.04%)
+- Sold at [Nix's Masks](../shops/urbanograd_nix.md) for 1,800 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,800 mesos

@@ -10,12 +10,18 @@
 | Slot | Weapon |
 | Weapon type | Two-Handed Sword |
 | Required level | 10 |
-| Stats | Attack +36 |
+| Stats | Attack +49 |
 | Upgrade slots | 8 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (0.2%)
-- Sold at [Selene's Arms](../shops/selsior_arms.md) for 500 mesos
+- Dropped by [Marsh Slime](../monsters/marsh_slime.md) (0.1%)
+- Dropped by [Mud Octopus](../monsters/mud_octopus.md) (0.1%)
+- Dropped by [Orchard Pig](../monsters/orchard_pig.md) (0.1%)
+- Dropped by [Orchard Snail](../monsters/orchard_snail.md) (0.1%)
+- Dropped by [Reed Snake](../monsters/reed_snake.md) (0.1%)
+- Dropped by [Shingle Crab](../monsters/shingle_crab.md) (0.1%)
 - Sold at [Gareth's Smithy](../shops/smith.md) for 500 mesos
+- Sold at [Selene's Arms](../shops/selsior_arms.md) for 500 mesos

@@ -10,6 +10,7 @@
 | Where | Farms |
 | Role | Worker |
 | Age | Young |
+| In the game | [Clem](../../../npcs/clem.md) |
 
 ## Personality
 

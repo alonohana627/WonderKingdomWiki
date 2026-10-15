@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Halloran](../../../npcs/halloran.md) |
 
 ## Personality
 

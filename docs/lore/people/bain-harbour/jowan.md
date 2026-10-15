@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Guard |
 | Age | Young |
+| In the game | [Jowan](../../../npcs/jowan.md) |
 
 ## Personality
 

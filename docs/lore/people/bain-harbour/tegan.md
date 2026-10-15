@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Sails, canvas and patching |
+| In the game | [Tegan](../../../npcs/tegan.md) |
 
 ## Personality
 

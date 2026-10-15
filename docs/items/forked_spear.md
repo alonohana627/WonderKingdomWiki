@@ -10,12 +10,32 @@
 | Slot | Weapon |
 | Weapon type | Spear |
 | Required level | 30 |
-| Stats | Attack +136 |
+| Stats | Attack +84 |
 | Upgrade slots | 8 |
 | Sells for | 1,650 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.05%)
+- Dropped by [Curse Eye](../monsters/curse_eye.md) (0.08%)
 - Dropped by [Stump](../monsters/stump.md) (0.03%)
+- Dropped by [Gloomfur Lupin](../monsters/gloomfur_lupin.md) (0.08%)
+- Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
+- Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.08%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
+- Sold at [Zirra's Bench](../shops/midbarium_zirra.md) for 3,300 mesos
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 3,300 mesos

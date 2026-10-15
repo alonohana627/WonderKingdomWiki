@@ -32,10 +32,10 @@
 | [Orange Potion](../items/orange_potion.md) | 100% | 3-6 |
 | [Rainbow Snail Shell](../items/rainbow_snail_shell.md) | 60% | 1 |
 | [Elixir](../items/elixir.md) | 15% | 1 |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 12% | 1 |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 12% | 1 |
-| [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) | 12% | 1 |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 12% | 1 |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 12% | 1 |
+| [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 12% | 1 |
 | [Steel Shield](../items/steel_shield.md) | 6% | 1 |
 | [Steel Fitted Mail](../items/steel_fitted_mail.md) | 6% | 1 |

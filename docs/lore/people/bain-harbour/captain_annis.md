@@ -10,6 +10,7 @@
 | Where | Docks |
 | Role | Council |
 | Age | Elder |
+| In the game | [Annis](../../../npcs/captain_annis.md) |
 
 ## Personality
 

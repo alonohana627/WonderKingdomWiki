@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Healer |
 | Age | Elder |
+| In the game | [Patch](../../../npcs/patch.md) |
 
 ## Personality
 

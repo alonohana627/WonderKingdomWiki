@@ -46,11 +46,11 @@ Attacks:
 | [Orange Potion](../items/orange_potion.md) | 100% | 3-6 |
 | [Rainbow Snail Shell](../items/rainbow_snail_shell.md) | 60% | 1 |
 | [Elixir](../items/elixir.md) | 15% | 1 |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 12% | 1 |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 12% | 1 |
-| [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) | 12% | 1 |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 12% | 1 |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 12% | 1 |
+| [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 12% | 1 |
 | [Steel Shield](../items/steel_shield.md) | 6% | 1 |
 | [Steel Fitted Mail](../items/steel_fitted_mail.md) | 6% | 1 |
 
@@ -98,11 +98,11 @@ Attacks:
 | [White Potion](../items/white_potion.md) | 100% | 4-8 |
 | [Elixir](../items/elixir.md) | 40% | 1 |
 | [Rainbow Snail Shell](../items/rainbow_snail_shell.md) | 100% | 1-2 |
-| [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) | 25% | 1 |
-| [Scroll for Two-handed Sword for ATT 100%](../items/scroll_two_handed_sword_att.md) | 25% | 1 |
-| [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) | 20% | 1 |
-| [Scroll for Helmet for DEF 100%](../items/scroll_helmet_def.md) | 20% | 1 |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 20% | 1 |
-| [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) | 20% | 1 |
+| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 25% | 1 |
+| [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 25% | 1 |
+| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 20% | 1 |
+| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 20% | 1 |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 20% | 1 |
+| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 20% | 1 |
 | [Steel Fitted Mail](../items/steel_fitted_mail.md) | 10% | 1 |
 | [Steel Greaves](../items/steel_greaves.md) | 10% | 1 |

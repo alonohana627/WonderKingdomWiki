@@ -267,7 +267,7 @@ npcs:
     story: Imre came to Midbarium to study its famous night skies and stayed for the stars and the hospitality. Imre spends nights on the highest terrace charting the heavens and swapping star stories with the Brenna, and hopes one day to be invited to recite at a gathering.
   - id: hallek_kragvar
     name: Hallek
-    title: Mason
+    title: Kragvar Mason
     role: craftsman
     place: Kragvar Quarter
     age: adult

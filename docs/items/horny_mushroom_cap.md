@@ -12,6 +12,7 @@
 ## How to get
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (50%)
+- Dropped by [Horny Mushroom](../monsters/deepwood_horny.md) (50%)
 
 ## Used for
 

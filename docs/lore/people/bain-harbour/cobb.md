@@ -10,6 +10,7 @@
 | Where | Fish Market |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Cobb](../../../npcs/cobb.md) |
 
 ## Personality
 

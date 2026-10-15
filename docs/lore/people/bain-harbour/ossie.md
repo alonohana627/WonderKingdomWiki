@@ -10,6 +10,7 @@
 | Where | Lighthouse |
 | Role | Child |
 | Age | Child |
+| In the game | [Ossie](../../../npcs/ossie.md) |
 
 ## Personality
 

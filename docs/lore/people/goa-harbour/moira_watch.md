@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Guard |
 | Age | Young |
+| In the game | [Moira](../../../npcs/moira_watch.md) |
 
 ## Personality
 

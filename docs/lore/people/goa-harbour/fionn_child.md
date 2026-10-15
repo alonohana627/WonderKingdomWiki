@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Child |
 | Age | Child |
+| In the game | [Fionn](../../../npcs/fionn_child.md) |
 
 ## Personality
 

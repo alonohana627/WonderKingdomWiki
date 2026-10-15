@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Worker |
 | Age | Young |
+| In the game | [Corrie](../../../npcs/corrie_pilot.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Children's Glade |
 | Role | Resident |
 | Kind | Child of the Tree |
+| In the game | [Lumi](../../../npcs/lumi_child.md) |
 
 ## Personality
 

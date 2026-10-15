@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Nana Gristle](../../../npcs/nana_gristle.md) |
 
 ## Personality
 

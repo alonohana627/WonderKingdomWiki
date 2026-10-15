@@ -6,12 +6,34 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior.md) |
 | Where | [Selsior Gate](../maps/selsior_gate.md) |
-
-> Welcome to Selsior, *Player*. Keep to the road and mind the Guard.
+| Story | [Brann in the lore](../lore/people/selsior/brann.md) |
+| Services | Quests |
 
 ## Says
 
-- "Welcome to Selsior, traveller."
-- "The road is quiet today. It usually is, till it is not."
+- "The road is quiet. Until it is not."
+- "Keep to the road and mind the Guard."
 - "Selsior has stood since before the roads were laid."
+- "Limping? Apothecary first. Questions after."
+- "Biscuit. Off my boots. ...Fine. Stay."
+
+## Quests
+
+- [Apothecary First](../quests/brann_apothecary_first.md) (gives)
+- [Not in the Book](../quests/brann_not_in_the_book.md) (gives)
+
+??? quote "Dialogue"
+
+    - Welcome to Selsior, *Player*. **Brann**, Gate Sergeant. Keep to the road and mind the Guard.
+        - *Choice:* Tell me about the gate.
+        - *Choice:* How is the road?
+        - *Choice:* Is that your dog?
+        - *Choice:* Goodbye.
+    - Every envoy, carter, pilgrim and adventurer off the Royal Road passes under my eye. Twenty years I've stood here, twelve of them in command.
+    - Other guards want the Court or the patrol. Not me. The gate is where Selsior meets everyone else. There's no more important post in the city.
+    - Quiet, until it is not. Lately it is not more often. More wagons riding close together, more hired swords on the tailboards.
+    - **Swithin** counts more travellers coming in hurt. The hurt go to an apothecary first. What they tell me goes to the **Knights' Court** the same day.
+    - **Biscuit**? A gate needs a watchdog. He has never watched anything but a bread roll. And I don't feed him, whatever you've heard.
+    - Off you go. Hollis will tell you to mind the step. Mind it.

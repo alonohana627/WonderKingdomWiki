@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Weapon |
 | Weapon type | One-Handed Axe |
-| Stats | Attack +24 |
+| Stats | Attack +42 |
 | Upgrade slots | 8 |
 | Sells for | 110 mesos |
 

@@ -11,6 +11,7 @@
 | Role | Guard |
 | Age | Young |
 | Family | Uskari |
+| In the game | [Bekk](../../../npcs/bekk_uskari.md) |
 
 ## Personality
 

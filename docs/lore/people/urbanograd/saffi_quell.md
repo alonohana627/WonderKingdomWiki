@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Performer |
 | Age | Young |
+| In the game | [Saffi](../../../npcs/saffi_quell.md) |
 
 ## Personality
 

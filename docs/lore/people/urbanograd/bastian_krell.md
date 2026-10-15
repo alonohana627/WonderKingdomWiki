@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Council |
 | Age | Adult |
+| In the game | [Bastian 'Bellows' Krell](../../../npcs/bastian_krell.md) |
 
 ## Personality
 

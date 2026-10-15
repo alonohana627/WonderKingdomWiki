@@ -5,10 +5,11 @@
 |  |  |
 |---|---|
 | Level | 2 |
-| HP | 20 |
-| EXP | 4 |
+| HP | 53 |
+| MP | 20 |
+| EXP | 1 |
 | Touch damage | 10 |
-| Defense / Magic Defense | 0 / 0 |
+| Defense / Magic Defense | 12 / 12 |
 | Aggressive | No |
 
 ## Where to find
@@ -23,7 +24,7 @@
 | [Blue Snail Shell](../items/blue_snail_shell.md) | 50% | 1 |
 | [Red Potion](../items/red_potion.md) | 5% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 3% | 1 |
-| [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) | 0.3% | 1 |
+| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 0.3% | 1 |
 | [Hand Axe](../items/hand_axe.md) | 0.4% | 1 |
 | [Work Gloves](../items/work_gloves.md) | 0.4% | 1 |
 | [Wooden Buckler](../items/wooden_buckler.md) | 0.3% | 1 |

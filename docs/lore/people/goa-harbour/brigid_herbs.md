@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Healer |
 | Age | Young |
+| In the game | [Brigid](../../../npcs/brigid_herbs.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Fishers' Coves |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Calder](../../../npcs/calder_fisher.md) |
 
 ## Personality
 

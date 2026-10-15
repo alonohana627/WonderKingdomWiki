@@ -9,10 +9,11 @@
 | Type | Equipment |
 | Slot | Face Accessorie |
 | Required level | 20 |
-| Stats | Max HP +25, Defense +4 |
+| Stats | Max HP +25, Defense +2 |
 | Sells for | 250 mesos |
 
 ## How to get
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 500 mesos
+- Sold at [Nix's Masks](../shops/urbanograd_nix.md) for 500 mesos

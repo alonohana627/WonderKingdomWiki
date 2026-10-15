@@ -12,4 +12,6 @@
 
 ## How to get
 
+- Sold at [The Dewdrop Tea House](../shops/dewdrop_tea_house.md) for 120 mesos
+- Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 120 mesos
 - Made with [Cooking](../professions/cooking.md) (level 8)

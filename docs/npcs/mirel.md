@@ -6,13 +6,17 @@
 
 |  |  |
 |---|---|
-| Where | [Crown Market](../maps/selsior_market.md) |
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Mirel in the lore](../lore/people/selsior/mirel.md) |
 | Services | Shop: [Mirel's Potions](../shops/selsior_potions.md) |
 
 ## Says
 
 - "Potions, tonics, a cure for what ails you!"
 - "Never go up the road without a few potions."
+- "A remedy for everything, friend. Even a bad mood."
+- "Ink, she sells. Ink with a label on it."
 
 ## Shop
 
@@ -31,3 +35,15 @@
 | [Warrior Potion](../items/warrior_potion.md) | 250 mesos |
 | [Speed Potion](../items/speed_potion.md) | 250 mesos |
 | [Town Return Scroll](../items/town_return_scroll.md) | 400 mesos |
+
+??? quote "Dialogue"
+
+    - Ah, a customer! Or a patient? Both, ideally. What ails you, *Player*?
+        - *Choice:* Who are you?
+        - *Choice:* How is business?
+        - *Choice:* Is there another alchemist?
+        - *Choice:* Goodbye.
+    - **Mirel**, apothecary. Potions, tonics and cures for every adventurer heading up the road. Never leave without a few, I tell them. My herbs come from [Rosalind](../npcs/rosalind.md), the best in the market.
+    - Never better! Every week more of them go up the road, and every week more come back needing me. ... I find that a little sad, if I am honest.
+    - [Prudence](../npcs/prudence.md), behind the Academy. A brilliant woman. Her tonics taste like ink. You may tell her I said both things.
+    - Stay well! And if you cannot, come back.

@@ -2,7 +2,7 @@
 
 # Hallek
 
-*Mason*
+*Kragvar Mason*
 
 |  |  |
 |---|---|
@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Family | Kragvar |
+| In the game | [Hallek](../../../npcs/hallek_kragvar.md) |
 
 ## Personality
 

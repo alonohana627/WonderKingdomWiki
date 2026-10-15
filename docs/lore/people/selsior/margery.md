@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Bread, buns and honey cakes baked the Kaldemor way |
+| In the game | [Margery](../../../npcs/margery.md) |
 
 ## Relationships
 

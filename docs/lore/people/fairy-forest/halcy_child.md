@@ -11,6 +11,7 @@
 | Role | Merchant |
 | Kind | Child of the Tree |
 | Sells | Woven baskets and glade-flower garlands |
+| In the game | [Halcy](../../../npcs/halcy_child.md) |
 
 ## Personality
 

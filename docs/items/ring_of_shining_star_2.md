@@ -15,3 +15,5 @@
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.05%)
+- Dropped by [Tusker](../monsters/tusker.md) (0.06%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,000 mesos

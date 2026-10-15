@@ -11,6 +11,7 @@
 | Role | Service |
 | Age | Young |
 | Family | Tolmach |
+| In the game | [Ennek](../../../npcs/ennek_tolmach.md) |
 
 ## Personality
 

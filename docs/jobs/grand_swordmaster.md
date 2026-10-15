@@ -12,7 +12,7 @@
 | Attack type | Physical |
 | HP per level | 30 |
 | MP per level | 9 |
-| Skill points per level | 3 (from level 2) |
+| Skill points per level | 2.2 (from level 121) |
 | Weapons | One-Handed Sword, Two-Handed Sword |
 | Skills | [Grand Swordmaster Skills](../skills/grand_swordmaster.md) |
 

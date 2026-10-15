@@ -10,6 +10,7 @@
 | Where | Crown Market |
 | Role | Craftsman |
 | Age | Young |
+| In the game | [Kenric](../../../npcs/kenric.md) |
 
 ## Personality
 

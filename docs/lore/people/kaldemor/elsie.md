@@ -11,6 +11,7 @@
 | Role | Worker |
 | Age | Elder |
 | Sells | Milk, butter and cheese |
+| In the game | [Elsie](../../../npcs/elsie.md) |
 
 ## Personality
 

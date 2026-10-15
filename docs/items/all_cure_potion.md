@@ -12,7 +12,13 @@
 
 ## How to get
 
+- Sold at [Merriwether's Chandlery](../shops/bain_chandler.md) for 200 mesos
+- Sold at [Celandine's Remedies](../shops/celandine_remedies.md) for 200 mesos
+- Sold at [Elspeth's Remedies](../shops/elspeths_remedies.md) for 200 mesos
 - Sold at [Marta's General Store](../shops/grocer.md) for 200 mesos
+- Sold at [Lessa's Remedies](../shops/midbarium_lessa.md) for 200 mesos
+- Sold at [The Trading Post](../shops/midbarium_trading_post.md) for 200 mesos
 - Sold at [Dame Orsa's General Store](../shops/selsior_general.md) for 200 mesos
 - Sold at [Mirel's Potions](../shops/selsior_potions.md) for 200 mesos
+- Sold at [Crow's Tonics](../shops/urbanograd_crow.md) for 200 mesos
 - Made with [Alchemy](../professions/alchemy.md) (level 17)

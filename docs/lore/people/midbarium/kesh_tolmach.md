@@ -11,6 +11,7 @@
 | Role | Child |
 | Age | Child |
 | Family | Tolmach |
+| In the game | [Kesh](../../../npcs/kesh_tolmach.md) |
 
 ## Personality
 

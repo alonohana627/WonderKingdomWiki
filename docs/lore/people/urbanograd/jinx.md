@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Performer |
 | Age | Young |
+| In the game | [Jinx](../../../npcs/jinx.md) |
 
 ## Personality
 

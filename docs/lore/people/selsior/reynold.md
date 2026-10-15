@@ -10,6 +10,7 @@
 | Where | Crown Market |
 | Role | Official |
 | Age | Adult |
+| In the game | [Reynold](../../../npcs/reynold.md) |
 
 ## Personality
 

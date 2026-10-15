@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Paper lanterns and candle stubs |
+| In the game | [Glim](../../../npcs/glim_kessel.md) |
 
 ## Relationships
 

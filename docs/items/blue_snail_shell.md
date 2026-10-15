@@ -16,8 +16,8 @@
 ## Used for
 
 - [Blue Potion](../items/blue_potion.md) ([Alchemy](../professions/alchemy.md), x1)
-- [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Shoes for Jump 100%](../items/scroll_shoes_jump.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
-- [Scroll for Gloves for ATT 100%](../items/scroll_gloves_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
+- [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) ([Scrollcrafting](../professions/scrollcrafting.md), x2)
 - [Blue Cloth](../items/blue_cloth.md) ([Tailoring](../professions/tailoring.md), x1)
 - [Rosa's Recipe](../quests/rosas_recipe.md) (bring 5)

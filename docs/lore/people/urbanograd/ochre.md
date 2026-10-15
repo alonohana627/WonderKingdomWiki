@@ -10,6 +10,7 @@
 | Where | Lantern Square |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Ochre](../../../npcs/ochre.md) |
 
 ## Personality
 

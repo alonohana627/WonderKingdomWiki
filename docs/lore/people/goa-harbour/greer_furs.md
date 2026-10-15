@@ -9,6 +9,7 @@
 | Town | [Goa Harbour](../../towns/goa-harbour.md) |
 | Where | Lantern Market |
 | Sells | Furs, pelts, fur-lined cloaks and hoods |
+| In the game | [Greer](../../../npcs/greer_furs.md) |
 
 ## Relationships
 

@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Official |
 | Age | Elder |
+| In the game | [Quint](../../../npcs/quint_holloway.md) |
 
 ## Personality
 

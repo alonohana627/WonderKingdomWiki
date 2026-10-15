@@ -10,7 +10,7 @@
 | Slot | Weapon |
 | Weapon type | One-Handed Axe |
 | Required level | 30 |
-| Stats | Attack +136 |
+| Stats | Attack +84 |
 | Upgrade slots | 8 |
 | Sells for | 1,500 mesos |
 
@@ -18,4 +18,21 @@
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.06%)
 - Dropped by [Stump](../monsters/stump.md) (0.03%)
+- Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
+- Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
+- Dropped by [Horny Mushroom](../monsters/deepwood_horny.md) (0.1%)
+- Dropped by [Bank Clang](../monsters/bank_clang.md) (0.08%)
+- Dropped by [Bank Lorang](../monsters/bank_lorang.md) (0.08%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [The Delver](../monsters/delver.md), [The Delver](../bosses/delver.md) (Normal) (6%)
+- Dropped by [The Delver](../bosses/delver.md) (Hard) (6%)
+- Dropped by [Longjaw](../monsters/longjaw.md), [Longjaw](../bosses/longjaw.md) (Normal) (6%)
+- Dropped by [Longjaw](../bosses/longjaw.md) (Hard) (6%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
+- Dropped by [Queen Amberwing](../monsters/queen_amberwing.md), [Queen Amberwing](../bosses/queen_amberwing.md) (Normal) (6%)
+- Dropped by [Queen Amberwing](../bosses/queen_amberwing.md) (Hard) (6%)
+- Dropped by [Reed Ligator](../monsters/reed_ligator.md) (0.08%)
+- Dropped by [Rubble Golem](../monsters/rubble_golem.md) (0.08%)
+- Dropped by [Undercut Croco](../monsters/undercut_croco.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 3,000 mesos

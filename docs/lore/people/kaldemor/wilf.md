@@ -11,6 +11,7 @@
 | Role | Worker |
 | Age | Adult |
 | Sells | Mushroom spores and caps |
+| In the game | [Wilf](../../../npcs/wilf.md) |
 
 ## Personality
 

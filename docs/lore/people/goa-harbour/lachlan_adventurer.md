@@ -10,6 +10,7 @@
 | Where | Lantern Market |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Lachlan](../../../npcs/lachlan_adventurer.md) |
 
 ## Personality
 

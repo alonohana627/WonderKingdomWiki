@@ -10,6 +10,7 @@
 | Where | Knights' Court |
 | Role | Guard |
 | Age | Young |
+| In the game | [Avice](../../../npcs/avice.md) |
 
 ## Personality
 

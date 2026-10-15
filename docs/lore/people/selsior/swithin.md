@@ -10,6 +10,7 @@
 | Where | Selsior Gate |
 | Role | Official |
 | Age | Elder |
+| In the game | [Swithin](../../../npcs/swithin.md) |
 
 ## Personality
 

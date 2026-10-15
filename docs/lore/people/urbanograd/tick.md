@@ -10,6 +10,7 @@
 | Where | Gate Walk |
 | Role | Child |
 | Age | Child |
+| In the game | [Tick](../../../npcs/tick.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Town Square |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Lottie](../../../npcs/lottie.md) |
 
 ## Personality
 

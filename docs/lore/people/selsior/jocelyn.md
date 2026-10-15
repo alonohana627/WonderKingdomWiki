@@ -10,6 +10,7 @@
 | Where | Royal Vault |
 | Role | Official |
 | Age | Adult |
+| In the game | [Jocelyn](../../../npcs/jocelyn.md) |
 
 ## Personality
 

@@ -43,3 +43,31 @@ Run by [Vessa](../npcs/vessa.md).
 | [Red Waist Warmer](../items/red_waist_warmer.md) | 800 mesos |
 | [Gold Earrings](../items/gold_earrings.md) | 1,000 mesos |
 | [Bow-tie (Yellow)](../items/bow_tie_yellow.md) | 900 mesos |
+| [Black Jangoon Pants](../items/black_jangoon_pants.md) | 5,800 mesos |
+| [Blue Jangoon Armor](../items/blue_jangoon_armor.md) | 6,700 mesos |
+| [Blue Jangoon Shoes](../items/blue_jangoon_shoes.md) | 4,900 mesos |
+| [Blue Justice Cape](../items/blue_justice_cape.md) | 9,000 mesos |
+| [Dark Knuckle](../items/dark_knuckle.md) | 9,600 mesos |
+| [Steel Nordic Helm](../items/steel_nordic_helm.md) | 9,100 mesos |
+| [Steel Tower Shield](../items/steel_tower_shield.md) | 12,000 mesos |
+| [Blue Magic Cape](../items/blue_magic_cape.md) | 11,000 mesos |
+| [Blue Shouldermail](../items/blue_shouldermail.md) | 9,600 mesos |
+| [Blue Shouldermail Pants](../items/blue_shouldermail_pants.md) | 7,900 mesos |
+| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 9,600 mesos |
+| [Gold Brist](../items/gold_brist.md) | 13,000 mesos |
+| [Gold Hildon Boots](../items/gold_hildon_boots.md) | 7,300 mesos |
+| [Skull Shield](../items/skull_shield.md) | 17,000 mesos |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 22,000 mesos |
+| [Black Camel Boots](../items/black_camel_boots.md) | 9,100 mesos |
+| [Black Gaia Cape](../items/black_gaia_cape.md) | 16,000 mesos |
+| [Dark Clench](../items/dark_clench.md) | 16,000 mesos |
+| [Red Crested Helmet](../items/red_crested_helmet.md) | 17,000 mesos |
+| [Red Orientican](../items/red_orientican.md) | 11,000 mesos |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 9,600 mesos |
+| [Dark Carzen Boots](../items/dark_carzen_boots.md) | 10,000 mesos |
+| [Dark Husk](../items/dark_husk.md) | 20,000 mesos |
+| [Gold Ancient Shield](../items/gold_ancient_shield.md) | 24,000 mesos |
+| [Green Seraph Cape](../items/green_seraph_cape.md) | 20,000 mesos |
+| [Mithril Platine](../items/mithril_platine.md) | 12,000 mesos |
+| [Mithril Platine Pants](../items/mithril_platine_pants.md) | 11,000 mesos |
+| [Silver Planet](../items/silver_planet.md) | 20,000 mesos |

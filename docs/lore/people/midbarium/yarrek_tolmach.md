@@ -11,6 +11,7 @@
 | Role | Worker |
 | Age | Adult |
 | Family | Tolmach |
+| In the game | [Yarrek](../../../npcs/yarrek_tolmach.md) |
 
 ## Personality
 

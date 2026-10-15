@@ -11,6 +11,7 @@
 | Role | Adventurer |
 | Age | Young |
 | Family | Uskari |
+| In the game | [Ketta](../../../npcs/ketta_uskari.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Inlet Quay |
 | Role | Craftsman |
 | Age | Adult |
+| In the game | [Tamsin](../../../npcs/tamsin_boatwright.md) |
 
 ## Personality
 

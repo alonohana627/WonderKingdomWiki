@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Council |
 | Age | Elder |
+| In the game | [Thessaly](../../../npcs/thessaly_councillor.md) |
 
 ## Personality
 

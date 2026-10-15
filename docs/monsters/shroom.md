@@ -5,14 +5,15 @@
 |  |  |
 |---|---|
 | Level | 2 |
-| HP | 25 |
-| EXP | 5 |
+| HP | 50 |
+| EXP | 1 |
 | Touch damage | 12 |
-| Defense / Magic Defense | 2 / 2 |
+| Defense / Magic Defense | 8 / 8 |
 | Aggressive | No |
 
 ## Where to find
 
+- [Kaldemor Field](../maps/kaldemor_field.md)
 - [Kaldemor Woods](../maps/kaldemor_woods.md)
 
 ## Drops
@@ -24,7 +25,7 @@
 | [Clock Gear](../items/clock_gear.md) | 30% | 1 |
 | [Red Potion](../items/red_potion.md) | 5% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 3% | 1 |
-| [Scroll for Shield for DEF 100%](../items/scroll_shield_def.md) | 0.3% | 1 |
+| [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 0.3% | 1 |
 | [Wooden Sword](../items/wooden_sword.md) | 0.4% | 1 |
 | [White Undershirt](../items/white_undershirt.md) | 0.4% | 1 |
 | [Red Rubber Boots](../items/red_rubber_boots.md) | 0.3% | 1 |

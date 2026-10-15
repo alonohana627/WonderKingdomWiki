@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Urbanograd inventions, gadgets and curiosities |
+| In the game | [Jasper](../../../npcs/jasper.md) |
 
 ## Relationships
 

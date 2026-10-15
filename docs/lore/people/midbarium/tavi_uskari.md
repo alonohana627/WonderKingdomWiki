@@ -11,6 +11,7 @@
 | Role | Ruler |
 | Age | Adult |
 | Family | Uskari |
+| In the game | [Tavi](../../../npcs/tavi_uskari.md) |
 
 ## Personality
 

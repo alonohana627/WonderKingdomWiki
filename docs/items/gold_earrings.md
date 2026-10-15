@@ -9,10 +9,18 @@
 | Type | Equipment |
 | Slot | Earring |
 | Required level | 25 |
-| Stats | Max HP +30, Magic Defense +6 |
+| Stats | Max HP +30, Magic Defense +3 |
 | Sells for | 500 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.06%)
+- Dropped by [Bootcrab](../monsters/bootcrab.md) (0.06%)
+- Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.06%)
+- Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.06%)
+- Dropped by [Snapjaw](../monsters/snapjaw.md) (0.06%)
+- Dropped by [Strand Fox](../monsters/strand_fox.md) (0.05%)
+- Dropped by [Rooting Piglet](../monsters/rooting_piglet.md) (0.06%)
+- Sold at [Jasper's Curiosities](../shops/jasper_curios.md) for 1,000 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,000 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,000 mesos

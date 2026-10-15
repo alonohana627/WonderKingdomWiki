@@ -10,6 +10,7 @@
 | Where | Wardens' House |
 | Role | Council |
 | Age | Adult |
+| In the game | [Nessa](../../../npcs/warden_nessa.md) |
 
 ## Personality
 

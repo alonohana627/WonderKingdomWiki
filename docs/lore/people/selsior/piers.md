@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Plaza |
 | Sells | Meat pies, apple pasties and hot cider |
+| In the game | [Piers](../../../npcs/piers.md) |
 
 ## Relationships
 

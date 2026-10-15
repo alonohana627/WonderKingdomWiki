@@ -10,6 +10,7 @@
 | Where | Waterfront |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Wilmot](../../../npcs/wilmot.md) |
 
 ## Personality
 

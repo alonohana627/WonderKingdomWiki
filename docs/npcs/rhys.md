@@ -6,38 +6,48 @@
 
 |  |  |
 |---|---|
-| Where | [Knights' Court](../maps/selsior_court.md) |
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [The Captain's Hall](../maps/knights_hall.md) |
+| Story | [Rhys in the lore](../lore/people/selsior/rhys.md) |
 | Services | Quests |
-
-> Stand tall, *Player*.
 
 ## Says
 
-- "A sword is only as good as the arm behind it."
-- "The Guard trains its next Swordsmen here."
+- "A sword is only as good as the arm behind it. Say it with me."
+- "More recruits than ever, and less time to make them ready."
+- "Forty-one to thirty-nine. I have not forgotten, Tavi."
+- "Back foot, Pim. No, the other back foot."
 
 ## Quests
 
-- [The Swordsman's Trial](../quests/swordsmans_trial.md) (gives)
-- [The Swordmaster's Trial](../quests/swordmasters_trial.md) (gives)
 - [The Grand Swordmaster's Trial](../quests/grand_swordmasters_trial.md) (gives)
+- [The Delver](../quests/ida_the_delver.md) (completes)
 - [The Sword Saint's Trial](../quests/sword_saints_trial.md) (gives)
+- [The Swordmaster's Trial](../quests/swordmasters_trial.md) (gives)
+- [The Swordsman's Trial](../quests/swordsmans_trial.md) (gives)
 
 ??? quote "Dialogue"
 
-    - I am Captain **Rhys**. I train warriors of the Royal Guard in the Swordsman's way.
+    - Captain **Rhys** of the Royal Guard. I train the Guard's warriors in the Swordsman's way and set the trials for every rank on the road. What do you need, *Player*?
         - *Choice:* What is a Swordsman?
         - *Choice:* Can I advance?
+        - *Choice:* Tell me about the Court.
+        - *Choice:* What is that tally on the post?
         - *Choice:* Nothing, thanks.
     - A Warrior who has learned patience. The Swordsman fights with fast, controlled cuts, where other Warriors only swing hard.
     - It is the first step on the Swordmaster's road, the one a Warrior takes from **level 30**. The road goes on: the **Swordmaster** from **level 70**, the **Grand Swordmaster** from **level 120**, and last the **Sword Saint** from **level 160**.
-    - Not yet, *Player*. Come back at **level 30**, and we shall see whether you are ready for the Guard's trial.
+    - This is the Guard's home. **Bertrand** drills the recruits at dawn, **Rowena** takes the advanced classes, and the patrols ride out before the sun is up.
+    - The old man asleep on the bench is **Aubrey**, who taught me. He told me I fought like a man chopping firewood. He was right. I spent two years learning to stop.
+    - Since the Age of Disturbance began, every season brings more recruits and more road to patrol. My fear is sending someone out before they are ready.
+    - Eighty bouts, the spring I was nineteen, one every evening after drill, against an Uskari of **Midbarium** named Tavi. Forty-one to Tavi, thirty-nine to me.
+    - No one ever pushed me harder. Three years ago we tried one more bout in this yard, and the drill bell rang before either of us won. It is still unfinished.
+    - Not yet, *Player*. Courage you have; the arm needs time. Come back at **level 30**, and we shall see whether you are ready for the Guard's trial.
     - You have the strength for it, *Player*. Speak to me again and I will set you the Guard's trial.
     - You are one of us already, *Player*, and the road goes on: the Swordmaster. Come back at **level 70**, and the Guard will set you its next trial.
     - Level seventy, *Player*. Speak to me again and I will set you the Swordmaster's trial.
     - A Swordmaster, and a fine one. There is one step more, the Grand Swordmaster. Come back at **level 120**.
-    - Level one hundred and twenty, *Player*. Speak to me again and I will set you the last trial.
+    - Level one hundred and twenty, *Player*. Speak to me again and I will set you the Grand Swordmaster's trial, the one I passed myself.
     - A Grand Swordmaster stands at the top of the Guard, *Player*, yet the old books name one rank more, the Sword Saint. Come back at **level 160**.
-    - Level one hundred and sixty, *Player*. Speak to me again and I will set you the old test, the Sword Saint's.
+    - Level one hundred and sixty, *Player*. Speak to me again and I will set you the old test, the Sword Saint's. I tell you honestly: it is older than I am.
     - There is no rank above yours that I can give, *Player*. What the sword can teach you now, it teaches on the road.
     - Keep your guard up.

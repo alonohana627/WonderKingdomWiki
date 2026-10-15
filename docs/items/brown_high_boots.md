@@ -9,7 +9,7 @@
 | Type | Equipment |
 | Slot | Shoe |
 | Required level | 20 |
-| Stats | Defense +20, Speed +12, Jump +6 |
+| Stats | Defense +11, Speed +12, Jump +6 |
 | Upgrade slots | 6 |
 | Sells for | 600 mesos |
 
@@ -17,4 +17,26 @@
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.1%)
 - Dropped by [Stump](../monsters/stump.md) (0.08%)
+- Dropped by [Bluff Wildcat](../monsters/bluff_wildcat.md) (0.12%)
+- Dropped by [Dune Cat](../monsters/dune_cat.md) (0.12%)
+- Dropped by [Grey Tom](../monsters/grey_tom.md) (0.12%)
+- Dropped by [Scrub Wolf](../monsters/scrub_wolf.md) (0.12%)
+- Dropped by [Dust Wisp](../monsters/dust_wisp.md) (0.08%)
+- Dropped by [Shimmer Slime](../monsters/fairy_slime.md) (0.08%)
+- Dropped by [Flying Book](../monsters/flying_book.md) (0.08%)
+- Dropped by [Ink Imp](../monsters/ink_imp.md) (0.08%)
+- Dropped by [Snapping Book](../monsters/snapping_book.md) (0.08%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (0.08%)
+- Dropped by [Rooting Piglet](../monsters/rooting_piglet.md) (0.12%)
+- Dropped by [Black Drain Rat](../monsters/black_drain_rat.md) (0.08%)
+- Dropped by [Chalk Hive Bee](../monsters/chalk_hive_bee.md) (0.08%)
+- Dropped by [Cistern Bubbling](../monsters/cistern_bubbling.md) (0.08%)
+- Dropped by [Downs Boar](../monsters/downs_boar.md) (0.08%)
+- Dropped by [Drain Rat](../monsters/drain_rat.md) (0.08%)
+- Dropped by [Drain Stirge](../monsters/drain_stirge.md) (0.08%)
+- Dropped by [Tunnel Bat](../monsters/tunnel_bat.md) (0.08%)
+- Dropped by [Wild Bee](../monsters/wild_bee.md) (0.08%)
+- Sold at [Cordelia's Cloth Shop](../shops/bain_cloth.md) for 1,200 mesos
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 1,200 mesos
+- Sold at [Simkin's Boots](../shops/simkin_boots.md) for 1,200 mesos
+- Sold at [Cobble's Boots](../shops/urbanograd_cobble.md) for 1,200 mesos

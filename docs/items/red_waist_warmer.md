@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Belt |
 | Required level | 20 |
-| Stats | STR +2, Defense +10 |
+| Stats | STR +2, Defense +5 |
 | Sells for | 400 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.06%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 800 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 800 mesos

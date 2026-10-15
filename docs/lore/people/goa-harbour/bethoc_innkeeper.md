@@ -11,6 +11,7 @@
 | Role | Service |
 | Age | Adult |
 | Sells | Hot stew, ale and rooms for the night |
+| In the game | [Bethoc](../../../npcs/bethoc_innkeeper.md) |
 
 ## Personality
 

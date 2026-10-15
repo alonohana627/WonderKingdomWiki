@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Pots, jugs and bowls |
+| In the game | [Mabel](../../../npcs/mabel.md) |
 
 ## Personality
 

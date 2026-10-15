@@ -6,12 +6,34 @@
 
 |  |  |
 |---|---|
-| Where | [Selsior](../maps/selsior.md) |
-
-> Do you like the bell, *Player*? It rings when the wind is kind.
+| Town | [Selsior](../towns/selsior.md) |
+| Where | [Royal Plaza](../maps/selsior.md) |
+| Story | [Mirabel in the lore](../lore/people/selsior/mirabel.md) |
+| Services | Quests |
 
 ## Says
 
-- "The Great Bell sings at dusk."
+- "The Great Bell sings at dusk, when the wind is kind."
 - "I dance for the pleasure of it. The coins are a bonus."
 - "Selsior never sleeps, it only hums."
+- "One more turn for Baldwin, when the last lamp catches."
+- "Fix your eyes on one spot, and the world stops turning."
+
+## Quests
+
+- [Ribbons for Dusk](../quests/mirabel_ribbons_for_dusk.md) (gives)
+- [The Far Side of the Bell](../quests/mirabel_the_far_side_of_the_bell.md) (gives)
+
+??? quote "Dialogue"
+
+    - Look, the ribbons! And you heard it too, on the far side. Or nearly. Nearly is lovely, *Player*.
+    - **Mirabel**. I dance. I was born on the road, to a company of players, and I stayed in Selsior at fifteen. My window looks at the Bell.
+    - When the wind comes softly across the plaza as the light goes, there is a note under everything. Faint and sweet, like the Bell remembering how it rang.
+    - [Hugh](../npcs/hugh.md) says it has not rung since the coronation, and that the wind makes a great many noises. We have argued about it for years. It is the best conversation in Selsior.
+    - [Baldwin](../npcs/baldwin.md) lights the lamps, [Fulke](../npcs/fulke.md) picks up his lute, and I slip off my shoes. Little [Mab](../npcs/mab.md) copies my spins and falls over. Stay one evening, *Player*. Nobody hurries at dusk.
+    - Do not rush off. The plaza is nicer slow.
+    - Oh, hello, *Player*. Do you like the Bell? It rings when the wind is kind.
+        - *Choice:* Who are you?
+        - *Choice:* The Bell rings?
+        - *Choice:* What happens here at dusk?
+        - *Choice:* Goodbye.

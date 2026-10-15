@@ -13,4 +13,6 @@
 
 ## How to get
 
+- Sold at [The Dewdrop Tea House](../shops/dewdrop_tea_house.md) for 300 mesos
 - Made with [Cooking](../professions/cooking.md) (level 13)
+- Reward from [The Woodcutter's Sign](../quests/the_woodcutters_sign.md)

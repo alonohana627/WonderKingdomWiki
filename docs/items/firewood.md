@@ -12,7 +12,10 @@
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (55%)
+- Dropped by [Dark Stump](../monsters/dark_stump.md) (20%)
+- Dropped by [Driftstump](../monsters/driftstump.md) (30%)
 
 ## Used for
 
 - [Roast Pork](../items/roast_pork.md) ([Cooking](../professions/cooking.md), x1)
+- [Brodie's Favour](../quests/sorcha_brodies_favour.md) (bring 20)

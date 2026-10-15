@@ -10,6 +10,7 @@
 | Where | Theatre Row |
 | Role | Child |
 | Age | Child |
+| In the game | [Marigold](../../../npcs/marigold.md) |
 
 ## Personality
 

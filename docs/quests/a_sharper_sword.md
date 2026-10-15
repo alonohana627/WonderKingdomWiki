@@ -6,6 +6,7 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Gareth](../npcs/gareth.md) |
 | Level | 3 |
@@ -13,12 +14,12 @@
 
 ## Objectives
 
-- Use [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md)
+- Use [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md)
 
 ## Rewards
 
 - 60 EXP
-- [Scroll for One-Handed Sword for ATT 100%](../items/scroll_one_handed_sword_att.md) x1
+- [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) x1
 
 ??? quote "Dialogue"
 

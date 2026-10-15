@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Wool, cloth and blankets |
+| In the game | [Winnie](../../../npcs/winnie.md) |
 
 ## Personality
 

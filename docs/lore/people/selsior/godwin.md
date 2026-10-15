@@ -10,6 +10,7 @@
 | Where | Palace |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Godwin](../../../npcs/godwin.md) |
 
 ## Personality
 

@@ -10,6 +10,7 @@
 | Where | Old Quarter |
 | Role | Resident |
 | Age | Elder |
+| In the game | [Tancred](../../../npcs/tancred.md) |
 
 ## Personality
 

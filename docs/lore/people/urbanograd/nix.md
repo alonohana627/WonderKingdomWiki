@@ -9,6 +9,7 @@
 | Town | [Urbanograd](../../towns/urbanograd.md) |
 | Where | Night Market |
 | Sells | Masks, face paint and Walkout Day costumes |
+| In the game | [Nix](../../../npcs/nix.md) |
 
 ## Relationships
 

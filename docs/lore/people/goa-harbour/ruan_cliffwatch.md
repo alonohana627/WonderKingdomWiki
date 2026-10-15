@@ -10,6 +10,7 @@
 | Where | Cliff Stairs |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Ruan](../../../npcs/ruan_cliffwatch.md) |
 
 ## Personality
 

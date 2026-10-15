@@ -10,9 +10,16 @@
 | Rarity | Uncommon |
 | Slot | Belt |
 | Required level | 30 |
-| Stats | LUK +2, Max MP +30, Magic Defense +12 |
+| Stats | LUK +2, Max MP +30, Magic Defense +4 |
 | Sells for | 800 mesos |
 
 ## How to get
 
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.02%)
+- Dropped by [Bootcrab](../monsters/bootcrab.md) (0.06%)
+- Dropped by [Glass Jelly](../monsters/glass_jelly.md) (0.06%)
+- Dropped by [Ironback Crab](../monsters/ironback_crab.md) (0.06%)
+- Dropped by [Snapjaw](../monsters/snapjaw.md) (0.06%)
+- Dropped by [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) (0.05%)
+- Dropped by [Paleveil Cap](../monsters/paleveil_cap.md) (0.04%)
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 1,600 mesos

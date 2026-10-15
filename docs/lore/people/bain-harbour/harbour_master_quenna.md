@@ -10,6 +10,7 @@
 | Where | Harbour Hall |
 | Role | Ruler |
 | Age | Adult |
+| In the game | [Quenna](../../../npcs/harbour_master_quenna.md) |
 
 ## Personality
 

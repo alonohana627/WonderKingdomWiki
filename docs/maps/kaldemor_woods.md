@@ -4,35 +4,31 @@
 
 |  |  |
 |---|---|
-| Region | [Kaldemor](../world/index.md#kaldemor) |
-| Kind | Hunting |
-| Level | 2 |
+| Region | [The Royal Road](../world/index.md#royal-road) |
+| Kind | Road |
+| Levels | 2-8 |
+| Difficulty | 4 |
+| Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
 
 ## Exits
 
 - [Kaldemor Hills](../maps/kaldemor_hills.md)
-- [Kaldemor Reach](../maps/royal_road_1.md)
+- [The Crossing](../maps/the_crossing.md)
+- [The Last Stile](../maps/the_last_stile.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Shroom](../monsters/shroom.md) | 2 | 6 |
-| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 4 |
+| [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 11 |
+| [Shroom](../monsters/shroom.md) | 2 | 4 |
 
 ## Gathering
 
 | Node | Profession | Gives | Number |
 |---|---|---|---|
-| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 2 |
-| Bronze Vein | [Mining](../professions/mining.md) | [Bronze Ore](../items/bronze_ore.md) | 3 |
-| Iron Vein | [Mining](../professions/mining.md) | [Iron Ore](../items/iron_ore.md) | 1 |
-| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 2 |
-| Rosemary Patch | [Herbalism](../professions/herbalism.md) | [Rosemary Flower](../items/rosemary_flower.md) | 2 |
 | Fallen Log | [Gathering](../professions/gathering.md) | [Tree Branch](../items/tree_branch.md) | 1 |
-| Fern Clump | [Gathering](../professions/gathering.md) | [Fern Fibre](../items/fern_fibre.md) | 2 |
-
-## Discoveries
-
-- [The Squirrel's Hollow](../world/discoveries.md#squirrels-hollow)
+| Lavender Patch | [Herbalism](../professions/herbalism.md) | [Lavender Flower](../items/lavender_flower.md) | 1 |
+| Copper Vein | [Mining](../professions/mining.md) | [Copper Ore](../items/copper_ore.md) | 1 |
+| Rosemary Patch | [Herbalism](../professions/herbalism.md) | [Rosemary Flower](../items/rosemary_flower.md) | 1 |

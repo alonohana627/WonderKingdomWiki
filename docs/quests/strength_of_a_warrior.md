@@ -6,6 +6,7 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Story |
 | Given by | [Tobin](../npcs/tobin.md) |
 | Level | 3 |

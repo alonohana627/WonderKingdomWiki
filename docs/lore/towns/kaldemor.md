@@ -123,7 +123,7 @@ Something is. Under the clock tower, down a stair that Ewan and [Alfie](../peopl
     Everyone who lives here in the first release: [People of Kaldemor](../people/kaldemor/index.md).
 
 !!! info "In the game"
-    Kaldemor is in the game today. See [Kaldemor in the world guide](../../world/index.md#kaldemor) for its maps, NPCs, quests and hunting grounds.
+    Kaldemor is in the game. Its [town guide](../../towns/kaldemor.md) lists its maps and hunting grounds, theme dungeon, bosses, NPCs and shops, and [its quests](../../towns/kaldemor_quests.md) are laid out line by line.
 
 !!! abstract "Design notes"
     The atmosphere is inspired by the bright, welcoming character of MapleStory's Henesys. The seed story, the treehouse, the mushroom houses, the clock tower, Mayor Tobin and the Snail King come from the game itself. New with this page: the guess that the seed came from the World Tree, and the clock tower being raised by the whole town.

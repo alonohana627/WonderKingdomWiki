@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Craftsman |
 | Age | Elder |
+| In the game | [Thimble](../../../npcs/thimble.md) |
 
 ## Personality
 

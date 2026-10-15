@@ -10,6 +10,7 @@
 | Where | Forest Shore |
 | Role | Adventurer |
 | Age | Young |
+| In the game | [Kenna](../../../npcs/kenna_hunter.md) |
 
 ## Personality
 

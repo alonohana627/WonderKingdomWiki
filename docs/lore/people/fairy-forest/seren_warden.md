@@ -10,6 +10,7 @@
 | Where | Forest Edge |
 | Role | Guard |
 | Age | Adult |
+| In the game | [Seren](../../../npcs/seren_warden.md) |
 
 ## Personality
 

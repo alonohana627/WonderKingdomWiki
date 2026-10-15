@@ -6,6 +6,7 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Side |
 | Given by | [Gareth](../npcs/gareth.md) |
 | Level | 3 |

@@ -10,6 +10,7 @@
 | Where | Great Hall |
 | Role | Worker |
 | Age | Elder |
+| In the game | [Leland](../../../npcs/leland.md) |
 
 ## Personality
 

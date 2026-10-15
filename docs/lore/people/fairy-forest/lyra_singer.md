@@ -10,6 +10,7 @@
 | Where | Lantern Paths |
 | Role | Performer |
 | Age | Adult |
+| In the game | [Lyra](../../../npcs/lyra_singer.md) |
 
 ## Personality
 

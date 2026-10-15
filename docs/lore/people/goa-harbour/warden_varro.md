@@ -10,6 +10,7 @@
 | Where | Wardens' House |
 | Role | Council |
 | Age | Elder |
+| In the game | [Varro](../../../npcs/warden_varro.md) |
 
 ## Personality
 

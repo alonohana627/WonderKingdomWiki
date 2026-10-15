@@ -10,6 +10,7 @@
 | Where | Herb Gardens |
 | Role | Worker |
 | Age | Adult |
+| In the game | [Merrow](../../../npcs/merrow_gardener.md) |
 
 ## Personality
 

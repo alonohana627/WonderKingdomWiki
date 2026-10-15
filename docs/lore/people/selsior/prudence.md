@@ -11,6 +11,7 @@
 | Role | Craftsman |
 | Age | Adult |
 | Sells | Alchemical reagents, inks and powders |
+| In the game | [Prudence](../../../npcs/prudence.md) |
 
 ## Personality
 

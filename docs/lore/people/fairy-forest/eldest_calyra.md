@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Ruler |
 | Age | Elder |
+| In the game | [Calyra](../../../npcs/eldest_calyra.md) |
 
 ## Personality
 

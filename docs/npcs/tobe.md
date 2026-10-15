@@ -6,11 +6,33 @@
 
 |  |  |
 |---|---|
+| Town | [Selsior](../towns/selsior.md) |
 | Where | [Knights' Court](../maps/selsior_court.md) |
-
-> I read about swordsmanship. The book did not mention how heavy swords are.
+| Story | [Tobe in the lore](../lore/people/selsior/tobe.md) |
+| Services | Quests |
 
 ## Says
 
-- "Step, strike, step, strike..."
-- "The manual says the third cut is the hard one."
+- "Step, strike, step, strike... and the third cut goes wrong again."
+- "The manual makes it sound so easy on page forty."
+- "Six accounts of the Sword Saint, and not one agrees with another."
+- "I should thank her. I will. Tomorrow. Probably."
+
+## Quests
+
+- [A Seventh Account](../quests/tobe_a_seventh_account.md) (gives)
+- [The Third Cut, Slowly](../quests/tobe_the_third_cut_slowly.md) (gives)
+
+??? quote "Dialogue"
+
+    - Oh, hello. I am **Tobe**, a recruit. Sorry, I was counting. Step, strike, step...
+        - *Choice:* Who are you?
+        - *Choice:* What is the third cut?
+        - *Choice:* The Sword Saint?
+        - *Choice:* I'll let you practise.
+    - I read every book on the sword in the **Scholars' Quarter** before I came to the Court. Not one of them mentioned how heavy swords are.
+    - My sister **Mariota** comes every week to ask if I have got past the third cut. I have not. She reads about stars instead of looking at them, so we are even.
+    - I know exactly where my feet go, at what angle the blade leaves the guard, and why. Then I try it, and the sword goes somewhere else.
+    - **Avice** told me what was wrong in five words. She was right. Would you show me sometime, *Player*? Slowly. The books all describe it differently.
+    - The old books name one rank past the Grand Swordmaster. I have six accounts of its test, all different. I take them to **Aubrey**'s bench. He pretends to be asleep.
+    - Step, strike... oh, goodbye!

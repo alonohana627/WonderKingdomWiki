@@ -10,6 +10,7 @@
 | Where | Heart Tree |
 | Role | Scholar |
 | Age | Adult |
+| In the game | [Caelum](../../../npcs/caelum_scholar.md) |
 
 ## Personality
 

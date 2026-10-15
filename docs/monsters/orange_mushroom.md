@@ -5,16 +5,17 @@
 |  |  |
 |---|---|
 | Level | 8 |
-| HP | 80 |
-| EXP | 15 |
+| HP | 123 |
+| EXP | 11 |
 | Touch damage | 28 |
-| Defense / Magic Defense | 8 / 8 |
+| Defense / Magic Defense | 32 / 32 |
 | Aggressive | No |
 
 ## Where to find
 
+- [Kaldemor Hills](../maps/kaldemor_hills.md)
 - [Kaldemor Woods](../maps/kaldemor_woods.md)
-- [Kaldemor Reach](../maps/royal_road_1.md)
+- [The Hedge Lanes](../maps/hedge_lanes.md)
 
 ## Drops
 
@@ -25,11 +26,11 @@
 | [Red Potion](../items/red_potion.md) | 8% | 1-2 |
 | [Orange Potion](../items/orange_potion.md) | 4% | 1 |
 | [Blue Potion](../items/blue_potion.md) | 5% | 1 |
-| [Scroll for Overall Armor for DEF 100%](../items/scroll_overall_def.md) | 0.3% | 1 |
+| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 0.3% | 1 |
 | [SP Reset Scroll](../items/sp_reset_scroll.md) | 0.15% | 1 |
 | [AP Reset Scroll](../items/ap_reset_scroll.md) | 0.15% | 1 |
-| [Scroll for Bottomwear for DEF 100%](../items/scroll_bottomwear_def.md) | 0.3% | 1 |
-| [Scroll for Cape for DEF 100%](../items/scroll_cape_def.md) | 0.3% | 1 |
+| [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) | 0.3% | 1 |
+| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 0.3% | 1 |
 | [Double Axe](../items/double_axe.md) | 0.25% | 1 |
 | [Fish Spear](../items/fish_spear.md) | 0.2% | 1 |
 | [Steel Full Helm](../items/steel_full_helm.md) | 0.25% | 1 |
@@ -37,3 +38,13 @@
 | [Steel Axe](../items/steel_axe.md) | 0.2% | 1 |
 | [Blue Sergeant](../items/blue_sergeant.md) | 0.06% | 1 |
 | [Mithril Buckler](../items/mithril_buckler.md) | 0.05% | 1 |
+
+## Quests
+
+- [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md)
+- [Past the Light](../quests/baldwin_past_the_light.md)
+- [Post the Notice](../quests/clement_post_the_notice.md)
+- [Bounty: The Hedge Lanes](../quests/edric_bounty_hedge_lanes.md)
+- [One More Round](../quests/pim_one_more_round.md)
+- [The Third Cut, Slowly](../quests/tobe_the_third_cut_slowly.md)
+- [The Fifth Tale](../quests/winifred_the_fifth_tale.md)

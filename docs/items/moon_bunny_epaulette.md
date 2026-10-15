@@ -9,10 +9,11 @@
 | Type | Equipment |
 | Slot | Shoulder |
 | Required level | 15 |
-| Stats | Defense +8, Attack +1 |
+| Stats | Defense +5, Attack +1 |
 | Sells for | 300 mesos |
 
 ## How to get
 
 - Dropped by [Green Mushroom](../monsters/green_mushroom.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 600 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 600 mesos

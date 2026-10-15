@@ -6,11 +6,13 @@
 
 |  |  |
 |---|---|
+| Town | [Kaldemor](../towns/kaldemor_quests.md) |
 | Category | Story |
 | Given by | [Tobin](../npcs/tobin.md) |
 | Completed with | [Hale](../npcs/hale.md) |
 | Level | 2 |
 | After | [Settling In](../quests/settling_in.md) |
+| Leads to | [Shells for the Mayor](../quests/shells_for_the_mayor.md) |
 
 ## Objectives
 

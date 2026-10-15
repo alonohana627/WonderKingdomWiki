@@ -10,6 +10,7 @@
 | Where | Old Barracks Theatre |
 | Role | Child |
 | Age | Child |
+| In the game | [Sprout](../../../npcs/sprout.md) |
 
 ## Personality
 

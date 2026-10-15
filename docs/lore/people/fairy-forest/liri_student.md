@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Child |
 | Age | Child |
+| In the game | [Liri](../../../npcs/liri_student.md) |
 
 ## Personality
 

@@ -9,10 +9,12 @@
 | Type | Equipment |
 | Slot | Shoulder |
 | Required level | 20 |
-| Stats | STR +2, Defense +12 |
+| Stats | STR +2, Defense +6 |
 | Sells for | 450 mesos |
 
 ## How to get
 
 - Dropped by [Horny Mushroom](../monsters/horny_mushroom.md) (0.06%)
+- Dropped by [Hedge Boar](../monsters/hedge_boar.md) (0.06%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 900 mesos
+- Sold at [Velvet's Curios](../shops/urbanograd_velvet.md) for 900 mesos

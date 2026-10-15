@@ -10,6 +10,7 @@
 | Where | Grove School |
 | Role | Child |
 | Age | Child |
+| In the game | [Siora](../../../npcs/siora_student.md) |
 
 ## Personality
 

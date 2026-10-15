@@ -12,7 +12,7 @@
 | Attack type | Physical |
 | HP per level | 28 |
 | MP per level | 8 |
-| Skill points per level | 3 (from level 2) |
+| Skill points per level | 1.55 (from level 71) |
 | Weapons | One-Handed Sword, Two-Handed Sword |
 | Skills | [Swordmaster Skills](../skills/swordmaster.md) |
 

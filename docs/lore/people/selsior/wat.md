@@ -10,6 +10,7 @@
 | Where | Crown Market |
 | Role | Child |
 | Age | Child |
+| In the game | [Wat](../../../npcs/wat.md) |
 
 ## Personality
 

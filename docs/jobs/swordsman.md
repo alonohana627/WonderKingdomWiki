@@ -12,7 +12,7 @@
 | Attack type | Physical |
 | HP per level | 26 |
 | MP per level | 7 |
-| Skill points per level | 3 (from level 2) |
+| Skill points per level | 1.9 (from level 31) |
 | Weapons | One-Handed Sword, Two-Handed Sword |
 | Skills | [Swordsman Skills](../skills/swordsman.md) |
 

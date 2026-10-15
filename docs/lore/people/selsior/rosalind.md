@@ -9,6 +9,7 @@
 | Town | [Selsior](../../towns/selsior.md) |
 | Where | Crown Market |
 | Sells | Healing herbs, teas and seeds from Fairy Forest |
+| In the game | [Rosalind](../../../npcs/rosalind.md) |
 
 ## Relationships
 

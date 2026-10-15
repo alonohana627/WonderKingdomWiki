@@ -6,7 +6,9 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Ewan in the lore](../lore/people/kaldemor/ewan.md) |
 | Services | Quests |
 
 > Mind the dust, *Player*. And mind the time.

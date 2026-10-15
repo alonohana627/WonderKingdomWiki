@@ -6,8 +6,10 @@
 
 |  |  |
 |---|---|
-| Where | [Kaldemor Park](../maps/kaldemor_park.md) |
-| Services | Boss: [The Snail King](../bosses/snail_king.md), Quests |
+| Town | [Kaldemor](../towns/kaldemor.md) |
+| Where | [Kaldemor](../maps/kaldemor.md) |
+| Story | [Hale in the lore](../lore/people/kaldemor/hale.md) |
+| Services | Boss: [The Bluecap Mother](../bosses/bluecap_mother.md), Boss: [The Cap King](../bosses/cap_king.md), Boss: [Gnarltusk](../bosses/gnarltusk.md), Boss: [The Snail King](../bosses/snail_king.md), Quests |
 
 > Hello, *Player*. Mind the meadow.
 
@@ -19,10 +21,19 @@
 
 ## Quests
 
-- [Snail Trouble](../quests/snail_trouble.md) (completes)
-- [Shells for the Mayor](../quests/shells_for_the_mayor.md) (gives)
+- [Follow Her Home](../quests/follow_her_home.md) (gives)
+- [Hale's Boarwood Bounty](../quests/hales_boarwood_bounty.md) (gives)
 - [Hale's Bounty](../quests/hales_bounty.md) (gives)
+- [Said Out Loud](../quests/said_out_loud.md) (gives)
+- [Shells for the Mayor](../quests/shells_for_the_mayor.md) (gives)
+- [Snail Trouble](../quests/snail_trouble.md) (completes)
+- [Stilebrook Farm](../quests/stilebrook_farm.md) (gives)
+- [The Bluecap Mother](../quests/the_bluecap_mother.md) (gives)
+- [The Inner Ward](../quests/the_inner_ward.md) (gives)
+- [The Keep Bounty](../quests/the_keep_bounty.md) (gives)
 - [The Snail King](../quests/the_snail_king.md) (gives)
+- [Thinning the Herd](../quests/thinning_the_herd.md) (gives)
+- [What Drove It Out](../quests/what_drove_it_out.md) (gives)
 
 ??? quote "Dialogue"
 
@@ -30,9 +41,15 @@
         - *Choice:* What is out in the meadow?
         - *Choice:* Any advice for a newcomer?
         - *Choice:* Take me to the Snail King's hollow.
+        - *Choice:* Take me to Stilebrook Farm.
+        - *Choice:* Take me to the Bluecap Hollow.
+        - *Choice:* Take me up the Crown Tower.
         - *Choice:* Nothing, thanks.
+    - Then mind its head, *Player*. When it drops low, it is about to charge: get out of its line. Watch for the old rails coming down where the shadows fall. I will open the gate.
+    - Then keep your potions close and your feet moving, *Player*. Jump the red marks, and do not stay still when it sweeps. I will open the way.
+    - The Mother is waiting in her hollow, *Player*, and she does not like her brood thinned. Watch for the red marks: the pale threads come up through them, and when she hops, be in the air when she lands. I will show you the way in.
+    - The Cap King is at the top, *Player*, and everything that ran this year ran from it. Jump the red lines when its roots heave, step out from under the cloud when it shakes its crown, and keep moving when the hoard comes down. I will open the way up.
     - Mostly **snails**: green ones near the town, blue ones and red ones a little farther. They are slow and harmless enough, but they nibble.
     - East of the town square, past the portal, the meadow opens up. Hunt a few and you will learn how a fight goes.
     - Press **Ctrl** to swing, and keep a **potion** on a key. Whatever the snails leave behind, **Z** picks it up.
-    - Then keep your potions close and your feet moving, *Player*. Jump the red marks, and do not stay still when it sweeps. I will open the way.
     - Walk safe, *Player*.

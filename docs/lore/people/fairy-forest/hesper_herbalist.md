@@ -10,6 +10,7 @@
 | Where | Herb Gardens |
 | Role | Healer |
 | Age | Elder |
+| In the game | [Hesper](../../../npcs/hesper_herbalist.md) |
 
 ## Personality
 
