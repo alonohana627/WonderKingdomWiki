@@ -20,4 +20,6 @@ Peterkin, the palace page, wants to be a courier when he grows up, and watches P
 
 Perrin wants to be the courier who gets through when no one else can, and to be thanked for it, loudly, by name. What he fears is the letter he cannot deliver, and having to come back to the plaza with it still sealed in his satchel.
 
+Perrin also teaches **Courier's Stride**, the short burst of running speed every royal courier learns in their first week, to anyone who can keep pace with him from the palace steps to the gate and back without dropping a letter.
+
 A quest might begin with Perrin, for once, asking someone to carry a letter for him on a road he will not take, or with a letter in his satchel that he is certain he never picked up.

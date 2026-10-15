@@ -20,4 +20,6 @@ Kite's sweetheart is Splash, the night painter who leaves murals on the backs of
 
 Kite wants to keep the record forever, and to run one day from the top of the Crooked Tower to the gate without touching a single stair. Kite fears very little on the roofs, but has noticed that Nana Gristle's warnings about which rooftops to avoid are, irritatingly, always right. What Kite fears most is a fall like the one that took the roofs from Kite's mother.
 
+Kite also teaches **Rooftop Dash**, the quick dash along the ground that runners use to cross a gap before a roof edge stops them, to anyone who can follow Kite across three rooftops without being told which ones to avoid.
+
 A quest might race Kite across the rooftops, carry an urgent message when Kite is laid up, or help Kite and Splash get a mural up where the whole Gate Walk can see it.

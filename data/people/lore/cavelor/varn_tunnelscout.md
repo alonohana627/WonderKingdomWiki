@@ -20,6 +20,8 @@ Varn's rival, by common agreement, is Doran, Gorran's son, who came back from th
 
 Varn has no family left in Cavelor; his parents, both Wardens, died some years ago. He says the tunnels are company enough. Nobody quite believes him.
 
+Varn also teaches **Lantern Sight**, the scout's way of carrying a light that shows the hidden footholds of the dark passages, to anyone who has come down the Upper Stair and can walk the outer tunnels behind him without losing their nerve.
+
 ### Hooks
 
 A quest might follow Varn's tracks into the forgotten passages and find out what made them. Or it might help him clear a collapsed tunnel on the messengers' route before the next letter has to go up to the crown.

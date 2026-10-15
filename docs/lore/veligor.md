@@ -21,7 +21,7 @@ The [World Tree](world-tree.md) stands at the very center of the island, with [C
 | The southeast countryside, inland | [Kaldemor](towns/kaldemor.md) |
 | The east coast | [Bain Harbour](towns/bain-harbour.md) |
 
-Besides the royal roads, older roads join the towns to each other: Stonefang Pass between Midbarium and Urbanograd, the Northern Woodland Trail from Midbarium to Fairy Forest, the Eastern Forest Road from Fairy Forest down to Kaldemor, and the Western Merchant Road between Goa Harbour and Urbanograd. A country road runs from Kaldemor down to Bain Harbour, and a long coast road follows the island's south shore from Goa Harbour round to Bain Harbour without passing the capital.
+Besides the royal roads, older roads join the towns to each other: Stonefang Pass between Midbarium and Urbanograd, the Northern Woodland Trail from Midbarium to Fairy Forest, the Eastern Forest Road from Fairy Forest down to Kaldemor, and the Western Merchant Road between Goa Harbour and Urbanograd. The **Verdant Coast Road** runs from Kaldemor through its farmland and orchards down to Bain Harbour, green the whole way to the sea, and the **Southern Coastal Road** follows the island's south shore from Goa Harbour round to Bain Harbour without passing the capital.
 
 ## Towns
 

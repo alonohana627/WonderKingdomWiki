@@ -147,6 +147,8 @@ All counts are "years before the present day". The present is 50 years after the
 ## Set by the coordinator (applies everywhere)
 
 - Geography (canon, decided by Alon 2026-10-15, from the game's world map): the World Tree at the very center of the island (Alon, 2026-10-15); Selsior on the central plain a day's ride south of it; Midbarium northwest; Fairy Forest northeast; Urbanograd in the west; Goa Harbour on the west coast; Kaldemor in the southeast, inland; Bain Harbour on the east coast.
+- Roads (Alon approved 2026-10-15): Kaldemor-Bain is the Verdant Coast Road; Goa-Bain along the south shore is the Southern Coastal Road.
+- Tutors (approved): Garrick (Rope Up, Kaldemor), Perrin (Courier's Stride, Selsior), Kite (Rooftop Dash, Urbanograd), Ennek (Sure Footing, Midbarium), Kestra (Rope Slide, Goa Harbour), Garrow (Sea Legs, Bain Harbour), Sorrel (Blink, Fairy Forest), Varn (Lantern Sight, Cavelor). Each teaches through a short quest; none sells a skill.
 - Elite and Epic monsters are called "Disturbance-touched" in the world; the worst are "deeply touched".
 - The first standing rank is "Neighbour" (was "Stranger"): the player is a native.
 

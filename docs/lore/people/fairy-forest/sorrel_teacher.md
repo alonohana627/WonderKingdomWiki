@@ -47,6 +47,8 @@ The edge watch knows him by sight now, the quiet teacher who stands at the outer
 
 Sorrel wants every child who passes through the Grove School to leave knowing how to be quiet long enough to hear something. He fears that what he is hearing at the edges is real, that it is growing, and that the forest's oldest lesson may turn out to be the only warning it gets.
 
+Sorrel also teaches **Blink**, the short step forward through the air that the Grove School teaches anyone with patience, magician or not, to any traveller who can sit through one of his listening lessons without fidgeting.
+
 A quest might ask a traveller to walk with Sorrel to the outer lanterns at dawn and tell him honestly what they hear, to help Aurel through a lesson Sorrel has quietly arranged to miss, or to follow a sound in the outer woods that Sorrel cannot name.
 
 ## Relationships

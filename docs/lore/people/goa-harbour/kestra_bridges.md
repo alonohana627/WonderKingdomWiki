@@ -43,6 +43,8 @@ She does not know that Fionn, the stair runner, crossed that bridge one evening 
 
 Kestra fears very little on a bridge. What frightens her is the idea that someone else, someone who does not know the ropes as she does, will step onto the highest bridge on the night it finally gives.
 
+Kestra also teaches **Rope Slide**, the bridge-builder's quick way down a rope or ladder and safely off its end, to anyone who will help her check every lashing on one of her bridges first.
+
 ### Hooks
 
 A quest might sit out on the highest bridge with Kestra after dark, persuade Fionn to tell her what he saw, or carry Tarran's new lantern up to her before he can change his mind about it.
