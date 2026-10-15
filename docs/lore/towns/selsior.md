@@ -52,6 +52,59 @@ Selsior is cheerful, sociable and full of energy. Street performers draw crowds 
 
 Folk from every corner of Wonder Kingdom live side by side in Selsior, and nobody thinks that strange. More than anywhere else, the capital shows what the founding of the kingdom achieved: prosperity, cooperation and a shared identity, with room for every kind of life and ambition.
 
+## The Lands Around Selsior
+
+### The Gates and the Roads
+
+Selsior has three gates. The great gate faces east, the **Tree Gate** faces north toward the World Tree, and the **Bridge Gate** opens west onto the city bridge over the river, which runs down past the city's west side from the north. Every royal road begins at one of them:
+
+- **The Royal Road** to [Kaldemor](kaldemor.md) leaves by the great gate and runs east up the Selsior Approach, over the rise and on toward the Greenwood.
+- **The road to [Bain Harbour](bain-harbour.md)** leaves by the great gate beside the Royal Road and soon parts from it, bearing east toward the coast.
+- **The road to [Fairy Forest](fairy-forest.md)** leaves by the Tree Gate with the World Tree Road and bears away northeast once the hedges end.
+- **The road to [Midbarium](midbarium.md)** leaves by the Bridge Gate, crosses the city bridge and climbs away northwest toward the highlands.
+- **The road to [Urbanograd](urbanograd.md)** leaves by the Bridge Gate over the city bridge and runs due west.
+- **The road to [Goa Harbour](goa-harbour.md)** crosses the city bridge with the Urbanograd road and parts from it to bear southwest toward the far coast.
+
+### The World Tree Road
+
+The **World Tree Road** runs north from the Tree Gate to the foot of the [World Tree](../world-tree.md), a day's ride across the plain. It is broad and well kept, marked every mile by tall old waystones, and busier than it used to be: royal couriers ride it with letters for the Tree, and every warrior who passes the Swordmaster's trial walks it on the way to the Upper Stair. The river is never far off to the west.
+
+Outside the gate the road runs through the **Hedge Lanes**, farm lanes between tall hedgerows and orchards, where slimes and snails creep along the verges. Further on it crosses the **Waystone Meadows**, open grass where the great waystones stand and pigs and mushrooms have grown bold enough to block the road. Last come the **Rootlands**, where the plain rises and the Tree's outermost roots break the turf like low walls, and stumps that have learned to walk wander among them. The road ends at the Tree's foot.
+
+The Road Patrol keeps the World Tree Road as it keeps the royal roads, and Lieutenant Edric posts bounties on all three stretches. Two ways lead off it into wilder country: east from the Hedge Lanes onto the downs, and west from the Waystone Meadows down to the river at the Quarry Landing.
+
+### The Selsior Downs
+
+East of the Hedge Lanes lie the **Selsior Downs**, the open downs beyond the capital: rolling chalk grassland, thyme and clover, sheepfolds, dew ponds and white chalk banks, where Selsior's shepherds have grazed their flocks for as long as there has been a city. Lately the shepherds have brought their flocks in.
+
+The wild bees of the downs, which nest in the chalk, have turned mean, and boars have come up onto the grass from the woods to root up the folds. The danger grows the further one walks from the road: from **Downs Edge**, past the **Thyme Banks** where the boars wallow, to the **Chalk Hives**, where the bees have cut their nests deep into the banks. Beekeepers in the city say their own hives have been short-tempered since spring, and the palace gardener has been stung more this year than in all his life before.
+
+Those who have gone to the bottom of it found the reason in the **Hive Hollow**, a hollow in the chalk walled with old comb, where **Queen Amberwing** rules the swarms: a Disturbance-touched bee queen grown larger than a calf.
+
+### The Long Reach
+
+From the Waystone Meadows a track runs west to the **Quarry Landing**, a stone wharf where the road from the quarries meets the river barges. Downstream of it lies the **Long Reach**, a deep, slow stretch of river between high banks, half a day upstream of the city, which the bargehands have learned to fear.
+
+Since the roads grew dangerous the river has never been busier, and its creatures have never been bolder. Great lizards bask in the **Reed Beds**, crabs as big as cartwheels scuttle along the **Long Reach Banks**, and in the **Undercut**, where the river has eaten under the banks, larger lizards still lie in wait for anything that comes to the water's edge. Barges pass the Reach at speed now, if their masters are wise.
+
+The worst of it is **Longjaw**, a deeply touched river beast as long as a barge, which hunts the whole river from the Long Reach down past the city. It flattens a cart-wide path through the reeds when it leaves the water, and lairs in the **Heron Pool**, the deepest pool of the Reach, where the herons used to stand before they left.
+
+### The Upstream Quarries
+
+Upstream of the Quarry Landing, on rising ground, are the **Upstream Quarries**, where the stone of Selsior has been cut since the first city was built. Terraced grey cuts climb the hillside among spoil heaps, cranes and sledge-ways, and a quarrymen's village stands among them, quieter than it was.
+
+The stone has started to stand up. On the **Spoil Heaps** rubble gathers itself into small walking shapes; on the **Terraced Cuts** golems of solid rock step out of the faces the quarrymen were working; and in the **Deep Cut**, the oldest workings still in use, they are bigger, darker and harder to break. The quarrymen have stopped cutting the oldest faces. Nobody can say whether the golems slept in the stone all along or the Disturbance made them, and the scholars of the Academy, asked, say plainly that nobody knows. What is known, from the notebooks of an adventurer of the Crooked Lantern, is that they wake in waves.
+
+At the top of the quarries is the **First Cut**, the ancient face that gave the first keep its stone. Out of it has risen **Old Cairn**, the Ancient of the Quarries, a golem as tall as a house.
+
+### The Old Drains
+
+Selsior's oldest danger is under its own streets. The **Old Drains** run beneath the old quarters, and below them lie the buried foundations of the first fortress-town that the Aristocrats built on the Treaty Field: its walls, its great cisterns, even whole streets that were walled over and built upon as the city grew.
+
+For some months the night watch has heard something scratching under the gratings, slower and heavier than any rat. The rats themselves, grown as big as cats, have stopped running from lanterns and started moving up, out of the deep tunnels and into the cellars, and the mice under Theatre Row have fled to the rafters. When a grating in **Steps Lane**, a steep lane of the old quarters with steps instead of cobbles, was found pushed up from below, the Royal Guard set a watch on it.
+
+Below Steps Lane the way runs down through the Old Drains themselves, into the pillared water halls of the **Cisterns**, along the **Buried Street**, a street of the first city with its doorways and lamp brackets still standing in the dark, and on to the **Delver's Burrow**. Fresh tunnels cut by great claws run through all of it, straight through walls the founders' masons laid. At the end of them waits **the Delver**, a deeply touched burrowing beast as big as a cart, blind and tireless, which has dug its way up from somewhere below. What drove it up, nobody knows.
+
 ## Leadership Today
 
 [Queen Aveline](../people/selsior/queen_aveline.md) has ruled Wonder Kingdom from the palace for sixteen years. She was crowned under the Great Bell at twenty-eight, after the long reign of King Bertram, who sat on the throne for forty-two years and sent the Great World Tree Expedition. The Bell has not rung since her coronation. She is married to [Leofric](../people/selsior/leofric.md), once a road surveyor, and they have two children, Princess [Elinor](../people/selsior/elinor.md) and Prince [Alaric](../people/selsior/alaric.md).
@@ -78,4 +131,4 @@ In the first year of her reign, Aveline became the first reigning monarch to wal
     Selsior is in the game today. See [Selsior in the world guide](../../world/index.md#selsior) for its maps, NPCs and shops.
 
 !!! abstract "Design notes"
-    Classic medieval fantasy architecture. Joyful, bustling and cosmopolitan. New with this page: the Treaty Field and the treaty signed where the plaza now stands, the Great Bell cast from all four peoples' metal, and the crown's role as keeper of the treaty. Still open: how monarchs are chosen.
+    Classic medieval fantasy architecture. Joyful, bustling and cosmopolitan. New with this page: the Treaty Field and the treaty signed where the plaza now stands, the Great Bell cast from all four peoples' metal, and the crown's role as keeper of the treaty. New with "The Lands Around Selsior": the Tree Gate and the Bridge Gate, the river running from north to south past the city's west side, the World Tree Road's three stretches, the Selsior Downs, the Long Reach, the Upstream Quarries, and the Old Drains over the first city's buried foundations. Still open: how monarchs are chosen; whether the golems of the quarries are new creatures or slept in the stone all along; why the monster changes come in waves; and what drove the Delver up.
