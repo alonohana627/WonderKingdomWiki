@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Ennek](../npcs/ennek_tolmach.md) |
 | Level | 15 |
-| Leads to | [Sure Footing](../quests/ennek_sure_footing.md) |
+| After | [Boggles on the Road](../quests/corwell_boggles_on_the_road.md) |
+| Leads to | [Cheese for the Road](../quests/harra_cheese_for_the_road.md), [Sure Footing](../quests/ennek_sure_footing.md) |
 
 ## Objectives
 
@@ -36,4 +37,4 @@
     - No worries. They have stood for a hundred years, they will stand a few more days.
     - Three cairns on [The Canyon Road](../maps/canyon_road.md), upper, middle and lower, and thirty [Dust Boggle](../monsters/dust_boggle.md)s.
     - All three standing, with a new stone on each? Then the road is the road. My grandmother would have liked you.
-    - Here, [Goat's Milk](../items/goats_milk.md) from the camps. It does more for tired legs than any potion. Come and see me when you have a few more levels on you; I have a trick for ledges.
+    - Here, [Goat's Milk](../items/goats_milk.md) from the camps. It does more for tired legs than any potion. And go and see [Harra](../npcs/harra_tolmach.md) in the camps next; she has a wheel of cheese for Corwell and wants it carried by someone who knows the road.

@@ -12,6 +12,11 @@
 ## Exits
 
 - [Fairy Forest](../maps/fairy_forest.md)
+- [The Glade's Gathering Hall](../maps/glade_elders_hall.md)
+- [A Glade Home](../maps/glade_west_home.md)
+- [The Glade's Story House](../maps/glade_book_house.md)
+- [Halcy's Weaving Room](../maps/glade_basket_house.md)
+- [A Glade Home, East](../maps/glade_east_home.md)
 
 ## NPCs
 

@@ -16,7 +16,6 @@
 
 - [Kaldemor Hills](../maps/kaldemor_hills.md)
 - [The Crossing](../maps/the_crossing.md)
-- [The Last Stile](../maps/the_last_stile.md)
 
 ## Monsters
 

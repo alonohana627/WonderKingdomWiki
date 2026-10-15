@@ -11,7 +11,7 @@ Kaldemor has 54 quests, grouped below into quest lines in the order they are pla
 | # | Quest | Level | Giver | Objectives | Rewards |
 |---|---|---|---|---|---|
 | 1 | [Welcome Home](../quests/welcome_home.md) | 1 | [Lia](../npcs/lia.md) | - | 15 EXP, +10 standing with Kaldemor |
-| 2 | [Settling In](../quests/settling_in.md) | 1 | [Tobin](../npcs/tobin.md) | Reach the market in [Kaldemor](../maps/kaldemor.md); Talk to [Bram](../npcs/bram.md) | 20 EXP, [Red Potion](../items/red_potion.md) x5, +10 standing with Kaldemor |
+| 2 | [Settling In](../quests/settling_in.md) | 1 | [Tobin](../npcs/tobin.md) | Reach [Kaldemor Market](../maps/kaldemor_market.md); Talk to [Bram](../npcs/bram.md) | 20 EXP, [Red Potion](../items/red_potion.md) x5, +10 standing with Kaldemor |
 | 3 | [Snail Trouble](../quests/snail_trouble.md) | 2 | [Tobin](../npcs/tobin.md) | Defeat 10 [Snail](../monsters/snail.md) | 60 EXP, 100 mesos, +20 standing with Kaldemor |
 | 4 | [Shells for the Mayor](../quests/shells_for_the_mayor.md) | 2 | [Hale](../npcs/hale.md) | Bring 15 [Green Snail Shell](../items/green_snail_shell.md) (taken) | 120 EXP, [Wooden Buckler](../items/wooden_buckler.md) x1, +30 standing with Kaldemor |
 | 5 | [Strength of a Warrior](../quests/strength_of_a_warrior.md) | 3 | [Tobin](../npcs/tobin.md) | Reach level 5; Use [Power Strike](../skills/warrior.md#power-strike) 5 times | 200 EXP, [Bronze Helmet](../items/bronze_helmet.md) x1, Skill: [Warrior's Resolve](../skills/buffs.md#warriors-resolve), +20 standing with Kaldemor |

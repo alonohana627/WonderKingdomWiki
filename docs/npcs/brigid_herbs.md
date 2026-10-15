@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Elspeth's House](../maps/elspeths_house.md) |
 | Story | [Brigid in the lore](../lore/people/goa-harbour/brigid_herbs.md) |
 | Services | Quests |
 

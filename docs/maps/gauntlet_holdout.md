@@ -13,7 +13,7 @@
 
 ## Exits
 
-- [Kaldemor](../maps/kaldemor.md)
+- [Mushroom Park](../maps/kaldemor_park.md)
 
 ## Encounters
 

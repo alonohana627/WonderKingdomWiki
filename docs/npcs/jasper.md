@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Jasper in the lore](../lore/people/selsior/jasper.md) |
 | Services | Shop: [Jasper's Curiosities](../shops/jasper_curios.md) |
 

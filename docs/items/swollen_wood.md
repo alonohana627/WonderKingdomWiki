@@ -17,4 +17,5 @@
 
 ## Used for
 
+- [Tell Your Mother](../quests/ennek_tell_your_mother.md) (bring 30)
 - [The Founders' Trickle](../quests/gorra_the_founders_trickle.md) (bring 20)

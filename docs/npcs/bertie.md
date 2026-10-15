@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [The Workshops](../maps/the_workshops.md) |
 | Story | [Bertie in the lore](../lore/people/kaldemor/bertie.md) |
 | Services | Quests |
 

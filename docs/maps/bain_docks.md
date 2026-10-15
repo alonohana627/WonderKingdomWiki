@@ -11,6 +11,9 @@
 
 ## Exits
 
+- [The Union Warehouse](../maps/bain_warehouse.md)
+- [The Customs House](../maps/bain_customs_house.md)
+- [The Dock Office](../maps/bain_dock_office.md)
 - [Bain Harbour](../maps/bain_harbour.md)
 
 ## NPCs
@@ -27,4 +30,3 @@
 - [Lowen](../npcs/lowen.md) (Deckhand)
 - [Garrow](../npcs/garrow.md) (Dock Foreman)
 - [Tully](../npcs/tully.md) (Dockworker)
-- [Hobart](../npcs/hobart.md) (Warehouseman)

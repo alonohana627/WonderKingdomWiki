@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Wat in the lore](../lore/people/selsior/wat.md) |
 | Services | Quests |
 

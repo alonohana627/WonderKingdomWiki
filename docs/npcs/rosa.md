@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
 | Story | [Rosa in the lore](../lore/people/kaldemor/rosa.md) |
 | Services | Quests |
 

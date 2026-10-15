@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [The Sleepy Snail](../maps/the_sleepy_snail.md) |
 | Story | [Mott in the lore](../lore/people/kaldemor/mott.md) |
 | Services | Quests |
 

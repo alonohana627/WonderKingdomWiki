@@ -5,7 +5,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Mushroom Park](../maps/kaldemor_park.md) |
 | Story | [Fen in the lore](../lore/people/kaldemor/fen.md) |
 
 > Did you see the mushroom houses? They grow a little every spring!

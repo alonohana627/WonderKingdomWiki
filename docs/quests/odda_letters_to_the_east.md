@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Odda](../npcs/odda_brenna.md) |
 | Level | 17 |
-| Leads to | [Spring Letters](../quests/odda_spring_letters.md) |
+| After | [The North Ridge Patrol](../quests/skarra_north_ridge_patrol.md) |
+| Leads to | [Traders from the Woods](../quests/corwell_traders_from_the_woods.md), [Spring Letters](../quests/odda_spring_letters.md) |
 
 ## Objectives
 
@@ -33,4 +34,4 @@
     - Of course. A letter that waits a little only has more to say.
     - Forty [Edge Lizard](../monsters/edge_lizard.md)s in [The Edgewood](../maps/edgewood.md), *Player*. The trail leaves from the north gate.
     - The walkers say the trail is quiet as a song between verses. Then my letters will reach her this year. She will be cross that the last one was late; she always is.
-    - Take these, with my thanks. When the next letter is sealed, I may ask you again.
+    - Take these, with my thanks. And since you have kept the trail open, go and see [Corwell](../npcs/corwell.md) at the Trading Post. His Fairy Forest traders walk the same road, and he has been fretting about the last stretch.

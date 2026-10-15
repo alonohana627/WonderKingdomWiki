@@ -38,7 +38,7 @@
         - *Choice:* Guess how many people live here.
         - *Choice:* Nothing, thanks.
     - Kaldemor grew up around the **great treehouse** behind me. The mushroom houses came later - the soil here grows them big enough to live in!
-    - West of the square is the **Park**, with the clock tower and the old windmill farm. East is the **Market**: potions, weapons, bread, all of it.
+    - Up the steps behind the square is the **Mushroom Park**, with the clock tower. The gate in the middle of the square takes you to the **Market Place**: potions, weapons, bread, all of it. The **Workshops** are by the west road.
     - Walk through the **glowing portals** with the **up arrow** to go between them.
     - I'm **Tobin**, mayor of this town for thirty years now. Would you like to hear how Kaldemor began?
     - Long ago a traveller planted a single seed in this meadow and slept under it for a night. In the morning it was a tree taller than a tower.

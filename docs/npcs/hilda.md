@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Hilda's Storehouse](../maps/hildas_storehouse.md) |
 | Story | [Hilda in the lore](../lore/people/kaldemor/hilda.md) |
 | Services | Storage |
 

@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Kaldemor Market](../maps/kaldemor_market.md) |
 | Story | [Bram in the lore](../lore/people/kaldemor/bram.md) |
 | Services | Shop: [Bram's Potions](../shops/potions.md), Quests |
 

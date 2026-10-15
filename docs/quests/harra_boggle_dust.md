@@ -10,7 +10,6 @@
 | Category | Side |
 | Given by | [Harra](../npcs/harra_tolmach.md) |
 | Level | 14 |
-| Leads to | [Cheese for the Road](../quests/harra_cheese_for_the_road.md) |
 
 ## Objectives
 

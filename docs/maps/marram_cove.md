@@ -13,6 +13,9 @@
 
 - [The Dune Reach](../maps/dune_reach.md)
 - [The Long Sands](../maps/long_sands.md)
+- [A Fisher's Cottage](../maps/marram_cottage_west.md)
+- [The Net House](../maps/marram_net_house.md)
+- [A Fisher's Cottage](../maps/marram_cottage_east.md)
 
 ## Discoveries
 

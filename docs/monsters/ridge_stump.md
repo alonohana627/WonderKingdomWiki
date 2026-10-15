@@ -35,5 +35,6 @@
 ## Quests
 
 - [Cheese for the Road](../quests/harra_cheese_for_the_road.md)
+- [Walk the Patrols](../quests/hask_walk_the_patrols.md)
 - [The North Ridge Patrol](../quests/skarra_north_ridge_patrol.md)
 - [The Trail Watch Bounty](../quests/skarra_trail_watch_bounty.md)

@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [The Workshops](../maps/the_workshops.md) |
 | Story | [Mabel in the lore](../lore/people/kaldemor/mabel.md) |
 
 > *Player*! Ha! Come in, come in, mind the clay.

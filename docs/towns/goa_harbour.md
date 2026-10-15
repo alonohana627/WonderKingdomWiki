@@ -12,12 +12,17 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [Agna's Net Loft](../maps/agnas_net_loft.md) | Town | - | - | - |
+| [Elspeth's House](../maps/elspeths_house.md) | Town | - | - | - |
 | [Goa Harbour](../maps/goa_harbour.md) | Town | - | - | - |
 | [Gull Heath](../maps/gull_heath.md) | Town | - | - | - |
 | [Gunna's Workshop](../maps/gunnas_workshop.md) | Town | - | - | - |
 | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | Town | - | - | - |
+| [Kestra's Rope Loft](../maps/kestras_rope_loft.md) | Town | - | - | - |
+| [The Cliff Watch House](../maps/cliff_watch_house.md) | Town | - | - | - |
 | [The Gap Inn](../maps/gap_inn.md) | Town | - | - | - |
 | [The Wardens' House](../maps/wardens_house.md) | Town | - | - | - |
+| [Ysmay's House](../maps/ysmays_house.md) | Town | - | - | - |
 
 ### Arenas
 
@@ -103,11 +108,11 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | NPC | Title | Where | Services | Lore |
 |---|---|---|---|---|
-| [Agna](../npcs/agna_netmender.md) | Net-Mender | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/agna_netmender.md) |
+| [Agna](../npcs/agna_netmender.md) | Net-Mender | [Agna's Net Loft](../maps/agnas_net_loft.md) | Quests | [Story](../lore/people/goa-harbour/agna_netmender.md) |
 | [Ailsa](../npcs/ailsa_tidebook.md) | Keeper of the Tide Book | [The Wardens' House](../maps/wardens_house.md) | Quests | [Story](../lore/people/goa-harbour/ailsa_tidebook.md) |
 | [Arlo](../npcs/arlo_child.md) | Son of the First Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/arlo_child.md) |
 | [Bethoc](../npcs/bethoc_innkeeper.md) | Keeper of the Gap Inn | [The Gap Inn](../maps/gap_inn.md) | Shop: [The Gap Inn](../shops/gap_inn.md), Quests | [Story](../lore/people/goa-harbour/bethoc_innkeeper.md) |
-| [Brigid](../npcs/brigid_herbs.md) | Herb Gatherer | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/brigid_herbs.md) |
+| [Brigid](../npcs/brigid_herbs.md) | Herb Gatherer | [Elspeth's House](../maps/elspeths_house.md) | Quests | [Story](../lore/people/goa-harbour/brigid_herbs.md) |
 | [Brodie](../npcs/brodie_fishmonger.md) | Fishmonger | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Brodie's Fish](../shops/brodies_fish.md) | [Story](../lore/people/goa-harbour/brodie_fishmonger.md) |
 | [Caddoc](../npcs/caddoc_trapper.md) | Trapper | [Goa Harbour](../maps/goa_harbour.md) | Run: [Caddoc's Night Trap](../runs/caddocs_night.md), Quests | [Story](../lore/people/goa-harbour/caddoc_trapper.md) |
 | [Calder](../npcs/calder_fisher.md) | Cove Fisher | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/calder_fisher.md) |
@@ -116,7 +121,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Dougal](../npcs/dougal_quaywatch.md) | Night Watchman of the Quay | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/dougal_quaywatch.md) |
 | [Dunmor](../npcs/dunmor_lamplighter.md) | Lamplighter of the Quays | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/dunmor_lamplighter.md) |
 | [Eilidh](../npcs/eilidh_child.md) | Fisher's Daughter | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/eilidh_child.md) |
-| [Elspeth](../npcs/elspeth_healer.md) | Healer | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Elspeth's Remedies](../shops/elspeths_remedies.md), Quests | [Story](../lore/people/goa-harbour/elspeth_healer.md) |
+| [Elspeth](../npcs/elspeth_healer.md) | Healer | [Elspeth's House](../maps/elspeths_house.md) | Shop: [Elspeth's Remedies](../shops/elspeths_remedies.md), Quests | [Story](../lore/people/goa-harbour/elspeth_healer.md) |
 | [Esk](../npcs/esk_adventurer.md) | Sellsword of the Wild Coast | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/esk_adventurer.md) |
 | [Fionn](../npcs/fionn_child.md) | Stair Runner | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/fionn_child.md) |
 | [Gorm](../npcs/gorm_stairs.md) | Master of the Stairs | [Goa Harbour](../maps/goa_harbour.md) | Run: [Below the Anvil](../runs/gorms_night_work.md), Quests | [Story](../lore/people/goa-harbour/gorm_stairs.md) |
@@ -129,17 +134,17 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Iska](../npcs/first_warden_iska.md) | First Warden | [The Wardens' House](../maps/wardens_house.md) | Boss: [The Undertow](../bosses/undertow.md), Quests | [Story](../lore/people/goa-harbour/first_warden_iska.md) |
 | [Jory](../npcs/jory_crew.md) | Race Crew | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/jory_crew.md) |
 | [Kenna](../npcs/kenna_hunter.md) | Young Hunter | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/kenna_hunter.md) |
-| [Kestra](../npcs/kestra_bridges.md) | Rope-Bridge Builder | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/kestra_bridges.md) |
+| [Kestra](../npcs/kestra_bridges.md) | Rope-Bridge Builder | [Kestra's Rope Loft](../maps/kestras_rope_loft.md) | Quests | [Story](../lore/people/goa-harbour/kestra_bridges.md) |
 | [Kor](../npcs/warden_kor.md) | Sea Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/warden_kor.md) |
 | [Lachlan](../npcs/lachlan_adventurer.md) | Adventurer | [Goa Harbour](../maps/goa_harbour.md) | Boss: [The Inkmother](../bosses/inkmother.md), Quests | [Story](../lore/people/goa-harbour/lachlan_adventurer.md) |
 | [Merrin](../npcs/merrin_timber.md) | Timber Cutter | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/merrin_timber.md) |
 | [Mhairi](../npcs/mhairi_fiddler.md) | Fiddler | [The Gap Inn](../maps/gap_inn.md) | Quests | [Story](../lore/people/goa-harbour/mhairi_fiddler.md) |
-| [Moira](../npcs/moira_watch.md) | Cliff Watch Guard | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/moira_watch.md) |
+| [Moira](../npcs/moira_watch.md) | Cliff Watch Guard | [The Cliff Watch House](../maps/cliff_watch_house.md) | Quests | [Story](../lore/people/goa-harbour/moira_watch.md) |
 | [Morag](../npcs/morag_wool.md) | Wool Trader | [Goa Harbour](../maps/goa_harbour.md) | Shop: [Morag's Wool](../shops/morags_wool.md) | [Story](../lore/people/goa-harbour/morag_wool.md) |
 | [Nessa](../npcs/warden_nessa.md) | Sea Warden | [The Wardens' House](../maps/wardens_house.md) | Quests | [Story](../lore/people/goa-harbour/warden_nessa.md) |
 | [Osric](../npcs/osric_woodsman.md) | Woodsman | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/osric_woodsman.md) |
 | [Ronan](../npcs/ronan_child.md) | Fisher's Son | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/ronan_child.md) |
-| [Ruan](../npcs/ruan_cliffwatch.md) | Captain of the Cliff Watch | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/ruan_cliffwatch.md) |
+| [Ruan](../npcs/ruan_cliffwatch.md) | Captain of the Cliff Watch | [The Cliff Watch House](../maps/cliff_watch_house.md) | Quests | [Story](../lore/people/goa-harbour/ruan_cliffwatch.md) |
 | [Sorcha](../npcs/sorcha_fisher.md) | Cove Fisher | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/sorcha_fisher.md) |
 | [Tamsin](../npcs/tamsin_boatwright.md) | Boatwright | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/tamsin_boatwright.md) |
 | [Tarran](../npcs/tarran_lanterns.md) | Lantern-Maker's Apprentice | [Gunna's Workshop](../maps/gunnas_workshop.md) | Quests | [Story](../lore/people/goa-harbour/tarran_lanterns.md) |
@@ -147,7 +152,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Torva](../npcs/torva_hunter.md) | Hunter of the Wild Coast | [Goa Harbour](../maps/goa_harbour.md) | Boss: [The Gapclaw](../bosses/gapclaw.md), Boss: [Old Brushtail](../bosses/old_brushtail.md), Quests | [Story](../lore/people/goa-harbour/torva_hunter.md) |
 | [Ulric](../npcs/ulric_stonecarver.md) | Stonecarver | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/ulric_stonecarver.md) |
 | [Varro](../npcs/warden_varro.md) | Eldest of the Sea Wardens | [The Wardens' House](../maps/wardens_house.md) | Quests | [Story](../lore/people/goa-harbour/warden_varro.md) |
-| [Ysmay](../npcs/grizel_elder.md) | Retired Sea Warden | [Goa Harbour](../maps/goa_harbour.md) | Quests | [Story](../lore/people/goa-harbour/grizel_elder.md) |
+| [Ysmay](../npcs/grizel_elder.md) | Retired Sea Warden | [Ysmay's House](../maps/ysmays_house.md) | Quests | [Story](../lore/people/goa-harbour/grizel_elder.md) |
 
 ## Shops
 

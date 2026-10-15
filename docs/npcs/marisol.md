@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [Marisol's Spice House](../maps/bain_spice_house.md) |
 | Story | [Marisol in the lore](../lore/people/bain-harbour/marisol.md) |
 | Services | Quests |
 

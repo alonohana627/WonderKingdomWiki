@@ -16,6 +16,7 @@
 
 - [Kaldemor Field](../maps/kaldemor_field.md)
 - [The Greenmarsh](../maps/the_greenmarsh.md)
+- [The Last Stile](../maps/the_last_stile.md)
 
 ## Monsters
 

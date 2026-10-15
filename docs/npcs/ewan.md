@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [The Clock Tower](../maps/clock_tower.md) |
 | Story | [Ewan in the lore](../lore/people/kaldemor/ewan.md) |
 | Services | Quests |
 

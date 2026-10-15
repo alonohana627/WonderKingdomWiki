@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Kestra's Rope Loft](../maps/kestras_rope_loft.md) |
 | Story | [Kestra in the lore](../lore/people/goa-harbour/kestra_bridges.md) |
 | Services | Quests |
 

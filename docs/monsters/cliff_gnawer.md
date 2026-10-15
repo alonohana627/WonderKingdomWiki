@@ -44,4 +44,5 @@
 - [Far Slopes Bounty](../quests/bekk_slope_bounty.md)
 - [Far Slopes Elites](../quests/bekk_slope_elites.md)
 - [Back on the Bridge](../quests/hallek_back_on_the_bridge.md)
+- [What Hallek Did Not See](../quests/hallek_the_bite.md)
 - [What Bites](../quests/lessa_what_bites.md)

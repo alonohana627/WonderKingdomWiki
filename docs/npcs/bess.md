@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Bess's Apothecary](../maps/bess_apothecary.md) |
 | Story | [Bess in the lore](../lore/people/kaldemor/bess.md) |
 | Services | Quests |
 

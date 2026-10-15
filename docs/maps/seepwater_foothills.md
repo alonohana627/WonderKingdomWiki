@@ -16,6 +16,7 @@
 
 - [Gate Meadows](../maps/gate_meadows.md)
 - [Western Descent](../maps/western_descent.md)
+- [The Carters' Hut](../maps/carters_hut.md)
 
 ## Monsters
 

@@ -7,10 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Corwell](../npcs/corwell.md) |
 | Level | 14 |
-| Leads to | [Traders from the Woods](../quests/corwell_traders_from_the_woods.md) |
+| Leads to | [The Canyon Cairns](../quests/ennek_the_canyon_cairns.md) |
 
 ## Objectives
 
@@ -33,4 +33,4 @@
     - No harm in it. The boggles will still be there, sadly, and so will my chair.
     - Forty [Dust Boggle](../monsters/dust_boggle.md)s on [The Canyon Road](../maps/canyon_road.md), *Player*. Down the [The South Path](../maps/south_path.md) and keep going.
     - Forty! I can hear the mules singing already. Well, braying. It is the same thing to a trader.
-    - Here, take these potions and a little coin. If the next caravan is on time, I shall tell the drivers whom to thank.
+    - Here, take these potions and a little coin. If the next caravan is on time, I shall tell the drivers whom to thank. When you can spare a day, go and see [Ennek](../npcs/ennek_tolmach.md) in the Tolmach Camps. The same boggles have been knocking down his people's cairns along that road.

@@ -34,6 +34,7 @@
 
 ## Quests
 
+- [A Word for Tavi](../quests/sennu_word_for_tavi.md)
 - [Red Dots](../quests/skarra_red_dots.md)
 - [The Ridge Bounty](../quests/skarra_ridge_bounty.md)
 - [Touched on the Ridges](../quests/skarra_ridge_elites.md)

@@ -35,12 +35,39 @@ Attacks:
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 168 | 4.2 s |
-| Area | Physical | 147 | 2.6 s |
 
-**2. Roots Under the Rock** (below 50% HP): Announces "THE ROOTS ARE MOVING!"; moves faster; summons 2 [Pale Stump](../monsters/pale_stump.md) every 25 s.
+**2. Roots Under the Rock** (below 65% HP): Announces "THE ROOTS ARE MOVING!"; moves faster; summons 2 [Pale Stump](../monsters/pale_stump.md) every 25 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 189 | 7 s |
 | Area | Physical | 168 | 4.2 s |
 | Area | Physical | 147 | 2.6 s |
+
+**3. The Whole Ridge Wakes** (below 30% HP): Announces "OLD GNARL TEARS ITS ROOTS FREE!"; moves faster; summons 2 [Pale Stump](../monsters/pale_stump.md) every 25 s.
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 189 | 5.25 s |
+| Area | Physical | 168 | 3.15 s |
+| Area | Physical | 147 | 1.95 s |
+
+## Hard
+
+*Defeat Old Gnarl on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 33 | 24,000 | 15,000 | 126 | 180 / 180 |
+
+First clear: +100 standing with Midbarium
+
+Every clear: +15 standing with Midbarium
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 168 | 4.2 s |
+
+### Phases

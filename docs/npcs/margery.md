@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Margery in the lore](../lore/people/selsior/margery.md) |
 | Services | Shop: [Margery's Bakery](../shops/margery_bakery.md) |
 

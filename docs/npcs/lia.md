@@ -51,7 +51,7 @@
     - The quests you follow are listed on the right of the screen with how far you are. Click one to open it in the log.
     - This is the **town square** of Kaldemor. The big **treehouse** behind us is the oldest building in town.
     - The people here are friendly. Say hello to everyone: **press Space** near someone, or click them!
-    - Visit the **Market** to the east for potions and gear. When you feel strong, the fields beyond the town are full of monsters to practice on.
+    - Visit the **Market Place**, through the gate in the middle of the square, for potions and gear. When you feel strong, the fields beyond the town are full of monsters to practice on.
     - People with a **light bulb** over their head have a job for you. Helping them is a good way to learn your way around!
     - Oh, yes! The **clock tower** in the park has stopped. Nobody can say when it will tick again.
     - Old Ewan, the clockkeeper, has been up there for days. Maybe he would like some company.

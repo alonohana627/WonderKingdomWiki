@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Ysmay's House](../maps/ysmays_house.md) |
 | Story | [Ysmay in the lore](../lore/people/goa-harbour/grizel_elder.md) |
 | Services | Quests |
 

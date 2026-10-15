@@ -12,13 +12,24 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
+| [A Glade Home](../maps/glade_west_home.md) | Town | - | 0 | - |
+| [A Glade Home, East](../maps/glade_east_home.md) | Town | - | 0 | - |
+| [Celandine's Remedy House](../maps/remedy_house.md) | Town | - | 0 | - |
 | [Children's Glade](../maps/childrens_glade.md) | Town | - | 0 | - |
 | [Fairy Forest](../maps/fairy_forest.md) | Town | - | 0 | - |
 | [Galen's Staves and Scrolls](../maps/galens_shop.md) | Town | - | 0 | - |
 | [Grove School](../maps/grove_school.md) | Town | - | 0 | - |
+| [Halcy's Weaving Room](../maps/glade_basket_house.md) | Town | - | 0 | - |
+| [Hesper's Cottage](../maps/hesper_cottage.md) | Town | - | 0 | - |
+| [Merrow and Celandine's Home](../maps/gardeners_home.md) | Town | - | 0 | - |
+| [Ondine's Lantern Workshop](../maps/lantern_workshop.md) | Town | - | 0 | - |
+| [The Bloomwood Waystation](../maps/bloomwood_waystation.md) | Town | - | 0 | - |
 | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Town | - | 0 | - |
+| [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | Town | - | 0 | - |
+| [The Glade's Story House](../maps/glade_book_house.md) | Town | - | 0 | - |
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Town | - | 0 | - |
 | [The Old Records](../maps/old_records.md) | Town | - | 0 | - |
+| [The Oldest Home](../maps/oriels_old_home.md) | Town | - | 0 | - |
 
 ### Eastern Forest Road
 
@@ -106,12 +117,16 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Faelan](../npcs/faelan_apprentice.md) | Lantern-maker's Apprentice | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/faelan_apprentice.md) |
 | [Forest Cab](../npcs/fairy_forest_cab.md) | Taxi | [Fairy Forest](../maps/fairy_forest.md) | Taxi | - |
 | [Galen](../npcs/galen_wandseller.md) | Staff and Wand Seller | [Galen's Staves and Scrolls](../maps/galens_shop.md) | Shop: [Galen's Staves and Scrolls](../shops/galens_shop.md) | [Story](../lore/people/fairy-forest/galen_wandseller.md) |
+| [Gathering Hall Keeper](../npcs/glade_gatherer.md) |  | [The Glade's Gathering Hall](../maps/glade_elders_hall.md) | - | - |
+| [Glade Child](../npcs/glade_elder.md) |  | [A Glade Home, East](../maps/glade_east_home.md) | - | - |
+| [Glade Neighbour](../npcs/glade_resident.md) |  | [A Glade Home](../maps/glade_west_home.md) | - | - |
 | [Halcy](../npcs/halcy_child.md) | Garland Weaver | [Children's Glade](../maps/childrens_glade.md) | Shop: [Halcy's Baskets and Garlands](../shops/halcys_garlands.md), Quests | [Story](../lore/people/fairy-forest/halcy_child.md) |
 | [Hesper](../npcs/hesper_herbalist.md) | Mistress of the Herb Gardens | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/hesper_herbalist.md) |
 | [Ilwen](../npcs/ilwen_steward.md) | Steward of the Heart Tree | [Fairy Forest](../maps/fairy_forest.md) | Storage, Quests | [Story](../lore/people/fairy-forest/ilwen_steward.md) |
 | [Isaura](../npcs/isaura_records.md) | Keeper of the Old Records | [The Old Records](../maps/old_records.md) | Quests | [Story](../lore/people/fairy-forest/isaura_records.md) |
 | [Juniper](../npcs/juniper_adventurer.md) | Wilds Naturalist | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/juniper_adventurer.md) |
 | [Kestrel](../npcs/kestrel_adventurer.md) | Wandering Magician | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/kestrel_adventurer.md) |
+| [Lantern Glazier](../npcs/workshop_apprentice.md) |  | [Ondine's Lantern Workshop](../maps/lantern_workshop.md) | - | - |
 | [Linnet](../npcs/linnet_treewright.md) | Keeper of Living Homes | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/linnet_treewright.md) |
 | [Liri](../npcs/liri_student.md) | Grove School Student | [Grove School](../maps/grove_school.md) | Quests | [Story](../lore/people/fairy-forest/liri_student.md) |
 | [Lumi](../npcs/lumi_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests | [Story](../lore/people/fairy-forest/lumi_child.md) |
@@ -119,22 +134,27 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Merrow](../npcs/merrow_gardener.md) | Gardener | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/merrow_gardener.md) |
 | [Moonmane](../npcs/glade_unicorn.md) |  | [Children's Glade](../maps/childrens_glade.md) | - | - |
 | [Niv](../npcs/niv_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests | [Story](../lore/people/fairy-forest/niv_child.md) |
+| [Old Home's Family](../npcs/old_home_resident.md) |  | [The Oldest Home](../maps/oriels_old_home.md) | - | - |
 | [Old Listening Tree](../npcs/lakehead_waymark.md) |  | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) | Boss: [The Blightstone](../bosses/blightstone.md) | - |
 | [Ondine](../npcs/ondine_lanterns.md) | Keeper of the Lanterns | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/ondine_lanterns.md) |
 | [Oriel](../npcs/oriel_treewright.md) | Master Treewright | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/oriel_treewright.md) |
 | [Orla](../npcs/orla_child.md) | Glade Dweller | [Children's Glade](../maps/childrens_glade.md) | Quests | [Story](../lore/people/fairy-forest/orla_child.md) |
 | [Penny](../npcs/dewdrop_cat.md) |  | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | - | - |
+| [Remedy Helper](../npcs/remedy_helper.md) |  | [Celandine's Remedy House](../maps/remedy_house.md) | - | - |
+| [Sage](../npcs/cottage_cat.md) |  | [Hesper's Cottage](../maps/hesper_cottage.md) | - | - |
 | [Sefa](../npcs/sefa_child.md) | Glade Storyteller | [Children's Glade](../maps/childrens_glade.md) | Quests | [Story](../lore/people/fairy-forest/sefa_child.md) |
 | [Seren](../npcs/seren_warden.md) | Warden of the Forest Edge | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/seren_warden.md) |
 | [Shimmer Songbird](../npcs/glade_songbird.md) |  | [Children's Glade](../maps/childrens_glade.md) | - | - |
 | [Siora](../npcs/siora_student.md) | Grove School Student | [Grove School](../maps/grove_school.md) | Quests | [Story](../lore/people/fairy-forest/siora_student.md) |
 | [Sorrel](../npcs/sorrel_teacher.md) | Teacher of Listening | [Grove School](../maps/grove_school.md) | Quests | [Story](../lore/people/fairy-forest/sorrel_teacher.md) |
 | [Spring-Root Tree](../npcs/hidden_spring_waymark.md) |  | [The Twilit Wood, III](../maps/twilit_wood_3.md) | Boss: [The Knotbriar](../bosses/knotbriar.md) | - |
+| [Story Listener](../npcs/story_listener.md) |  | [The Glade's Story House](../maps/glade_book_house.md) | - | - |
 | [Tansy](../npcs/tansy_teahouse.md) | Keeper of the Dewdrop Tea House | [The Dewdrop Tea House](../maps/dewdrop_tea_house.md) | Shop: [The Dewdrop Tea House](../shops/dewdrop_tea_house.md), Quests | [Story](../lore/people/fairy-forest/tansy_teahouse.md) |
 | [The Reading Stump](../npcs/inner_door_waymark.md) |  | [The Shadowed Grove](../maps/shadowed_grove.md) | Boss: [The Unbound](../bosses/the_unbound.md) | - |
 | [Thessaly](../npcs/thessaly_councillor.md) | Grove Councillor | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Quests | [Story](../lore/people/fairy-forest/thessaly_councillor.md) |
 | [Thorne](../npcs/thorne_guard.md) | Edge Guard | [Fairy Forest](../maps/fairy_forest.md) | Quests | [Story](../lore/people/fairy-forest/thorne_guard.md) |
 | [Vesper](../npcs/vesper_lanternseller.md) | Lantern Seller | [Fairy Forest](../maps/fairy_forest.md) | Shop: [Vesper's Lights](../shops/vesper_lights.md) | [Story](../lore/people/fairy-forest/vesper_lanternseller.md) |
+| [Waystation Boy](../npcs/waystation_keeper.md) |  | [The Bloomwood Waystation](../maps/bloomwood_waystation.md) | - | - |
 | [Wynne](../npcs/wynne_copyist.md) | Copyist of the Old Records | [The Old Records](../maps/old_records.md) | Quests | [Story](../lore/people/fairy-forest/wynne_copyist.md) |
 | [Young Pupil](../npcs/school_pupil.md) |  | [Grove School](../maps/grove_school.md) | - | - |
 

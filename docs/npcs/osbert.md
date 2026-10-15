@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Palace](../maps/selsior_palace.md) |
+| Where | [The Throne Hall](../maps/throne_hall.md) |
 | Story | [Osbert in the lore](../lore/people/selsior/osbert.md) |
 | Services | Quests |
 

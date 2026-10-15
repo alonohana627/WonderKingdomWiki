@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor.md) |
-| Where | [Kaldemor](../maps/kaldemor.md) |
+| Where | [Mushroom Park](../maps/kaldemor_park.md) |
 | Story | [Hale in the lore](../lore/people/kaldemor/hale.md) |
 | Services | Boss: [The Bluecap Mother](../bosses/bluecap_mother.md), Boss: [The Cap King](../bosses/cap_king.md), Boss: [Gnarltusk](../bosses/gnarltusk.md), Boss: [The Snail King](../bosses/snail_king.md), Quests |
 

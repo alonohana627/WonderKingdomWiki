@@ -17,6 +17,14 @@
 - [The Great Hall](../maps/great_hall.md)
 - [Zirra's Workshop](../maps/zirras_workshop.md)
 - [The Dustfall Mouth](../maps/dustfall_mouth.md)
+- [The Kragvar Forge](../maps/kragvar_forge.md)
+- [The Brenna House](../maps/brenna_house.md)
+- [Sennu's Tent](../maps/sennus_tent.md)
+- [Mabbu's Tent](../maps/mabbus_tent.md)
+- [Yarrek and Harra's Tent](../maps/yarreks_tent.md)
+- [The Tolmach Store Tent](../maps/tolmach_store_tent.md)
+- [Tavi's Tent](../maps/tavis_tent.md)
+- [The Trail Watch Tent](../maps/trail_watch_tent.md)
 
 ## NPCs
 
@@ -25,10 +33,6 @@
 - [Sennu](../npcs/sennu_tolmach.md) (Chieftain of the Tolmach)
 - [Yarrek](../npcs/yarrek_tolmach.md) (Goat Herder)
 - [Kesh](../npcs/kesh_tolmach.md) (Young Goatherd)
-- [Odda](../npcs/odda_brenna.md) (Chieftain of the Brenna)
-- [Lessa](../npcs/lessa_brenna.md) (Bonesetter)
-- [Ahvi](../npcs/ahvi_brenna.md) (Song-Keeper)
-- [Neffa](../npcs/neffa_brenna.md) (Song Learner)
 - [Dorrek](../npcs/dorrek_kragvar.md) (Chieftain of the Kragvar)
 - [Hallek](../npcs/hallek_kragvar.md) (Kragvar Mason)
 - [Gorra](../npcs/gorra_kragvar.md) (Cistern Keeper)

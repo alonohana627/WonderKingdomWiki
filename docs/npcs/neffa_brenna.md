@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium.md) |
-| Where | [Midbarium](../maps/midbarium.md) |
+| Where | [The Brenna House](../maps/brenna_house.md) |
 | Story | [Neffa in the lore](../lore/people/midbarium/neffa_brenna.md) |
 | Services | Quests |
 

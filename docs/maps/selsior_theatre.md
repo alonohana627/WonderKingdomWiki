@@ -15,12 +15,13 @@
 
 ## NPCs
 
-- [Rafe](../npcs/rafe.md) (Puppeteer)
-- [Percival](../npcs/percival.md) (Leading Man)
-- [Rosamund](../npcs/rosamund.md) (Leading Lady)
-- [Cecily](../npcs/cecily.md) (Singer)
+- [WAITING FOR IMPLEMENT DETAILS](../npcs/waiting_for_implement_details.md)
 - [Lavinia](../npcs/lavinia.md) (Mistress of the Gilded Stage)
 - [Crispin](../npcs/crispin.md) (Playwright)
-- [Marigold](../npcs/marigold.md) (Child Actor)
+- [Rosamund](../npcs/rosamund.md) (Leading Lady)
+- [Percival](../npcs/percival.md) (Leading Man)
 - [Edith](../npcs/edith.md) (Costumer)
+- [Rafe](../npcs/rafe.md) (Puppeteer)
 - [Tibb](../npcs/tibb.md) (Stagehand)
+- [Marigold](../npcs/marigold.md) (Child Actor)
+- [Cecily](../npcs/cecily.md) (Singer)

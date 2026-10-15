@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [Clemence's House](../maps/bain_clinic.md) |
 | Story | [Clemence in the lore](../lore/people/bain-harbour/clemence.md) |
 | Services | Quests |
 

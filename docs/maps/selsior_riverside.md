@@ -15,6 +15,7 @@
 
 ## NPCs
 
+- [WAITING FOR IMPLEMENT DETAILS](../npcs/waiting_for_implement_details.md)
 - [Hereward](../npcs/hereward.md) (Miller)
 - [Hawise](../npcs/hawise.md) (Dyer)
 - [Aldith](../npcs/aldith.md) (Herb Wife of the Riverside)

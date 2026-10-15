@@ -16,6 +16,7 @@
 
 - [Kaldemor](../maps/kaldemor.md)
 - [Kaldemor Woods](../maps/kaldemor_woods.md)
+- [The Last Stile](../maps/the_last_stile.md)
 
 ## Monsters
 

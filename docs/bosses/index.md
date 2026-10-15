@@ -15,9 +15,9 @@ Each town has a boss for each of its level bands and one in its theme dungeon.
 | [The Bluecap Mother](../bosses/bluecap_mother.md) | [Kaldemor](../towns/kaldemor.md) | 50 | [The Bluecap Hollow](../maps/bluecap_hollow.md) | Normal, Hard |
 | [The Cap King](../bosses/cap_king.md) | [Kaldemor](../towns/kaldemor.md) | 70 | [The Crown Tower](../maps/crown_tower.md) | Normal, Hard |
 | [Hollowmaw](../bosses/hollowmaw.md) | [Midbarium](../towns/midbarium.md) | 26 | [The Sunken Pool](../maps/sunken_pool.md) | Normal |
-| [Old Gnarl](../bosses/old_gnarl.md) | [Midbarium](../towns/midbarium.md) | 30 | [Howling Peak](../maps/howling_peak.md) | Normal |
-| [Grimhorn](../bosses/grimhorn.md) | [Midbarium](../towns/midbarium.md) | 50 | [The Ash Mesa](../maps/ash_mesa.md) | Normal |
-| [The Rootdrinker](../bosses/rootdrinker.md) | [Midbarium](../towns/midbarium.md) | 70 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Normal |
+| [Old Gnarl](../bosses/old_gnarl.md) | [Midbarium](../towns/midbarium.md) | 30 | [Howling Peak](../maps/howling_peak.md) | Normal, Hard |
+| [Grimhorn](../bosses/grimhorn.md) | [Midbarium](../towns/midbarium.md) | 50 | [The Ash Mesa](../maps/ash_mesa.md) | Normal, Hard |
+| [The Rootdrinker](../bosses/rootdrinker.md) | [Midbarium](../towns/midbarium.md) | 70 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Normal, Hard |
 | [The Blightstone](../bosses/blightstone.md) | [Fairy Forest](../towns/fairy_forest.md) | 30 | [The Lakehead](../maps/lakehead.md) | Normal, Hard |
 | [The Unbound](../bosses/the_unbound.md) | [Fairy Forest](../towns/fairy_forest.md) | 30 | [The Old Reading Room](../maps/old_reading_room.md) | Normal, Hard |
 | [Old Grizzlemane](../bosses/old_grizzlemane.md) | [Fairy Forest](../towns/fairy_forest.md) | 50 | [The Torn Crown](../maps/torn_crown.md) | Normal, Hard |

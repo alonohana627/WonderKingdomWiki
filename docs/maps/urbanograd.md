@@ -11,14 +11,20 @@
 ## Exits
 
 - [Gate Meadows](../maps/gate_meadows.md)
+- [Ferro's Forge](../maps/urbanograd_forge.md)
+- [Ferro's Forge](../maps/urbanograd_forge.md)
+- [Ferro's Forge](../maps/urbanograd_forge.md)
+- [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md)
+- [Ivo's Clinic](../maps/urbanograd_ivo_clinic.md)
+- [Patch's Herb House](../maps/urbanograd_herb_house.md)
+- [Margo's Workshop](../maps/urbanograd_workshop.md)
+- [Margo's Workshop](../maps/urbanograd_workshop.md)
+- [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md)
+- [Hex's Shop](../maps/urbanograd_hex_shop.md)
 - [The Great Hall](../maps/urbanograd_great_hall.md)
 - [The Night Market](../maps/urbanograd_night_market.md)
-- [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md)
-- [Ferro's Forge](../maps/urbanograd_forge.md)
 - [Cobble's Shop](../maps/urbanograd_bootmaker.md)
-- [Dyna's Shop](../maps/urbanograd_tailor.md)
-- [Margo's Workshop](../maps/urbanograd_workshop.md)
-- [Patch's Herb House](../maps/urbanograd_herb_house.md)
+- [The Pigeon Loft](../maps/urbanograd_pigeon_loft.md)
 
 ## NPCs
 
@@ -37,11 +43,10 @@
 - [Drum](../npcs/drum.md) (Bucket Drummer)
 - [Jinx](../npcs/jinx.md) (Juggler of Lantern Square)
 - [Tinder](../npcs/tinder.md) (Fire-Eater)
-- [Ivo Sable](../npcs/ivo_sable.md) (Street Healer)
 - [Nana Gristle](../npcs/nana_gristle.md) (Bench-Sitter of Lantern Square)
 - [Ochre](../npcs/ochre.md) (Muralist)
 - [Lux](../npcs/lux_lune.md) (Keeper of the Lanterns)
-- [Hex](../npcs/hex_dunmore.md) (Puzzle-Box Maker)
+- [Dyna](../npcs/dyna_wick.md) (Tailor of Loud Clothes)
 - [Tinsel](../npcs/tinsel.md) (Glassblower)
 - [Edgar Penhallow](../npcs/alder_penhallow.md) (Guild Apprentice from Selsior)
 - [Rivet](../npcs/rivet.md) (Builder of the Rooftop Lift)
@@ -52,7 +57,6 @@
 - [Splash](../npcs/splash.md) (Night Painter)
 - [Starling](../npcs/starling.md) (Rooftop Stargazer)
 - [Perch](../npcs/perch.md) (Pigeon Keeper)
-- [Pounce](../npcs/pounce.md) (Rooftop Cat)
 
 ## Discoveries
 

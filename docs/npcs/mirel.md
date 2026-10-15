@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior.md) |
-| Where | [Royal Plaza](../maps/selsior.md) |
+| Where | [Crown Market](../maps/selsior_market.md) |
 | Story | [Mirel in the lore](../lore/people/selsior/mirel.md) |
 | Services | Shop: [Mirel's Potions](../shops/selsior_potions.md) |
 

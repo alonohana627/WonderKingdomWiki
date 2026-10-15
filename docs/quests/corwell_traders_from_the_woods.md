@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Midbarium](../towns/midbarium_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Corwell](../npcs/corwell.md) |
 | Level | 18 |
-| After | [Boggles on the Road](../quests/corwell_boggles_on_the_road.md) |
+| After | [Letters to the East](../quests/odda_letters_to_the_east.md) |
+| Leads to | [Walk the Patrols](../quests/hask_walk_the_patrols.md) |
 
 ## Objectives
 
@@ -33,4 +34,4 @@
     - Another time, then. I will tell them to wear thick boots.
     - Forty [Snapping Lizard](../monsters/snapping_lizard.md)s in [The Young Woods](../maps/young_woods.md), *Player*. It is the far end of the Northern Woodland Trail.
     - All forty? Then the honey will come up the trail this season, and I will not have to explain to Harra why my tea is bitter.
-    - Potions and coin, with my thanks. A trading post is only as good as its roads, and you have kept two of them open.
+    - Potions and coin, with my thanks. A trading post is only as good as its roads, and you have kept three of them open. The Old One has been asking who is doing it; go and see [Hask](../npcs/old_one_hask.md), and let him hear it from you.

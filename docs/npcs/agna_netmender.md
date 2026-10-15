@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Agna's Net Loft](../maps/agnas_net_loft.md) |
 | Story | [Agna in the lore](../lore/people/goa-harbour/agna_netmender.md) |
 | Services | Quests |
 
