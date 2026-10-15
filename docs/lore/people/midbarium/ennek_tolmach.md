@@ -38,6 +38,8 @@ A few weeks ago, at the start of this summer, Ennek led a caravan down the south
 
 He tells himself he is waiting to be sure. The truth is that he knows what it will mean to Sennu, who has always said she fears the day a spring that has always run goes dry, and he does not want to be the one who brings her that day. He has started looking for where the water went.
 
+Ennek also teaches **Sure Footing**, the canyon guide's trick of keeping your feet near a drop and your grip on a rope however hard you are struck, to anyone willing to walk the narrowest ledges of the canyon path behind him.
+
 ### Hooks
 
 A quest could follow Ennek up the cleft to find where the Greywater spring's water has gone, or help him find the words, and the courage, to tell his mother before somebody else does.

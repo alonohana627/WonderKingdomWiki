@@ -39,6 +39,8 @@ This spring his case got stronger. Halloran, the captain of the Harbour Watch, a
 
 Garrow's errand runner is Finch, who sleeps in the loft above the dock office and carries messages for a copper a time. Garrow took him in when the boy's mother died five years ago, and he has never called it anything but business. He shouts at Finch for dawdling, though Finch has never dawdled in his life. He is afraid that one day Finch will run off down the pier after one of the sailors' sea stories and not come back.
 
+Garrow also teaches **Sea Legs**, the dockworker's knack of keeping your footing on anything that moves and getting straight back up when something knocks you down, to anyone who will work a full tide unloading the barges beside his crew.
+
 ### Hooks
 
 A quest could help Garrow make the case for the second pier, find out why Halloran closed the end of the outer pier at night, or settle a count that Garrow and Hobart cannot agree on.

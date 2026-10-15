@@ -2,17 +2,18 @@
 
 Veligor is a large island and the home of Wonder Kingdom. Its land is wonderfully varied: fertile plains, high mountains, enchanted forests, long coastlines, quiet farmland, ancient ruins, deep caverns and wide stretches of wilderness.
 
-Near its center rises the enormous [World Tree](world-tree.md), visible from much of the island and one of its best-known landmarks.
+At its center rises the enormous [World Tree](world-tree.md), visible from much of the island and one of its best-known landmarks.
 
 Roads, footpaths and trade routes link the island's towns. The wilds between them have grown dangerous, but the towns themselves are as lively, busy and prosperous as ever, and each has a character all its own.
 
 ## The Lay of the Land
 
-[Selsior](towns/selsior.md) sits in the middle of the island, and the royal roads run out from it to every town. North of the capital, along the World Tree Road, rises the [World Tree](world-tree.md), with [Cavelor](towns/cavelor.md) hidden deep beneath its roots.
+The [World Tree](world-tree.md) stands at the very center of the island, with [Cavelor](towns/cavelor.md) hidden deep beneath its roots. [Selsior](towns/selsior.md) lies on the central plain a day's ride south of it, joined to it by the World Tree Road, and the royal roads run out from the capital to every town.
 
 | Where | Town |
 |---|---|
-| The middle of the island | [Selsior](towns/selsior.md), the capital |
+| The center of the island | The [World Tree](world-tree.md), with [Cavelor](towns/cavelor.md) beneath it |
+| The central plain, south of the Tree | [Selsior](towns/selsior.md), the capital |
 | The northwest mountains | [Midbarium](towns/midbarium.md) |
 | The northeast woods | [Fairy Forest](towns/fairy-forest.md) |
 | The west | [Urbanograd](towns/urbanograd.md) |
@@ -20,7 +21,7 @@ Roads, footpaths and trade routes link the island's towns. The wilds between the
 | The southeast countryside, inland | [Kaldemor](towns/kaldemor.md) |
 | The east coast | [Bain Harbour](towns/bain-harbour.md) |
 
-Besides the royal roads, older roads join the towns to each other: Stonefang Pass between Midbarium and Urbanograd, the Northern Woodland Trail from Midbarium to Fairy Forest, the Eastern Forest Road from Fairy Forest down to Kaldemor, and the Western Merchant Road between Goa Harbour and Urbanograd. A country road runs from Kaldemor down to Bain Harbour, and a long coast road follows the island's south shore from Goa Harbour round to Bain Harbour without passing the capital.
+Besides the royal roads, older roads join the towns to each other: Stonefang Pass between Midbarium and Urbanograd, the Northern Woodland Trail from Midbarium to Fairy Forest, the Eastern Forest Road from Fairy Forest down to Kaldemor, and the Western Merchant Road between Goa Harbour and Urbanograd. The **Verdant Coast Road** runs from Kaldemor through its farmland and orchards down to Bain Harbour, green the whole way to the sea, and the **Southern Coastal Road** follows the island's south shore from Goa Harbour round to Bain Harbour without passing the capital.
 
 ## Towns
 
