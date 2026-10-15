@@ -2,7 +2,7 @@
 
 # The Oldest Jacket
 
-*Thimble keeps a scrap of every green Juna jacket she has sewn, but the very first jacket has never been found. Ask Ozzie Lantry whether any Walker paper mentions it.*
+*Thimble keeps a scrap of every green Juna jacket she has sewn, but the very first jacket has never been found. Ask Ozzie Lantry whether any Walker paper mentions it. First she needs 25 mossy bark from the barkbacks at Bristlewood Edge, to dye scraps the old green.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
-- Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
+1. Bring 25 [Mossy Bark](../items/mossy_bark.md) (taken)
+2. Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
 
 ## Rewards
 
-- 2,290 EXP
-- 1,800 mesos
+- 32,840 EXP
+- 5,550 mesos
 - +50 standing with [Thimble](../npcs/thimble.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Hold still. No, you are not being measured, I just like people to hold still. Mf. (Thimble talks round a mouthful of pins.) Juna wears a green jacket. Has done since the first play.
     - I have made a good many of them in thirty years, and I keep a scrap of every one sewn into my coat lining. Here, feel. But the oldest one, the very first, I have never found. Not a thread of it.
-    - [Ozzie Lantry](../npcs/hob_lantry.md) has every scrap of paper the Walkers left. Ask Ozzie whether any of it mentions a green jacket: who made it, where it went. Do not tell Dina. She thinks I am sentimental. I am not. I am thorough.
-    - And find his spectacles for him first, or you will be there until Walkout Day.
+    - [Ozzie Lantry](../npcs/hob_lantry.md) has every scrap of paper the Walkers left. Ask Ozzie whether any of it mentions a green jacket: who made it, where it went. Do not tell Dina. She thinks I am sentimental. I am not. I am thorough. But first, the green. The old jackets were dyed with moss off barkbacks, I would know the smell in my sleep. Bring me **25 [Mossy Bark](../items/mossy_bark.md)** from the [Barkback](../monsters/barkback.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md) and I can match my scraps against whatever Ozzie says.
+    - And find his spectacles for him first, or you will be there until Walkout Day. Moss first, then Ozzie. A scrap I can match is worth ten I can only wonder about.
     - Fine. It has been lost a hundred years. It can stay lost a little longer, the wretch.
-    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about the first green jacket, *Player*.
+    - Ask [Ozzie Lantry](../npcs/hob_lantry.md) about the first green jacket, *Player*. And **25 [Mossy Bark](../items/mossy_bark.md)** off the [Barkback](../monsters/barkback.md)s first, for the green. You carry (how many you carry).
     - A green jacket? Juna's? Oh, now, there is a lovely question. Let me see, there is a diary here somewhere... no, that is a recipe... ah. (Ozzie reads for a long while, lips moving.)
     - Nothing, I am sorry. A great deal about the cart, and a quarrel over a goat, but not a word about the jacket. Tell Thimble I will keep looking; there is a box here I have not opened in years. Tell her not to get her hopes up, and then tell her I said it kindly.
-    - Nothing. Of course nothing. It has been hiding from me for thirty years and it is very good at it.
+    - Good moss, you can smell the green in it. Now, what did Ozzie say? Nothing. Of course nothing. It has been hiding from me for thirty years and it is very good at it.
     - Still. A box Ozzie has not opened. I am extremely patient. Mf. Hold still, *Player*, there is a thread on your sleeve. There. Thank you.

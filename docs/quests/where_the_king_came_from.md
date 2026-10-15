@@ -2,7 +2,7 @@
 
 # Where the King Came From
 
-*Garrick saw a line of broken treetops leading toward Mano's hollow from somewhere far past the hills. He wants to see where it begins. Climb with him to the top of Breezy Hollow and look out.*
+*Garrick saw a line of broken treetops leading toward Mano's hollow from somewhere far past the hills. He wants to see where it begins. Climb with him to the top of Breezy Hollow and look out. Clear 30 Paleveil Caps from the climb. Bring Garrick 10 Pale Threads to mark the line.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 - Look at the top of Breezy Hollow in [Breezy Hollow](../maps/breezy_hollow.md)
+- Defeat 30 [Paleveil Cap](../monsters/paleveil_cap.md)
+- Bring 10 [Pale Thread](../items/pale_thread.md) (taken)
 
 ## Rewards
 

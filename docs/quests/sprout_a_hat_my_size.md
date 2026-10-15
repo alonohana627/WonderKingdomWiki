@@ -2,7 +2,7 @@
 
 # A Hat My Size
 
-*Sprout wants to play the grandee one day, mostly for the hat. Ask Thimble whether she could make one his size.*
+*Sprout wants to play the grandee one day, mostly for the hat. Ask Thimble whether she could make one his size. Sprout also offers real feathers if Thimble says no: 25 lampbat wings from the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Thimble](../npcs/thimble.md)
+- Bring 25 [Lampbat Wing](../items/lampbat_wing.md) (taken)
 
 ## Rewards
 
-- 1,050 EXP
-- 1,380 mesos
+- 8,160 EXP
+- 3,940 mesos
 - +40 standing with [Sprout](../npcs/sprout.md)
 - +10 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Hey! Hey, are you in the play? You should be in the play. I am the urchin. I cheer for Juna. I steal the whole first scene, Dina says, and she says it like it is a bad thing, but it is not.
     - One day I am going to be the grandee. Not for the falling. Well, a bit for the falling. For the HAT. It is purple and tall and it has feathers, and Thimble keeps it locked up with the key on her spectacles.
-    - Ask [Thimble](../npcs/thimble.md) if she could make one my size. A little one. Just to try. She says no to me, but she might say yes to you. You look very serious.
-    - Do not say it is for me. Say it is for a very small grandee. Who is not me.
+    - Ask [Thimble](../npcs/thimble.md) if she could make one my size. A little one. Just to try. She says no to me, but she might say yes to you. You look very serious. And if she says no, I will bring feathers for the hat myself. Lampbat wings, **25 [Lampbat Wing](../items/lampbat_wing.md)s**, off the bats in the Outer Ditch. Nobody ever brings real feathers. You could bring real feathers!
+    - Do not say it is for me. Say it is for a very small grandee. Who is not me. The bats are in the Outer Ditch, past the gate. They bite. Wings are worth it. Probably.
     - Aww. Okay. I will just wear a bucket.
-    - Ask [Thimble](../npcs/thimble.md) about a hat my size! Please, *Player*! Please!
+    - Ask [Thimble](../npcs/thimble.md) about a hat my size! Please, *Player*! Please! Ask [Thimble](../npcs/thimble.md)! And bring **25 [Lampbat Wing](../items/lampbat_wing.md)s**, for the hat. Real feathers!
     - A hat his size. (Thimble's pins stop moving. For a moment she looks at a packet on her table, and then very firmly does not look at it.) Mf. No.
     - Tell him the grandee's hat is earned, not asked for. Tell him to grow. Tell him to learn his lines, all of them, which he already has. Tell him... no. Just tell him: not yet.
-    - Not yet? She said NOT YET?
+    - And wings! Real wings! Not yet? She said NOT YET?
     - Not yet is not no! Not yet is nearly! Dad says not yet means 'yes, later' in grown-up. Thank you, *Player*! I am going to grow SO much.

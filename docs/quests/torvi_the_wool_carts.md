@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Torvi Brask](../npcs/torvi_brask.md) |
 | Level | 17 |
+| After | [Meadow Herbs](../quests/patch_meadow_herbs.md) |
+| Leads to | [The Highland Traveler](../quests/knox_the_highland_traveler.md) |
 
 ## Objectives
 
@@ -17,7 +19,7 @@
 
 ## Rewards
 
-- 2,820 EXP
+- 3,520 EXP
 - 1,020 mesos
 - +40 standing with [Torvi Brask](../npcs/torvi_brask.md)
 - +10 standing with Urbanograd

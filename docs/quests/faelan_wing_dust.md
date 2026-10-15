@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Faelan](../npcs/faelan_apprentice.md) |
 | Level | 12 |
+| After | [The Council's Letters](../quests/ilwen_letters_kaldemor.md) |
+| Leads to | [Water for a Secret](../quests/linnet_seedling_water.md) |
 
 ## Objectives
 
@@ -32,3 +34,4 @@
     - Any dust yet? Shh! She's coming! ...No, false alarm.
     - Look at it shine. That's the one. That's the colour.
     - If this works, I'll owe you forever. If it doesn't, I'll owe you anyway.
+    - Linnet was asking for you too. Don't mention me. Or the dust. Or blue. Just go.

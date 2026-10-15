@@ -2,7 +2,7 @@
 
 # A Washtub
 
-*Drum wants something bigger and louder to beat on. Hambone, at the Old Barracks Yard, has an old washtub from the theatre.*
+*Drum wants something bigger and louder to beat on. Hambone, at the Old Barracks Yard, has an old washtub from the theatre. Drum also wants 20 lampbat wings, to hear how they sound.*
 
 |  |  |
 |---|---|
@@ -14,22 +14,23 @@
 ## Objectives
 
 - Talk to [Hambone](../npcs/hambone.md)
+- Bring 20 [Lampbat Wing](../items/lampbat_wing.md) (taken)
 
 ## Rewards
 
-- 800 EXP
-- 1,260 mesos
+- 6,490 EXP
+- 3,130 mesos
 - +50 standing with [Drum](../npcs/drum.md)
 - +10 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - (Drum hits the washtub. It goes thup. Drum frowns at it.) Too small. Need bigger. Louder.
-    - Hambone. Theatre yard. Old washtub, from a play. Ask?
-    - (Two beats on the pan. Thank you, in Drum.) Old Barracks Yard.
+    - Hambone. Theatre yard. Old washtub, from a play. Ask? (Drum flaps both hands, once. Holds up two fingers, then ten.) Wings. Bat. Twenty. Need the sound.
+    - (Two beats on the pan. Thank you, in Drum.) Old Barracks Yard. (Drum points at the gate, and past it. Flaps hands.)
     - (A shrug. Thup.)
-    - Hambone. The washtub. (Thup.)
+    - Hambone. The washtub. (Thup.) (Drum flaps both hands.) Wings. **20 [Lampbat Wing](../items/lampbat_wing.md)s**. (Thup.)
     - The washtub? The big one from the laundry scene in the old farce? Bellamy Stroud put it on the cart forty years back and nobody ever took it off again. It has been a rain barrel since, mostly.
     - Drum can have it, gladly, so long as it comes back for Walkout Day if the troupe asks. Tell Drum to hit it gently the first time. That tub has had a long life and the bottom is all memories.
-    - (Drum turns the great tub over, taps it once, then hits it hard. BOOM. Across the square three people jump and one starts dancing. Drum smiles.)
+    - (Drum takes a wing, snaps it open and shut beside an ear. Nods. Does it twenty times.) (Drum turns the great tub over, taps it once, then hits it hard. BOOM. Across the square three people jump and one starts dancing. Drum smiles.)
     - Good tub. (BOOM.) Thank you.

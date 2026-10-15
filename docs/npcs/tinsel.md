@@ -23,6 +23,7 @@
 - [A Chip of Warm Stone](../quests/tinsel_a_chip_of_warm_stone.md) (gives)
 - [New Panes](../quests/tinsel_new_panes.md) (gives)
 - [The Newest Lens](../quests/tinsel_the_newest_lens.md) (gives)
+- [Wing Ash](../quests/tinsel_wing_ash.md) (gives)
 
 ??? quote "Dialogue"
 

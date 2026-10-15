@@ -13,3 +13,8 @@
 
 - Dropped by [Hedge Boar](../monsters/hedge_boar.md) (45%)
 - Dropped by [Tusker](../monsters/tusker.md) (15%)
+
+## Used for
+
+- [A Trail Too Broad](../quests/a_trail_too_broad.md) (bring 10)
+- [Thinning the Herd](../quests/thinning_the_herd.md) (bring 20)

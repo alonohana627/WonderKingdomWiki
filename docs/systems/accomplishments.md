@@ -2,21 +2,21 @@
 
 # Accomplishments
 
-Each accomplishment grants a passive skill.
+Goals that reward you once when reached: a lasting passive, honor, reputation or other rewards.
 
 | Accomplishment | Goal | Reward |
 |---|---|---|
-| Snail Trouble | Defeat 100 snails of any colour. | [Snail Hide](../skills/passives.md#snail-hide) |
-| Mushroom Picker | Defeat 100 Shrooms. | [Mushroom Lore](../skills/passives.md#mushroom-lore) |
-| Pig Wrangler | Defeat 100 Pigs. | [Pig Sense](../skills/passives.md#pig-sense) |
-| Hardy Spirit | Reach level 10. | [Hardy Spirit](../skills/passives.md#hardy-spirit) |
-| Practice Makes Perfect | Use Power Strike 200 times. | [Practiced Hand](../skills/passives.md#practiced-hand) |
-| Explorer | Make five discoveries. | [Pathfinder](../skills/passives.md#pathfinder) |
-| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | [Warden-Friend](../skills/passives.md#warden-friend) |
-| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | [Cave Sense](../skills/passives.md#cave-sense) |
-| Brush and Sinew | Defeat 200 Strand Foxes. | [Brush and Sinew](../skills/passives.md#brush-and-sinew) |
-| Climbers' Bane | Defeat 300 Sea Newts. | [Climbers' Grip](../skills/passives.md#climbers-grip) |
-| Salt and Stone | Defeat 300 Wrackgolems. | [Salt-Hardened](../skills/passives.md#salt-hardened) |
-| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | [Gap Inn Regular](../skills/passives.md#gap-inn-regular) |
-| Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
-| Bounty Hunter | Collect Ranger Hale's bounty. | [Field Hardened](../skills/passives.md#field-hardened) |
+| Snail Trouble | Defeat 100 snails of any colour. | Passive: [Snail Hide](../skills/passives.md#snail-hide) |
+| Mushroom Picker | Defeat 100 Shrooms. | Passive: [Mushroom Lore](../skills/passives.md#mushroom-lore) |
+| Pig Wrangler | Defeat 100 Pigs. | Passive: [Pig Sense](../skills/passives.md#pig-sense) |
+| Hardy Spirit | Reach level 10. | Passive: [Hardy Spirit](../skills/passives.md#hardy-spirit) |
+| Practice Makes Perfect | Use Power Strike 200 times. | Passive: [Practiced Hand](../skills/passives.md#practiced-hand) |
+| Explorer | Make five discoveries. | Passive: [Pathfinder](../skills/passives.md#pathfinder) |
+| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | Passive: [Warden-Friend](../skills/passives.md#warden-friend) |
+| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | Passive: [Cave Sense](../skills/passives.md#cave-sense) |
+| Brush and Sinew | Defeat 200 Strand Foxes. | Passive: [Brush and Sinew](../skills/passives.md#brush-and-sinew) |
+| Climbers' Bane | Defeat 300 Sea Newts. | Passive: [Climbers' Grip](../skills/passives.md#climbers-grip) |
+| Salt and Stone | Defeat 300 Wrackgolems. | Passive: [Salt-Hardened](../skills/passives.md#salt-hardened) |
+| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | Passive: [Gap Inn Regular](../skills/passives.md#gap-inn-regular) |
+| Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | Passive: [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
+| Bounty Hunter | Collect Ranger Hale's bounty. | Passive: [Field Hardened](../skills/passives.md#field-hardened) |

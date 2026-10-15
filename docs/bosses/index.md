@@ -22,10 +22,10 @@ Each town has a boss for each of its level bands and one in its theme dungeon.
 | [The Unbound](../bosses/the_unbound.md) | [Fairy Forest](../towns/fairy_forest.md) | 30 | [The Old Reading Room](../maps/old_reading_room.md) | Normal, Hard |
 | [Old Grizzlemane](../bosses/old_grizzlemane.md) | [Fairy Forest](../towns/fairy_forest.md) | 50 | [The Torn Crown](../maps/torn_crown.md) | Normal, Hard |
 | [The Knotbriar](../bosses/knotbriar.md) | [Fairy Forest](../towns/fairy_forest.md) | 70 | [The Hidden Spring](../maps/hidden_spring.md) | Normal, Hard |
-| [The Gloamwing](../bosses/gloamwing.md) | [Urbanograd](../towns/urbanograd.md) | 30 | [The Fallen Tower](../maps/fallen_tower.md) | Normal |
-| [The Warmstone Colossus](../bosses/warmstone_colossus.md) | [Urbanograd](../towns/urbanograd.md) | 45 | [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Normal |
-| [Hackleback](../bosses/hackleback.md) | [Urbanograd](../towns/urbanograd.md) | 50 | [The Wallow](../maps/the_wallow.md) | Normal |
-| [Stormcrest](../bosses/stormcrest.md) | [Urbanograd](../towns/urbanograd.md) | 70 | [The Highbeacon](../maps/highbeacon.md) | Normal |
+| [The Gloamwing](../bosses/gloamwing.md) | [Urbanograd](../towns/urbanograd.md) | 30 | [The Fallen Tower](../maps/fallen_tower.md) | Normal, Hard |
+| [The Warmstone Colossus](../bosses/warmstone_colossus.md) | [Urbanograd](../towns/urbanograd.md) | 45 | [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Normal, Hard |
+| [Hackleback](../bosses/hackleback.md) | [Urbanograd](../towns/urbanograd.md) | 50 | [The Wallow](../maps/the_wallow.md) | Normal, Hard |
+| [Stormcrest](../bosses/stormcrest.md) | [Urbanograd](../towns/urbanograd.md) | 70 | [The Highbeacon](../maps/highbeacon.md) | Normal, Hard |
 | [The Bootbreaker](../bosses/bootbreaker.md) | [Bain Harbour](../towns/bain_harbour.md) | 30 | [The Pinch Lock](../maps/pinch_lock.md) | Normal, Hard |
 | [The Holdfast](../bosses/holdfast.md) | [Bain Harbour](../towns/bain_harbour.md) | 45 | [The Captain's Cabin](../maps/saltgrace_cabin.md) | Normal, Hard |
 | [The Ripsaw](../bosses/ripsaw.md) | [Bain Harbour](../towns/bain_harbour.md) | 50 | [The Gullet Gates](../maps/gullet_gates.md) | Normal, Hard |

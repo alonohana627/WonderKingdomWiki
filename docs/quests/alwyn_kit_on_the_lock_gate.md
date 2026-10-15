@@ -18,6 +18,7 @@
 
 1. Look at the lock gate in [The Timber Ponds](../maps/timber_ponds.md)
 2. Defeat 30 [Ironback Crab](../monsters/ironback_crab.md) in [The Timber Ponds](../maps/timber_ponds.md)
+3. Bring 10 [Glass Jelly Stinger](../items/glass_jelly_stinger.md) (taken)
 
 ## Rewards
 
@@ -31,10 +32,10 @@
 
     - *Player*! Have you seen Kit? He's not in the yard, he's not at Maren's, and Bryony says he went off before breakfast to 'see a sea creature'.
     - Finch says he saw him going up the Old Cut. Up the Cut! The tide's been in since then. If he's on a lock gate when the lock fills...
-    - Find him, *Player*. He'll be on a **lock gate at the Timber Ponds**, if I know my boy. Clear the **crabs** round him, **30** if that's what it takes, and walk him home to the yard.
+    - Find him, *Player*. He'll be on a **lock gate at the Timber Ponds**, if I know my boy. Clear the **crabs** round him, **30** if that's what it takes, and walk him home to the yard. And **10 [Glass Jelly Stinger](../items/glass_jelly_stinger.md)s** for Clemence, since you're passing the ponds.
     - Bring him back. I'll deal with the telling-off. Bryony will deal with the rest.
     - Another time, then.
-    - Find Kit on the lock gate at the Timber Ponds and clear thirty ironback crabs. Then bring him home to the yard.
+    - Find Kit on the lock gate at the Timber Ponds and clear thirty ironback crabs. Then bring him home to the yard. And **10 [Glass Jelly Stinger](../items/glass_jelly_stinger.md)s** for Clemence, since you're passing the ponds.
     - I wasn't scared. The crabs were scared. I was being BRAVE.
     - And listen, listen. Up past the Timber Ponds, in the Pinch, there's a shell moving in the water. An enormous one. Bigger than Grandad's workbench. It MOVED.
     - Tell Keziah! She'll know what to do. And don't tell Mum I was on the gate. Tell her I was near the gate.

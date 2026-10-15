@@ -47,6 +47,12 @@
 | [Steel Missel](../items/steel_missel.md) | 0.08% | 1 |
 | [Red Adventurer Cape](../items/red_adventurer_cape.md) | 0.08% | 1 |
 | [Cross Shield](../items/cross_shield.md) | 0.08% | 1 |
+| [Blue Jangoon Armor](../items/blue_jangoon_armor.md) | 0.08% | 1 |
+| [Black Jangoon Pants](../items/black_jangoon_pants.md) | 0.08% | 1 |
+| [Blue Jangoon Shoes](../items/blue_jangoon_shoes.md) | 0.08% | 1 |
+| [Dark Knuckle](../items/dark_knuckle.md) | 0.08% | 1 |
+| [Blue Justice Cape](../items/blue_justice_cape.md) | 0.08% | 1 |
+| [Steel Tower Shield](../items/steel_tower_shield.md) | 0.08% | 1 |
 
 ## Quests
 

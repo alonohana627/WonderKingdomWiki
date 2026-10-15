@@ -16,3 +16,4 @@
 ## Used for
 
 - [Houses That Will Not Listen](../quests/houses_that_will_not_listen.md) (bring 1)
+- [The Bluecap Mother](../quests/the_bluecap_mother.md) (bring 10)

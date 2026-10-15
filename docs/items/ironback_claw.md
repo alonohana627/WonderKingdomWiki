@@ -15,4 +15,5 @@
 
 ## Used for
 
+- [The Bootbreaker](../quests/keziah_the_bootbreaker.md) (bring 10)
 - [Ballast for the Model](../quests/peregrine_ballast_for_the_model.md) (bring 10)

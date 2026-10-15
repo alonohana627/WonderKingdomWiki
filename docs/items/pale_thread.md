@@ -17,3 +17,4 @@
 ## Used for
 
 - [Roots from Below](../quests/roots_from_below.md) (bring 20)
+- [Where the King Came From](../quests/where_the_king_came_from.md) (bring 10)

@@ -18,6 +18,7 @@
 1. Defeat 40 [Bootcrab](../monsters/bootcrab.md)
 2. Defeat 15 [Ironback Crab](../monsters/ironback_crab.md)
 3. Reach [The Pinch](../maps/the_pinch.md)
+4. Bring 10 [Snapjaw Tooth](../items/snapjaw_tooth.md) (taken)
 
 ## Rewards
 
@@ -30,9 +31,9 @@
 
     - Bree showed me her shells. Tristram and I cleared crabs like that off the rocks below the headland in my first week here. Smaller then. Much smaller.
     - They're back. And they've found the Old Cut. Since the sea gates broke, the tide runs right up it to the locks, and they've come with it.
-    - Thin out **40 [Bootcrab](../monsters/bootcrab.md)s** and **15 [Ironback Crab](../monsters/ironback_crab.md)s**, and follow the trail of cast shells up the Cut. I want to know where they lead. Tristram thinks **the Pinch**.
+    - Thin out **40 [Bootcrab](../monsters/bootcrab.md)s** and **15 [Ironback Crab](../monsters/ironback_crab.md)s**, and follow the trail of cast shells up the Cut. I want to know where they lead. Tristram thinks **the Pinch**. Bring **10 [Snapjaw Tooth](../items/snapjaw_tooth.md)s** as well. I collect them. Don't ask.
     - Three exits from every lock. Remember where they are.
     - Another time, then.
-    - Forty bootcrabs, fifteen ironback crabs, and follow the cast shells to the Pinch.
+    - Forty bootcrabs, fifteen ironback crabs, and follow the cast shells to the Pinch. Bring **10 [Snapjaw Tooth](../items/snapjaw_tooth.md)s** as well. I collect them. Don't ask.
     - The Pinch. The deepest lock on the Cut. And cast shells all the way up to it, bigger every lock.
     - Something's moulting in there. Something big. Clemence will want to hear about the jellies too, while you're here. She's been asking.

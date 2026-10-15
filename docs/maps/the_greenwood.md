@@ -7,7 +7,7 @@
 | Part of | Royal Road |
 | Region | [The Royal Road](../world/index.md#royal-road) |
 | Kind | Road |
-| Levels | 10-12 |
+| Levels | 10-15 |
 | Difficulty | 6 |
 | Town | [Kaldemor](../towns/kaldemor.md) |
 | Return town | Kaldemor |
@@ -21,8 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 7 |
+| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 5 |
 | [Stump](../monsters/stump.md) | 10 | 8 |
+| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 3 |
 
 ## Gathering
 

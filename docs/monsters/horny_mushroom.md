@@ -19,6 +19,7 @@
 
 ## Where to find
 
+- [The Greenwood](../maps/the_greenwood.md)
 - [The Waystone Meadows](../maps/waystone_meadows.md)
 
 ## Drops
@@ -55,6 +56,8 @@
 
 ## Quests
 
+- [The Broken Line](../quests/the_broken_line.md)
+- [The Last Snail Line](../quests/the_last_snail_line.md)
 - [Bounty: The Waystone Meadows](../quests/edric_bounty_waystone_meadows.md)
 - [The Grand Swordmaster's Trial](../quests/grand_swordmasters_trial.md)
 - [Mushrooms for the Pie](../quests/maud_mushrooms_for_the_pie.md)

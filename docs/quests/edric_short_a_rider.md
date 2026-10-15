@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Edric](../npcs/edric.md) |
 | Level | 20 |
+| After | [A Cutting from the Roots](../quests/godwin_a_cutting_from_the_roots.md) |
 | Leads to | [Where the Horse Sweats](../quests/wystan_where_the_horse_sweats.md), [Boars on the Downs](../quests/aylwin_boars_on_the_downs.md) |
 
 ## Objectives

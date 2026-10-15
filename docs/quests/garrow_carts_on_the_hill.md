@@ -7,19 +7,21 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Garrow](../npcs/garrow.md) |
 | Level | 14 |
-| Leads to | [Sea Legs](../quests/garrow_sea_legs.md) |
+| After | [Wolves in the Copses](../quests/halloran_copse_clearing.md) |
+| Leads to | [A Letter to Marram Cove](../quests/brisa_letter_to_marram_cove.md), [Sea Legs](../quests/garrow_sea_legs.md) |
 
 ## Objectives
 
 - Defeat 35 [Bluff Wildcat](../monsters/bluff_wildcat.md) in [Baysight Hill](../maps/baysight_hill.md)
+- Bring 10 [Wildcat Claw](../items/wildcat_claw.md) (taken)
 
 ## Rewards
 
-- 671 EXP
-- 308 mesos
+- 976 EXP
+- 420 mesos
 - +40 standing with [Garrow](../npcs/garrow.md)
 - +25 standing with Bain Harbour
 
@@ -27,9 +29,9 @@
 
     - You came in over Baysight Hill? Then you've seen them. Wildcats. Sitting on every ledge like they own the bluff.
     - And when a cart comes down the hill, they jump on it. Into the cargo. I had a crate of Marisol's saffron opened like a parcel last week. Do you know what saffron costs, *Player*?
-    - Clear **35 [Bluff Wildcat](../monsters/bluff_wildcat.md)s** off Baysight Hill. Then my carts can come down that hill without me holding my breath.
+    - Clear **35 [Bluff Wildcat](../monsters/bluff_wildcat.md)s** off Baysight Hill. Then my carts can come down that hill without me holding my breath. Bring me **10 [Wildcat Claw](../items/wildcat_claw.md)s** too. I'll nail them over the dock office door.
     - Good. I'll time the next cart. If it comes down without a cat on it, you'll know you did it right.
     - Another time, then.
-    - Thirty-five wildcats on Baysight Hill. Every cat you leave is a crate I can't count.
+    - Thirty-five wildcats on Baysight Hill. Every cat you leave is a crate I can't count. Bring me **10 [Wildcat Claw](../items/wildcat_claw.md)s** too. I'll nail them over the dock office door.
     - Two carts down this morning and not a whisker on either. Two! I timed them. Fastest unloading this month.
     - Here's your pay, and here's my thanks, which is rarer. Now move, there's a coaster waiting.

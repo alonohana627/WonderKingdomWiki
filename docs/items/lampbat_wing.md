@@ -15,4 +15,11 @@
 
 ## Used for
 
+- [The Secret Drawings](../quests/bolt_the_secret_drawings.md) (bring 15)
+- [The Oldest Volume](../quests/dimity_the_oldest_volume.md) (bring 25)
+- [The Funniest Year](../quests/dina_the_funniest_year.md) (bring 25)
+- [A Washtub](../quests/drum_a_washtub.md) (bring 20)
+- [The Fifth Notebook](../quests/edgar_the_fifth_notebook.md) (bring 20)
+- [A Hat My Size](../quests/sprout_a_hat_my_size.md) (bring 25)
 - [Lamp Oil](../quests/tinder_lamp_oil.md) (bring 20)
+- [Wing Ash](../quests/tinsel_wing_ash.md) (bring 30)

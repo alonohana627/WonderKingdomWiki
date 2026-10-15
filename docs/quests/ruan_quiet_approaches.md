@@ -7,9 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Ruan](../npcs/ruan_cliffwatch.md) |
 | Level | 14 |
+| Leads to | [The Timber Carts](../quests/haldor_the_timber_carts.md) |
 
 ## Objectives
 

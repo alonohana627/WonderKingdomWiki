@@ -49,4 +49,6 @@
 
 ## Quests
 
+- [The Bluecap Mother](../quests/the_bluecap_mother.md)
 - [The Woodcutters' Hut](../quests/the_woodcutters_hut.md)
+- [Where the King Came From](../quests/where_the_king_came_from.md)

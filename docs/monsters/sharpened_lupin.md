@@ -36,11 +36,11 @@
 | [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 0.35% | 1 |
 | [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) | 0.35% | 1 |
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 0.35% | 1 |
-| [Scimitar](../items/scimitar.md) | 0.08% | 1 |
-| [Silver Master Sergeant](../items/silver_master_sergeant.md) | 0.08% | 1 |
-| [Iron Burgernet Helm](../items/iron_burgernet_helm.md) | 0.08% | 1 |
-| [Steel Missel](../items/steel_missel.md) | 0.08% | 1 |
-| [Red Adventurer Cape](../items/red_adventurer_cape.md) | 0.08% | 1 |
+| [Zard](../items/zard.md) | 0.08% | 1 |
+| [Blue Jangoon Armor](../items/blue_jangoon_armor.md) | 0.08% | 1 |
+| [Steel Nordic Helm](../items/steel_nordic_helm.md) | 0.08% | 1 |
+| [Dark Knuckle](../items/dark_knuckle.md) | 0.08% | 1 |
+| [Blue Justice Cape](../items/blue_justice_cape.md) | 0.08% | 1 |
 | [Lupin Claw Sample](../items/lupin_claw_sample.md) | 40% | 1 |
 
 ## Quests

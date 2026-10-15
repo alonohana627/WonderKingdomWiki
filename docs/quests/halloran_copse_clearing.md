@@ -7,18 +7,20 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Halloran](../npcs/halloran.md) |
 | Level | 12 |
+| Leads to | [Carts on the Hill](../quests/garrow_carts_on_the_hill.md) |
 
 ## Objectives
 
 - Defeat 30 [Scrub Wolf](../monsters/scrub_wolf.md) in [The Chalk Downs](../maps/chalk_downs.md)
+- Bring 10 [Scrub Wolf Pelt](../items/scrub_wolf_pelt.md) (taken)
 
 ## Rewards
 
-- 428 EXP
-- 264 mesos
+- 622 EXP
+- 360 mesos
 - +40 standing with [Halloran](../npcs/halloran.md)
 - +25 standing with Bain Harbour
 
@@ -26,9 +28,9 @@
 
     - You know the royal road west, over the Chalk Downs? The carters bring half our flour down it. And the holm-oak copses up there have filled with scrub wolves this year.
     - They don't attack the carts, not yet. They follow them. A carter told me he had six at his wheels all the way to the hill. I'd like that not to become seven.
-    - Clear **30 [Scrub Wolf](../monsters/scrub_wolf.md)s** out of the copses on the Chalk Downs, *Player*. The Watch can't leave the waterfront, and I'd rather it was someone who knows the road.
+    - Clear **30 [Scrub Wolf](../monsters/scrub_wolf.md)s** out of the copses on the Chalk Downs, *Player*. The Watch can't leave the waterfront, and I'd rather it was someone who knows the road. And bring **10 [Scrub Wolf Pelt](../items/scrub_wolf_pelt.md)s**: the carters will want proof.
     - Thank you. Take a mug of something hot when you come back. I'll have one waiting.
     - Another time, then.
-    - Thirty scrub wolves, on the Chalk Downs past Baysight Hill. Watch the copses.
+    - Thirty scrub wolves, on the Chalk Downs past Baysight Hill. Watch the copses. And bring **10 [Scrub Wolf Pelt](../items/scrub_wolf_pelt.md)s**: the carters will want proof.
     - That's the carters' road made safe for a while, and I didn't have to send a single watchman off the waterfront.
     - Here. The Watch pays its debts. And the carters will be buying you drinks at the Salt and Bread, if Delphine lets them.

@@ -31,6 +31,7 @@
 - [The Bluecap Mother](../quests/the_bluecap_mother.md) (gives)
 - [The Inner Ward](../quests/the_inner_ward.md) (gives)
 - [The Keep Bounty](../quests/the_keep_bounty.md) (gives)
+- [The King in the Hollow](../quests/the_king_in_the_hollow.md) (gives)
 - [The Snail King](../quests/the_snail_king.md) (gives)
 - [Thinning the Herd](../quests/thinning_the_herd.md) (gives)
 - [What Drove It Out](../quests/what_drove_it_out.md) (gives)

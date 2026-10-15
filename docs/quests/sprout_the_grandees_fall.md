@@ -2,7 +2,7 @@
 
 # The Grandee's Fall
 
-*Sprout once did the grandee's fall off the Great Hall's table and landed on his elbow. Ask Dex how to do it properly, loudly, while Sprout listens from behind the curtain.*
+*Sprout once did the grandee's fall off the Great Hall's table and landed on his elbow. Ask Dex how to do it properly, loudly, while Sprout listens from behind the curtain. Sprout also needs 25 boar bristles to stuff a landing sack.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 25 [Boar Bristle](../items/boar_bristle.md) (taken)
 - Talk to [Dex](../npcs/dex.md)
 
 ## Rewards
 
-- 2,520 EXP
-- 1,860 mesos
+- 22,830 EXP
+- 5,300 mesos
 - +50 standing with [Sprout](../npcs/sprout.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - I did the grandee's fall once. Off the big table in the Great Hall, in the middle of a debate. Everybody laughed. Then Mags made me wash every bowl in the kitchen.
     - But I did it wrong. I landed on my elbow. Dad lands like a pillow. Every time. Fifteen years and not one bruise, he says.
-    - Ask [Dex](../npcs/dex.md) how to do the fall properly. He will not teach me himself, he says I am too little. But he loves explaining things. If you ask, he will explain for an hour, and I will listen from behind the curtain.
-    - Ask him loud. I will be behind the blue curtain. Do not look at the blue curtain.
+    - Ask [Dex](../npcs/dex.md) how to do the fall properly. He will not teach me himself, he says I am too little. But he loves explaining things. If you ask, he will explain for an hour, and I will listen from behind the curtain. Also I need stuffing. Hambone's sacks go flat, and then I land on the floor. Boar bristle holds its shape. Bring me **25 [Boar Bristle](../items/boar_bristle.md)s** from the [Bristle Boar](../monsters/bristle_boar.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md) and I will have the best landing sack in the Old Barracks.
+    - Ask him loud. I will be behind the blue curtain. Do not look at the blue curtain. Mind the tusks. I would like a landing sack, not a funeral.
     - Okay. I will practise on Hambone's sacks. They are soft. Mostly.
-    - Ask [Dex](../npcs/dex.md) about the grandee's fall, *Player*! I am behind the curtain! Do not look!
+    - Ask [Dex](../npcs/dex.md) about the grandee's fall, *Player*! I am behind the curtain! Do not look! And **25 [Boar Bristle](../items/boar_bristle.md)s** for my landing sack, *Player*! You carry (how many you carry)!
     - The fall? Ah, the fall! The secret is that you are already falling before you trip. You go loose, loose as a sack of washing. The crowd sees a man fall. The man knows he is only lying down, very quickly. (Dex glances, not at all secretly, at the blue curtain.)
     - And you never, ever land on the elbow. Shoulder, hip, roll. Say it louder, *Player*, so the curtain can hear. SHOULDER. HIP. ROLL.
-    - SHOULDER, HIP, ROLL! I heard! He said it so the curtain could hear! He knew I was there!
+    - And bristle! Oh, that is a lot of bristle. It is prickly, but it is bouncy, which is better than soft. SHOULDER, HIP, ROLL! I heard! He said it so the curtain could hear! He knew I was there!
     - Dad always knows. I am going to practise on the sacks, and then on the cart, and then on the Great Hall table again, and this time Mags will not even notice. Thank you, *Player*!

@@ -15,8 +15,10 @@
 
 ## Objectives
 
-1. Look at the rim of the Lantern Deep at night in [The Rim](../maps/the_rim.md)
-2. Defeat 60 monsters in [The Rim](../maps/the_rim.md)
+1. Bring 20 [Glim Shard](../items/glim_shard.md) (taken)
+2. Look at the rim of the Lantern Deep at night in [The Rim](../maps/the_rim.md)
+3. Defeat 60 monsters in [The Rim](../maps/the_rim.md)
+4. Defeat 40 [Glimshade](../monsters/glimshade.md) in [The Old Fellings](../maps/old_fellings.md)
 
 ## Rewards
 
@@ -28,9 +30,9 @@
 ??? quote "Dialogue"
 
     - Go with me tonight. To the Rim, in the wood. The edge of the sea-hole.
-    - I want to see it once. That's all. Keep the shades off while I look. **Sixty** should do.
+    - I want to see it once. That's all. Keep the shades off while I look. **Sixty** should do. Bring **20 [Glim Shard](../items/glim_shard.md)s**. I want to know the colour of its light before I see it. And clear **40 [Glimshade](../monsters/glimshade.md)s** at the Old Fellings first.
     - Patience.
     - Another time, then.
-    - Go with Tristram to the rim of the Lantern Deep at night, and hold off sixty of what comes.
+    - Bring **20 [Glim Shard](../items/glim_shard.md)s**. I want to know the colour of its light before I see it. Go with Tristram to the rim of the Lantern Deep at night, and hold off sixty of what comes. And clear **40 [Glimshade](../monsters/glimshade.md)s** at the Old Fellings first.
     - It rose. Among its lights. Long as a ship. Its eyes.
     - I saw it. Once. That was enough. The Harbour Master should hear it from me. Tell her I'll come.

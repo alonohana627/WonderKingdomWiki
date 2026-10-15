@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Millstone Ram](../monsters/millstone_ram.md) (40%)
+
+## Used for
+
+- [Horn for the Beacon Lamps](../quests/lux_horn_for_the_beacon_lamps.md) (bring 30)

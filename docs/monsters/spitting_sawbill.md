@@ -52,4 +52,5 @@
 - [Faster Than Finch](../quests/brisa_faster_than_finch.md)
 - [Salt Over the Stern](../quests/captain_annis_salt_over_the_stern.md)
 - [Watch Bounty: The Outer Cut](../quests/jowan_watch_bounty_outer_cut.md)
+- [The Sea End](../quests/nerissa_the_sea_end.md)
 - [A Touched Sawbill](../quests/tristram_touched_sawbill.md)

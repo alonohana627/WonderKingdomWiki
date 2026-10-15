@@ -17,3 +17,4 @@
 
 - [Spore Draught](../items/spore_draught.md) ([Alchemy](../professions/alchemy.md), x2)
 - [A Draught for the Dust](../quests/a_draught_for_the_dust.md) (bring 25)
+- [Up the Walls](../quests/up_the_walls.md) (bring 10)

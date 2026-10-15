@@ -10,7 +10,7 @@
 | Category | Story |
 | Given by | [Starling](../npcs/starling.md) |
 | Level | 57 |
-| After | [A Flicker Night](../quests/starling_a_flicker_night.md) |
+| After | [Clear the Lower Downs](../quests/torvi_clear_the_lower_downs.md) |
 | Leads to | [The Beacon Ruins](../quests/lux_the_beacon_ruins.md) |
 
 ## Objectives

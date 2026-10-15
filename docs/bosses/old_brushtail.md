@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 30 | 17,416 | 12,530 | 107 | 180 / 180 |
+| 30 | 24,880 | 14,320 | 107 | 180 / 180 |
 
 First clear: +60 standing with Goa Harbour
 
@@ -24,27 +24,20 @@ First clear: +60 standing with Goa Harbour
 
 **1. Feints in the Dust** (from the start): moves faster.
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 139 | 2.2 s |
-| Melee | Physical | 160 | 4.5 s |
-| Area | Physical | 171 | 5.2 s |
-
-**2. Out of the Dust** (below 70% HP): Announces "OLD BRUSHTAIL VANISHES INTO THE DUST!"; moves faster.
+**2. Out of the Dust** (below 65% HP): Announces "OLD BRUSHTAIL VANISHES INTO THE DUST!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 214 | 6 s |
 | Melee | Physical | 139 | 2.2 s |
-| Area | Physical | 171 | 5.2 s |
 
 **3. The Earth Wakes** (below 30% HP): Announces "CUBS SPILL FROM THE BURROWS!"; moves faster; summons 3 [Strand Fox Cub](../monsters/strand_fox_cub.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 214 | 6 s |
+| Area | Physical | 214 | 4.5 s |
+| Melee | Physical | 139 | 1.65 s |
 | Melee | Physical | 160 | 4.5 s |
-| Melee | Physical | 139 | 2.2 s |
 
 ### Drops
 
@@ -70,7 +63,7 @@ First clear: +60 standing with Goa Harbour
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 33 | 38,052 | 31,990 | 117 | 198 / 198 |
+| 33 | 24,880 | 14,320 | 107 | 180 / 180 |
 
 First clear: +100 standing with Goa Harbour
 
@@ -78,42 +71,19 @@ First clear: +100 standing with Goa Harbour
 
 **1. Feints in the Dust** (from the start): moves faster.
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 205 | 2.2 s |
-| Melee | Physical | 237 | 4.5 s |
-| Area | Physical | 253 | 5.2 s |
-
-**2. Out of the Dust** (below 70% HP): Announces "OLD BRUSHTAIL VANISHES INTO THE DUST!"; moves faster.
+**2. Out of the Dust** (below 65% HP): Announces "OLD BRUSHTAIL VANISHES INTO THE DUST!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 316 | 6 s |
-| Melee | Physical | 205 | 2.2 s |
-| Area | Physical | 253 | 5.2 s |
+| Area | Physical | 234 | 6 s |
+| Melee | Physical | 152 | 2.2 s |
+| Area | Physical | 187 | 5.2 s |
 
 **3. The Earth Wakes** (below 30% HP): Announces "CUBS SPILL FROM THE BURROWS!"; moves faster; summons 3 [Strand Fox Cub](../monsters/strand_fox_cub.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 316 | 6 s |
-| Melee | Physical | 237 | 4.5 s |
-| Melee | Physical | 205 | 2.2 s |
-
-### Drops
-
-| Drop | Chance | Amount |
-|---|---|---|
-| Mesos | 100% | 900-1,400 |
-| [Old Brushtail's Tail](../items/old_brushtails_tail.md) | 100% | 1 |
-| [Brushtail Wrap](../items/brushtail_wrap.md) | 18% | 1 |
-| [Strand Fox Hood](../items/strand_fox_hood.md) | 25% | 1 |
-| [Elixir](../items/elixir.md) | 60% | 2-4 |
-| [Gladius](../items/gladius.md) | 6% | 1 |
-| [Scimitar](../items/scimitar.md) | 5% | 1 |
-| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 20% | 1 |
-| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 16% | 1 |
-| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 16% | 1 |
-| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 12% | 1 |
-| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 12% | 1 |
-| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 12% | 1 |
+| Area | Physical | 234 | 4.5 s |
+| Melee | Physical | 152 | 1.65 s |
+| Area | Physical | 187 | 3.9 s |
+| Melee | Physical | 176 | 4.5 s |

@@ -2,7 +2,7 @@
 
 # The Basket
 
-*Nana Gristle has remembered something about her mother's basket on the Long Walk: a ribbon. She wants Ozzie Lantry, the Walkers' historian, to write it into his history properly.*
+*Nana Gristle has remembered something about her mother's basket on the Long Walk: a ribbon. She wants Ozzie Lantry, the Walkers' historian, to write it into his history properly. She also wants 30 boar bristles for a cord to tie the ribbon on.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 30 [Boar Bristle](../items/boar_bristle.md) (taken)
 - Talk to [Ozzie Lantry](../npcs/hob_lantry.md)
 
 ## Rewards
 
-- 2,770 EXP
-- 1,920 mesos
+- 27,140 EXP
+- 6,190 mesos
 - +70 standing with [Nana Gristle](../npcs/nana_gristle.md)
 - +15 standing with Urbanograd
 
@@ -27,12 +28,12 @@
 
     - I was sitting here this morning in the sun, and it came back to me clear as a bell. The basket. My mother's basket, on the Long Walk. It had a ribbon on the handle. Blue. My grandmother tied it there so she'd know it in a crowd.
     - Ozzie Lantry has written my mother's story down I don't know how many times. Not once with the ribbon. Well, it has to go in. It's a fact. It's an important fact.
-    - Go to [Ozzie Lantry](../npcs/hob_lantry.md) in the Great Hall and tell him: a blue ribbon on the handle, so Marguerite could find the basket in the crowd. Make him write it down while you watch.
-    - He'll be in his corner of the Great Hall looking for his spectacles. They'll be on his head. Tell him that too.
+    - Go to [Ozzie Lantry](../npcs/hob_lantry.md) in the Great Hall and tell him: a blue ribbon on the handle, so Marguerite could find the basket in the crowd. Make him write it down while you watch. And while you are out, I want **30 [Boar Bristle](../items/boar_bristle.md)s** from the [Bristle Boar](../monsters/bristle_boar.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md). Bristle cord, that is what my mother bound her handle with. A ribbon wants something to sit on that will not fray. Do not make that face, I can tell when you are making it.
+    - He'll be in his corner of the Great Hall looking for his spectacles. They'll be on his head. Tell him that too. Mind the tusks. And your hat. You have no hat. Mind your head, then.
     - Pfah. Then I'll tell him myself, and he'll get that look, and I'll have to be cross. Save us both the trouble, another day.
-    - Ozzie, the Great Hall. A blue ribbon on the handle. Make him write it down.
+    - Ozzie, the Great Hall. A blue ribbon on the handle. Make him write it down. And **30 [Boar Bristle](../items/boar_bristle.md)s** for the cord. You carry (how many you carry).
     - A blue ribbon on the handle? (Ozzie pats three pockets for his spectacles, then finds them on his head.) Hm. Hmm. You know, I have written Posy's story down eleven times now, and every telling Nana adds something lovely. The year before last it was a song Marguerite hummed. Last year a dog followed them out of the gates.
     - I don't think it's untrue, exactly. I think a story that's been carried for a hundred years grows a little, the way a child does. Nobody alive can say there was no ribbon. And it's a very good ribbon.
     - There. (He writes, carefully.) 'A blue ribbon tied on the handle, so that Marguerite might find it in the crowd. As told by her granddaughter.' Tell Nana it's in. Tell her I underlined 'blue'.
-    - He wrote it? With 'blue' underlined? Good. Good. (Nana's mouth goes very firm, the way it does just before she cries, and then she does, a little, and blows her nose very loudly.)
+    - Bristle, and a good lot of it. That will make a cord. He wrote it? With 'blue' underlined? Good. Good. (Nana's mouth goes very firm, the way it does just before she cries, and then she does, a little, and blows her nose very loudly.)
     - It's a true ribbon. I'm nearly sure. Don't you look at me like Ozzie does. Here. Honey cake. Go on.

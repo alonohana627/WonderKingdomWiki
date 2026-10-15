@@ -43,4 +43,5 @@
 
 - [Hatch's Bounty: the Bristlewood](../quests/hatch_bristlewood_bounty.md)
 - [Counting Names](../quests/moth_counting_names.md)
+- [The Bottoms Round](../quests/torvi_the_bottoms_round.md)
 - [Zip's Bank](../quests/torvi_zips_bank.md)

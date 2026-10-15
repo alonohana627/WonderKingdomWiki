@@ -15,7 +15,9 @@
 
 ## Objectives
 
-- Clear [Under the Outer Pier](../runs/under_the_pier.md)
+1. Bring 20 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md) (taken)
+2. Clear [Under the Outer Pier](../runs/under_the_pier.md)
+3. Defeat 30 [Whipshade](../monsters/whipshade.md) in [The Crossways](../maps/crossways.md)
 
 ## Rewards
 
@@ -27,9 +29,9 @@
 ??? quote "Dialogue"
 
     - The tide goes out further than usual tonight. Low enough to climb down among the outer pier's pilings and look at them close.
-    - I've looked from above for months. I want someone to look properly. At the far end, where the line went down. Ask me when you're ready.
+    - I've looked from above for months. I want someone to look properly. At the far end, where the line went down. Ask me when you're ready. It's cold down there at the lowest tide. Bring **20 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s** for the Watch's cloaks first. And clear **30 [Whipshade](../monsters/whipshade.md)s** at the Crossways after; they come down to the water at night.
     - Look at the ones at the far end.
     - Another time, then.
-    - Climb down under the outer pier at the lowest tide (ask Halloran when you're ready).
+    - It's cold down there at the lowest tide. Bring **20 [Dusk Wolf Pelt](../items/dusk_wolf_pelt.md)s** for the Watch's cloaks first. Climb down under the outer pier at the lowest tide (ask Halloran when you're ready). And clear **30 [Whipshade](../monsters/whipshade.md)s** at the Crossways after; they come down to the water at night.
     - Rows of round marks, each one ringed with fine scratches. The size of a coin, some of them bigger.
     - Like something with... no. I won't guess. But I'll stop pretending it's nothing. Come and see me tomorrow. I've been a fool to keep this to myself.

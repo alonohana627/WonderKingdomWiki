@@ -52,7 +52,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 |---|---|---|---|---|
 | [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
 | [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
-| [The Greenwood](../maps/the_greenwood.md) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+| [The Greenwood](../maps/the_greenwood.md) | Road | 10-15 | 6 | [Horny Mushroom](../monsters/horny_mushroom.md), [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
 
 ### Verdant Coast Road
 
@@ -60,7 +60,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 |---|---|---|---|---|
 | [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 | [Orchard Pig](../monsters/orchard_pig.md), [Orchard Snail](../monsters/orchard_snail.md) |
 | [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
-| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-12 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-17 | 6 | [Breaker Crab](../monsters/breaker_crab.md), [Orchard Pig](../monsters/orchard_pig.md), [Shingle Crab](../monsters/shingle_crab.md) |
 
 ### Boarwood
 
@@ -146,7 +146,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Orin](../npcs/orin.md) | Retired Woodcutter | [Mushroom Park](../maps/kaldemor_park.md) | Quests | [Story](../lore/people/kaldemor/orin.md) |
 | [Pell](../npcs/pell.md) | Taxi Driver | [Kaldemor](../maps/kaldemor.md) | Taxi, Quests | [Story](../lore/people/kaldemor/pell.md) |
 | [Percy](../npcs/percy.md) | Wheelwright | [The Workshops](../maps/the_workshops.md) | Quests | [Story](../lore/people/kaldemor/percy.md) |
-| [Quill](../npcs/quill.md) | Drillmaster | [Mushroom Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) | [Story](../lore/people/kaldemor/quill.md) |
+| [Quill](../npcs/quill.md) | Drillmaster | [Mushroom Park](../maps/kaldemor_park.md) | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md), Quests | [Story](../lore/people/kaldemor/quill.md) |
 | [Rosa](../npcs/rosa.md) | Baker | [Kaldemor Market](../maps/kaldemor_market.md) | Quests | [Story](../lore/people/kaldemor/rosa.md) |
 | [Rufus](../npcs/rufus.md) | Town Crier | [Kaldemor](../maps/kaldemor.md) | Quests | [Story](../lore/people/kaldemor/rufus.md) |
 | [Tam](../npcs/tam.md) |  | [Kaldemor](../maps/kaldemor.md) | - | [Story](../lore/people/kaldemor/tam.md) |
@@ -183,6 +183,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Ribbon Pig](../monsters/ribbon_pig.md) | 11 | 259 | 25 | [The Crossing](../maps/the_crossing.md) |
 | [Green Mushroom](../monsters/green_mushroom.md) | 12 | 277 | 32 | [The Greenwood](../maps/the_greenwood.md) |
 | [Shingle Crab](../monsters/shingle_crab.md) | 12 | 343 | 32 | [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
+| [Horny Mushroom](../monsters/horny_mushroom.md) | 15 | 358 | 58 | [The Greenwood](../maps/the_greenwood.md) |
+| [Breaker Crab](../monsters/breaker_crab.md) | 17 | 548 | 81 | [Shellbrook Mouth](../maps/shellbrook_mouth.md) |
 | [Rooting Piglet](../monsters/rooting_piglet.md) | 21 | 642 | 141 | [The Boarwood](../maps/boarwood.md) |
 | [Hedge Boar](../monsters/hedge_boar.md) | 22 | 733 | 160 | [The Boarwood](../maps/boarwood.md) |
 | [Tusker](../monsters/tusker.md) | 27 | 1,084 | 273 | [The Deep Boarwood](../maps/boarwood_deep.md) |
@@ -222,8 +224,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Accomplishment | Goal | Reward |
 |---|---|---|
-| Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
-| Bounty Hunter | Collect Ranger Hale's bounty. | [Field Hardened](../skills/passives.md#field-hardened) |
+| Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | Passive: [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
+| Bounty Hunter | Collect Ranger Hale's bounty. | Passive: [Field Hardened](../skills/passives.md#field-hardened) |
 
 ## Discoveries
 

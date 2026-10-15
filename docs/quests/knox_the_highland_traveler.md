@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Knox](../npcs/knox.md) |
 | Level | 18 |
-| After | [The Late Egg Cart](../quests/knox_the_late_egg_cart.md) |
+| After | [The Wool Carts](../quests/torvi_the_wool_carts.md) |
+| Leads to | [A Count for the Slate](../quests/brindle_a_count_for_the_slate.md) |
 
 ## Objectives
 
@@ -19,7 +20,7 @@
 
 ## Rewards
 
-- 2,130 EXP
+- 2,660 EXP
 - 1,800 mesos
 - +50 standing with [Knox](../npcs/knox.md)
 - +15 standing with Urbanograd

@@ -92,10 +92,10 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Boss | Level | Arena | Modes |
 |---|---|---|---|
-| [The Gloamwing](../bosses/gloamwing.md) | 30 | [The Fallen Tower](../maps/fallen_tower.md) | Normal |
-| [The Warmstone Colossus](../bosses/warmstone_colossus.md) | 45 | [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Normal |
-| [Hackleback](../bosses/hackleback.md) | 50 | [The Wallow](../maps/the_wallow.md) | Normal |
-| [Stormcrest](../bosses/stormcrest.md) | 70 | [The Highbeacon](../maps/highbeacon.md) | Normal |
+| [The Gloamwing](../bosses/gloamwing.md) | 30 | [The Fallen Tower](../maps/fallen_tower.md) | Normal, Hard |
+| [The Warmstone Colossus](../bosses/warmstone_colossus.md) | 45 | [The Heart of the Warm Quarry](../maps/warm_quarry_heart.md) | Normal, Hard |
+| [Hackleback](../bosses/hackleback.md) | 50 | [The Wallow](../maps/the_wallow.md) | Normal, Hard |
+| [Stormcrest](../bosses/stormcrest.md) | 70 | [The Highbeacon](../maps/highbeacon.md) | Normal, Hard |
 
 ## NPCs
 

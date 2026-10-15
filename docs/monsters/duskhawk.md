@@ -42,7 +42,10 @@
 ## Quests
 
 - [Across the Crest](../quests/perch_across_the_crest.md)
+- [The Dusk Count](../quests/perch_the_dusk_count.md)
+- [The Highbeacon](../quests/perch_the_highbeacon.md)
 - [What Waits at Dusk](../quests/perch_what_waits_at_dusk.md)
 - [Hawks That Hunt Late](../quests/shade_touched_hawks.md)
 - [The Lower Beacon](../quests/starling_the_lower_beacon.md)
 - [Torvi's Bounty: the Downs](../quests/torvi_downs_bounty.md)
+- [When to Run](../quests/zip_when_to_run.md)

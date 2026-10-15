@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 70 | 348,580 | 102,795 | 316 | 700 / 700 |
+| 70 | 308,742 | 102,795 | 316 | 420 / 420 |
 
 First clear: [Heartroot Earrings](../items/heartroot_earrings.md) x1, +120 standing with Fairy Forest
 
@@ -24,32 +24,25 @@ Attacks:
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 364 | 4.2 s |
+| Projectile | Physical | 292 | 4.2 s |
 
 ### Phases
 
 **1. The Knot Holds** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 364 | 4.2 s |
-| Projectile | Physical | 316 | 3.6 s |
-
-**2. The Coils Tighten** (below 70% HP): Announces "The Knotbriar's coils tighten!"; summons 2 [Thorny Bramble](../monsters/thorny_bramble.md) every 30 s; heal.
+**2. The Whips Lash** (below 65% HP): Announces "The Knotbriar's thorns lash out!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 389 | 4.2 s |
-| Projectile | Physical | 340 | 3.6 s |
-| Area | Physical | 340 | 9 s |
+| Area | Physical | 389 | 4.8 s |
+| Projectile | Physical | 292 | 4.2 s |
 
-**3. The Root Shakes Free** (below 30% HP): Announces "THE ROOT SHAKES FREE!"; summons 2 [Night Howlet](../monsters/night_howlet.md) every 30 s.
+**3. The Root Shakes Free** (below 30% HP): Announces "THE ROOT SHAKES FREE!"; summons 2 [Thorny Bramble](../monsters/thorny_bramble.md) every 25 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 437 | 4.2 s |
-| Projectile | Physical | 389 | 3.6 s |
-| Area | Physical | 389 | 9 s |
+| Area | Physical | 389 | 3.4 s |
+| Projectile | Physical | 292 | 3 s |
 
 ### Drops
 
@@ -64,6 +57,10 @@ Attacks:
 | [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 15% | 1 |
 | [Scroll for Two-handed Sword for ATT 60%](../items/scroll_two_handed_sword_att.md) | 12% | 1 |
 | [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 12% | 1 |
+| [Red Katana](../items/red_katana.md) | 4% | 1 |
+| [Doombringer](../items/doombringer.md) | 4% | 1 |
+| [Redemption](../items/redemption.md) | 4% | 1 |
+| [Mithril Platine](../items/mithril_platine.md) | 4% | 1 |
 
 ## Hard
 
@@ -71,7 +68,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 73 | 801,734 | 195,310 | 395 | 718 / 718 |
+| 73 | 308,742 | 102,795 | 316 | 420 / 420 |
 
 First clear: +150 standing with Fairy Forest
 
@@ -79,33 +76,27 @@ Attacks:
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 364 | 4.2 s |
+| Projectile | Physical | 292 | 4.2 s |
 
 ### Phases
 
 **1. The Knot Holds** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 430 | 4.2 s |
-| Projectile | Physical | 380 | 3.6 s |
-| Area | Physical | 354 | 9 s |
-
-**2. The Coils Tighten** (below 70% HP): Announces "The Knotbriar's coils tighten!"; summons 2 [Night Howlet](../monsters/night_howlet.md) every 30 s; heal.
+**2. The Coils Tighten** (below 65% HP): Announces "The Knotbriar's coils tighten!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 455 | 4.2 s |
-| Projectile | Physical | 405 | 3.6 s |
-| Area | Physical | 430 | 9 s |
+| Area | Physical | 389 | 4.8 s |
+| Projectile | Physical | 292 | 4.2 s |
+| Area | Physical | 340 | 9 s |
 
-**3. The Root Shakes Free** (below 30% HP): Announces "THE ROOT SHAKES FREE!"; summons 2 [Deep Spring Sprite](../monsters/deep_spring_sprite.md) every 30 s.
+**3. The Root Shakes Free** (below 30% HP): Announces "THE ROOT SHAKES FREE!"; summons 2 [Night Howlet](../monsters/night_howlet.md) every 22 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 506 | 4.2 s |
-| Projectile | Physical | 455 | 3.6 s |
-| Area | Physical | 481 | 9 s |
+| Area | Physical | 389 | 3.2 s |
+| Projectile | Physical | 292 | 2.8 s |
+| Area | Physical | 340 | 9 s |
 
 ### Drops
 
@@ -118,3 +109,7 @@ Attacks:
 | [Heartroot Earrings](../items/heartroot_earrings.md) | 15% | 1 |
 | [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 30% | 1 |
 | [Scroll for Spear for ATT 60%](../items/scroll_spear_att.md) | 25% | 1 |
+| [Red Katana](../items/red_katana.md) | 9% | 1 |
+| [Doombringer](../items/doombringer.md) | 9% | 1 |
+| [Redemption](../items/redemption.md) | 9% | 1 |
+| [Mithril Platine](../items/mithril_platine.md) | 9% | 1 |

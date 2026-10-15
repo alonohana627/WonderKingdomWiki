@@ -15,7 +15,7 @@
 
 ## How to get
 
-- Dropped by [Old Brushtail](../monsters/old_brushtail.md), [Old Brushtail](../bosses/old_brushtail.md) (Normal), [Old Brushtail](../bosses/old_brushtail.md) (Hard) (25%)
+- Dropped by [Old Brushtail](../monsters/old_brushtail.md), [Old Brushtail](../bosses/old_brushtail.md) (Normal) (25%)
 - Dropped by [Strand Fox](../monsters/strand_fox.md) (0.08%)
 - Sold at [Greer's Furs](../shops/greers_furs.md) for 1,800 mesos
 - Reward from [Clean Prints](../quests/kenna_clean_prints.md)

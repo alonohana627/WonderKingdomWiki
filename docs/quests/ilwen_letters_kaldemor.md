@@ -7,10 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Ilwen](../npcs/ilwen_steward.md) |
 | Level | 12 |
-| Leads to | [Letters for the Capital](../quests/ilwen_letters_selsior.md) |
+| After | [Dew from a Far Grove](../quests/tansy_far_dew.md) |
+| Leads to | [A Colour Like Dusk](../quests/faelan_wing_dust.md), [Letters for the Capital](../quests/ilwen_letters_selsior.md) |
 
 ## Objectives
 
@@ -36,3 +37,4 @@
     - Here, two return scrolls, for the next time somebody needs to be in two places.
     - Letters from the Grove Council? Splendid! Calyra always writes such short letters. I admire that.
     - Tell Ilwen we'll keep the road clear on our side. And give my regards to the Eldest.
+    - Faelan has been hovering by the door all morning asking whether you were back. He would not say why. He went red.

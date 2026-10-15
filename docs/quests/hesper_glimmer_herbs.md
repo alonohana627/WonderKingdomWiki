@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Hesper](../npcs/hesper_herbalist.md) |
 | Level | 10 |
+| After | [Harvest Carts](../quests/kestrel_orchard_road.md) |
+| Leads to | [Dew from a Far Grove](../quests/tansy_far_dew.md) |
 
 ## Objectives
 
@@ -33,3 +35,4 @@
     - Not done yet? The marjoram won't pick itself.
     - Good, good. You left some. I can tell.
     - Take these salves. You'll want them, out there.
+    - Tansy's been fretting at the tea house about her dew all week. Go and calm her down before she boils over.

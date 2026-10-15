@@ -37,6 +37,20 @@
 
 ## Quests
 
+- [Measure the Gap](../quests/bastian_measure_the_gap.md)
 - [The Watch's Slate: the Outworks](../quests/brindle_outworks_bounty.md)
+- [Under the Fallen Tower](../quests/brindle_under_the_fallen_tower.md)
 - [The Rhythm Outside](../quests/drum_the_rhythm_outside.md)
+- [Rooftop Dash](../quests/kite_rooftop_dash.md)
+- [Clearing the Tower Cellars](../quests/knox_clear_the_tower_cellars.md)
 - [The Smashers](../quests/lux_the_smashers.md)
+- [The Twelfth Keeper](../quests/lux_twelve_keepers.md)
+- [Roofs to Avoid](../quests/nana_roofs_to_avoid.md)
+- [The First Winter](../quests/ozzie_the_first_winter.md)
+- [Forty Lights](../quests/prism_forty_lights.md)
+- [Reading Slowly](../quests/quint_reading_slowly.md)
+- [Letters to the Queen](../quests/rook_letters_to_the_queen.md)
+- [Lines for Pounce](../quests/rue_lines_for_pounce.md)
+- [Bad News](../quests/scrap_bad_news.md)
+- [Falling Lessons](../quests/shade_falling_lessons.md)
+- [Beat the Record](../quests/tick_beat_the_record.md)

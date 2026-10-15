@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Wallcreeper Cap](../monsters/wallcreeper_cap.md) (45%)
+
+## Used for
+
+- [The Inner Ward](../quests/the_inner_ward.md) (bring 25)

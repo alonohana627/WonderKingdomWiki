@@ -2,7 +2,7 @@
 
 # Lark's Song
 
-*On her day each year, Dex and Sprout sing one of Lark's songs on the Rooftops, and this year Dex lost the middle verse. Piper writes everything down; ask about the swallow song.*
+*On her day each year, Dex and Sprout sing one of Lark's songs on the Rooftops, and this year Dex lost the middle verse. Piper writes everything down; ask about the swallow song. Dex also wants 38 hog tusks to carve a swallow for Lark's day.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 38 [Ironhide Hog Tusk](../items/hog_tusk.md) (taken)
 - Talk to [Piper](../npcs/piper.md)
 
 ## Rewards
 
-- 5,350 EXP
-- 2,400 mesos
+- 69,270 EXP
+- 10,000 mesos
 - +60 standing with [Dex](../npcs/dex.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Sprout's mother was Lark. She sang in the chorus, the best voice we ever had. A fever took her when Sprout was barely one.
     - Every year on her day, Sprout and I go up on the Rooftops, watch the lanterns come on, and sing one of her songs. This year I lost the middle verse. I stood there booming the first verse like a fool, and then nothing. Sprout sang the rest. He knew it.
-    - I do not want to lose it again. [Piper](../npcs/piper.md) writes everything down. Ask Piper whether any of the old chorus sheets have Lark's songs on them. The one about the swallow under the bridge.
-    - Do not tell Sprout. He would be kind about it, and I could not stand that.
+    - I do not want to lose it again. [Piper](../npcs/piper.md) writes everything down. Ask Piper whether any of the old chorus sheets have Lark's songs on them. The one about the swallow under the bridge. And I mean to carve her a swallow, out of ironhide tusk, white as bone, and set it on the rail where we sing. A swallow takes a good deal of spoiled tusk before it takes one good one. Bring me **38 [Ironhide Hog Tusk](../items/hog_tusk.md)s** from the [Ironhide Hog](../monsters/ironhide_hog.md)s on the [The Tusk Path](../maps/tusk_path.md). I would go. I boom. The hogs hear me coming and leave.
+    - Do not tell Sprout. He would be kind about it, and I could not stand that. Tusks. Big ones for the body, small for the tail. Not that you can choose.
     - No, no. I will ask Piper myself. Tomorrow. Or the day after.
-    - Ask [Piper](../npcs/piper.md) about Lark's swallow song, *Player*.
+    - Ask [Piper](../npcs/piper.md) about Lark's swallow song, *Player*. And **38 [Ironhide Hog Tusk](../items/hog_tusk.md)s** for the swallow. You carry (how many you carry).
     - Lark's swallow song? Oh, I know it. It is not on any sheet. Hambone hums it when he polishes the wheels, the old way, and I wrote it down years ago because I loved the turn in the middle verse.
     - Here, I will write it out clean, middle verse and all. Tell Dex I did not change a note. I wanted to. There is a place where it begs to go up instead of down. But I did not. It is hers.
-    - This is it. This is the middle verse. Yes. Yes, that is how it goes. (Dex reads it twice, without booming at all.)
+    - Tusks, and so many! The swallow will have wings and a tail and a small cross look. This is it. This is the middle verse. Yes. Yes, that is how it goes. (Dex reads it twice, without booming at all.)
     - Piper did not change a note? Piper changes every note of everything. Then I owe Piper a song. And you, *Player*, I owe a whole evening of not booming. Starting now. Very quietly. Thank you.

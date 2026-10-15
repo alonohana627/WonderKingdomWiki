@@ -11,7 +11,7 @@
 | Given by | [Leland](../npcs/leland.md) |
 | Level | 25 |
 | After | [The Iron Grate](../quests/ferro_the_iron_grate.md) |
-| Leads to | [Low Grad Rounds](../quests/leland_low_grad_rounds.md), [A Chip of Warm Stone](../quests/tinsel_a_chip_of_warm_stone.md) |
+| Leads to | [A Chip of Warm Stone](../quests/tinsel_a_chip_of_warm_stone.md), [Low Grad Rounds](../quests/leland_low_grad_rounds.md) |
 
 ## Objectives
 
@@ -20,8 +20,8 @@
 
 ## Rewards
 
-- 7,270 EXP
-- 800 mesos
+- 7,940 EXP
+- 2,250 mesos
 - [Elixir](../items/elixir.md) x5
 - +80 standing with [Leland](../npcs/leland.md)
 - +30 standing with Urbanograd

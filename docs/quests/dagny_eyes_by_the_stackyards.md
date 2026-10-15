@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Dagny 'Two-Lamps' Roe](../npcs/dagny_roe.md) |
 | Level | 16 |
+| After | [Proof for the Notebook](../quests/tick_proof_for_the_notebook.md) |
+| Leads to | [Meadow Herbs](../quests/patch_meadow_herbs.md) |
 
 ## Objectives
 
@@ -17,7 +19,7 @@
 
 ## Rewards
 
-- 2,070 EXP
+- 2,590 EXP
 - 960 mesos
 - +40 standing with [Dagny 'Two-Lamps' Roe](../npcs/dagny_roe.md)
 - +10 standing with Urbanograd

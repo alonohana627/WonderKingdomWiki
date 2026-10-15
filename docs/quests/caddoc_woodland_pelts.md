@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Caddoc](../npcs/caddoc_trapper.md) |
 | Level | 17 |
+| After | [The Carters' Road](../quests/teague_the_carters_road.md) |
+| Leads to | [Dusk Ford](../quests/esk_dusk_ford.md) |
 
 ## Objectives
 

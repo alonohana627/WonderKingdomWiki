@@ -20,6 +20,8 @@
 
 First clear: +60 standing with Selsior
 
+Every clear: +10 standing with Selsior
+
 ### Phases
 
 **1. The Queen Rises** (from the start)
@@ -28,7 +30,7 @@ First clear: +60 standing with Selsior
 |---|---|---|---|
 | Area | Physical | 253 | 4.2 s |
 
-**2. The Swarm** (below 70% HP): Announces "THE HIVE ANSWERS ITS QUEEN!"; summons 3 [Wild Bee](../monsters/wild_bee.md) every 30 s.
+**2. The Swarm** (below 65% HP): Announces "THE HIVE ANSWERS ITS QUEEN!"; summons 3 [Wild Bee](../monsters/wild_bee.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
@@ -75,30 +77,13 @@ First clear: +60 standing with Selsior
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 33 | 58,234 | 30,316 | 205 | 198 / 198 |
+| 33 | 23,052 | 14,301 | 158 | 180 / 180 |
 
 First clear: +120 standing with Selsior
 
+Every clear: +20 standing with Selsior
+
 ### Phases
-
-**1. The Queen Rises** (from the start)
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 328 | 3.6 s |
-
-**2. The Swarm** (below 70% HP): Announces "THE HIVE ANSWERS ITS QUEEN!"; summons 3 [Chalk Hive Bee](../monsters/chalk_hive_bee.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 328 | 3.6 s |
-
-**3. Dripping Comb** (below 30% HP): Announces "HONEY POURS FROM THE COMB!"; moves faster; summons 3 [Chalk Hive Bee](../monsters/chalk_hive_bee.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 328 | 3.6 s |
-| Area | Physical | 246 | 6.5 s |
 
 ### Drops
 

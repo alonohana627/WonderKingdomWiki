@@ -15,8 +15,11 @@
 
 ## How to get
 
-- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal), [The Gapclaw](../bosses/gapclaw.md) (Hard) (6%)
+- Dropped by [Gloaming Wisp](../monsters/deep_forest_wisp.md) (0.05%)
+- Dropped by [Thorny Bramble](../monsters/thorny_bramble.md) (0.05%)
+- Dropped by [The Gapclaw](../monsters/gapclaw.md), [The Gapclaw](../bosses/gapclaw.md) (Normal) (6%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.06%)
 - Dropped by [Saltdead Stump](../monsters/saltdead_stump.md) (0.06%)
 - Dropped by [Saltgull](../monsters/saltgull.md) (0.06%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 13,000 mesos

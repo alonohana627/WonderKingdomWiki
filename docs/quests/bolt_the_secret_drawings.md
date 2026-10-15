@@ -2,7 +2,7 @@
 
 # The Secret Drawings
 
-*Bolt has one question about counterweights that only Rivet can answer, and cannot bear to ask it himself. Ask Rivet for him, without saying why.*
+*Bolt has one question about counterweights that only Rivet can answer, and cannot bear to ask it himself. Ask Rivet for him, without saying why. Bolt also needs 15 lampbat wings to study how they fold.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Rivet](../npcs/rivet.md)
+- Bring 15 [Lampbat Wing](../items/lampbat_wing.md) (taken)
 
 ## Rewards
 
-- 1,050 EXP
-- 1,380 mesos
+- 5,310 EXP
+- 2,910 mesos
 - +50 standing with [Bolt](../npcs/bolt.md)
 - +10 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Can I ask you something? It's a small thing. It's a stupid thing. It's for a, um, a drawing. Not a real drawing. A thinking drawing. Under my... somewhere.
     - When Rivet changed the counterweight line on the lift after the jam last winter, how much heavier is the weight than the empty platform? Just that. One number. I can't ask. If I ask, Rivet will ask why, and if Margo hears I asked Rivet...
-    - Would you ask [Rivet](../npcs/rivet.md)? Just the one question. And please, please don't say it's for me. Say it's for you. Say you're interested in weights. People are interested in weights. Sometimes.
-    - Thank you! Rivet's usually at the lift, at the end of the Row, by the old granary. Sorry. Thank you.
+    - Would you ask [Rivet](../npcs/rivet.md)? Just the one question. And please, please don't say it's for me. Say it's for you. Say you're interested in weights. People are interested in weights. Sometimes. And one more thing, and please do not ask why: lampbat wings. Fifteen. They fold on a hinge better than any spring I have made, and I need to look at one. Not for the drawing. For, um, wings.
+    - Thank you! Rivet's usually at the lift, at the end of the Row, by the old granary. Sorry. Thank you. The wings come off lampbats, in the Outer Ditch. Sorry. Thank you.
     - No, that's fair. It's a stupid question anyway. Sorry. Forget I said anything. Please actually forget.
-    - Rivet, at the lift. One question: how much heavier is the counterweight than the empty platform. Not for me. For you. Sorry.
+    - Rivet, at the lift. One question: how much heavier is the counterweight than the empty platform. Not for me. For you. Sorry. And **15 [Lampbat Wing](../items/lampbat_wing.md)s**, from the ditch. Not for me. For you.
     - The counterweight? Heavier by about a half-crate of glass. That way an empty platform sinks slow on its own, and a loaded one only needs two porters on the winch instead of four. Simple. Simple always wins.
     - Why do you want to know? ...Interested in weights. Right. Nobody's interested in weights. (Rivet squints down the Row toward Margo's scorched door, then shrugs.) Fine. Whoever's asking, tell them they can come and look at it any time.
-    - Half a crate of glass heavier! Of course! So it sinks slow on its own! That's... that's exactly the part I was missing. If you put a spring under it instead of a fourth porter... no, with a fourth... no...
+    - Wings too? Fifteen? Oh, look at the hinge on this one. Half a crate of glass heavier! Of course! So it sinks slow on its own! That's... that's exactly the part I was missing. If you put a spring under it instead of a fourth porter... no, with a fourth... no...
     - Sorry. Thank you. Rivet said whoever's asking can come and look? Oh no. Oh, that's wonderful. Oh no. Please don't tell anyone I'm smiling.

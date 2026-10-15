@@ -12,3 +12,7 @@
 ## How to get
 
 - Dropped by [Rooting Piglet](../monsters/rooting_piglet.md) (50%)
+
+## Used for
+
+- [Stilebrook Farm](../quests/stilebrook_farm.md) (bring 10)

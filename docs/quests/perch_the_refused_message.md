@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Perch](../npcs/perch.md) |
 | Level | 50 |
+| After | [The Fourth Version](../quests/tick_the_fourth_version.md) |
 | Leads to | [What Waits at Dusk](../quests/perch_what_waits_at_dusk.md) |
 
 ## Objectives

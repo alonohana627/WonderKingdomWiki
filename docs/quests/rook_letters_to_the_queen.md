@@ -2,7 +2,7 @@
 
 # Letters to the Queen
 
-*Rook's fortnightly letter to Queen Aveline is late. Take it by way of Nana Gristle's bench, who always has something to add, to Perch's loft on the Crooked Tower, then tell Rook it has flown.*
+*Rook's fortnightly letter to Queen Aveline is late. Take it by way of Nana Gristle's bench, who always has something to add, to Perch's loft on the Crooked Tower, then tell Rook it has flown. Rook also wants the Outworks' lampbats thinned, 25 of them, so the next letter can say the Watch has not been idle.*
 
 |  |  |
 |---|---|
@@ -16,27 +16,28 @@
 
 1. Talk to [Nana Gristle](../npcs/nana_gristle.md)
 2. Talk to [Perch](../npcs/perch.md)
+3. Defeat 25 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,840 EXP
-- 2,640 mesos
+- 5,840 EXP
+- 3,740 mesos
 - +50 standing with [Rook](../npcs/rook_tallow.md)
 - +15 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - Nine years I have written to Queen Aveline every fortnight, and this one is three days late. The Table ran long. The Table always runs long. The queen will notice, and she will say so, in writing, at length.
-    - Would you carry it to [Perch](../npcs/perch.md)'s loft, on top of the **Crooked Tower**? And on the way, stop at [Nana Gristle](../npcs/nana_gristle.md)'s bench in Lantern Square. She likes to hear the letter is going. She also likes to send me a message. I cannot stop either.
-    - Thank you. Nana is on the sunny side of the square, Perch is as high as the city goes. Whatever Nana says about me, it is probably true.
+    - Would you carry it to [Perch](../npcs/perch.md)'s loft, on top of the **Crooked Tower**? And on the way, stop at [Nana Gristle](../npcs/nana_gristle.md)'s bench in Lantern Square. She likes to hear the letter is going. She also likes to send me a message. I cannot stop either. And the queen will ask about the Outworks; she always does. The lampbats are thick in the Outer Ditch. Thin out **25 [Lampbat](../monsters/lampbat.md)s** there, so that the next letter can say the Watch has not been idle.
+    - Thank you. Nana is on the sunny side of the square, Perch is as high as the city goes. Whatever Nana says about me, it is probably true. Nana, Perch, and then the bats, in whatever order your legs prefer.
     - Then I will run it up myself, after the Table, after supper, after I find the stairs. Another day late. She will love that.
-    - Nana's bench, then Perch's loft at the top of the Crooked Tower. The letter is the one with the candle-wax seal; I am a chandler, I cannot help it.
+    - Nana's bench, then Perch's loft at the top of the Crooked Tower. The letter is the one with the candle-wax seal; I am a chandler, I cannot help it. Nana's bench, Perch's loft, and **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md).
     - A letter to the queen, is it? Good. Tell her the honey cakes at Saucer's are the best in the kingdom; she ought to know. And tell Rook something from me, since Rook never listens when I say it.
     - Rook skips supper on Table nights. Rook talks so softly the back benches have to guess. And Rook lets Bastian go on until the candles gutter, and Rook makes the candles, so there is no excuse.
     - Off you go. Mind the third roof past the bakery on the way up, it has been soft since I was a girl, whatever Kite says.
     - Rook's letter. The birds know that seal; they like it, I think. The wax smells of honey. Hold still, this one is particular about strangers.
     - The birds still fly the road to the capital gladly, at any hour. Not every road is like that, these days. There. Off she goes, over the Gate Walk and east.
     - Tell Rook the letter has flown. And that Pounce sends regards. He does not, but somebody should.
-    - Flown? Good. She will have it before her breakfast, and her answer will tell me off for it by mine. I look forward to that more than is decent.
+    - And the bats thinned. The next letter can say so truthfully. Flown? Good. She will have it before her breakfast, and her answer will tell me off for it by mine. I look forward to that more than is decent.
     - And Nana's message? Supper, softness and Bastian. Yes. All three, every time. She is right about all three, which is why I take the long way round her bench.
     - Thank you, *Player*. If the queen's answer has a good part, I will read it at the next Table, and I will say who carried the letter.

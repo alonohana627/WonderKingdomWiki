@@ -18,6 +18,7 @@
 1. Look at the light through the Old Fellings in [The Old Fellings](../maps/old_fellings.md)
 2. Look at the light at the Rim in [The Rim](../maps/the_rim.md)
 3. Defeat 80 [Glimshade](../monsters/glimshade.md)
+4. Bring 15 [Glim Shard](../items/glim_shard.md) (taken)
 
 ## Rewards
 
@@ -30,9 +31,9 @@
 
     - The newest marks lie under the headland. No ship can check them. But the wood above can.
     - At night a pale light comes up through the trees in the Holm Wood. The woodcutters stopped going in last year. Check my marks for me: look at **the light through the Old Fellings** and **the light at the Rim**, and tell me where it's strongest. The shades walk where the light falls. Clear **80** of the glimshades that carry it.
-    - Poppy will want to draw them as you tell me. She's been here every morning since the drawer opened.
+    - Poppy will want to draw them as you tell me. She's been here every morning since the drawer opened. And **15 [Glim Shard](../items/glim_shard.md)s**; their light shows up the marks.
     - Strongest where? That's what the chart needs.
     - Another time, then.
-    - Look at the light through the Old Fellings and at the Rim, and clear eighty glimshades.
+    - Look at the light through the Old Fellings and at the Rim, and clear eighty glimshades. And **15 [Glim Shard](../items/glim_shard.md)s**; their light shows up the marks.
     - Strongest at the Rim. Over the sea-hole. Poppy, the new mark goes there. Very small, like I showed you.
     - There's a sea-hole in the wood's heart, joined to the Drop under the headland. That's where it rises. Not out past the headland any more. Here. Under us.

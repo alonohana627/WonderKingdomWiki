@@ -15,7 +15,9 @@
 
 ## Objectives
 
-- Clear [The Bootbreaker](../bosses/bootbreaker.md)
+1. Defeat 30 [Ironback Crab](../monsters/ironback_crab.md) in [The Pinch](../maps/the_pinch.md)
+2. Bring 10 [Ironback Claw](../items/ironback_claw.md) (taken)
+3. Clear [The Bootbreaker](../bosses/bootbreaker.md)
 
 ## Rewards
 
@@ -29,9 +31,9 @@
 
     - Kit saw it. A shell bigger than his grandfather's workbench, moving in the Pinch. So that's where the bootcrabs come from. It moults in the lock, and its young go down the Cut to the sea.
     - Tristram calls it the Bootbreaker. Bree calls it something about Hesketh that I won't repeat.
-    - Go up to **the Pinch** and put **the Bootbreaker** down. The old lock post at the end of the towpath will let you down into the lock. Watch the floor: when it slams, the stones crack.
+    - Go up to **the Pinch** and put **the Bootbreaker** down. The old lock post at the end of the towpath will let you down into the lock. Watch the floor: when it slams, the stones crack. Before the lock: clear **30 [Ironback Crab](../monsters/ironback_crab.md)s** at the Pinch and bring **10 [Ironback Claw](../items/ironback_claw.md)s**, so we know what its brood is made of.
     - Count the exits. Then don't need them.
     - Another time, then.
-    - Defeat the Bootbreaker in the Pinch Lock. The lock post on the Pinch's towpath lets you down.
+    - Before the lock: clear **30 [Ironback Crab](../monsters/ironback_crab.md)s** at the Pinch and bring **10 [Ironback Claw](../items/ironback_claw.md)s**, so we know what its brood is made of. Defeat the Bootbreaker in the Pinch Lock. The lock post on the Pinch's towpath lets you down.
     - You did it. The Bootbreaker. Tristram owes me a drink; he said it would take three of us.
     - The bootcrabs will thin out now there's nothing moulting in the Pinch. For a while. Bree's going to want that claw.

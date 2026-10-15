@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Patch](../npcs/patch.md) |
 | Level | 16 |
+| After | [Eyes by the Stackyards](../quests/dagny_eyes_by_the_stackyards.md) |
+| Leads to | [The Wool Carts](../quests/torvi_the_wool_carts.md) |
 
 ## Objectives
 
@@ -18,7 +20,7 @@
 
 ## Rewards
 
-- 3,470 EXP
+- 4,340 EXP
 - 1,550 mesos
 - +40 standing with [Patch](../npcs/patch.md)
 - +10 standing with Urbanograd

@@ -36,11 +36,11 @@
 | [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 0.35% | 1 |
 | [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) | 0.35% | 1 |
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 0.35% | 1 |
-| [Gladius](../items/gladius.md) | 0.08% | 1 |
-| [Forked Spear](../items/forked_spear.md) | 0.08% | 1 |
-| [Silver Master Sergeant Kilt](../items/silver_master_sergeant_kilt.md) | 0.08% | 1 |
-| [Emerald Battle Greaves](../items/emerald_battle_greaves.md) | 0.08% | 1 |
-| [Cross Shield](../items/cross_shield.md) | 0.08% | 1 |
+| [Traus](../items/traus.md) | 0.08% | 1 |
+| [Zeco](../items/zeco.md) | 0.08% | 1 |
+| [Black Jangoon Pants](../items/black_jangoon_pants.md) | 0.08% | 1 |
+| [Blue Jangoon Shoes](../items/blue_jangoon_shoes.md) | 0.08% | 1 |
+| [Steel Tower Shield](../items/steel_tower_shield.md) | 0.08% | 1 |
 | [Gloomfur Sample](../items/gloomfur_sample.md) | 40% | 1 |
 
 ## Quests

@@ -17,6 +17,7 @@
 
 1. Defeat 60 [Hookshade](../monsters/hookshade.md) in [The Cliff Edge](../maps/cliff_edge.md)
 2. Bring 1 [Broken Keel Timber](../items/broken_keel_timber.md)
+3. Bring 15 [Shade Hook](../items/shade_hook.md) (taken)
 
 ## Rewards
 
@@ -29,9 +30,9 @@
 
     - That mark on Ambrose's chart, the one just off the shelf. That's mine. The Saltlark's. Morwenna had the wheel. Something brushed the keel from bow to stern, slow, on a still night. Every soul aboard felt it.
     - I turned for home and gave Ambrose the mark next morning. Morwenna's not told her mother or her boy. I've not pressed her.
-    - From the Cliff Edge in the Holm Wood you look straight down on that water. Things wash into the cliff foot there. Clear **60** of those shades from **the Cliff Edge** and look for **a [Broken Keel Timber](../items/broken_keel_timber.md)**. If anything came off a hull, it ends up there.
+    - From the Cliff Edge in the Holm Wood you look straight down on that water. Things wash into the cliff foot there. Clear **60** of those shades from **the Cliff Edge** and look for **a [Broken Keel Timber](../items/broken_keel_timber.md)**. If anything came off a hull, it ends up there. And **15 [Shade Hook](../items/shade_hook.md)s** for my log.
     - Left boot first. Never on deck.
     - Another time, then.
-    - Clear sixty hookshades from the Cliff Edge, and find a broken length of keel timber.
+    - Clear sixty hookshades from the Cliff Edge, and find a broken length of keel timber. And **15 [Shade Hook](../items/shade_hook.md)s** for my log.
     - A length of keel. Scored. And look: round marks, each ringed with fine scratches, the same as Halloran's pilings.
     - Something took hold of a ship and let go. Morwenna will want to see this. And Seraphine. Barnaby's been telling the Salt and Bread about eyes for a year; take it to him first, he's earned it.

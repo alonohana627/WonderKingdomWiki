@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Halcy](../npcs/halcy_child.md) |
 | Level | 14 |
+| After | [Water for a Secret](../quests/linnet_seedling_water.md) |
+| Leads to | [Counting Glimmerwings](../quests/juniper_glimmerwing_count.md) |
 
 ## Objectives
 
@@ -33,3 +35,4 @@
     - The Bloomwood's southern stretch. The high ledge.
     - Oh. Yes. That's the one.
     - Here. I wove you a garland. No, take it. It's yours.
+    - Juniper is counting glimmerwings again. She'll want somebody with a sword who knows the Bloomwood.

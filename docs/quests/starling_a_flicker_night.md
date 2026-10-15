@@ -2,7 +2,7 @@
 
 # A Flicker Night
 
-*The new lens is in, and Starling thinks tonight is a flicker night. Borrow Perch's list of refused routes and watch the eastern horizon from Starling's roof.*
+*The new lens is in, and Starling thinks tonight is a flicker night. Borrow Perch's list of refused routes and bring twenty duskhawk feathers to write the dates with, then watch the eastern horizon from Starling's roof.*
 
 |  |  |
 |---|---|
@@ -11,30 +11,31 @@
 | Given by | [Starling](../npcs/starling.md) |
 | Level | 55 |
 | After | [The Newest Lens](../quests/tinsel_the_newest_lens.md) |
-| Leads to | [The Lower Beacon](../quests/starling_the_lower_beacon.md) |
+| Leads to | [Clear the Lower Downs](../quests/torvi_clear_the_lower_downs.md) |
 
 ## Objectives
 
 - Talk to [Perch](../npcs/perch.md)
+- Bring 20 [Duskhawk Feather](../items/duskhawk_feather.md) (taken)
 
 ## Rewards
 
-- 17,210 EXP
-- 3,300 mesos
+- 86,850 EXP
+- 8,190 mesos
 - +60 standing with [Starling](../npcs/starling.md)
 - +20 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - *Player*! The lens, Tinsel's new lens, it is in, and it is perfect. There is a tiny bubble at the very edge that makes the moon wear a hat, but it is perfect. And tonight, I think, tonight is a flicker night.
-    - I can feel it. No, I cannot feel it, that is nonsense. I have been counting the gaps between them, and tonight is due. Roughly. Possibly.
-    - Before it gets dark, go up to [Perch](../npcs/perch.md) and borrow the route list. Perch and I put my dates beside the refusals, and I want both on the roof tonight. Then come back and watch with me.
-    - Ask Perch for the copy in the blue ribbon, not the one the cat sat on.
+    - I can feel it. No, I cannot feel it, that is nonsense. I have been counting the gaps between them, and tonight is due. Roughly. Possibly. Soon, anyway.
+    - Go up to [Perch](../npcs/perch.md) and borrow the route list. Perch and I put my dates beside the refusals, and I want both on the roof. And bring me **20 [Duskhawk Feather](../items/duskhawk_feather.md)s** from the downs: the cat chewed my quills, and nothing else holds ink on a wet roof. Then come back and watch with me.
+    - Ask Perch for the copy in the blue ribbon, not the one the cat sat on. Feathers from the [Lower Downs](../maps/lower_downs.md) are best, long ones.
     - Oh. Well, the sky will still be up there. It is very reliable that way.
-    - The route list from [Perch](../npcs/perch.md), *Player*, then back to my roof. It will be dark soon. Up here it is always dark soon.
+    - The route list from [Perch](../npcs/perch.md) and **20 [Duskhawk Feather](../items/duskhawk_feather.md)s**, *Player*, then back to my roof. You have (how many you carry). Up here it is always dark soon.
     - Starling wants the list again. Of course. Here, the one in the blue ribbon. Every route the birds refused, with the date and the hour.
     - Some of Starling's dates sit right on top of mine, *Player*. Some do not. We have sat up there with both lists and a pot of tea and not been one bit wiser. Tell Starling I will come up once the birds are in.
-    - Good, put it there, under the teapot, so it does not blow away. Now: look. Not through the telescope yet. Just look. East, toward the middle of the island, low, where the land meets the sky.
+    - Good, put it there, under the teapot, so it does not blow away. And feathers, good, I will cut them tonight. Now: look. Not through the telescope yet. Just look. East, toward the middle of the island, low, where the land meets the sky.
     - Wait... wait... There. Did you see it? The horizon, wavering, like the air over Ladle's grill. A few breaths, and gone. That is a flicker. I have watched them for two years, and they never look like more than that.
     - Perch's list says the birds refused the dusk route east the night before last, and tonight. But not last week, when I had a flicker too. So: some match, and some do not. That is all I know. That is all anybody knows.
     - Stay a while, if you like. There is tea, and the Fiddle is coming up over the Great Hall. I call the stars by the Walkers' names. It seems right, on a roof they patched.

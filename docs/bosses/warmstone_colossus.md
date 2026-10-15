@@ -15,7 +15,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 45 | 63,938 | 28,461 | 212 | 360 / 360 |
+| 45 | 63,938 | 999 | 212 | 360 / 360 |
 
 First clear: +60 standing with Urbanograd
 
@@ -31,16 +31,36 @@ Attacks:
 
 **1. The Quarry Wakes** (from the start)
 
-**2. Stone Calls Stone** (below 60% HP): Announces "THE COLOSSUS CALLS THE DARKSTONE GOLEMS!"; summons 3 [Darkstone Golem](../monsters/darkstone_golem.md) every 30 s.
+**2. Stone Calls Stone** (below 65% HP): Announces "THE COLOSSUS CALLS THE DARKSTONE GOLEMS!"; summons 3 [Darkstone Golem](../monsters/darkstone_golem.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 339 | 3 s |
 | Area | Physical | 276 | 6 s |
 
-**3. The Shell Splits** (below 25% HP): Announces "THE COLOSSUS'S SHELL SPLITS!"; moves faster.
+**3. The Shell Splits** (below 30% HP): Announces "THE COLOSSUS'S SHELL SPLITS!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 382 | 2.4 s |
 | Projectile | Physical | 254 | 4 s |
+
+## Hard
+
+*Defeat The Warmstone Colossus on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 48 | 63,938 | 999 | 212 | 360 / 360 |
+
+First clear: +100 standing with Urbanograd
+
+Every clear: +15 standing with Urbanograd
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 339 | 3.2 s |
+
+### Phases

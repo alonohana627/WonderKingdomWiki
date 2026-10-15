@@ -66,5 +66,6 @@
 
 ## Quests
 
+- [Not All of It](../quests/ailsa_not_all_of_it.md)
 - [Marks Where the Boats Cannot Go](../quests/ailsa_the_marks.md)
 - [Under the Jaw](../quests/iska_under_the_jaw.md)

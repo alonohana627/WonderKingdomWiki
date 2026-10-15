@@ -9,7 +9,7 @@
 | Town | [Kaldemor](../towns/kaldemor.md) |
 | Where | [Mushroom Park](../maps/kaldemor_park.md) |
 | Story | [Quill in the lore](../lore/people/kaldemor/quill.md) |
-| Services | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md) |
+| Services | Run: [Kaldemor Gauntlet](../runs/kaldemor_gauntlet.md), Quests |
 
 > Chin up, *Player*. Eyes front.
 
@@ -18,6 +18,10 @@
 - "Footwork wins more fights than muscle."
 - "Again! Once more, from the top!"
 - "A course does not care how brave you feel."
+
+## Quests
+
+- [Quill's Test](../quests/quills_test.md) (gives)
 
 ??? quote "Dialogue"
 

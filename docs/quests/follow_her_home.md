@@ -2,7 +2,7 @@
 
 # Follow Her Home
 
-*Ranger Hale has noticed Meg ranging past the far end of the Deepwood. He asks you to follow her quietly, past Breezy Hollow to the old road beyond, and make sure she comes home.*
+*Ranger Hale has noticed Meg ranging past the far end of the Deepwood. He asks you to follow her quietly, past Breezy Hollow to the old road beyond, and make sure she comes home. Capguards stand across the road: clear 30 of them.*
 
 |  |  |
 |---|---|
@@ -17,6 +17,7 @@
 ## Objectives
 
 - Reach [The Keep Road](../maps/keep_road.md)
+- Defeat 30 [Capguard](../monsters/capguard.md)
 
 ## Rewards
 

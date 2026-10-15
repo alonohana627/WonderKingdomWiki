@@ -10,7 +10,7 @@
 | Category | Story |
 | Given by | [Kestrel](../npcs/kestrel_adventurer.md) |
 | Level | 30 |
-| After | [The Blightstone](../quests/the_blightstone.md) |
+| After | [The Beds Stay Whole](../quests/merrow_beds_stay_whole.md) |
 | Leads to | [Kestrel's Report](../quests/kestrels_report.md), [Shore and Oak Patrol](../quests/kestrel_shore_bounty.md), [The Touched of the Oak](../quests/seren_touched_oak.md), [A Spring Basket](../quests/calyra_brenna_spring.md), [A Song Nobody Asks For](../quests/lyra_unrequested_song.md), [The Truer Letter](../quests/siora_true_letter.md), [A Quarrel Before It Reaches the Council](../quests/briony_two_families.md), [True or Not?](../quests/sefa_true_or_not.md) |
 
 ## Objectives

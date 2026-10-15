@@ -2,7 +2,7 @@
 
 # What Bravery Costs
 
-*Zip has heard that Torvi once said bravery was wasted on her, and she wants to know if Torvi still thinks so. She will not ask herself. Ask Torvi for her.*
+*Zip has heard that Torvi once said bravery was wasted on her, and she wants to know if Torvi still thinks so. She will not ask herself. Ask Torvi for her. Zip also asks you to clear 30 gloomeyes from the Outer Ditch, so she can practise running on safe grass.*
 
 |  |  |
 |---|---|
@@ -14,11 +14,12 @@
 ## Objectives
 
 - Talk to [Torvi Brask](../npcs/torvi_brask.md)
+- Defeat 30 [Gloomeye](../monsters/gloomeye.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,500 EXP
-- 1,560 mesos
+- 8,190 EXP
+- 3,120 mesos
 - +40 standing with [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
 - +10 standing with Urbanograd
 
@@ -26,13 +27,13 @@
 
     - Can I ask you something? Not a dare. A real thing. When I was lying on that rock with my arm the wrong shape, Torvi laughed and said bravery was wasted on someone who could not fight.
     - I have been training every morning for a year. Footwork. Guard. I can do a hundred blocks without dropping the sword. I want to know if Torvi still thinks it. But if I ask, Torvi will laugh, and I will do something stupid to prove a point.
-    - Will you ask [Torvi Brask](../npcs/torvi_brask.md) for me? Just ask if it is still wasted. And do not say I asked. Say you were wondering. Everybody wonders about me.
-    - Thank you! Torvi is on the training ground, or wherever the loudest laugh is. Same place, usually.
+    - Will you ask [Torvi Brask](../npcs/torvi_brask.md) for me? Just ask if it is still wasted. And do not say I asked. Say you were wondering. Everybody wonders about me. And then clear **30 [Gloomeye](../monsters/gloomeye.md)s** out of the Outer Ditch for me, so that when I do start running, the grass out there is safe. I want to practise where I can see the wall.
+    - Thank you! Torvi is on the training ground, or wherever the loudest laugh is. Same place, usually. The Outer Ditch, past the gate. Thank you. Really.
     - No, fair. It is a silly question. I will just do another hundred blocks.
-    - Ask [Torvi Brask](../npcs/torvi_brask.md) if bravery is still wasted on me. You were wondering. Not me. You.
+    - Ask [Torvi Brask](../npcs/torvi_brask.md) if bravery is still wasted on me. You were wondering. Not me. You. Ask [Torvi Brask](../npcs/torvi_brask.md) if bravery is still wasted on me, and **30 [Gloomeye](../monsters/gloomeye.md)s** in the Outer Ditch, *Player*.
     - Ha! She sent you. Do not look like that; nobody wonders about that by accident. Sit. I will tell you, and you can carry it back.
     - It is not wasted now. She can fight. Not well, but honestly, which is the part you cannot teach. What she cannot do yet is run. Bravery that cannot run is not bravery, it is a bill. Someone pays it. Last time it was her arm.
     - Tell her that. And tell her the hundred blocks were good. I watched. I always watch. Do not tell her that part.
-    - Not wasted? Torvi said not wasted? Ha! HA! I knew it. I mean, I hoped it. Same thing.
+    - And the grass is safe now, too! Not wasted? Torvi said not wasted? Ha! HA! I knew it. I mean, I hoped it. Same thing.
     - Bravery that cannot run is a bill. Hm. That is annoyingly good. I am going to put it on my wall. In large letters. And then argue with it every morning.
     - Thank you, *Player*. When they write the song about me, there will be a verse about you. A short one. But a verse.

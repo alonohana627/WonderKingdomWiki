@@ -41,6 +41,10 @@
 
 ## Quests
 
+- [Kite Laid Up](../quests/kite_laid_up.md)
+- [The Crest Relay](../quests/kite_the_crest_relay.md)
+- [The Ridge Relay](../quests/kite_the_ridge_relay.md)
 - [The Beacon Ruins](../quests/lux_the_beacon_ruins.md)
+- [The Beacon Watch](../quests/lux_the_beacon_watch.md)
 - [The All-Hours Route](../quests/perch_the_all_hours_route.md)
 - [Torvi's Bounty: the Downs](../quests/torvi_downs_bounty.md)

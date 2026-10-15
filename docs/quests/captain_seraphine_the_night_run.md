@@ -15,8 +15,10 @@
 
 ## Objectives
 
-1. Talk to [Keziah](../npcs/keziah.md)
-2. Clear [The Bright Morrow's Night Run](../runs/the_night_run.md)
+1. Bring 15 [Spitter Gland](../items/spitter_gland.md) (taken)
+2. Talk to [Keziah](../npcs/keziah.md)
+3. Clear [The Bright Morrow's Night Run](../runs/the_night_run.md)
+4. Defeat 40 [Sawbill](../monsters/sawbill.md) in [The Sea Locks](../maps/sea_locks.md)
 
 ## Rewards
 
@@ -30,10 +32,10 @@
 
     - The Morrow has a night run, past the headland and back before dawn. Fast cargo, good money, and lately the sawbills come over the rail in the dark.
     - Keziah's sailed every run with me since spring. But she came to me this morning and asked to sit this one out. First time. She wouldn't say why. I didn't ask.
-    - Talk to **Keziah**, then come back and tell me you'll sail in her place. Then **sail the night run**: talk to me again when you're ready to climb aboard.
+    - Talk to **Keziah**, then come back and tell me you'll sail in her place. Then **sail the night run**: talk to me again when you're ready to climb aboard. The deck needs proofing against their spit: bring **15 [Spitter Gland](../items/spitter_gland.md)s** from the spitting sawbills before we sail. After, clear **40 [Sawbill](../monsters/sawbill.md)s** at the Sea Locks, so the Bright Morrow can come home that way.
     - Mind the third plank. It squeaks.
     - Another time, then.
-    - Talk to Keziah, then sail the Bright Morrow's night run (talk to Seraphine to board).
+    - The deck needs proofing against their spit: bring **15 [Spitter Gland](../items/spitter_gland.md)s** from the spitting sawbills before we sail. Talk to Keziah, then sail the Bright Morrow's night run (talk to Seraphine to board). After, clear **40 [Sawbill](../monsters/sawbill.md)s** at the Sea Locks, so the Bright Morrow can come home that way.
     - Not a sawbill on the mainsail, and Barnaby says you fought like a bosun. He'll be telling it at the Salt and Bread for a week, bigger every time.
     - And here. A plank off the deck, scored by their teeth. Alwyn will want to see it. Thank you for sailing in Keziah's place. Whatever her reason is, it's hers.
     - Seraphine sent you? Good. I mean... yes. I can't do the night run. I have a... prior engagement.

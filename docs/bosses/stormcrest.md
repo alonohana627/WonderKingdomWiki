@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 70 | 175,755 | 105,696 | 325 | 560 / 560 |
+| 70 | 175,755 | 2,937 | 325 | 560 / 560 |
 
 First clear: +60 standing with Urbanograd
 
@@ -32,16 +32,36 @@ Attacks:
 
 **1. Wings Over the Beacon** (from the start)
 
-**2. The Duskhawks Gather** (below 60% HP): Announces "STORMCREST CALLS THE DUSKHAWKS!"; summons 3 [Duskhawk](../monsters/duskhawk.md) every 30 s.
+**2. The Duskhawks Gather** (below 65% HP): Announces "STORMCREST CALLS THE DUSKHAWKS!"; summons 3 [Duskhawk](../monsters/duskhawk.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 520 | 3 s |
 | Area | Physical | 422 | 6 s |
 
-**3. Feather Storm** (below 25% HP): Announces "STORMCREST RAISES A FEATHER STORM!"; moves faster.
+**3. Feather Storm** (below 30% HP): Announces "STORMCREST RAISES A FEATHER STORM!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 585 | 2.4 s |
 | Projectile | Physical | 390 | 4 s |
+
+## Hard
+
+*Defeat Stormcrest on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 73 | 175,755 | 2,937 | 325 | 560 / 560 |
+
+First clear: +100 standing with Urbanograd
+
+Every clear: +15 standing with Urbanograd
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 520 | 3.2 s |
+
+### Phases

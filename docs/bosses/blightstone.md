@@ -16,34 +16,26 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 30 | 30,098 | 12,530 | 139 | 300 / 300 |
+| 30 | 26,658 | 12,530 | 139 | 180 / 180 |
 
 First clear: [Mossleaf Shield](../items/mossleaf_shield.md) x1, +60 standing with Fairy Forest
-
-Attacks:
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 171 | 5.2 s |
 
 ### Phases
 
 **1. The Stone Stirs** (from the start)
 
-**2. Bitter Sap** (below 65% HP): Announces "The Blightstone spits bitter sap!"; summons 2 [Firefly Slime](../monsters/firefly_slime.md) every 30 s.
+**2. Bitter Ground** (below 65% HP): Announces "The Blightstone raises its fists!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 171 | 5.2 s |
-| Projectile | Magic | 139 | 4.2 s |
 
-**3. The Stone Cracks** (below 30% HP): Announces "The Blightstone cracks open!"; moves faster; summons 2 [Shimmer Slime](../monsters/fairy_slime.md) every 30 s.
+**3. The Stone Cracks** (below 30% HP): Announces "The Blightstone cracks open!"; moves faster; summons 2 [Shimmer Slime](../monsters/fairy_slime.md) every 25 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 182 | 5.2 s |
-| Projectile | Magic | 150 | 4.2 s |
-| Area | Physical | 160 | 8 s |
+| Area | Physical | 171 | 3.8 s |
+| Projectile | Magic | 139 | 4.2 s |
 
 ### Drops
 
@@ -65,40 +57,28 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 33 | 69,225 | 23,807 | 174 | 318 / 318 |
+| 33 | 26,658 | 12,530 | 139 | 180 / 180 |
 
 First clear: +100 standing with Fairy Forest
-
-Attacks:
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 171 | 5.2 s |
 
 ### Phases
 
 **1. The Stone Stirs** (from the start)
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 199 | 5.2 s |
-| Projectile | Magic | 164 | 4.2 s |
-
-**2. Bitter Sap** (below 65% HP): Announces "The Blightstone spits bitter sap!"; moves faster; summons 2 [Water Sprite](../monsters/water_sprite.md) every 30 s.
+**2. Bitter Ground** (below 65% HP): Announces "The Blightstone raises its fists!".
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 199 | 5.2 s |
-| Projectile | Magic | 176 | 4.2 s |
-| Area | Physical | 164 | 8 s |
+| Area | Physical | 171 | 5.2 s |
+| Projectile | Magic | 139 | 4.2 s |
 
-**3. The Stone Cracks** (below 30% HP): Announces "The Blightstone cracks open!"; moves faster; summons 2 [Forest Sprite](../monsters/forest_sprite.md) every 30 s.
+**3. The Stone Cracks** (below 30% HP): Announces "The Blightstone cracks open!"; moves faster; summons 2 [Water Sprite](../monsters/water_sprite.md) every 22 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 222 | 5.2 s |
-| Projectile | Magic | 187 | 4.2 s |
-| Area | Physical | 199 | 8 s |
+| Area | Physical | 171 | 3.6 s |
+| Projectile | Magic | 139 | 3.4 s |
+| Area | Physical | 160 | 8 s |
 
 ### Drops
 

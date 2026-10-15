@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 50 | 86,333 | 38,898 | 235 | 400 / 400 |
+| 50 | 86,333 | 1,297 | 235 | 400 / 400 |
 
 First clear: +60 standing with Urbanograd
 
@@ -32,16 +32,36 @@ Attacks:
 
 **1. The Wallow Stirs** (from the start)
 
-**2. The Herd Comes** (below 60% HP): Announces "HACKLEBACK CALLS THE BRISTLE BOARS!"; summons 3 [Bristle Boar](../monsters/bristle_boar.md) every 30 s.
+**2. The Herd Comes** (below 65% HP): Announces "HACKLEBACK CALLS THE BRISTLE BOARS!"; summons 3 [Bristle Boar](../monsters/bristle_boar.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 376 | 3 s |
 | Area | Physical | 306 | 6 s |
 
-**3. Iron Hide** (below 25% HP): Announces "HACKLEBACK'S HIDE HARDENS!"; moves faster.
+**3. Iron Hide** (below 30% HP): Announces "HACKLEBACK'S HIDE HARDENS!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 423 | 2.4 s |
 | Projectile | Physical | 282 | 4 s |
+
+## Hard
+
+*Defeat Hackleback on Normal first.*
+
+| Level | HP | EXP | Touch damage | Defense |
+|---|---|---|---|---|
+| 53 | 86,333 | 1,297 | 235 | 400 / 400 |
+
+First clear: +100 standing with Urbanograd
+
+Every clear: +15 standing with Urbanograd
+
+Attacks:
+
+| Kind | Type | Damage | Cooldown |
+|---|---|---|---|
+| Area | Physical | 376 | 3.2 s |
+
+### Phases

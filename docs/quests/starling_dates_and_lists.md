@@ -2,7 +2,7 @@
 
 # Dates and Lists
 
-*Starling's flicker dates and Perch's list of refused routes go to Rook, who writes to Queen Aveline every fortnight. Perhaps somebody in Selsior knows what they mean.*
+*Starling's flicker dates and Perch's list of refused routes go to Rook, who writes to Queen Aveline every fortnight, with twenty Downs Howler Pelts for a satchel lining. Perhaps somebody in Selsior knows what they mean.*
 
 |  |  |
 |---|---|
@@ -17,21 +17,22 @@
 
 - Deliver 1 [Starling's Dates](../items/starlings_dates.md)
 - Deliver 1 [Perch's List](../items/perchs_list.md)
+- Bring 20 [Downs Howler Pelt](../items/wolf_pelt.md) (taken)
 
 ## Rewards
 
-- 61,860 EXP
-- 8,040 mesos
+- 159,110 EXP
+- 14,740 mesos
 - +70 standing with [Starling](../npcs/starling.md)
 - +30 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - Perch's birds fly east again, some of them. And still I see the flicker some nights, and still neither of us knows what it is. I have stared at the same two lists so long I can see them with my eyes shut.
-    - So Perch and I agreed, for once, over a whole pot of tea. Take [Starling's Dates](../items/starlings_dates.md) and [Perch's List](../items/perchs_list.md) to [Rook](../npcs/rook_tallow.md) at the Great Hall. Rook writes to the Queen every fortnight. Perhaps somebody in Selsior knows what we do not.
+    - So Perch and I agreed, for once, over a whole pot of tea. Take [Starling's Dates](../items/starlings_dates.md) and [Perch's List](../items/perchs_list.md) to [Rook](../npcs/rook_tallow.md) at the Great Hall. Rook writes to the Queen every fortnight. And bring **20 [Downs Howler Pelt](../items/wolf_pelt.md)s** for Rook's satchel: the damp gets into everything, and a howler's hide keeps out damp and cats. Perhaps somebody in Selsior knows what we do not.
     - Tell Rook not to read them aloud at the Table. They are not funny. Well, the bit where the cat sat on the list is funny. Rook may read that bit.
     - Mm. One more year of watching, then. I am good at watching.
-    - My dates and Perch's list, to [Rook](../npcs/rook_tallow.md) at the Great Hall, *Player*.
+    - My dates and Perch's list, and **20 [Downs Howler Pelt](../items/wolf_pelt.md)s** for the satchel, to [Rook](../npcs/rook_tallow.md) at the Great Hall, *Player*. You have (how many you carry).
     - Starling's dates and Perch's list. I wondered when those two would stop squinting at each other's papers and send them somewhere.
-    - Into the next letter to Queen Aveline, then. The capital writes back to me about all sorts; it can write back about this too, if anybody at court knows what it means.
+    - Into the next letter to Queen Aveline, then. And good thick pelts for the satchel; it will smell of howler until the courier gets used to it. The capital writes back to me about all sorts; it can write back about this too, if anybody at court knows what it means.
     - I will not pretend an answer will come quickly, *Player*. Letters are slow and courts are slower. But it goes in the next one, with a line saying the city is grateful to the people who carried it.

@@ -36,6 +36,11 @@
 | [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 0.35% | 1 |
 | [Scroll for Bottomwear for DEF 60%](../items/scroll_bottomwear_def.md) | 0.35% | 1 |
 | [Scroll for Shield for DEF 60%](../items/scroll_shield_def.md) | 0.35% | 1 |
+| [Neocora](../items/neocora.md) | 0.05% | 1 |
+| [Holy Spear](../items/holy_spear.md) | 0.05% | 1 |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 0.05% | 1 |
+| [Black Camel Boots](../items/black_camel_boots.md) | 0.05% | 1 |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 0.05% | 1 |
 | [Howlet Earrings](../items/howlet_earrings.md) | 0.12% | 1 |
 
 ## Quests

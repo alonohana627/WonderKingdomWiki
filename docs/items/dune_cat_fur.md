@@ -12,3 +12,8 @@
 ## How to get
 
 - Dropped by [Dune Cat](../monsters/dune_cat.md) (50%)
+
+## Used for
+
+- [A Letter to Marram Cove](../quests/brisa_letter_to_marram_cove.md) (bring 10)
+- [The Drying Racks](../quests/cobb_drying_racks.md) (bring 15)

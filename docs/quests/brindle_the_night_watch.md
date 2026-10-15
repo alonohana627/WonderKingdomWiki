@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Brindle](../npcs/brindle.md) |
 | Level | 20 |
+| After | [Axes on the Descent](../quests/torvi_the_axe_stumps.md) |
 | Leads to | [Morning Prints](../quests/dagny_morning_prints.md) |
 
 ## Objectives

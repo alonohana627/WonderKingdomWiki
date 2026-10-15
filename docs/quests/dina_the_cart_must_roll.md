@@ -2,7 +2,7 @@
 
 # The Cart Must Roll
 
-*Dina knows about the cracked wheel Hambone has been hiding since spring. Tell Hambone, gently, that the cart must roll on Walkout Day, and find out what he means to do.*
+*Dina knows about the cracked wheel Hambone has been hiding since spring. Tell Hambone, gently, that the cart must roll on Walkout Day, and find out what he means to do. Dina also needs 35 boar bristles for new brooms to sweep the square before the cart.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 35 [Boar Bristle](../items/boar_bristle.md) (taken)
 - Talk to [Hambone](../npcs/hambone.md)
 
 ## Rewards
 
-- 3,920 EXP
-- 2,160 mesos
+- 32,360 EXP
+- 7,760 mesos
 - +60 standing with [Dina Finch](../npcs/orla_finch.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Hambone thinks I do not know about the wheel. The left rear, bound in wire since spring. Hambone is the worst liar in the Old Barracks, and the Old Barracks is full of actors.
     - He has his seasoned wood now, thanks to you. Good. But wood in a shed is not a wheel on a cart, and Walkout Day does not wait for anybody's feelings.
-    - Go and tell [Hambone](../npcs/hambone.md) from me: the cart must roll. The whole way round the square, with Rue on it and Dex falling off it, three times. Ask him what he means to do. Gently. He cries at the second act every year.
-    - Gently, *Player*. I said gently. I am never gentle with him myself, so somebody has to be.
+    - Go and tell [Hambone](../npcs/hambone.md) from me: the cart must roll. The whole way round the square, with Rue on it and Dex falling off it, three times. Ask him what he means to do. Gently. He cries at the second act every year. And bristle. The troupe sweeps the square before the cart rolls, every Walkout Day, with brooms and with pride, and the brooms are bald. Bring me **35 [Boar Bristle](../items/boar_bristle.md)s** from the [Bristle Boar](../monsters/bristle_boar.md)s at [Bristlewood Edge](../maps/bristlewood_edge.md). Sweeping is the only dignified part of the day.
+    - Gently, *Player*. I said gently. I am never gentle with him myself, so somebody has to be. Bristle is stiff and brown and smells of boar. You will know it when you smell it.
     - Fine. I will tell him myself, and we will both shout, and Thimble will come out with a mouthful of pins and shout at us both.
-    - Tell [Hambone](../npcs/hambone.md), gently: the cart must roll. Then come back and tell me what he said.
+    - Tell [Hambone](../npcs/hambone.md), gently: the cart must roll. Then come back and tell me what he said. And **35 [Boar Bristle](../items/boar_bristle.md)s** for the brooms. You carry (how many you carry).
     - Dina knows? Of course she knows. I told her it was nothing. I told her it was a squeak. She said a squeak does not need wire. (Hambone polishes the wheel without looking at it.)
     - Tell her the new spokes are cut. I will fit them. But the rim, the old rim... Fenwick fitted that rim, and Fenwick had it from... I will think of something. Tell her it will roll. It will roll.
-    - 'It will roll.' He said that, did he? In that voice. The one that wobbles.
+    - Bristle. Good. The brooms will be the best in the Old Barracks. 'It will roll.' He said that, did he? In that voice. The one that wobbles.
     - Then it will roll. Hambone has never once let that cart down, whatever he tells himself. Thank you, *Player*. That is my last note for today. Possibly.

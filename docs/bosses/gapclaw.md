@@ -16,7 +16,7 @@
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 50 | 87,430 | 45,395 | 175 | 300 / 300 |
+| 50 | 124,900 | 51,880 | 175 | 300 / 300 |
 
 First clear: +80 standing with Goa Harbour
 
@@ -24,26 +24,20 @@ First clear: +80 standing with Goa Harbour
 
 **1. Four Claws** (from the start): moves faster.
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 228 | 2.4 s |
-| Area | Physical | 262 | 5 s |
-
-**2. On the Walls** (below 70% HP): Announces "THE GAPCLAW CLIMBS THE WALLS!"; moves faster.
+**2. On the Walls** (below 65% HP): Announces "THE GAPCLAW CLIMBS THE WALLS!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
 | Area | Physical | 385 | 6.5 s |
 | Melee | Physical | 228 | 2.4 s |
-| Area | Physical | 262 | 5 s |
 
 **3. The Surge** (below 30% HP): Announces "THE SEA SURGES UP THE TUNNEL!"; moves faster; summons 2 [Sea Newt](../monsters/sea_newt.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 385 | 6.5 s |
+| Area | Physical | 385 | 4.875 s |
+| Melee | Physical | 228 | 1.8 s |
 | Area | Physical | 262 | 5 s |
-| Melee | Physical | 228 | 2.4 s |
 
 ### Drops
 
@@ -79,7 +73,7 @@ First clear: +80 standing with Goa Harbour
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 54 | 188,216 | 109,690 | 192 | 324 / 324 |
+| 54 | 124,900 | 51,880 | 175 | 300 / 300 |
 
 First clear: +120 standing with Goa Harbour
 
@@ -87,51 +81,18 @@ First clear: +120 standing with Goa Harbour
 
 **1. Four Claws** (from the start): moves faster.
 
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 337 | 2.4 s |
-| Area | Physical | 389 | 5 s |
-
-**2. On the Walls** (below 70% HP): Announces "THE GAPCLAW CLIMBS THE WALLS!"; moves faster.
+**2. On the Walls** (below 65% HP): Announces "THE GAPCLAW CLIMBS THE WALLS!"; moves faster.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 570 | 6.5 s |
-| Melee | Physical | 337 | 2.4 s |
-| Area | Physical | 389 | 5 s |
+| Area | Physical | 422 | 6.5 s |
+| Melee | Physical | 250 | 2.4 s |
+| Area | Physical | 288 | 5 s |
 
 **3. The Surge** (below 30% HP): Announces "THE SEA SURGES UP THE TUNNEL!"; moves faster; summons 2 [Sea Newt](../monsters/sea_newt.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 570 | 6.5 s |
-| Area | Physical | 389 | 5 s |
-| Melee | Physical | 337 | 2.4 s |
-
-### Drops
-
-| Drop | Chance | Amount |
-|---|---|---|
-| Mesos | 100% | 2,500-3,600 |
-| [Gapclaw Talon](../items/gapclaw_talon.md) | 100% | 1 |
-| [Gapclaw Gauntlets](../items/gapclaw_gauntlets.md) | 15% | 1 |
-| [Cliff-Runner Boots](../items/cliff_runner_boots.md) | 20% | 1 |
-| [Elixir](../items/elixir.md) | 70% | 3-5 |
-| [Scroll for One-Handed Sword for ATT 60%](../items/scroll_one_handed_sword_att.md) | 20% | 1 |
-| [Scroll for Helmet for DEF 60%](../items/scroll_helmet_def.md) | 16% | 1 |
-| [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 16% | 1 |
-| [Scroll for Overall Armor for DEF 60%](../items/scroll_overall_def.md) | 12% | 1 |
-| [Scroll for Gloves for ATT 60%](../items/scroll_gloves_att.md) | 12% | 1 |
-| [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 12% | 1 |
-| [Jeweled Katar](../items/jeweled_katar.md) | 5% | 1 |
-| [Buck](../items/buck.md) | 5% | 1 |
-| [Lion's Fang](../items/lions_fang.md) | 5% | 1 |
-| [The Rising](../items/the_rising.md) | 5% | 1 |
-| [Serpent's Tongue](../items/serpents_tongue.md) | 5% | 1 |
-| [Bronze Crusader Helm](../items/bronze_crusader_helm.md) | 6% | 1 |
-| [Blue Shouldermail](../items/blue_shouldermail.md) | 6% | 1 |
-| [Blue Shouldermail Pants](../items/blue_shouldermail_pants.md) | 6% | 1 |
-| [Gold Hildon Boots](../items/gold_hildon_boots.md) | 6% | 1 |
-| [Gold Brist](../items/gold_brist.md) | 6% | 1 |
-| [Blue Magic Cape](../items/blue_magic_cape.md) | 6% | 1 |
-| [Skull Shield](../items/skull_shield.md) | 6% | 1 |
+| Area | Physical | 422 | 4.875 s |
+| Melee | Physical | 250 | 1.8 s |
+| Area | Physical | 288 | 3.75 s |

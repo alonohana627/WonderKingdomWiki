@@ -15,4 +15,5 @@
 
 ## Used for
 
+- [Carts on the Hill](../quests/garrow_carts_on_the_hill.md) (bring 10)
 - [Hooks for Merriwether](../quests/tully_a_boat_of_my_own.md) (bring 25)

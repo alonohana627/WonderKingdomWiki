@@ -73,7 +73,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 74 | 401,016 | 217,945 | 334 | 444 / 444 |
+| 74 | 181,536 | 102,795 | 316 | 420 / 420 |
 
 First clear: [Deep Lantern's Eye](../items/deep_lantern_eye.md) x1, +160 standing with Bain Harbour
 
@@ -85,29 +85,6 @@ Attacks:
 | Area | Physical | 348 | 7.4 s |
 
 ### Phases
-
-**1. The Lights Rise** (from the start): summons 2 [Whipshade](../monsters/whipshade.md) every 26 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 499 | 5.6 s |
-| Area | Physical | 423 | 7.4 s |
-
-**2. The Lights Go Out** (below 65% HP): Announces "The lights go out. Only its eyes remain."; moves faster; summons 3 [Glimshade](../monsters/glimshade.md) every 24 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 519 | 5.6 s |
-| Area | Physical | 442 | 7.4 s |
-| Area | Magic | 346 | 12 s |
-
-**3. The Arms Sweep** (below 30% HP): Announces "The Deep Lantern's arms sweep the rim!"; moves faster; summons 2 [Hookshade](../monsters/hookshade.md) every 26 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 557 | 5.6 s |
-| Area | Physical | 499 | 6.4 s |
-| Area | Magic | 384 | 12 s |
 
 ### Drops
 

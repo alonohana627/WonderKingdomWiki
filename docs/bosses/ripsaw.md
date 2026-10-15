@@ -72,7 +72,7 @@ Attacks:
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 53 | 155,578 | 97,305 | 240 | 318 / 318 |
+| 53 | 66,867 | 45,395 | 228 | 300 / 300 |
 
 First clear: +120 standing with Bain Harbour
 
@@ -84,28 +84,6 @@ Attacks:
 | Area | Physical | 251 | 6.2 s |
 
 ### Phases
-
-**1. The Shoal Gathers** (from the start): summons 3 [Sawbill Fry](../monsters/sawbill_fry.md) every 24 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 359 | 5 s |
-| Area | Physical | 304 | 6.2 s |
-
-**2. The Tide Turns** (below 60% HP): Announces "The tide turns in the Gullet!"; summons 2 [Sawbill](../monsters/sawbill.md) every 24 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 373 | 5 s |
-| Area | Physical | 331 | 6.2 s |
-
-**3. The Leaping Saw** (below 30% HP): Announces "The Ripsaw rears out over the towpath!"; summons 2 [Pale Sawbill](../monsters/pale_sawbill.md) every 28 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Melee | Physical | 386 | 5 s |
-| Area | Physical | 414 | 9 s |
-| Area | Physical | 345 | 6.2 s |
 
 ### Drops
 

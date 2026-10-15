@@ -41,10 +41,15 @@
 
 ## Quests
 
+- [A Letter Home](../quests/edgar_a_letter_home.md)
 - [Hatch's Bounty: the Bristlewood](../quests/hatch_bristlewood_bounty.md)
 - [Reading Tracks](../quests/hatch_reading_tracks.md)
+- [The Hunt at the Wallow](../quests/hatch_the_hunt_at_the_wallow.md)
 - [The Caravan Wounds](../quests/ivo_the_caravan_wounds.md)
 - [The Spark Lamp](../quests/margo_the_spark_lamp.md)
 - [Empty Corners](../quests/moth_empty_corners.md)
+- [A Wall for Figgy](../quests/ochre_a_wall_for_figgy.md)
 - [The Quiet Ones](../quests/rook_the_quiet_ones.md)
+- [The Thin Whistler](../quests/saffi_the_thin_whistler.md)
+- [The Tusk Path Toll](../quests/shade_the_tusk_path_toll.md)
 - [The Touched Boar](../quests/torvi_touched_boar.md)

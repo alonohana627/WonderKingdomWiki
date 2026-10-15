@@ -2,18 +2,21 @@
 
 # The Stretch at Dusk
 
-*Pell will not drive the cab past the Crossing after dark any more. Clear the Crossing so the evening run can go again: defeat 40 of its monsters.*
+*Pell will not drive the cab past the Crossing after dark any more. Clear the Crossing so the evening run can go again: defeat 40 of its monsters. Pell wants 15 Pig's Ribbons to tie on the cab's lamps.*
 
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Pell](../npcs/pell.md) |
 | Level | 8 |
+| After | [The Clock Stopped](../quests/the_clock_stopped.md) |
+| Leads to | [Notices for the Lanes](../quests/notices_for_the_lanes.md) |
 
 ## Objectives
 
 - Defeat 40 Monster on the Crossings in [The Crossing](../maps/the_crossing.md)
+- Bring 15 [Pig's Ribbon](../items/pigs_ribbon.md) (taken)
 
 ## Rewards
 

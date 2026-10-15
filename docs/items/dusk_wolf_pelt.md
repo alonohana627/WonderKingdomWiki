@@ -12,3 +12,9 @@
 ## How to get
 
 - Dropped by [Dusk Wolf](../monsters/dusk_wolf.md) (50%)
+
+## Used for
+
+- [The Outer Pier](../quests/halloran_the_outer_pier.md) (bring 10)
+- [Under the Pier](../quests/halloran_under_the_pier.md) (bring 20)
+- [Keeping the Light](../quests/ysolde_keeping_the_light.md) (bring 15)

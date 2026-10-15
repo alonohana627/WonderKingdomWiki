@@ -50,6 +50,7 @@
 ## Quests
 
 - [Three Nights Running](../quests/bethoc_three_nights.md)
+- [The Cub](../quests/caddoc_the_cub.md)
 - [Saving for a Bow](../quests/fionn_saving_for_a_bow.md)
 - [Clean Prints](../quests/kenna_clean_prints.md)
 - [Brave Company](../quests/teague_brave_company.md)

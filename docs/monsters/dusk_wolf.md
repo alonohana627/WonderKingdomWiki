@@ -46,6 +46,8 @@
 
 ## Quests
 
+- [The Outer Pier](../quests/halloran_the_outer_pier.md)
+- [The Council Hears It](../quests/harbour_master_quenna_the_council_hears_it.md)
 - [Watch Bounty: The Holm Wood](../quests/jowan_watch_bounty_holm_wood.md)
 - [A Touched Shade](../quests/tristram_touched_shade.md)
 - [Keeping the Light](../quests/ysolde_keeping_the_light.md)

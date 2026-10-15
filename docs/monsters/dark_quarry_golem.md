@@ -47,3 +47,15 @@
 | [Steel Missel](../items/steel_missel.md) | 0.08% | 1 |
 | [Red Adventurer Cape](../items/red_adventurer_cape.md) | 0.08% | 1 |
 | [Cross Shield](../items/cross_shield.md) | 0.08% | 1 |
+| [Neocora](../items/neocora.md) | 0.08% | 1 |
+| [Hawkhead](../items/hawkhead.md) | 0.08% | 1 |
+| [Sparta](../items/sparta.md) | 0.08% | 1 |
+| [The Shining](../items/the_shining.md) | 0.08% | 1 |
+| [Holy Spear](../items/holy_spear.md) | 0.08% | 1 |
+| [Red Crested Helmet](../items/red_crested_helmet.md) | 0.08% | 1 |
+| [Red Orientican](../items/red_orientican.md) | 0.08% | 1 |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 0.08% | 1 |
+| [Black Camel Boots](../items/black_camel_boots.md) | 0.08% | 1 |
+| [Dark Clench](../items/dark_clench.md) | 0.08% | 1 |
+| [Black Gaia Cape](../items/black_gaia_cape.md) | 0.08% | 1 |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 0.08% | 1 |

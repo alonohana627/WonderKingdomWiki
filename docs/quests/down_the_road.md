@@ -2,19 +2,22 @@
 
 # Down the Road
 
-*Mildred has a bundle of Tobin's letters for the capital, and the mail no longer goes as surely as it did. Walk the royal road to the Greenwood's far end, where it climbs toward Selsior, and clear 30 of the Greenwood's monsters on the way.*
+*Mildred has a bundle of Tobin's letters for the capital, and the mail no longer goes as surely as it did. Walk the royal road to the Greenwood's far end, where it climbs toward Selsior, and clear 30 of the Greenwood's monsters on the way. Bring Mildred 15 Green Mushroom Caps from the Greenwood for the carriers' toll book.*
 
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Mildred](../npcs/mildred.md) |
 | Level | 10 |
+| After | [Notices for the Lanes](../quests/notices_for_the_lanes.md) |
+| Leads to | [The Cart That Never Came](../quests/the_cart_that_never_came.md) |
 
 ## Objectives
 
 - Defeat 30 Monster in the Greenwoods in [The Greenwood](../maps/the_greenwood.md)
 - Reach the road toward Selsior in [The Greenwood](../maps/the_greenwood.md)
+- Bring 15 [Green Mushroom Cap](../items/green_mushroom_cap.md) (taken)
 
 ## Rewards
 

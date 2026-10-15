@@ -15,6 +15,7 @@
 
 ## Objectives
 
+- Defeat 40 Creature in the Long Echos in [The Long Echo](../maps/long_echo.md)
 - Reach [The Still Pool](../maps/still_pool.md)
 
 ## Rewards
@@ -29,7 +30,7 @@
 
     - Before we go to the last chamber. I have to tell you something. I have never turned back from anywhere in my life. Except once.
     - In the deepest cave I ever reached, I heard water moving. At slack. When it should have been still. I turned round. The Still Pool is past there.
-    - Reach the Still Pool, the Sounding Caves' last chamber.
+    - Clear 40 creatures from the Long Echo and reach the Still Pool, the Sounding Caves' last chamber.
     - I will be right behind you. Mostly.
     - I understand. I did not want to either.
     - The Still Pool. Past the Long Echo.

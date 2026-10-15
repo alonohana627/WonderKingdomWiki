@@ -18,3 +18,4 @@
 
 - [Holy Water](../items/holy_water.md) ([Alchemy](../professions/alchemy.md), x1)
 - [Mushroom Ramen](../items/mushroom_ramen.md) ([Cooking](../professions/cooking.md), x3)
+- [Horns in the Greenwood](../quests/horns_in_the_greenwood.md) (bring 25)

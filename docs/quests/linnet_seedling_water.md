@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Linnet](../npcs/linnet_treewright.md) |
 | Level | 13 |
+| After | [A Colour Like Dusk](../quests/faelan_wing_dust.md) |
+| Leads to | [A Flower from the Bloomwood](../quests/halcy_corner_flower.md) |
 
 ## Objectives
 
@@ -33,3 +35,4 @@
     - The glade spring is on the upper ledge of the Bloomwood, west of the road.
     - It's perfect. Cold and clear. She'll love it.
     - Not a word to Oriel. I'll tell him myself. Eventually. When she's tall.
+    - Halcy, from the Children's Glade, was asking after somebody kind with a sword. I think she means you.

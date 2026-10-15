@@ -16,3 +16,5 @@
 ## Used for
 
 - [Good Hides](../quests/cobble_good_hides.md) (bring 20)
+- [Dates and Lists](../quests/starling_dates_and_lists.md) (bring 20)
+- [The Newest Lens](../quests/tinsel_the_newest_lens.md) (bring 20)

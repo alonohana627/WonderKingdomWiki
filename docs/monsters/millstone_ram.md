@@ -41,5 +41,6 @@
 
 ## Quests
 
+- [The Crest Relay](../quests/kite_the_crest_relay.md)
 - [The All-Hours Route](../quests/perch_the_all_hours_route.md)
 - [Torvi's Bounty: the Downs](../quests/torvi_downs_bounty.md)

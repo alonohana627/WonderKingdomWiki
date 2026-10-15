@@ -15,4 +15,6 @@
 
 ## Used for
 
+- [A New Comedy](../quests/pip_a_new_comedy.md) (bring 42)
 - [The Long Walk in Lights](../quests/prism_the_long_walk_in_lights.md) (bring 20)
+- [The Fourth Version](../quests/tick_the_fourth_version.md) (bring 50)

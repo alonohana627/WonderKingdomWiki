@@ -49,3 +49,4 @@
 
 - [Watch Bounty: The Outer Cut](../quests/jowan_watch_bounty_outer_cut.md)
 - [Long Straight Tears](../quests/tegan_long_straight_tears.md)
+- [A Strip of Net](../quests/wenna_strip_of_net.md)

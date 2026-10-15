@@ -17,6 +17,7 @@
 
 - Dropped by [Mano](../monsters/mano.md), [The Snail King](../bosses/snail_king.md) (Normal) (6%)
 - Dropped by [Pig](../monsters/pig.md) (0.3%)
+- Dropped by [Breaker Crab](../monsters/breaker_crab.md) (0.15%)
 - Dropped by [Marsh Slime](../monsters/marsh_slime.md) (0.15%)
 - Dropped by [Mud Octopus](../monsters/mud_octopus.md) (0.15%)
 - Dropped by [Orchard Pig](../monsters/orchard_pig.md) (0.15%)

@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Kaldemor](../towns/kaldemor_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Rufus](../npcs/rufus.md) |
 | Level | 9 |
+| After | [The Stretch at Dusk](../quests/the_stretch_at_dusk.md) |
+| Leads to | [Down the Road](../quests/down_the_road.md) |
 
 ## Objectives
 

@@ -49,6 +49,7 @@
 
 ## Quests
 
+- [The Night Run](../quests/captain_seraphine_the_night_run.md)
 - [Watch Bounty: The Outer Cut](../quests/jowan_watch_bounty_outer_cut.md)
 - [The Shelf of Beach Finds](../quests/maren_shelf_of_beach_finds.md)
 - [A Touched Sawbill](../quests/tristram_touched_sawbill.md)

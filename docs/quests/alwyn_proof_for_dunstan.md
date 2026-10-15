@@ -16,8 +16,10 @@
 
 ## Objectives
 
-- Deliver 1 [Sawbill Bill](../items/sawbill_bill.md)
-- Deliver 1 [Scored Plank](../items/scored_plank.md)
+1. Defeat 40 [Pale Sawbill](../monsters/pale_sawbill.md) in [The Gullet](../maps/the_gullet.md)
+2. Deliver 1 [Sawbill Bill](../items/sawbill_bill.md)
+3. Deliver 1 [Scored Plank](../items/scored_plank.md)
+4. Bring 10 [Spitter Gland](../items/spitter_gland.md) (taken)
 
 ## Rewards
 
@@ -30,10 +32,10 @@
 
     - Seraphine gave you a plank off the Morrow's deck? Let me see. Look at those grooves. That's a sawbill going across the deck at night, and that's a deck plank, the same thickness as half the hulls in this harbour.
     - Dad says the old designs were good enough for Old Bain. Old Bain never met a sawbill. I've told him. He won't hear it from me.
-    - Take **a [Sawbill Bill](../items/sawbill_bill.md)** and the **[Scored Plank](../items/scored_plank.md)** to his workbench in the yard. Put them down and say nothing. That's how you talk to my father.
+    - Take **a [Sawbill Bill](../items/sawbill_bill.md)** and the **[Scored Plank](../items/scored_plank.md)** to his workbench in the yard. Put them down and say nothing. That's how you talk to my father. Father will want to see them where they live: clear **40 [Pale Sawbill](../monsters/pale_sawbill.md)s** in the Gullet first, then bring the proof. And **10 [Spitter Gland](../items/spitter_gland.md)s**; Father says the spit eats paint.
     - Say nothing. Trust me.
     - Another time, then.
-    - Take a sawbill bill and the scored plank to Dunstan's workbench.
+    - Father will want to see them where they live: clear **40 [Pale Sawbill](../monsters/pale_sawbill.md)s** in the Gullet first, then bring the proof. Take a sawbill bill and the scored plank to Dunstan's workbench. And **10 [Spitter Gland](../items/spitter_gland.md)s**; Father says the spit eats paint.
     - ...
     - Hmph. Leave them there.
     - Alwyn. Get the heavy oak out of the far stack. The thick stuff. No reason. Don't look at me like that.

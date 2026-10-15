@@ -15,8 +15,10 @@
 
 ## Objectives
 
-1. Talk to [Quenna](../npcs/harbour_master_quenna.md)
-2. Talk to [Jowan](../npcs/jowan.md)
+1. Defeat 50 [Hookshade](../monsters/hookshade.md) in [The Cliff Edge](../maps/cliff_edge.md)
+2. Talk to [Quenna](../npcs/harbour_master_quenna.md)
+3. Talk to [Jowan](../npcs/jowan.md)
+4. Bring 15 [Shade Hook](../items/shade_hook.md) (taken)
 
 ## Rewards
 
@@ -29,10 +31,10 @@
 
     - Halloran has been to see me. And Ysolde, which she has never done in twenty years. I know what they want.
     - The drawer. The captains have brought me marks for years, places where something was seen in the water. I started a separate chart when the sailors began steering round the marks on the ordinary ones. I've locked it away. I refused to guess what it meant.
-    - I'll open it. But I want **Quenna's** leave first; it concerns the harbour. And I want **Jowan** there. He's walked past that drawer since he was small. He should see.
+    - I'll open it. But I want **Quenna's** leave first; it concerns the harbour. And I want **Jowan** there. He's walked past that drawer since he was small. He should see. The marks run along the Cliff Edge, and the hookshades sit on them. Clear **50 [Hookshade](../monsters/hookshade.md)s** so I can read them. And **15 [Shade Hook](../items/shade_hook.md)s**: I want to measure them against the marks.
     - My son's on the docks. My wife's in the hall. Ask her first.
     - Another time, then.
-    - Ask the Harbour Master's leave, then fetch Jowan from the docks, for Ambrose.
+    - The marks run along the Cliff Edge, and the hookshades sit on them. Clear **50 [Hookshade](../monsters/hookshade.md)s** so I can read them. Ask the Harbour Master's leave, then fetch Jowan from the docks, for Ambrose. And **15 [Shade Hook](../items/shade_hook.md)s**: I want to measure them against the marks.
     - There. Every mark the captains brought me, by year. See how they creep? Each summer a little closer to the headland.
     - And the newest lie under it. Under the headland itself, where no ship sails.
     - Jowan has gone very quiet. So has his mother. I'm sorry, *Player*. I should have unlocked this a long time ago.

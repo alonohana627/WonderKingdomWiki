@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Haldor](../npcs/haldor_timber.md) |
 | Level | 16 |
+| After | [Quiet Approaches](../quests/ruan_quiet_approaches.md) |
+| Leads to | [The Carters' Road](../quests/teague_the_carters_road.md) |
 
 ## Objectives
 

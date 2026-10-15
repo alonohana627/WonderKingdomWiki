@@ -17,6 +17,7 @@
 ## How to get
 
 - Dropped by [Pig](../monsters/pig.md) (0.2%)
+- Dropped by [Breaker Crab](../monsters/breaker_crab.md) (0.1%)
 - Dropped by [Marsh Slime](../monsters/marsh_slime.md) (0.1%)
 - Dropped by [Mud Octopus](../monsters/mud_octopus.md) (0.1%)
 - Dropped by [Orchard Pig](../monsters/orchard_pig.md) (0.1%)

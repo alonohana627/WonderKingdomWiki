@@ -46,7 +46,9 @@
 
 ## Quests
 
+- [A Crab With No Name](../quests/bree_crab_with_no_name.md)
 - [Watch Bounty: The Old Cut](../quests/jowan_watch_bounty_old_cut.md)
 - [Back and Bigger](../quests/keziah_back_and_bigger.md)
+- [A Claw Over the Bar](../quests/keziah_claw_over_the_bar.md)
 - [A Barge in the Locks](../quests/marisol_barge_in_the_locks.md)
 - [A Touched Bootcrab](../quests/tristram_touched_bootcrab.md)

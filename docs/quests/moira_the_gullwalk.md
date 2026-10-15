@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Moira](../npcs/moira_watch.md) |
 | Level | 18 |
+| After | [Dusk Ford](../quests/esk_dusk_ford.md) |
+| Leads to | [Bethoc's Board](../quests/torva_bethocs_board.md) |
 
 ## Objectives
 

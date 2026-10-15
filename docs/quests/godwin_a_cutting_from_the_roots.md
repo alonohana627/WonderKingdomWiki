@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Selsior](../towns/selsior_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Godwin](../npcs/godwin.md) |
 | Level | 15 |
+| After | [Clear the Stretch](../quests/perrin_clear_the_stretch.md) |
+| Leads to | [Short a Rider](../quests/edric_short_a_rider.md) |
 
 ## Objectives
 
@@ -33,4 +35,4 @@
     - Weeds come to those who wait. So do cuttings.
     - The outermost root of the Tree, in [The Rootlands](../maps/rootlands.md). Then the [Dark Stump](../monsters/dark_stump.md)s. No hurry. Well. Some hurry.
     - Root-moss, with a little white star of a flower in it. In fifty-eight summers I have never seen its like.
-    - It shall go at the head of the border, above all the towns. The Tree was here before any of them, after all. Thank you, *Player*.
+    - It shall go at the head of the border, above all the towns. The Tree was here before any of them, after all. Thank you, *Player*. Lieutenant Edric at the Knights' Court is short a rider on that road, I hear. Go and see him.

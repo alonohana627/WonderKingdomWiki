@@ -15,4 +15,6 @@
 
 ## Used for
 
+- [Feathers of the Late Hawks](../quests/perch_feathers_of_the_late_hawks.md) (bring 30)
+- [A Flicker Night](../quests/starling_a_flicker_night.md) (bring 20)
 - [Feathers for a Small Hat](../quests/thimble_feathers_for_a_small_hat.md) (bring 20)

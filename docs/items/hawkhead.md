@@ -21,4 +21,7 @@
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.05%)
 - Dropped by [Jaw Crab](../monsters/jaw_crab.md) (0.05%)
 - Dropped by [Wrackgolem](../monsters/wrackgolem.md) (0.05%)
+- Dropped by [Cut Golem](../monsters/cut_golem.md) (0.08%)
+- Dropped by [Dark Quarry Golem](../monsters/dark_quarry_golem.md) (0.08%)
+- Dropped by [Quarry Golem](../monsters/quarry_golem.md) (0.08%)
 - Sold at [Selene's Arms](../shops/selsior_arms.md) for 22,000 mesos

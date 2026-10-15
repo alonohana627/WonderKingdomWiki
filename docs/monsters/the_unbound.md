@@ -17,7 +17,7 @@
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
-| Area | Physical | 171 | 5.6 s |
+| Projectile | Magic | 128 | 4.2 s |
 
 ## Boss fight
 

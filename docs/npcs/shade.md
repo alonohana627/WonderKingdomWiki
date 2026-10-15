@@ -23,6 +23,8 @@
 
 - [A New Route](../quests/shade_a_new_route.md) (gives)
 - [Falling Lessons](../quests/shade_falling_lessons.md) (gives)
+- [Quiet at the Cutting](../quests/shade_the_silent_cutting.md) (gives)
+- [The Tusk Path Toll](../quests/shade_the_tusk_path_toll.md) (gives)
 - [Hawks That Hunt Late](../quests/shade_touched_hawks.md) (gives)
 
 ??? quote "Dialogue"

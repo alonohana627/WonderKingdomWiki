@@ -2,7 +2,7 @@
 
 # A Tune for the Outer Wall
 
-*Saffi wants her tenth street tune to be the Outer Wall, but has never heard what the Outworks sound like at dusk. Go out to the Outer Ditch and listen for her.*
+*Saffi wants her tenth street tune to be the Outer Wall, but has never heard what the Outworks sound like at dusk. Go out to the Outer Ditch and listen for her. Saffi also asks you to thin out 30 gloomeyes first, so there is room to stand and listen.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
-- Reach [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
+1. Defeat 30 [Gloomeye](../monsters/gloomeye.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
+2. Reach [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,680 EXP
-- 1,620 mesos
+- 8,370 EXP
+- 3,240 mesos
 - +50 standing with [Saffi](../npcs/saffi_quell.md)
 - +15 standing with Urbanograd
 
@@ -27,10 +28,10 @@
 
     - Number ten. I want it to be the Outer Wall. Everyone in here plays the inside of the city. Nobody plays the outside of the wall. But I've never stood out there at dusk. I don't know what it sounds like.
     - And Brindle won't let a fiddler stroll out into the Outworks alone, which is fair, I'd play the whole time and something would eat me mid-chorus.
-    - You go. Go out to [The Outworks: Outer Ditch](../maps/outworks_ditch.md), under the wall, at dusk. Listen. Wind, water, wings, whatever. Then come back and tell me fast, before it fades.
-    - Out the gate, the side path off the Gate Meadows. Listen with your whole head. Then run.
+    - You go. Go out to [The Outworks: Outer Ditch](../maps/outworks_ditch.md), under the wall, at dusk. Listen. Wind, water, wings, whatever. Then come back and tell me fast, before it fades. Brindle says the gloomeyes will watch you the whole way. Thin out **30 [Gloomeye](../monsters/gloomeye.md)s** first, so there is room to stand, and then listen.
+    - Out the gate, the side path off the Gate Meadows. Listen with your whole head. Then run. Gloomeyes first, then stand and listen. Do not stand and listen first. That is the one rule.
     - Fine! I'll write number ten about the Great Hall instead. It sounds like Bastian. It'll be very loud.
-    - [The Outworks: Outer Ditch](../maps/outworks_ditch.md). Stand under the wall at dusk and listen. Then come tell me. Quickly!
-    - Wind in the brambles? Water dripping in the old tower cellars, slow, slow, slow, and then wings, all at once, fast? And the city's noise coming over the top of the wall, faint, like it's somewhere else?
+    - [The Outworks: Outer Ditch](../maps/outworks_ditch.md). Stand under the wall at dusk and listen. Then come tell me. Quickly! **30 [Gloomeye](../monsters/gloomeye.md)s** first, then stand under the wall in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md) and listen.
+    - Thirty gloomeyes down, and you stood and listened after? Wind in the brambles? Water dripping in the old tower cellars, slow, slow, slow, and then wings, all at once, fast? And the city's noise coming over the top of the wall, faint, like it's somewhere else?
     - (Saffi is already playing: a slow drip of plucked notes, then a sudden flurry of wings up the high strings, and behind it, very quietly, a scrap of the Night Market tune, as if heard through stone.)
     - THAT's it! That's the Outer Wall! It starts slow, can you believe it? Me! Slow! Only for the first bit. Thank you, *Player*. Number ten!

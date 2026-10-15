@@ -18,3 +18,4 @@
 
 - [White Potion](../items/white_potion.md) ([Alchemy](../professions/alchemy.md), x2)
 - [Hunter's Bento](../items/hunters_bento.md) ([Cooking](../professions/cooking.md), x2)
+- [Down the Road](../quests/down_the_road.md) (bring 15)

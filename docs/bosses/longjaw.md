@@ -20,6 +20,8 @@
 
 First clear: +80 standing with Selsior
 
+Every clear: +10 standing with Selsior
+
 ### Phases
 
 **1. The Hump in the Water** (from the start)
@@ -28,7 +30,7 @@ First clear: +80 standing with Selsior
 |---|---|---|---|
 | Area | Physical | 345 | 3.8 s |
 
-**2. Tail Sweep** (below 70% HP): Announces "LONGJAW THRASHES!"; moves faster; summons 2 [Reed Ligator](../monsters/reed_ligator.md) every 30 s.
+**2. Tail Sweep** (below 65% HP): Announces "LONGJAW THRASHES!"; moves faster; summons 2 [Reed Ligator](../monsters/reed_ligator.md) every 30 s.
 
 | Kind | Type | Damage | Cooldown |
 |---|---|---|---|
@@ -77,32 +79,13 @@ First clear: +80 standing with Selsior
 
 | Level | HP | EXP | Touch damage | Defense |
 |---|---|---|---|---|
-| 54 | 146,978 | 130,344 | 299 | 324 / 324 |
+| 53 | 57,951 | 64,831 | 230 | 300 / 300 |
 
 First clear: +160 standing with Selsior
 
+Every clear: +20 standing with Selsior
+
 ### Phases
-
-**1. The Hump in the Water** (from the start)
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 448 | 3.2 s |
-
-**2. Tail Sweep** (below 70% HP): Announces "LONGJAW THRASHES!"; moves faster; summons 2 [Undercut Croco](../monsters/undercut_croco.md) every 30 s.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 448 | 3.2 s |
-| Area | Physical | 538 | 7 s |
-
-**3. The Planks Go Under** (below 30% HP): Announces "THE POOL HEAVES!"; moves faster.
-
-| Kind | Type | Damage | Cooldown |
-|---|---|---|---|
-| Area | Physical | 448 | 3.2 s |
-| Area | Physical | 538 | 7 s |
-| Area | Physical | 658 | 9 s |
 
 ### Drops
 

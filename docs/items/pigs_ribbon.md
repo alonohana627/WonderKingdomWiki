@@ -18,5 +18,6 @@
 
 - [Tonic](../items/tonic.md) ([Alchemy](../professions/alchemy.md), x1)
 - [Mandarin Dango](../items/mandarin_dango.md) ([Cooking](../professions/cooking.md), x1)
+- [The Stretch at Dusk](../quests/the_stretch_at_dusk.md) (bring 15)
 - [Ribbons for Dusk](../quests/mirabel_ribbons_for_dusk.md) (bring 12)
 - [A Courier's Knot](../quests/peterkin_a_couriers_knot.md) (bring 10)

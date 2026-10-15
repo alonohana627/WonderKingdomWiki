@@ -2,7 +2,7 @@
 
 # Rooftop Dash
 
-*Kite teaches Rooftop Dash only to legs that have done the roofs: touch the ridge, the gutter run and the chimney stack on the Rooftops, in that order, then come back.*
+*Kite teaches Rooftop Dash only to legs that have done the roofs: touch the ridge, the gutter run and the chimney stack on the Rooftops, in that order, then come back. Last, Kite wants the dash tested on something that flies: 20 lampbats in the Outer Ditch.*
 
 |  |  |
 |---|---|
@@ -17,11 +17,12 @@
 1. Reach the ridge in [Urbanograd](../maps/urbanograd.md)
 2. Reach the gutter run in [Urbanograd](../maps/urbanograd.md)
 3. Reach the chimney stack in [Urbanograd](../maps/urbanograd.md)
+4. Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 2,080 EXP
-- 3,600 mesos
+- 5,280 EXP
+- 4,400 mesos
 - Skill: [Rooftop Dash](../skills/tutors.md#rooftop-dash)
 - +60 standing with [Kite](../npcs/kite.md)
 - +20 standing with Urbanograd
@@ -29,9 +30,9 @@
 ??? quote "Dialogue"
 
     - You there, *Player*, yes, you, the one looking up. Everybody looks up at the Rooftops and hardly anybody comes up. Well, you came up. That counts for something. Not much. Something.
-    - I can teach you **Rooftop Dash**, the run my grandmother taught me: low, quick, feet barely touching. But I only teach legs that have done the roofs. Touch **the ridge**, then **the gutter run**, then **the chimney stack**, in that order, no stairs, and come back. I will be timing. I am always timing.
-    - Go! Ridge, gutter, chimney. If the slates sing under you, you are doing it right. If they crack, you are doing it wrong, and Vane will want a word.
+    - I can teach you **Rooftop Dash**, the run my grandmother taught me: low, quick, feet barely touching. But I only teach legs that have done the roofs. Touch **the ridge**, then **the gutter run**, then **the chimney stack**, in that order, no stairs, and come back. I will be timing. I am always timing. And one more thing: a dash is for dodging, and nothing teaches dodging like a lampbat. After the chimney, knock down **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch, and then I will believe the legs.
+    - Go! Ridge, gutter, chimney. If the slates sing under you, you are doing it right. If they crack, you are doing it wrong, and Vane will want a word. After the chimney, the bats. Out the gate, down the ditch. Fall off the roof and Vane will want a word; fall off the wall and Brindle will.
     - Ground-walker, then. Fine. Somebody has to use the stairs. They were built for somebody.
-    - Ridge, gutter, chimney, *Player*, in that order. You can talk while you run, you know. I do.
-    - Not bad! Not record-not-bad, I hold the record, but not bad. You land heavy on your left foot. Everybody does at first. My grandmother said I landed like a sack of cabbages.
+    - Ridge, gutter, chimney, *Player*, in that order. You can talk while you run, you know. I do. Ridge, gutter, chimney, then **20 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), *Player*. In that order.
+    - Bats too? Twenty? Then the legs are honest. Not bad! Not record-not-bad, I hold the record, but not bad. You land heavy on your left foot. Everybody does at first. My grandmother said I landed like a sack of cabbages.
     - Here: lean in, push off the back foot, and let the roof carry you. That is **Rooftop Dash**. Open your skills with **K** and put it on a key. Then come and try to catch me. You will not, but come and try.

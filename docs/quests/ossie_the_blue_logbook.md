@@ -15,7 +15,9 @@
 
 ## Objectives
 
-- Talk to [Ysolde](../npcs/ysolde.md)
+1. Bring 20 [Shade Lash](../items/shade_lash.md) (taken)
+2. Talk to [Ysolde](../npcs/ysolde.md)
+3. Defeat 40 [Whipshade](../monsters/whipshade.md) in [The Crossways](../maps/crossways.md)
 
 ## Rewards
 
@@ -28,10 +30,10 @@
 
     - Can I show you something? Only you. And then maybe Gran.
     - This spring, one night I couldn't sleep, I was at the top of the tower alone. I saw a pale light moving under the water, far out past the headland. I wrote it down. Date, time, weather.
-    - I didn't tell anyone. Gran says don't repeat things. Could you ask **Gran** if she ever saw it too? On the same night?
+    - I didn't tell anyone. Gran says don't repeat things. Could you ask **Gran** if she ever saw it too? On the same night? Can you bring me **20 [Shade Lash](../items/shade_lash.md)es**? I want to draw them in the logbook. Properly. And clear **40 [Whipshade](../monsters/whipshade.md)s**, so Gran lets me draw at the Crossways.
     - Only you. And Gran.
     - Another time, then.
-    - Ask Ysolde whether she saw a light on the night in Ossie's logbook.
+    - Can you bring me **20 [Shade Lash](../items/shade_lash.md)es**? I want to draw them in the logbook. Properly. Ask Ysolde whether she saw a light on the night in Ossie's logbook. And clear **40 [Whipshade](../monsters/whipshade.md)s**, so Gran lets me draw at the Crossways.
     - The same night? The SAME night? Gran saw it too?
     - Then it's real and I'm a real keeper. I wrote it down properly. Like a keeper does. Gran's going to put my logbook next to hers.
     - The boy logged it? Show me the date. ...That's in my margin too. The same night. The same hour, near enough.

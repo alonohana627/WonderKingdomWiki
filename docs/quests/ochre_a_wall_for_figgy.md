@@ -2,7 +2,7 @@
 
 # A Wall for Figgy
 
-*Ochre has secretly found a wall for Figgy: the low wall under the Fiddler's Crossing, right below one of Splash's bridges. Carry one pointed remark to Splash and bring one back, then tell Figgy the wall is hers.*
+*Ochre has secretly found a wall for Figgy: the low wall under the Fiddler's Crossing, right below one of Splash's bridges. Carry one pointed remark to Splash and bring one back, then tell Figgy the wall is hers. Ochre's pigment cart keeps turning back at Bristlewood Edge: bring down 25 bristle boars there too.*
 
 |  |  |
 |---|---|
@@ -14,13 +14,14 @@
 
 ## Objectives
 
-1. Talk to [Splash](../npcs/splash.md)
-2. Talk to [Figgy](../npcs/figgy.md)
+1. Defeat 25 [Bristle Boar](../monsters/bristle_boar.md) in [Bristlewood Edge](../maps/bristlewood_edge.md)
+2. Talk to [Splash](../npcs/splash.md)
+3. Talk to [Figgy](../npcs/figgy.md)
 
 ## Rewards
 
-- 4,580 EXP
-- 3,600 mesos
+- 16,000 EXP
+- 5,100 mesos
 - +70 standing with [Ochre](../npcs/ochre.md)
 - +30 standing with [Figgy](../npcs/figgy.md)
 - +20 standing with Urbanograd
@@ -29,14 +30,14 @@
 
     - Secret. Can you keep one? Figgy wants a wall of her own more than anything. She saves her coppers for it in a jar under her bed. And I've found one. The low wall under the Fiddler's Crossing, round the back of the square. Nobody's touched it in years.
     - The trouble is the bridge above it. Splash has painted the underneath of that bridge. A heron, upside down. So the wall's sort of... in Splash's sky. I'm not asking permission. Splash doesn't believe in permission. But it would be rude not to say.
-    - Go up to [Splash](../npcs/splash.md) on the Rooftops and say, from me: the wall under the Fiddler's Crossing is spoken for, and a painter who never signs anything can hardly object to a painter who signs everything in chalk. Then bring back whatever Splash says. Then tell [Figgy](../npcs/figgy.md).
-    - Say it exactly like that. Don't soften it. Splash would be insulted if you softened it.
+    - Go up to [Splash](../npcs/splash.md) on the Rooftops and say, from me: the wall under the Fiddler's Crossing is spoken for, and a painter who never signs anything can hardly object to a painter who signs everything in chalk. Then bring back whatever Splash says. Then tell [Figgy](../npcs/figgy.md). And one more thing, while you are out that way. The carters who bring my pigment keep turning back at [Bristlewood Edge](../maps/bristlewood_edge.md), boar on the track. Bring down **25 [Bristle Boar](../monsters/bristle_boar.md)s** so the cart gets through. A wall needs paint.
+    - Say it exactly like that. Don't soften it. Splash would be insulted if you softened it. The Edge is past the Outworks, east, where the trees start. Boar first or remark first, I don't mind. Just don't let either go off.
     - Fair enough. I'll find another way. I always find another way. It usually involves a ladder and a lot of muttering.
-    - Splash first, up on the Rooftops: the remark, exactly. Then Figgy: the wall is hers.
+    - Splash first, up on the Rooftops: the remark, exactly. Then Figgy: the wall is hers. And **25 [Bristle Boar](../monsters/bristle_boar.md)s** at [Bristlewood Edge](../maps/bristlewood_edge.md), so the pigment cart gets through.
     - (Splash listens to the whole remark without blinking, grinning wider at every word.) 'Signs everything in chalk.' Ha. Ochre's been practising that one. Fine. Here's one back.
     - Tell Ochre: good wall. Mind the drips, my heron's directly above, and herons drip. And tell Ochre that whoever repaints a cartoon line for line every spring has no business calling anyone else unsigned. ...Tell the kid it's a good wall. That part's not a remark.
     - A WALL? Mine? A whole one? Under the Fiddler's Crossing? With Splash's heron on top? (Figgy is jumping.) That's the best wall in the whole city. Splash's things are the best things. Don't tell Mum I said that.
     - Looking is free and stepping is one copper. Same rules. And it's not finished till it rains. Tell Mum thank you. No, I'll tell. I'll tell loud.
-    - Splash said mind the drips? And 'no business calling anyone unsigned'? (Ochre goes rather red, the good red.) Well. Well! That's... fair, actually. Annoyingly fair.
+    - The pigment cart rolled in at dawn, the first in a week. That was you? Splash said mind the drips? And 'no business calling anyone unsigned'? (Ochre goes rather red, the good red.) Well. Well! That's... fair, actually. Annoyingly fair.
     - And 'tell the kid it's a good wall'. Splash said that? Not as a remark? (Ochre is quiet for a moment, holding a dripping brush and not noticing.)
     - I heard Figgy from three streets away. Thank you, *Player*. Maybe one day Splash and I will actually talk. Not today. Today there's a small person with a lot of chalk and a wall.

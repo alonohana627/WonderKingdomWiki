@@ -16,4 +16,4 @@
 
 ## How to get
 
-- Dropped by [Old Brushtail](../monsters/old_brushtail.md), [Old Brushtail](../bosses/old_brushtail.md) (Normal), [Old Brushtail](../bosses/old_brushtail.md) (Hard) (18%)
+- Dropped by [Old Brushtail](../monsters/old_brushtail.md), [Old Brushtail](../bosses/old_brushtail.md) (Normal) (18%)

@@ -2,7 +2,7 @@
 
 # Seen from the Gate Walk
 
-*Splash wants to paint one picture travelers can see from the Gate Walk, and has decided that Kite gets to know what it is first. Carry the folded note to Kite, unread.*
+*Splash wants to paint one picture travelers can see from the Gate Walk, and has decided that Kite gets to know what it is first. Carry the folded note to Kite, unread. Splash also needs 35 mossy bark from the Silent Cutting for the green of the picture.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
+- Bring 35 [Mossy Bark](../items/mossy_bark.md) (taken)
 - Talk to [Kite](../npcs/kite.md)
 
 ## Rewards
 
-- 3,920 EXP
-- 2,160 mesos
+- 46,690 EXP
+- 8,460 mesos
 - +60 standing with [Splash](../npcs/splash.md)
 - +20 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - Here is the thing. Everything I... everything anybody paints up here, you have to climb to see. Chimney backs, bridge bellies. Rooftop folk get it. Nobody coming in through the gate ever will.
     - I want one picture you can see from the Gate Walk. So travelers come in, look up, and know they have arrived. I know exactly what it is. I have known for a year. I have told nobody. Not even Kite.
-    - I have decided Kite gets to know first. It is in a note, folded three times, sealed with a thumbprint of blue. Take it to [Kite](../npcs/kite.md). Do not read it. I will know. I will not actually know, but I will feel it.
-    - Kite will be running somewhere. Stand still on a roof long enough and Kite comes past.
+    - I have decided Kite gets to know first. It is in a note, folded three times, sealed with a thumbprint of blue. Take it to [Kite](../npcs/kite.md). Do not read it. I will know. I will not actually know, but I will feel it. I also need green. The picture is a big one, and the sky's own green is the only green big enough, and it comes off barkback moss. Bring me **35 [Mossy Bark](../items/mossy_bark.md)** from the [Barkback](../monsters/barkback.md)s in the [The Silent Cutting](../maps/silent_cutting.md). Do not look at the picture. I mean it.
+    - Kite will be running somewhere. Stand still on a roof long enough and Kite comes past. Moss from the Cutting, as dry as you can carry it. I will know if it is damp.
     - Maybe I keep it another year. Secrets get better with age. Like cheese. Like Nana Gristle.
-    - The note goes to [Kite](../npcs/kite.md), *Player*. Unread. Thumbprint intact.
+    - The note goes to [Kite](../npcs/kite.md), *Player*. Unread. Thumbprint intact. And **35 [Mossy Bark](../items/mossy_bark.md)** from the [The Silent Cutting](../maps/silent_cutting.md). You carry (how many you carry).
     - From Splash? Give it here. (Kite reads it, reads it again, and grins so wide it looks painful.)
     - Not telling. Not you, not anybody, not Cobble even if he takes my boots away. Tell Splash yes. Tell Splash I will carry the pots. Tell Splash it is the best idea anybody has ever had, including all of mine.
-    - Kite said yes? And the best idea? Including Kite's own? Kite has never said that. Kite thinks Kite invented running.
+    - Moss! That is the green. That is exactly the green. Kite said yes? And the best idea? Including Kite's own? Kite has never said that. Kite thinks Kite invented running.
     - Right. Now I need a wall nobody owns, a night with no moon, and a great deal of paint. You will know it when you see it, *Player*. Everybody coming in will.

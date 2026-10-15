@@ -15,7 +15,8 @@
 
 ## Objectives
 
-- Bring 15 [Gate Oyster](../items/gate_oyster.md) (taken)
+1. Defeat 40 [Spitting Sawbill](../monsters/spitting_sawbill.md) in [The Sea Locks](../maps/sea_locks.md)
+2. Bring 15 [Gate Oyster](../items/gate_oyster.md) (taken)
 
 ## Rewards
 
@@ -28,9 +29,9 @@
 
     - Cobb saw them. Good.
     - My reef's outside the sea gates. Tide runs in through the broken ones. Fast. Two rules: tell someone on shore. Breathe before you go down.
-    - Not diving. Not now. But the old gate stones on the Sea Locks grow oysters. Good ones. Bring me **15 [Gate Oyster](../items/gate_oyster.md)s**. The spitting sawbills nest on the stones. Mind them.
+    - Not diving. Not now. But the old gate stones on the Sea Locks grow oysters. Good ones. Bring me **15 [Gate Oyster](../items/gate_oyster.md)s**. The spitting sawbills nest on the stones. Mind them. Clear **40 [Spitting Sawbill](../monsters/spitting_sawbill.md)s** off the stones first, or they will spit you into the lock.
     - Told Wenna you're going. That's rule one.
     - Another time, then.
-    - Fifteen gate oysters from the old stones on the Sea Locks. You have (how many you carry).
+    - Clear **40 [Spitting Sawbill](../monsters/spitting_sawbill.md)s** off the stones first, or they will spit you into the lock. Fifteen gate oysters from the old stones on the Sea Locks. You have (how many you carry).
     - Good oysters. Big ones.
     - You breathe right. Watched you come back. Maybe later I'll tell you about the reef's edge. Not today.

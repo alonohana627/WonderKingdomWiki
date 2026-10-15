@@ -2,7 +2,7 @@
 
 # A Serious Role
 
-*Dex has played the grandee for fifteen years and wants a serious role, just once, but whenever he says so everybody laughs. Tell Dina Finch he means it.*
+*Dex has played the grandee for fifteen years and wants a serious role, just once, but whenever he says so everybody laughs. Tell Dina Finch he means it. Dex also wants 30 gloomeye tails for the general's belt.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Dina Finch](../npcs/orla_finch.md)
+- Bring 30 [Gloomeye Tail](../items/gloomeye_tail.md) (taken)
 
 ## Rewards
 
-- 1,500 EXP
-- 1,560 mesos
+- 12,200 EXP
+- 4,680 mesos
 - +50 standing with [Dex](../npcs/dex.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - *Player*! You know who I am, of course. The grandee! Fifteen years of falling off carts. Children throw sausages at me in the street. Lovingly.
     - But in here (Dex thumps his chest) lives a tragedian. A betrayed general. A father at a deathbed. I say 'I want a serious role' and the whole troupe laughs, and then I bow, because I cannot help it.
-    - Go to [Dina Finch](../npcs/orla_finch.md). Tell her I am serious about being serious. If I tell her myself she laughs, and then I laugh, and then it is a comedy again.
-    - Use a grave voice. Like this: 'Dina. He is serious.' No, lower. Lower. Perfect.
+    - Go to [Dina Finch](../npcs/orla_finch.md). Tell her I am serious about being serious. If I tell her myself she laughs, and then I laugh, and then it is a comedy again. And bring me **30 [Gloomeye Tail](../items/gloomeye_tail.md)s** from the Outworks, for the general's belt. A betrayed general cannot be seen in a belt of rope.
+    - Use a grave voice. Like this: 'Dina. He is serious.' No, lower. Lower. Perfect. The tails are for the belt. Thirty, from the gloomeyes beyond the gate. A serious prop, for a serious role.
     - Ha! You see? Even you think it is funny. Everybody is a critic.
-    - Tell [Dina Finch](../npcs/orla_finch.md) that Dex is serious, *Player*. In the grave voice.
+    - Tell [Dina Finch](../npcs/orla_finch.md) that Dex is serious, *Player*. In the grave voice. And **30 [Gloomeye Tail](../items/gloomeye_tail.md)s**, *Player*, for the general's belt.
     - Serious. (Dina does not laugh.) Do you know that he comes in at dawn and recites tragedies to the empty theatre? Every morning. He thinks nobody hears.
     - I hear. My office is above the stage. Tell him: one morning soon, I will sit in the back row on purpose. One speech, his choice. And if he bows at the end, I walk out.
-    - She has heard me? Every morning? The general's speech? The deathbed? (Dex sits down on the edge of the stage, very quietly for a man his size.)
+    - Thirty tails! The general shall wear them proudly, and in total silence. She has heard me? Every morning? The general's speech? The deathbed? (Dex sits down on the edge of the stage, very quietly for a man his size.)
     - One speech. Dina in the back row. And no bow. No bow! That will be the hardest part of the whole thing. Thank you, *Player*. Truly. That was me being serious. Did you notice?

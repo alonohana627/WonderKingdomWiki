@@ -49,6 +49,10 @@
 
 ## Quests
 
+- [The Locked Chart](../quests/ambrose_the_locked_chart.md)
+- [What Seraphine Saw](../quests/barnaby_what_seraphine_saw.md)
 - [Where the Keel Was Brushed](../quests/captain_annis_where_the_keel_was_brushed.md)
+- [The Council Hears It](../quests/harbour_master_quenna_the_council_hears_it.md)
+- [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md)
 - [Watch Bounty: The Holm Wood](../quests/jowan_watch_bounty_holm_wood.md)
 - [A Touched Shade](../quests/tristram_touched_shade.md)

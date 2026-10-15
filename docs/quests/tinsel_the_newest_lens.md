@@ -2,7 +2,7 @@
 
 # The Newest Lens
 
-*Kite is laid up, and Starling needs Tinsel's newest lens tonight. Carry it up through the crowded evening streets to Starling's roof.*
+*Kite is laid up, and Starling needs Tinsel's newest lens tonight. Carry it up through the crowded evening streets to Starling's roof, with twenty Downs Howler Pelts to wrap the telescope's cold brass.*
 
 |  |  |
 |---|---|
@@ -17,11 +17,12 @@
 ## Objectives
 
 - Deliver 1 [Tinsel's Newest Lens](../items/newest_lens.md)
+- Bring 20 [Downs Howler Pelt](../items/wolf_pelt.md) (taken)
 
 ## Rewards
 
-- 16,290 EXP
-- 3,240 mesos
+- 113,540 EXP
+- 8,640 mesos
 - +60 standing with [Tinsel](../npcs/tinsel.md)
 - +30 standing with [Starling](../npcs/starling.md)
 - +20 standing with Urbanograd
@@ -29,11 +30,11 @@
 ??? quote "Dialogue"
 
     - Starling's lenses are my flawed ones. The bubble-ridden ones, the ones with a wave in them. Starling never minds. But this one... this one came out of the mould clear all the way through. I held it to the sun for an hour.
-    - Kite would usually run it up. Kite is laid up with that ankle and very cross about it. And Starling wants it tonight, because Starling says tonight the sky will be clear toward the middle of the island.
-    - Carry the [Tinsel's Newest Lens](../items/newest_lens.md) up to [Starling](../npcs/starling.md), *Player*? The streets are thick at this hour. Hold it against your chest, not in a pocket. Pockets have keys in them.
-    - Starling's roof is near the Crooked Tower, between two chimney stacks with a hammock strung across. If Starling is asleep, it is still afternoon somewhere. Wake Starling anyway.
+    - Kite would usually run it up. Kite is laid up with that ankle and very cross about it. And Starling wants it tonight, because Starling says tonight the sky will be clear toward the middle of the island. The brass tube is bare, too, and roof nights bite. Starling asks for a pelt wrap every winter and never gets round to fetching one.
+    - Carry the [Tinsel's Newest Lens](../items/newest_lens.md) up to [Starling](../npcs/starling.md), *Player*? Hold it against your chest, not in a pocket. Pockets have keys in them. And if you pass the [Beacon Line](../maps/beacon_line.md), bring **20 [Downs Howler Pelt](../items/wolf_pelt.md)s** for the tube. Starling will thank you for them more than for the lens, I expect.
+    - Starling's roof is near the Crooked Tower, between two chimney stacks with a hammock strung across. If Starling is asleep, it is still afternoon somewhere. Wake Starling anyway. The pelts can come with you or after.
     - Then it waits on the sill with the paperweights. It will be the only thing on the sill that is not a failure.
-    - The [Tinsel's Newest Lens](../items/newest_lens.md), to Starling's roof by the Crooked Tower. Against your chest, not in a pocket.
+    - The [Tinsel's Newest Lens](../items/newest_lens.md), to Starling's roof by the Crooked Tower, against your chest, not in a pocket. And **20 [Downs Howler Pelt](../items/wolf_pelt.md)s** for the tube. You have (how many you carry).
     - Oh. Oh, look at that. Tinsel finally made a clear one and gave it to me instead of selling it to someone sensible. Hold the tube steady... there. There!
     - I can see the rings on the third bright one in the Fiddle. I have never seen them before. I have been looking at that star since I was a child, *Player*.
-    - And the east, tonight. With this I will see the horizon properly, if it does... what it does. Stay a while. Two pairs of eyes are better than one on a night like this.
+    - And the east, tonight. With this I will see the horizon properly, if it does... what it does. Pelts too! Twenty. Now the brass will not bite my fingers off at three in the morning. Stay a while. Two pairs of eyes are better than one on a night like this.

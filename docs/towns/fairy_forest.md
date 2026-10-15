@@ -186,7 +186,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Water Sprite](../monsters/water_sprite.md) | 25 | 792 | 223 | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) |
 | [Ink Imp](../monsters/ink_imp.md) | 26 | 768 | 247 | [The Shadowed Grove](../maps/shadowed_grove.md), [The Stilled Grove](../maps/stilled_grove.md) |
 | [Forest Sprite](../monsters/forest_sprite.md) | 27 | 850 | 273 | [Shimmerwater, the Third Path](../maps/shimmerwater_path_3.md) |
-| [The Blightstone](../monsters/blightstone.md) | 30 | 30,098 | 12,530 | - |
+| [The Blightstone](../monsters/blightstone.md) | 30 | 26,658 | 12,530 | - |
 | [The Unbound](../monsters/the_unbound.md) | 30 | 31,990 | 12,530 | - |
 | [Evil Eye](../monsters/evil_eye.md) | 31 | 1,283 | 389 | [The High Shore](../maps/high_shore_1.md), [The High Shore, Upper Banks](../maps/high_shore_2.md) |
 | [Curse Eye](../monsters/curse_eye.md) | 34 | 1,398 | 493 | [The High Shore, Upper Banks](../maps/high_shore_2.md), [The Hollow Oak, Roots](../maps/hollow_oak_roots.md) |
@@ -203,7 +203,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Night Glimmerfox](../monsters/night_glimmerfox.md) | 64 | 9,522 | 2,368 | [The Twilit Wood, I](../maps/twilit_wood_1.md), [The Twilit Wood, II](../maps/twilit_wood_2.md) |
 | [Blue Spring Sprite](../monsters/blue_spring_sprite.md) | 66 | 9,809 | 2,550 | [The Twilit Wood, II](../maps/twilit_wood_2.md), [The Twilit Wood, III](../maps/twilit_wood_3.md) |
 | [Deep Spring Sprite](../monsters/deep_spring_sprite.md) | 68 | 11,398 | 2,740 | [The Twilit Wood, III](../maps/twilit_wood_3.md) |
-| [The Knotbriar](../monsters/knotbriar.md) | 70 | 348,580 | 102,795 | - |
+| [The Knotbriar](../monsters/knotbriar.md) | 70 | 308,742 | 102,795 | - |
 
 ## The town's own gear
 

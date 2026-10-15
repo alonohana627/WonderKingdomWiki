@@ -221,12 +221,12 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Accomplishment | Goal | Reward |
 |---|---|---|
-| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | [Warden-Friend](../skills/passives.md#warden-friend) |
-| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | [Cave Sense](../skills/passives.md#cave-sense) |
-| Brush and Sinew | Defeat 200 Strand Foxes. | [Brush and Sinew](../skills/passives.md#brush-and-sinew) |
-| Climbers' Bane | Defeat 300 Sea Newts. | [Climbers' Grip](../skills/passives.md#climbers-grip) |
-| Salt and Stone | Defeat 300 Wrackgolems. | [Salt-Hardened](../skills/passives.md#salt-hardened) |
-| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | [Gap Inn Regular](../skills/passives.md#gap-inn-regular) |
+| Friend of the Wardens | See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow. | Passive: [Warden-Friend](../skills/passives.md#warden-friend) |
+| The First True Map | Help Lachlan finish the first true map of the Sounding Caves. | Passive: [Cave Sense](../skills/passives.md#cave-sense) |
+| Brush and Sinew | Defeat 200 Strand Foxes. | Passive: [Brush and Sinew](../skills/passives.md#brush-and-sinew) |
+| Climbers' Bane | Defeat 300 Sea Newts. | Passive: [Climbers' Grip](../skills/passives.md#climbers-grip) |
+| Salt and Stone | Defeat 300 Wrackgolems. | Passive: [Salt-Hardened](../skills/passives.md#salt-hardened) |
+| A Regular at the Gap | Hand in each of Bethoc's three sighting boards. | Passive: [Gap Inn Regular](../skills/passives.md#gap-inn-regular) |
 
 ## Discoveries
 

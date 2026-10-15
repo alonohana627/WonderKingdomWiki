@@ -38,3 +38,6 @@
 
 - [Testing Springs](../quests/bolt_testing_springs.md)
 - [The Watch's Slate: the Outworks](../quests/brindle_outworks_bounty.md)
+- [The Ditch Rounds](../quests/dagny_the_ditch_rounds.md)
+- [Seed from Kaldemor](../quests/parsnip_kaldemor_seed.md)
+- [Mother's Cake](../quests/rue_mothers_cake.md)

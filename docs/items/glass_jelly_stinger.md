@@ -15,5 +15,6 @@
 
 ## Used for
 
+- [Kit on the Lock Gate](../quests/alwyn_kit_on_the_lock_gate.md) (bring 10)
 - [Stings in the Casebook](../quests/clemence_stings_in_the_casebook.md) (bring 20)
 - [A Lesson from the Cut](../quests/maren_lesson_from_the_cut.md) (bring 5)

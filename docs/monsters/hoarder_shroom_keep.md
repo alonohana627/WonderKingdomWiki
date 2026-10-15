@@ -44,3 +44,4 @@
 ## Quests
 
 - [The Keep Bounty](../quests/the_keep_bounty.md)
+- [The Old Wall's Marks](../quests/the_old_walls_marks.md)

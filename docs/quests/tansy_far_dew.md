@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Tansy](../npcs/tansy_teahouse.md) |
 | Level | 11 |
+| After | [Herbs from the Glimmer Path](../quests/hesper_glimmer_herbs.md) |
+| Leads to | [The Council's Letters](../quests/ilwen_letters_kaldemor.md) |
 
 ## Objectives
 
@@ -33,3 +35,4 @@
     - (how many you carry) of 12 so far? Keep at it, love.
     - Oh, it's lovely and clear. Smell that.
     - Here, some of the first pot, bottled for the road. Don't drink it all at once.
+    - Ilwen came in for tea and wouldn't sit, love. Looking for someone to carry letters. I said I knew just the one.

@@ -11,7 +11,7 @@
 | Given by | [Tinsel](../npcs/tinsel.md) |
 | Completed with | [Lux](../npcs/lux_lune.md) |
 | Level | 23 |
-| After | [The Smashers](../quests/lux_the_smashers.md) |
+| After | [Eyes on the Ditch](../quests/dagny_eyes_on_the_ditch.md) |
 | Leads to | [Bite Herbs](../quests/patch_bite_herbs.md) |
 
 ## Objectives

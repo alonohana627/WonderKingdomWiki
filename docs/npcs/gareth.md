@@ -15,6 +15,7 @@
 
 - [A Sharper Sword](../quests/a_sharper_sword.md) (gives)
 - [A Smith's First Bar](../quests/a_smiths_first_bar.md) (gives)
+- [Horns in the Greenwood](../quests/horns_in_the_greenwood.md) (gives)
 - [Old Wall Iron](../quests/the_old_wall_iron.md) (gives)
 
 ## Shop

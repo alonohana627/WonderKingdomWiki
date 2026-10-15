@@ -7,9 +7,10 @@
 |  |  |
 |---|---|
 | Town | [Fairy Forest](../towns/fairy_forest_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Ondine](../npcs/ondine_lanterns.md) |
 | Level | 8 |
+| Leads to | [Harvest Carts](../quests/kestrel_orchard_road.md) |
 
 ## Objectives
 
@@ -33,3 +34,4 @@
     - You've cleared **some** of them, I hope. The carters will tell me if you haven't.
     - The carters came in this morning without a single cracked pane. Vesper sold out by noon.
     - Take two travelling lights. Don't tell her they were free.
+    - Kestrel was in asking about the Hem as well. Her parents' carts come through it. Go and find her by the Forest Edge.

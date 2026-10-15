@@ -2,7 +2,7 @@
 
 # Measure the Gap
 
-*Bastian 'Bellows' Krell wants numbers for his covered bridge over Lantern Square. Ask Vane, the rooftop bridge-builder, how wide the gap is and how much timber the bridge would need.*
+*Bastian 'Bellows' Krell wants numbers for his covered bridge over Lantern Square. Ask Vane, the rooftop bridge-builder, how wide the gap is and how much timber the bridge would need. Vane also points at the old tower beams in the Outer Ditch, nested full of lampbats: clear 25 of them so the salvage can be counted.*
 
 |  |  |
 |---|---|
@@ -14,12 +14,13 @@
 
 ## Objectives
 
-- Talk to [Vane](../npcs/vane.md)
+1. Talk to [Vane](../npcs/vane.md)
+2. Defeat 25 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,050 EXP
-- 1,380 mesos
+- 5,050 EXP
+- 2,530 mesos
 - +50 standing with [Bastian 'Bellows' Krell](../npcs/bastian_krell.md)
 - +15 standing with Urbanograd
 
@@ -27,13 +28,13 @@
 
     - *Player*! You have the face of somebody who wants the Night Market dry in the rain! Everybody does! A covered bridge over Lantern Square, roof and all, and nobody's pepper bun ever soggy again!
     - I have drawings. I have costings. I have a speech about the dignity of a dry bun that made Mags cry, she says from the onions. What I do not have is a number from somebody who actually builds bridges, and the Table keeps asking for one, rudely.
-    - Go up to the Rooftops and ask [Vane](../npcs/vane.md), who has built every plank bridge in this city. How wide is the gap over the square, and **how much timber** would my bridge need? I would go myself, but Vane jumps on planks to test them, and I am a large plank.
-    - Splendid! Vane is usually somewhere high, jumping on something. Ask nicely. Ask loudly too; it is windy up there.
+    - Go up to the Rooftops and ask [Vane](../npcs/vane.md), who has built every plank bridge in this city. How wide is the gap over the square, and **how much timber** would my bridge need? I would go myself, but Vane jumps on planks to test them, and I am a large plank. And if Vane points you at the old beams in the Outer Ditch, clear **25 [Lampbat](../monsters/lampbat.md)s** off them, so the only timber nobody has counted can be counted.
+    - Splendid! Vane is usually somewhere high, jumping on something. Ask nicely. Ask loudly too; it is windy up there. Mind the bats in the ditch. They bite the way my critics do, in the dark!
     - No? Ha! Then I shall estimate! I am an excellent estimator! I estimate the Table will not like it.
-    - Vane, *Player*, on the Rooftops! The gap, the timber, the number! I have left a space in my speech the exact size of it.
+    - Vane, *Player*, on the Rooftops! The gap, the timber, the number! I have left a space in my speech the exact size of it. Then **25 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), off the old beams, so Vane can count the timber!
     - Bastian's bridge. I know. I have measured that gap three times this month, quietly, just in case. From the Fiddler's Crossing to the far gutter it is wider than the Great Hall is long, and a roof doubles the load.
     - Timber? More than reaches this city in a year, with the carts the way they are. I have told him that. He heard 'more timber', and then he heard 'what a magnificent bridge that would be'.
-    - Tell him the number anyway. And tell him the Wobbler was called impossible too, and it does not even wobble. I would not want him to give up. Just to wait.
-    - More than a year of timber? A YEAR? Then the bridge is impossible! I withdraw it! I withdraw it with dignity, and a short speech!
+    - Tell him the number anyway. And tell him the Wobbler was called impossible too, and it does not even wobble. I would not want him to give up. Just to wait. One more thing. The old beams from the outer towers lie in the Outer Ditch, and the lampbats have nested in every one. Clear twenty-five off them and I can count the salvage.
+    - The bats off the old beams, too? Then the count is clean, and I owe you twice! More than a year of timber? A YEAR? Then the bridge is impossible! I withdraw it! I withdraw it with dignity, and a short speech!
     - Wait. The Wobbler was impossible too, Vane said? Then I un-withdraw it! A bridge built in two halves, a year apart! No, three thirds! The Table will need a vote on the fractions!
     - Inkpot will put that down as my fourth change of mind this week. Worth it. Thank you, *Player*: a real number at last. I shall shout it beautifully.

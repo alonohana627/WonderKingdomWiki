@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Brindle](../npcs/brindle.md) |
 | Level | 18 |
+| After | [The Highland Traveler](../quests/knox_the_highland_traveler.md) |
+| Leads to | [Axes on the Descent](../quests/torvi_the_axe_stumps.md) |
 
 ## Objectives
 
@@ -18,7 +20,7 @@
 
 ## Rewards
 
-- 3,240 EXP
+- 4,050 EXP
 - 1,440 mesos
 - +40 standing with [Brindle](../npcs/brindle.md)
 - +15 standing with Urbanograd

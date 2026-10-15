@@ -23,7 +23,9 @@
 
 - [Kite Laid Up](../quests/kite_laid_up.md) (gives)
 - [Rooftop Dash](../quests/kite_rooftop_dash.md) (gives)
+- [The Crest Relay](../quests/kite_the_crest_relay.md) (gives)
 - [The Crooked Tower Run](../quests/kite_the_crooked_tower_run.md) (gives)
+- [The Ridge Relay](../quests/kite_the_ridge_relay.md) (gives)
 
 ??? quote "Dialogue"
 

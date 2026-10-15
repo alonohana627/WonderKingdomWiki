@@ -2,7 +2,7 @@
 
 # Stilebrook Farm
 
-*The herd's wallow is the yard of Stilebrook Farm, an old farm in the deep Boarwood that has stood empty since long before anyone alive. Hale wants to know what keeps the herd there. Reach the farm's old gate.*
+*The herd's wallow is the yard of Stilebrook Farm, an old farm in the deep Boarwood that has stood empty since long before anyone alive. Hale wants to know what keeps the herd there. Reach the farm's old gate. Clear 50 Tuskers from the way to the gate. Bring back 10 Trampled Turnips for Wilbur's ledger.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 - Reach Stilebrook Farm's gate in [The Deep Boarwood](../maps/boarwood_deep.md)
+- Defeat 50 [Tusker](../monsters/tusker.md)
+- Bring 10 [Trampled Turnip](../items/trampled_turnip.md) (taken)
 
 ## Rewards
 

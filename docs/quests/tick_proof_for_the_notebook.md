@@ -7,9 +7,11 @@
 |  |  |
 |---|---|
 | Town | [Urbanograd](../towns/urbanograd_quests.md) |
-| Category | Side |
+| Category | Story |
 | Given by | [Tick](../npcs/tick.md) |
 | Level | 15 |
+| After | [The Late Egg Cart](../quests/knox_the_late_egg_cart.md) |
+| Leads to | [Eyes by the Stackyards](../quests/dagny_eyes_by_the_stackyards.md) |
 
 ## Objectives
 
@@ -17,7 +19,7 @@
 
 ## Rewards
 
-- 1,450 EXP
+- 1,810 EXP
 - 750 mesos
 - +40 standing with [Tick](../npcs/tick.md)
 - +10 standing with Urbanograd

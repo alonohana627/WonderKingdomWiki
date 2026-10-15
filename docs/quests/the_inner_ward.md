@@ -2,7 +2,7 @@
 
 # The Inner Ward
 
-*Hale wants the way through the Inner Ward of Stonecap Keep cleared before anyone goes further. Defeat 100 Wallcreeper Caps and Crowncaps, and 3 of them that are Disturbance-touched.*
+*Hale wants the way through the Inner Ward of Stonecap Keep cleared before anyone goes further. Defeat 100 Wallcreeper Caps and Crowncaps, and 3 of them that are Disturbance-touched. Bring back 25 Wallcreeper Caps.*
 
 |  |  |
 |---|---|
@@ -17,6 +17,7 @@
 
 - Defeat 100 Wallcreeper Cap or Crowncaps ([Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Crowncap](../monsters/crowncap.md))
 - Defeat 3 Elite Disturbance-touched Wallcreeper Cap or Crowncaps ([Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Crowncap](../monsters/crowncap.md))
+- Bring 25 [Wallcreeper Cap](../items/wallcreeper_cap.md) (taken)
 
 ## Rewards
 

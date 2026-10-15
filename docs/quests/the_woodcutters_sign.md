@@ -2,7 +2,7 @@
 
 # The Woodcutter's Sign
 
-*Forty years ago Orin cut his sign into a great old oak in the woods, the finest tree he left standing. Find it in the deep Boarwood and come back to tell him whether it still stands.*
+*Forty years ago Orin cut his sign into a great old oak in the woods, the finest tree he left standing. Find it in the deep Boarwood and come back to tell him whether it still stands. Then clear 40 Tuskers from around the old tree. Orin wants 10 Curved Tusks to show the woodcutters' old guild.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 1. Reach Orin's oak in [The Deep Boarwood](../maps/boarwood_deep.md)
+2. Defeat 40 [Tusker](../monsters/tusker.md)
+3. Bring 10 [Curved Tusk](../items/curved_tusk.md) (taken)
 
 ## Rewards
 

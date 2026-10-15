@@ -2,7 +2,7 @@
 
 # The Oldest Volume
 
-*Dimity has finished a first bundle of fair copies from the Table's oldest record book. She and Ozzie Lantry agreed to tell each other first about anything old; carry the copied pages to Ozzie's corner of the Great Hall.*
+*Dimity has finished a first bundle of fair copies from the Table's oldest record book. She and Ozzie Lantry agreed to tell each other first about anything old; carry the copied pages to Ozzie's corner of the Great Hall. The copies are to be bound in lampbat wing leather, so Dimity also needs 25 wings.*
 
 |  |  |
 |---|---|
@@ -16,11 +16,12 @@
 ## Objectives
 
 - Deliver 1 [Copied Pages](../items/copied_pages.md)
+- Bring 25 [Lampbat Wing](../items/lampbat_wing.md) (taken)
 
 ## Rewards
 
-- 1,190 EXP
-- 1,440 mesos
+- 8,300 EXP
+- 4,110 mesos
 - +60 standing with [Dimity 'Inkpot' Ash](../npcs/dimity_ash.md)
 - +30 standing with [Ozzie Lantry](../npcs/hob_lantry.md)
 - +15 standing with Urbanograd
@@ -29,10 +30,10 @@
 
     - Forty pages. Forty pages of the oldest volume, copied fair in your octopus ink, and the black has not so much as blinked. I have not been this pleased since Bastian changed his mind three times in one sentence.
     - Ozzie and I have an agreement: anything old, the other hears first. He will want these before I have finished blotting them, and if I take them myself he will talk until the session starts and I will miss the opening heckle.
-    - Carry the [Copied Pages](../items/copied_pages.md) to [Ozzie Lantry](../npcs/hob_lantry.md), in his corner of the hall. The corner with the boxes. All the corners have boxes; his is the one where the boxes have boxes.
-    - Flat, please, not rolled. And if he asks whether there is anything about the first winter, tell him gently: no. The book starts after it, the same as every other.
+    - Carry the [Copied Pages](../items/copied_pages.md) to [Ozzie Lantry](../npcs/hob_lantry.md), in his corner of the hall. The corner with the boxes. All the corners have boxes; his is the one where the boxes have boxes. And before you go: the copies want binding in something thin, supple and dry, and lampbat wing leather is all three. Bring **25 [Lampbat Wing](../items/lampbat_wing.md)s** out of the Outworks as well.
+    - Flat, please, not rolled. And if he asks whether there is anything about the first winter, tell him gently: no. The book starts after it, the same as every other. The wings come off lampbats in the Outer Ditch. Wash your hands afterwards, please. I am wearing clean cuffs.
     - Then they wait in my drawer, and Ozzie will find out, and he will be hurt in a very long and rambling way. Come back if you change your mind.
-    - Ozzie, *Player*. Behind the boxes. If you cannot see him, say 'spectacles' loudly; he will answer to find out where they are.
-    - From Dimity? The oldest volume, copied? Oh. Oh, look at the hand on this, square as a paving stone. Where are my, no, these are distance ones. Here. Yes.
+    - Ozzie, *Player*. Behind the boxes. If you cannot see him, say 'spectacles' loudly; he will answer to find out where they are. And **25 [Lampbat Wing](../items/lampbat_wing.md)s**, *Player*, for the binding.
+    - And lampbat leather for the binding, too? Dimity thinks of everything but her own supper. From Dimity? The oldest volume, copied? Oh. Oh, look at the hand on this, square as a paving stone. Where are my, no, these are distance ones. Here. Yes.
     - Look, the spring after the first winter: a vote on whether the goat may attend the Table. Carried. I had a copy from somebody's diary, but the diary said 'defeated'. Now I shall have to find out who was lying, and that will take me a very happy month.
     - Nothing of the winter itself, no. I knew there would not be. Thank Dimity for me, *Player*, and tell her the goat won.

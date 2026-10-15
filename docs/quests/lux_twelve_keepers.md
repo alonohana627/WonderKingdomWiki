@@ -2,7 +2,7 @@
 
 # The Twelfth Keeper
 
-*Lux, the twelfth Keeper of the Lanterns, sends you along the evening round: to Perch's loft on the Crooked Tower, and to Tinsel's furnace about amber glass.*
+*Lux, the twelfth Keeper of the Lanterns, sends you along the evening round: to Perch's loft on the Crooked Tower, and to Tinsel's furnace about amber glass. The round ends at the outer wall, and Lux asks you to clear 20 lampbats there.*
 
 |  |  |
 |---|---|
@@ -15,25 +15,26 @@
 
 1. Talk to [Perch](../npcs/perch.md)
 2. Talk to [Tinsel](../npcs/tinsel.md)
+3. Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 1,390 EXP
-- 2,400 mesos
+- 4,590 EXP
+- 3,200 mesos
 - +50 standing with [Lux](../npcs/lux_lune.md)
 - +15 standing with Urbanograd
 
 ??? quote "Dialogue"
 
     - Every keeper walks the same round. Eleven of them did it before me, and I do it now, and I still learn something on it most nights. You live in the kingdom, *Player*, but have you ever seen this city from the lantern side?
-    - Walk two stops of it for me tonight. Tell [Perch](../npcs/perch.md) at the loft that the round is late, so the tea will wait. Then ask [Tinsel](../npcs/tinsel.md) for amber panes for the fog side. Tinsel will argue. Let it happen.
-    - The loft is on the Crooked Tower, the tallest and leanest roof in the city. Tinsel's furnace is on Workshops Row. You will smell it before you see it.
+    - Walk two stops of it for me tonight. Tell [Perch](../npcs/perch.md) at the loft that the round is late, so the tea will wait. Then ask [Tinsel](../npcs/tinsel.md) for amber panes for the fog side. Tinsel will argue. Let it happen. The round ends at the outer wall, and lampbats have been tangling the lamp-hooks there. After Perch and Tinsel, clear **20 [Lampbat](../monsters/lampbat.md)s** from the Outer Ditch, so the last stop can be walked.
+    - The loft is on the Crooked Tower, the tallest and leanest roof in the city. Tinsel's furnace is on Workshops Row. You will smell it before you see it. The wall is the last stop. Walk there only once the bats are thinned.
     - Another night, then. The round is not going anywhere. That is rather the point of it.
-    - Perch first, up on the Crooked Tower, then Tinsel's furnace on Workshops Row. Amber panes, for the fog side.
+    - Perch first, up on the Crooked Tower, then Tinsel's furnace on Workshops Row. Amber panes, for the fog side. Perch, then Tinsel, then **20 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), for the last stop of the round.
     - Late, is it? Then the kettle goes back on the coals. Lux always comes up the last stair very quietly, so the birds do not startle. I have watched every keeper's light come on from this roof since I was twenty.
     - Lionel Callow used to whistle on the way up. Lux never does. Tell Lux the tea will keep, and so will I.
     - Amber for the fog side. Lux says amber carries furthest in fog. Look. Hold this one up to the window with me. See how it goes gold at the edges?
     - It depends on the fog. Thin river fog, yes, amber. Thick wall fog, I would say rose. But Lux climbs up there, and I only melt sand. Tell Lux the amber will be ready by dusk tomorrow.
-    - Tea waiting and amber by tomorrow, and Tinsel argued. Good. Then you have walked a piece of the round. Come with me a moment, to the lamp store at the foot of the first tower.
+    - And the outer wall clear, too. The round is whole again. Tea waiting and amber by tomorrow, and Tinsel argued. Good. Then you have walked a piece of the round. Come with me a moment, to the lamp store at the foot of the first tower.
     - This beam. Eleven names, scratched in by whoever held the ladder. The first ones are nearly worn smooth. Lionel Callow's is the last. Mine is under it, crooked, because my hand was shaking.
     - Nobody walks the round alone, *Player*. The loft, the furnace, the beam. Now you know why I never mind the climb.

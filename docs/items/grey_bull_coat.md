@@ -17,4 +17,4 @@
 ## How to get
 
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.04%)
-- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal), [The Undertow](../bosses/undertow.md) (Hard) (20%)
+- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal) (20%)

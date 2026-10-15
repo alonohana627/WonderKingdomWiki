@@ -15,4 +15,7 @@
 
 ## Used for
 
+- [The Locked Chart](../quests/ambrose_the_locked_chart.md) (bring 15)
+- [What Seraphine Saw](../quests/barnaby_what_seraphine_saw.md) (bring 20)
+- [Where the Keel Was Brushed](../quests/captain_annis_where_the_keel_was_brushed.md) (bring 15)
 - [Welts in the Casebook](../quests/clemence_welts_in_the_casebook.md) (bring 15)

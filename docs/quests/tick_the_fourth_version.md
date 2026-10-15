@@ -2,7 +2,7 @@
 
 # The Fourth Version
 
-*Zip's broken arm is in Tick's notebook three times, in three versions, each with a bigger monster. Now that the beast is down, Tick wants the true story: hear it from Zip and from Torvi, then bring it to him.*
+*Zip's broken arm is in Tick's notebook three times, in three versions, each with a bigger monster. Now that the beast is down, Tick wants the true story: hear it from Zip and from Torvi, then bring it to him. First he needs fresh pens: bring him 50 reed bundles from the Reedwater Bottoms.*
 
 |  |  |
 |---|---|
@@ -11,16 +11,18 @@
 | Given by | [Tick](../npcs/tick.md) |
 | Level | 48 |
 | After | [Hackleback](../quests/hatch_hackleback.md) |
+| Leads to | [The Refused Message](../quests/perch_the_refused_message.md) |
 
 ## Objectives
 
-1. Talk to [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
-2. Talk to [Torvi Brask](../npcs/torvi_brask.md)
+1. Bring 50 [Reed Bundle](../items/reed_bundle.md) (taken)
+2. Talk to [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md)
+3. Talk to [Torvi Brask](../npcs/torvi_brask.md)
 
 ## Rewards
 
-- 22,980 EXP
-- 5,760 mesos
+- 146,640 EXP
+- 16,430 mesos
 - +60 standing with [Tick](../npcs/tick.md)
 - +25 standing with Urbanograd
 
@@ -29,16 +31,16 @@
     - *Player*! You did it! Everybody says! Hatch said it and he never says anything before the second cup! I saluted you while you were gone. Three times. In case it helped.
     - Look. Volume three, pages eight, twenty and thirty-one. Zip's arm. In the first one it was a boar as big as a cart. In the second one, as big as a house. In the third, it breathed fire. I wrote them all down exactly, because you write down what people say.
     - But now there is a real one, and you saw it. So I want the true version. Hatch says that is the most important kind, and the rarest.
-    - Will you ask [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) to tell it true, and then ask [Torvi Brask](../npcs/torvi_brask.md), because Torvi was there too? Then come and tell me, and I will write it as version four.
-    - Thank you! Zip first. Make her tell it slow. She goes fast when she gets to the tusks.
+    - Will you ask [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) to tell it true, and then ask [Torvi Brask](../npcs/torvi_brask.md), because Torvi was there too? Then come and tell me, and I will write it as version four. But first, pens. Version four goes in ink, in the good book, and my reed pens are worn to stubs. Bring me **50 [Reed Bundle](../items/reed_bundle.md)s** from the [Reed-Lurker](../monsters/reed_lurker.md)s at the [The Reedwater Bottoms](../maps/reedwater_bottoms.md): a true story deserves a fresh pen.
+    - Pens first! Reeds! Then Zip, then Torvi! Thank you! Zip first. Make her tell it slow. She goes fast when she gets to the tusks.
     - Oh. That is all right. I will keep a page empty. It is a very good page.
-    - [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) first, then [Torvi Brask](../npcs/torvi_brask.md). The true version. Slow at the tusks.
+    - **50 [Reed Bundle](../items/reed_bundle.md)s** for pens, first; you carry (how many you carry). [Zinnia 'Zip' Calloway](../npcs/zinnia_calloway.md) first, then [Torvi Brask](../npcs/torvi_brask.md). The true version. Slow at the tusks.
     - The true version. For Tick's book. Right. Fine. Ahem. Two days out, something big came out of the brush, and everyone reached for spears, and I ran at it. I did not have a plan. I had a borrowed sword and a lot of feelings.
     - I chased it over the stream and up a bank, and it was gone, and I ran right off the top and landed on a rock. That is it. That is the whole story. I did not even see it properly. I saw a back and a lot of bristles.
     - And you went and saw all of it, the whole beast, and you came back, because you knew when to do what. Huh. Tell Tick that is version four. Tell him I said the true one is better. It is not. But it is true.
     - Ha! Tick is writing it down true? Good. Then here is my part. I was on the wrong side of the stream. I splashed across too late. She was on the rock with her arm in two pieces, laughing and shouting about tusks.
     - And I laughed too, and said bravery was wasted on someone who could not fight. That was true. It is less true now. She learned. Not the running, yet. She stayed home from the Wallow, though, and that was the running, a little.
     - Tell Tick that. Tell him the beast was real, and the tracks were five hand-spans, and somebody went and finished it. That is a good story. It does not need fire.
-    - Slower. Slower! I am writing! "The beast was real. She did not see it properly. Torvi was on the wrong side of the stream. She fell off the bank onto a rock. Torvi carried her home."
+    - Reeds! Fifty! I could write the whole city's history with these. Slower. Slower! I am writing! "The beast was real. She did not see it properly. Torvi was on the wrong side of the stream. She fell off the bank onto a rock. Torvi carried her home."
     - "Then, a year later, *Player* went into the Wallow and brought it down, and Zip stayed home, which Torvi says was the running, a little." Version four. The true one. It is shorter than the others. I like it best.
     - I am going to read it to Da tonight. And to Hatch, after the second cup, so he cannot pretend he is not listening. Thank you, *Player*! Salute!

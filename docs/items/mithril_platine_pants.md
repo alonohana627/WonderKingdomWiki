@@ -16,5 +16,5 @@
 ## How to get
 
 - Dropped by [Grey Bull](../monsters/grey_bull.md) (0.06%)
-- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal), [The Undertow](../bosses/undertow.md) (Hard) (6%)
+- Dropped by [The Undertow](../monsters/undertow.md), [The Undertow](../bosses/undertow.md) (Normal) (6%)
 - Sold at [Vessa's Armour](../shops/selsior_armour.md) for 11,000 mesos

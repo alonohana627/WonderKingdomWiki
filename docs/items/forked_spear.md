@@ -19,7 +19,6 @@
 - Dropped by [Axe Stump](../monsters/axe_stump.md) (0.05%)
 - Dropped by [Curse Eye](../monsters/curse_eye.md) (0.08%)
 - Dropped by [Stump](../monsters/stump.md) (0.03%)
-- Dropped by [Gloomfur Lupin](../monsters/gloomfur_lupin.md) (0.08%)
 - Dropped by [Sea Newt](../monsters/sea_newt.md) (0.05%)
 - Dropped by [Shore Crab](../monsters/shore_crab.md) (0.05%)
 - Dropped by [Hoarder Shroom](../monsters/hoarder_shroom.md) (0.08%)

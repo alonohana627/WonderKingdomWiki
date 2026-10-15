@@ -2,7 +2,7 @@
 
 # The Third Play
 
-*Pip Marrow has a finished play in a drawer that she thinks is only good. Ask Dina, in general and without saying whose it is, whether a play that is only good belongs on a cart.*
+*Pip Marrow has a finished play in a drawer that she thinks is only good. Ask Dina, in general and without saying whose it is, whether a play that is only good belongs on a cart. Pip also asks for 30 gloomeye tails for the villain of the third play.*
 
 |  |  |
 |---|---|
@@ -15,11 +15,12 @@
 ## Objectives
 
 - Talk to [Dina Finch](../npcs/orla_finch.md)
+- Bring 30 [Gloomeye Tail](../items/gloomeye_tail.md) (taken)
 
 ## Rewards
 
-- 1,680 EXP
-- 1,620 mesos
+- 12,380 EXP
+- 4,860 mesos
 - +50 standing with [Pip Marrow](../npcs/pip_marrow.md)
 - +15 standing with Urbanograd
 
@@ -27,11 +28,11 @@
 
     - If you are about to say 'Ah, a Marrow', please do not. Everybody says it. I am Pip. Just Pip.
     - I have written three plays. Burned two. The third is in a drawer, finished. It is not bad. That is the problem. It is not bad, and Juna's was brilliant, and nobody remembers the not-bad ones.
-    - Ask [Dina Finch](../npcs/orla_finch.md), for me. Not about my play. Just, in general: whether a play that is only good should ever go on a cart. Do not say it is mine. She will know anyway, but do not say it.
-    - And if she gives a note, do not write it down. If I see it written down I will have to burn it, and I am running out of drawers.
+    - Ask [Dina Finch](../npcs/orla_finch.md), for me. Not about my play. Just, in general: whether a play that is only good should ever go on a cart. Do not say it is mine. She will know anyway, but do not say it. One more favour, and this one is for the play, which does not exist. The villain of my not-bad third play has a tail and shining eyes, and I have never seen a gloomeye up close. Bring me **30 [Gloomeye Tail](../items/gloomeye_tail.md)s** for the prop-maker, so the drawer has something real in it.
+    - And if she gives a note, do not write it down. If I see it written down I will have to burn it, and I am running out of drawers. The tails are from the gloomeyes in the Outworks. Do not tell me how you got them. I will only put it in the play.
     - Wise. Very wise. Nobody should get between a writer and her drawer.
-    - Ask [Dina Finch](../npcs/orla_finch.md) about plays that are only good, *Player*. In general. Very general.
+    - Ask [Dina Finch](../npcs/orla_finch.md) about plays that are only good, *Player*. In general. Very general. Ask [Dina Finch](../npcs/orla_finch.md), and bring **30 [Gloomeye Tail](../items/gloomeye_tail.md)s** for the villain, *Player*.
     - In general? A play that is only good. (Dina looks at you for a long, theatrical moment.) Tell Pip that Juna's play was only good too, the first time. It was the crowd that made it great. The crowd, a cart, and a guild that hauled it away.
     - And tell Pip that when it is ready, she will not have to ask. She will take it out of the drawer and hand it to me herself. Until then it is safe where it is.
-    - She knew it was mine. Of course she did. She knew before you opened your mouth.
+    - And the tails! A real villain, at last. She knew it was mine. Of course she did. She knew before you opened your mouth.
     - Only good, the first time... Fine. It stays in the drawer. But I will stop thinking of the drawer as a grave and start thinking of it as a wing. A very small backstage wing. Thanks, *Player*.

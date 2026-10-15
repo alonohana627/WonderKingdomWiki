@@ -2,7 +2,7 @@
 
 # Names on the Tang
 
-*Ferro has a throwing knife back from the Gate Walk to mend, and a question nobody has ever asked out loud. Go and see Shade, the road guide who carries Ferro's knives.*
+*Ferro has a throwing knife back from the Gate Walk to mend, and a question nobody has ever asked out loud. Go and see Shade, the road guide who carries Ferro's knives. Ferro also wants fresh barkback hide for the grip: bring down 32 barkbacks in the Silent Cutting.*
 
 |  |  |
 |---|---|
@@ -13,12 +13,13 @@
 
 ## Objectives
 
+- Defeat 32 [Barkback](../monsters/barkback.md) in [The Silent Cutting](../maps/silent_cutting.md)
 - Talk to [Shade](../npcs/shade.md)
 
 ## Rewards
 
-- 3,610 EXP
-- 2,100 mesos
+- 23,160 EXP
+- 4,340 mesos
 - +70 standing with [Ferro](../npcs/ferro.md)
 - +15 standing with Urbanograd
 
@@ -26,11 +27,11 @@
 
     - Shade's knives. Six of them, the best I make. Shade never misses and never brags, and never brings one back. Until now. (Ferro holds up a knife with a chipped edge.) Left on my bench with a note: Please mend, do not replace.
     - Mend. Not replace. Nobody says that about a throwing knife. It is cheaper to forge a new one, and Shade knows it. So why?
-    - Go ask [Shade](../npcs/shade.md), at the Gate Walk, why this one is to be mended. Do not say I sent you. ...Fine, say I sent you. Shade will know anyway.
-    - Shade waits by the gate most evenings for travellers coming in off the road. Quiet. You will not see Shade until Shade wants you to.
+    - Go ask [Shade](../npcs/shade.md), at the Gate Walk, why this one is to be mended. Do not say I sent you. ...Fine, say I sent you. Shade will know anyway. And a hide for the grip. Barkback wears longest. Cut **32 [Barkback](../monsters/barkback.md)s** down in the [The Silent Cutting](../maps/silent_cutting.md). A knife with a name deserves a grip with some wear in it.
+    - Shade waits by the gate most evenings for travellers coming in off the road. Quiet. You will not see Shade until Shade wants you to. The Cutting is quiet. Do not talk to it.
     - Fine. I will mend it and not ask. Not asking is a thing I am very good at.
-    - Shade. Gate Walk. Why mend, not replace.
+    - Shade. Gate Walk. Why mend, not replace. And **32 [Barkback](../monsters/barkback.md)s** in the [The Silent Cutting](../maps/silent_cutting.md).
     - Ferro wants to know why? (Shade turns one of the knives over, and shows you the tang under the grip. Two words scratched very small.) Mind the Step. Ferro names them. All of them. I found the names years ago, cleaning them.
     - You do not throw away something that has a name. Tell Ferro that. Do not tell Ferro I know the other five as well. ...Or do. Ferro will pretend not to care.
-    - Shade read them. All six. Years ago. (Ferro sets the chipped knife very carefully on the anvil and looks at it for a long while.)
+    - Cutting thinned. Good. The grip will be wrapped by supper. Shade read them. All six. Years ago. (Ferro sets the chipped knife very carefully on the anvil and looks at it for a long while.)
     - Hm. Well. Mind the Step gets a new edge, then, and keeps its name. Go on, *Player*. I am busy. (Ferro is not busy, and is smiling at the anvil.)

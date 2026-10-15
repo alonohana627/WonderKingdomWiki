@@ -11,6 +11,7 @@
 | Given by | [Brindle](../npcs/brindle.md) |
 | Level | 28 |
 | After | [Under the Fallen Tower](../quests/brindle_under_the_fallen_tower.md) |
+| Leads to | [Reading Tracks](../quests/hatch_reading_tracks.md) |
 
 ## Objectives
 

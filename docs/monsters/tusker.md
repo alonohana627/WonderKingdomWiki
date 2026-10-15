@@ -50,4 +50,6 @@
 ## Quests
 
 - [Hale's Boarwood Bounty](../quests/hales_boarwood_bounty.md)
+- [Stilebrook Farm](../quests/stilebrook_farm.md)
+- [The Woodcutter's Sign](../quests/the_woodcutters_sign.md)
 - [Thinning the Herd](../quests/thinning_the_herd.md)

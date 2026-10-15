@@ -2,7 +2,7 @@
 
 # The Bluecap Mother
 
-*The Bluecaps, the pale threads, the leaning houses: Hale thinks they all come from one place in the Deepwood. Reach the mouth of the Bluecap Hollow, at the foot of Breezy Hollow, and come back.*
+*The Bluecaps, the pale threads, the leaning houses: Hale thinks they all come from one place in the Deepwood. Reach the mouth of the Bluecap Hollow, at the foot of Breezy Hollow, and come back. Thin out 40 Paleveil Caps around the hollow's mouth first. Bring Hale 10 Paleveil caps.*
 
 |  |  |
 |---|---|
@@ -16,6 +16,8 @@
 ## Objectives
 
 - Reach the mouth of the Bluecap Hollow in [Breezy Hollow](../maps/breezy_hollow.md)
+- Defeat 40 [Paleveil Cap](../monsters/paleveil_cap.md)
+- Bring 10 [Paleveil Cap](../items/paleveil_cap.md) (taken)
 
 ## Rewards
 

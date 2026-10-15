@@ -10,6 +10,7 @@
 | Category | Story |
 | Given by | [Merrow](../npcs/merrow_gardener.md) |
 | Level | 20 |
+| After | [Letters for the Capital](../quests/ilwen_letters_selsior.md) |
 | Leads to | [Sitting Up with Ailo](../quests/ailo_night_watch.md), [Rest for the Scholars](../quests/calyra_scholars_rest.md) |
 
 ## Objectives

@@ -43,4 +43,7 @@
 
 - [Hatch's Bounty: the Bristlewood](../quests/hatch_bristlewood_bounty.md)
 - [The Spark Lamp](../quests/margo_the_spark_lamp.md)
+- [Play with Saffi](../quests/piper_play_with_saffi.md)
 - [The Quiet Ones](../quests/rook_the_quiet_ones.md)
+- [The Tusk Path Toll](../quests/shade_the_tusk_path_toll.md)
+- [Scrap and the Roads](../quests/vane_scrap_and_the_roads.md)

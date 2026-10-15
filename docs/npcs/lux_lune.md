@@ -20,7 +20,9 @@
 
 ## Quests
 
+- [Horn for the Beacon Lamps](../quests/lux_horn_for_the_beacon_lamps.md) (gives)
 - [The Beacon Ruins](../quests/lux_the_beacon_ruins.md) (gives)
+- [The Beacon Watch](../quests/lux_the_beacon_watch.md) (gives)
 - [The Smashers](../quests/lux_the_smashers.md) (gives)
 - [The Twelfth Keeper](../quests/lux_twelve_keepers.md) (gives)
 - [Bad News](../quests/scrap_bad_news.md) (completes)

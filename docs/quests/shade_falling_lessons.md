@@ -2,7 +2,7 @@
 
 # Falling Lessons
 
-*Shade once taught Scrap, the rooftop scamp, how to fall from a low wall without breaking anything. Shade wants to know whether the lesson took, without Scrap knowing who is asking. Go and watch Scrap fall.*
+*Shade once taught Scrap, the rooftop scamp, how to fall from a low wall without breaking anything. Shade wants to know whether the lesson took, without Scrap knowing who is asking. Go and watch Scrap fall. Shade also wants the ditch thinned, 20 lampbats, before Scrap follows into the Outworks.*
 
 |  |  |
 |---|---|
@@ -14,11 +14,12 @@
 ## Objectives
 
 - Talk to [Scrap](../npcs/scrap.md)
+- Defeat 20 [Lampbat](../monsters/lampbat.md) in [The Outworks: Outer Ditch](../maps/outworks_ditch.md)
 
 ## Rewards
 
-- 920 EXP
-- 1,320 mesos
+- 4,120 EXP
+- 2,200 mesos
 - +40 standing with [Shade](../npcs/shade.md)
 - +10 standing with Urbanograd
 
@@ -26,13 +27,13 @@
 
     - There's a child on the roofs. Scrap. Vane's girl. Follows me. Thinks I don't see her. I see her.
     - Last spring she came off a low wall wrong and nearly took her wrist with her. So I showed her how to land. Knees soft, roll on the shoulder, never put a hand out. Once. I haven't checked since. She'd know.
-    - Go up to the Rooftops and find [Scrap](../npcs/scrap.md). Get her to show you a fall. Don't say I sent you.
-    - She'll find you before you find her. Let her.
+    - Go up to the Rooftops and find [Scrap](../npcs/scrap.md). Get her to show you a fall. Don't say I sent you. And thin the ditch. She follows me out the gate when she thinks I don't see. **20 [Lampbat](../monsters/lampbat.md)s** in the [The Outworks: Outer Ditch](../maps/outworks_ditch.md), so there's less up there to find her.
+    - She'll find you before you find her. Let her. Out the gate. Don't be seen doing it.
     - Fine. I'll keep not checking.
-    - [Scrap](../npcs/scrap.md), on the Rooftops. Watch her land. Don't mention me.
+    - [Scrap](../npcs/scrap.md), on the Rooftops. Watch her land. Don't mention me. [Scrap](../npcs/scrap.md), and **20 [Lampbat](../monsters/lampbat.md)s** in the Outer Ditch.
     - Boo! Ha, you jumped. Everybody jumps. Except one person, and I am not saying who. What do you want? I am busy. I am practising being an adventurer.
     - A fall? Watch. Off this wall. Knees soft, and you go over on your shoulder like a barrel, and you never, ever put your hand out, because hands are for later. See? Not even a scrape. Again? Watch again.
     - Someone taught me. I am not saying who. It is a secret, and I keep secrets in my tin with my other things. One day I am going to sneak up on that someone, and that someone will not hear me at all.
-    - Knees soft. Shoulder. No hand. Twice, without being asked. Hm.
+    - Ditch thinned. Good. Knees soft. Shoulder. No hand. Twice, without being asked. Hm.
     - She'll be on the roads one day. Can't stop it. Vane can't either. But she'll land right.
     - Thanks. If she asks who sent you, you were just passing. That's true enough. Most people are.

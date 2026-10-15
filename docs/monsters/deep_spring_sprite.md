@@ -36,6 +36,11 @@
 | [Scroll for Topwear for DEF 60%](../items/scroll_topwear_def.md) | 0.35% | 1 |
 | [Scroll for Shoes for Jump 60%](../items/scroll_shoes_jump.md) | 0.35% | 1 |
 | [Scroll for Cape for DEF 60%](../items/scroll_cape_def.md) | 0.35% | 1 |
+| [Neocora](../items/neocora.md) | 0.05% | 1 |
+| [Holy Spear](../items/holy_spear.md) | 0.05% | 1 |
+| [Red Orientican Pants](../items/red_orientican_pants.md) | 0.05% | 1 |
+| [Black Camel Boots](../items/black_camel_boots.md) | 0.05% | 1 |
+| [Adamantium Legend Shield](../items/adamantium_legend_shield.md) | 0.05% | 1 |
 
 ## Quests
 

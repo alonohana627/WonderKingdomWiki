@@ -23,6 +23,8 @@
 
 - [Bite Herbs](../quests/patch_bite_herbs.md) (gives)
 - [Meadow Herbs](../quests/patch_meadow_herbs.md) (gives)
+- [Moss for the Wounded](../quests/patch_moss_for_the_hunt.md) (gives)
+- [Rat Fever](../quests/patch_rat_fever.md) (gives)
 - [The Rare Root](../quests/patch_the_rare_root.md) (gives)
 
 ??? quote "Dialogue"
