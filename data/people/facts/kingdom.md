@@ -146,7 +146,7 @@ All counts are "years before the present day". The present is 50 years after the
 
 ## Set by the coordinator (applies everywhere)
 
-- Geography (canon, decided by Alon 2026-10-15, from the game's world map): Selsior in the middle; the World Tree north of it; Midbarium northwest; Fairy Forest northeast; Urbanograd in the west; Goa Harbour on the west coast; Kaldemor in the southeast, inland; Bain Harbour on the east coast.
+- Geography (canon, decided by Alon 2026-10-15, from the game's world map): the World Tree at the very center of the island (Alon, 2026-10-15); Selsior on the central plain a day's ride south of it; Midbarium northwest; Fairy Forest northeast; Urbanograd in the west; Goa Harbour on the west coast; Kaldemor in the southeast, inland; Bain Harbour on the east coast.
 - Elite and Epic monsters are called "Disturbance-touched" in the world; the worst are "deeply touched".
 - The first standing rank is "Neighbour" (was "Stranger"): the player is a native.
 

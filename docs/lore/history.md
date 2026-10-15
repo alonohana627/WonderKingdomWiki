@@ -41,7 +41,7 @@ So they united, and each gave what it did best:
 - **The Commons** gathered supplies, forged equipment and kept the united armies fed and moving.
 - **The Aristocrats** supplied military organization and leadership, and coordinated the four forces as one.
 
-Together they defeated the Balrog. But they could not destroy it. Instead, the alliance wove a great magical seal and bound the creature deep within the roots of the World Tree.
+Together they defeated the Balrog. But they could not destroy it. Instead, the alliance wove a great magical seal and bound the creature deep within the roots of the World Tree at the heart of Veligor.
 
 That victory ended the Age of Division.
 
