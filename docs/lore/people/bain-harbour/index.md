@@ -2,7 +2,7 @@
 
 # People of Bain Harbour
 
-The 45 people of [Bain Harbour](../../towns/bain-harbour.md) in the game's first release.
+The 46 people of [Bain Harbour](../../towns/bain-harbour.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -46,6 +46,7 @@ The 45 people of [Bain Harbour](../../towns/bain-harbour.md) in the game's first
 | [Barnacle](barnacle.md) | Harbour Cat |
 | [Maren](maren.md) | Harbour Schoolteacher |
 | [Finch](finch.md) | Errand Runner |
+| [Kenwyn](kenwyn.md) | Salvager of the Bellcaves |
 | [Bryony](bryony.md) | Baker of Merchant Street |
 | [Gwennol](gwennol.md) | Fishmonger |
 | [Hesketh](hesketh.md) | Oyster Seller |

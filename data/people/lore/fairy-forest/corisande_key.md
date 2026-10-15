@@ -1,0 +1,29 @@
+Corisande is eighty-one, small, upright and sharp-eyed, and she lives in a tree home halfway along the Lantern Paths with a key on a cord round her neck. It is a long key of dark bronze, as long as her hand, its bow worked into the shape of a curled leaf, worn smooth by three lifetimes of thumbs. It opens the door to the oldest wing of the Grove School, which has been sealed since before anyone's teacher's teacher can remember. Corisande has kept it for fifty-four years. She has never once been through the door.
+
+She is proud, a little prickly and, though she would sooner bite her tongue than say so, quietly lonely. She has kept a duty that nobody remembers giving her, and what hurts is not the keeping. It is that in all those years nobody has ever asked her to use it.
+
+### Three keepers
+
+The key came to her from her mother, Melusine, who had it from her own mother, Eglantine. Corisande remembers her grandmother well: a tall, stern woman who wore the key outside her dress, so that people would see it, and who told the little Corisande that it was "kept for when it is wanted". Wanted by whom, or for what, Eglantine never said, and Corisande has come to suspect she did not know either. Whether Eglantine had it from someone before her, nobody can now say. The family has no papers about it. The Grove School has none that anyone has shown her. It is simply theirs to keep, and they have kept it.
+
+Melusine took the key when Eglantine died, and Corisande took it when her mother died, fifty-four years ago, when she was twenty-seven. She remembers sitting on the step of the school that evening with the key in her lap, waiting for somebody to come and tell her what to do with it. Nobody came. Nobody has come since.
+
+### The door
+
+Every morning, before the Grove School opens, Corisande walks round behind it to the bramble-grown door of the old wing and looks at it. She does not touch the lock. She checks that the door is shut, that the brambles have not been hacked at, and that no student has carved a name in it, and then she goes home. When she finds children daring each other to touch the door, which is often, she tells them sharply to go away, and then, when they have gone, she is sorry she did.
+
+She has wondered, all her life, what is on the other side. Over the years she has watched living trees grow through and around the old wing until it is hard to say where the walls end and the grove begins, and she has heard, on still nights lately, a faint rustling behind the door, like pages turning in a wind. She has told nobody about the rustling. Nobody asks her about the door, and she will not be the one to bring it up.
+
+### Her life
+
+Corisande never married. She kept bees on the Lantern Paths for most of her life and sold honey along them, and the hives stand empty behind her home now, because her hands are no longer steady enough for the frames. She has a small gift, enough to make a candle lean toward her and no more, and she has always thought it a fair joke that the keeper of the school's oldest door was the least gifted person in her family.
+
+Her oldest neighbour on the Lantern Paths is Aspen, the retired treewright, who tells the story of the day the news of the Children came to anyone who will sit still. She has heard it more times than she can count, and she corrects his improvements under her breath. In all the years they have been neighbours, Aspen has never once asked her about the key. She cannot decide whether that is tact or forgetfulness, and it nettles her either way.
+
+### What she wants and fears
+
+She has no daughter to give the key to, and that is what keeps her up at night. She fears that she will be the last of the keepers, that the key will go into a drawer at the Heart Tree when she dies, and that nobody will ever know why her family kept it. What she wants, though it embarrasses her to want it, is for someone to come to her door, ask her properly, and let her open the old wing herself, just once, before she goes.
+
+### Hooks
+
+A quest could bring Corisande the first real reason anyone has ever given her to open the old wing, and walk in beside her with a lantern. Afterwards she might let anyone with the nerve go back in, and stand at the door with her key, very straight, looking as if she had been waiting all her life for exactly this. She has.

@@ -395,6 +395,15 @@ npcs:
     sells: Boots and shoes
     personality: Grumpy, honest and very slow, he will tell you your boots are a disgrace before he mends them beautifully. He does not trust anything that was made in a hurry.
     story: Ned has made the boots of Kaldemor for fifty years and judges people by how they walk. He and Orin have been friends since they were boys and still argue about who won a race neither of them remembers.
+  - id: mott
+    name: Mott
+    title: Travelling Pedlar
+    role: merchant
+    place: Kaldemor Market
+    age: adult
+    sells: Tinware and ribbons, every summer
+    personality: Cheerful, chatty and incurably hopeful, he can sell a ribbon to a scarecrow. He takes in any creature that looks lost.
+    story: Mott is the travelling pedlar who stops at the Sleepy Snail every summer. This year the Shrooms took his wares in the Deepwood and he is stranded in the old woodcutters' hut, keeping a lost lamb and a lost cat company.
 
 relationships:
   # families
@@ -457,3 +466,4 @@ relationships:
   - [orin, ned, oldest friend, oldest friend]
   - [hilda, gareth, neighbour, neighbour]
   - [meg, digby, rival, rival]
+  - [mott, molly, summer guest, innkeeper]

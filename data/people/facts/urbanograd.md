@@ -455,3 +455,12 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Attended the Open Table once (date unset) and laughed aloud when the evening ended in agreeing to talk more next week.
 - Caravan guard on the roads to Kaldemor, Selsior and the harbours. Shade often brings Torvi's caravans in over the last stretch. Swaps stories with Hatch (Torvi after the first cup). Brindle buys Torvi drinks. Has carried bitten travelers to Patch.
 - Zip's caravan (last spring): Torvi crossed the stream too late to stop her fall, laughed and spoke the "bravery wasted" line at the bank, carried her to the wagons, bound the arm. Torvi saw only tracks at the top of the bank, larger than any boar's; the beast was gone. What it was: open.
+
+## Leland (leland)
+
+- He/him. Age 76. Born in Urbanograd in a lean-to against the old fortress wall. Father Caleb (invented, dead), a well-digger who came to the city in its early years; went down shafts with him from age 9; Caleb died when Leland was 30. Never married, no children.
+- Has dug, cleared, lined and capped the city's wells for more than 60 years. The old garrison wells had silted while Old Grad stood empty.
+- His chalk map: on the long wall of his cellar (and now the floor), under his house near the Great Hall.
+- 40 years ago, digging a well in the yard behind the Great Hall kitchens, his shaft broke into a vault: dark water, pillar tops, a vaulted roof (the Floodwells). He only lowered a lantern; the Open Table of the day, after argument, told him to cap it (stone slab and ring bolt). This is "Leland's old well shaft".
+- Hex has made the latches for his well covers for 20 years; Hex looked through the iron door's keyhole with him and called the lock "Aristocrat, and very proud of it". He does not mind Hex's riddles.
+- As Keeper: adds to the map each evening from what those who go down tell him; asks each "what did the stone feel like?" Fears the warm stone (underground stone is always cool, in his experience).

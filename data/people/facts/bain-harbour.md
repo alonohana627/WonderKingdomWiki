@@ -340,3 +340,25 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 ## Town-wide timing (set in review)
 
 - The Disturbance began 50 years ago and the sea changed slowly at first (Annis). The deep water "turned strange" (creatures, torn nets, lights, adventurers hired) only in recent years: Ottilie's small-boat decline spans 10 summers; Ysolde's lights began 3 summers ago; Tristram still hunted 4 years ago; Barnacle stopped a little over a year ago. Never write "since the Disturbance" for a change someone under about 50 remembers beginning; say "since the deep water turned strange".
+
+## Kenwyn (kenwyn)
+
+- Age 69. Born in a fisherman's cottage on the Waterfront; only son; parents (unnamed) long dead. Never married (not stated otherwise; no family).
+- Seasick through his first year at sea; at 22 (47 years ago) went to old Hendra (invented, dead), a woman salvager who worked coast wrecks and the Saltgrace. She died 38 years ago and left him her lamps, bars and place at the top of the salvagers' steps. Rule: never go into a wreck without knowing the way out.
+- Last salvager of the harbour; the only one for about 20 years.
+- Has worked the Saltgrace for over 40 years, for old iron and seasoned timber. Never reached the lowest hold (always flooded) or opened the purser's cabin (deep in the holds, under water at all but the lowest tides; stood at its door twice).
+- Has seen the stamp burned into some Saltgrace timbers for 40 years and never placed it; does not (yet) know it matches Hobart's crates.
+- Named the Holdfast; once, years ago, saw a length of grey body thick as a mast slide past a broken hatch. Always left it alone.
+- This spring, first low tide of the year: wreck full (barnacled crabs in the holds, eels in the bilges, things behind the portholes). Came out unhurt; has not gone back. Sits at the top of the steps near the Patience.
+- Has sold his iron and timber through Hobart's warehouses for 40 years; Hobart reweighs every piece and they argue to the middle.
+
+## Town look (set 2026-10-15, Commerci direction)
+
+- Bain Harbour is a rich, sunlit, self-governing merchant town of the sea, run by the harbour council. Houses of pale stone and sand-coloured plaster under terracotta roofs; canals cut in from the harbour through every quarter, humped stone bridges, water doors on the warehouses.
+- The Harbour Hall is the grandest building on the coast: colonnade, bell tower, broad steps down to a square with market awnings. Old Bain's boat-hook still hangs above its door.
+- Merchant Street runs along the town's main canal under arcades: trading houses, counting rooms, the spice and cloth shops, the bakery, the halls of the trades. Narrow houses and shops on it (Ambrose's, Maren's) are still narrow.
+- The Fish Market stands where the old cove was, by the fishermen's steps: the oldest and plainest corner. Fishing is the humble origin, trade the pride. Small, plain homes (Kenwyn's birthplace, Garrow's narrow house, the Salt and Bread's old net loft) still exist on the Waterfront.
+- Still true: Bain Harbour has no schoolhouse (Maren teaches in her front room); the harbour has one outer pier and Garrow wants a second.
+- The Old Cut: a canal dug in the shipwrights' century across the headland's neck from the north quays to the open sea; disused for a generation (too narrow for today's ships). Its sea gates broke in a storm "a few winters ago"; since then the tide and the deep-water creatures come in along it. The Pinch is now its narrowest, deepest lock (gates rotted away), not a rock cleft.
+- The Holm Wood (holm oak and sea pine) covers the headland's back behind the lighthouse; the shipwrights felled their timber there. At its heart, the Lantern Deep is a collapsed sea cave, a sea-water pool joined under the cliffs to the Drop. The Clatterstones, the Long Reef, the shelf and the Drop are unchanged as places.
+- Kit was found on a lock gate in the Inner Cut (not a rock) in the crab hunt; Tristram goes to the rim of the Lantern Deep (not the rocks above the Drop) to see the Deep Lantern.

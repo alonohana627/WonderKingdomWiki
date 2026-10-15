@@ -419,6 +419,14 @@ npcs:
     age: child
     personality: Cheeky, quick and always knows the latest news first. He would rather run than walk anywhere.
     story: Finch runs messages up and down the docks for a copper a time. He has heard the sailors' stories about the deep water and wants to see a sea creature with his own eyes.
+  - id: kenwyn
+    name: Kenwyn
+    title: Salvager of the Bellcaves
+    role: worker
+    place: Waterfront
+    age: elder
+    personality: Weathered, wry and generous with what he knows, he will draw anyone a map for nothing. He has never been frightened of the sea, and is annoyed to find that he is now.
+    story: Kenwyn has worked the old wreck in the Bellcaves under the south cliff for iron and seasoned timber for years. This spring he found it overrun and stopped going in. He sits at the top of the salvagers' steps and keeps the door.
 
 relationships:
   - [harbour_master_quenna, ambrose_chartmaker, wife, husband]
@@ -481,3 +489,4 @@ relationships:
   - [maren, ossie, teacher, pupil]
   - [barnaby, finch, storyteller, devoted listener]
   - [captain_corwin, tristram, employer, hired harpooner]
+  - [kenwyn, hobart, old trading partner, old trading partner]

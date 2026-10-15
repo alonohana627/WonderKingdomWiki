@@ -53,3 +53,4 @@ A quest could gather rimwort on the far slopes for Lessa, or bring her the beast
 - [Thrun](thrun_brenna.md): father
 - [Neffa](neffa_brenna.md): daughter
 - [Mabbu](mabbu_tolmach.md): grumbling patient
+- [Hallek](hallek_kragvar.md): patient

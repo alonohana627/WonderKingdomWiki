@@ -265,6 +265,15 @@ npcs:
     family: none
     personality: Dreamy, absent-minded and delighted by everything; Imre forgets meals but never forgets a star.
     story: Imre came to Midbarium to study its famous night skies and stayed for the stars and the hospitality. Imre spends nights on the highest terrace charting the heavens and swapping star stories with the Brenna, and hopes one day to be invited to recite at a gathering.
+  - id: hallek_kragvar
+    name: Hallek
+    title: Mason
+    role: craftsman
+    place: Kragvar Quarter
+    age: adult
+    family: Kragvar
+    personality: Steady, stubborn and slow to complain, he would rather mend a wall than talk about what bit him. He has started checking every rope twice.
+    story: Hallek is the Kragvar mason who was bitten on the far canyon bridge this year, the one Lessa treated and Vosk worries over. He is back at work on the terraces with a stiff arm, and he wants to know what lives under that bridge.
 
 relationships:
   # Kragvar
@@ -316,3 +325,5 @@ relationships:
   - [corwell, ennek_tolmach, employer, guide for hire]
   - [imre, ahvi_brenna, friend, friend]
   - [imre, corwell, lodger, landlord]
+  - [hallek_kragvar, vosk_kragvar, mason under him, master of bridges]
+  - [hallek_kragvar, lessa_brenna, patient, bonesetter]

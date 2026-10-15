@@ -322,3 +322,12 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - While the clock was stopped, rang at eight by the sun for nine mornings and announced (unauthorised) that Ewan sent his apologies.
 - Once added a poem about a lost goat to Mildred's notices; she now leaves more room at the bottom of the page.
 - Lost cat Mistress Whiskers: missing 3 weeks, last seen heading toward the woods.
+
+## Mott (mott)
+
+- Age 41. Born on the road to Peg (invented, dead), a pedlar; walked her round with her as a child; took over her pack and round when she died 21 years ago. No house; lodges wherever winter catches him. No other family.
+- Comes to Kaldemor every summer along the Royal Road from the west; stops at the Sleepy Snail on the way east and again on the way back; never missed a summer. Molly gives him the small end room with the crooked window.
+- Sells tinware (cups, pans, ladles, lanterns) and ribbons.
+- This summer: never reached the Snail. Near the farm track to the woods he followed a fat cat (Mistress Whiskers, name unknown to him) toward the trees, got lost in mist. Shrooms in the Bluecap Groves tore his pack and took all the tinware; left the ribbons.
+- Sheltering in the old woodcutters' hut in Breezy Hollow (sound roof, spring nearby, a tin of old meal). About 3 weeks there. Tried to walk out twice; driven back by mushrooms both times. The cat joined him the first evening.
+- Button came to the hut door out of the mist a week ago. Mott tied a blue ribbon on Button and a red ribbon on the cat. Does not know whose they are; won't leave without them.

@@ -2,7 +2,7 @@
 
 # People of Midbarium
 
-The 25 people of [Midbarium](../../towns/midbarium.md) in the game's first release.
+The 26 people of [Midbarium](../../towns/midbarium.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -29,5 +29,6 @@ The 25 people of [Midbarium](../../towns/midbarium.md) in the game's first relea
 | [Neffa](neffa_brenna.md) | Song Learner |
 | [Ahvi](ahvi_brenna.md) | Song-Keeper |
 | [Imre](imre.md) | Stargazer |
+| [Hallek](hallek_kragvar.md) | Mason |
 | [Harra](harra_tolmach.md) | Wool and Cheese Seller |
 | [Corwell](corwell.md) | Keeper of the Trading Post |

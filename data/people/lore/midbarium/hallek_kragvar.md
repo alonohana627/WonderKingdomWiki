@@ -1,0 +1,29 @@
+Hallek is a Kragvar mason, thirty-six years old, broad in the back and slow in the speech, and the sort of man the family sends when a wall has to stand for another hundred years. He is steady, stubborn and very slow to complain. Ask him how his arm is and he will tell you about the wall he is mending instead, in some detail, until you give up. Since the spring he has started checking every rope twice, and he does not explain that either.
+
+### Stone and anchors
+
+Hallek was born in the Kragvar Quarter and put to stone, like every Kragvar child, as soon as he could hold a mallet without dropping it on his foot. His father was a terrace mason who died of a winter cough when Hallek was small; his mother, who cut steps for the terraces until her hands stiffened, died six years ago. He never married. He lives alone in a narrow stone house near the top of the quarter, and he says the house is quiet, which suits him, and the walls are straight, which suits him better.
+
+His trade is the part of a bridge nobody looks at. Every rope-and-plank bridge on Midbarium's cliffs is tied into the rock at both ends, through anchor stones set in seats cut into the living cliff, and Hallek has spent the last twelve years cutting those seats and setting those stones under Vosk, the master of bridges. Vosk ties the knots; Hallek makes sure there is something worth tying them to. They suit each other. Neither talks much on the job, and both of them would rather do a thing twice than once badly. Vosk is the only man in the quarter Hallek will let check his work, and Vosk checks it every time, and Hallek has never once minded.
+
+### The far end
+
+Earlier this year, before anyone found the ropes gnawed, Hallek was out at the far end of the far canyon bridge, on the ledge where its ropes are tied into the rock, resetting an anchor stone that the frost had loosened. He reached down over the lip of the ledge to feel for the lashing ring below it, and something bit him.
+
+He never saw it. That is the part he tells, when he tells it at all. He felt claws scrabble on the rock under his hand, smelled something like wet rope and old straw, and then there were teeth through his sleeve and into his forearm, a short row of them, deep. He pulled back hard, and heard whatever it was go down the cliff face below him faster than anything should climb. When he looked over the edge there was nothing but red rock and the drop.
+
+He walked home across the bridge holding his arm, which he now admits was foolish. By evening the bite was hot and swollen, and Lessa, the bonesetter of Brenna House, cleaned it with her grey bitter rimwort while he sat very still and she tapped a slow beat on the table. He had a fever for three days. The bite closed in the end, but the arm has never come back quite right. It is stiff in the mornings and weak when he lifts above his shoulder, and he works around it without a word.
+
+### Back on the terraces
+
+Lessa would have kept him off the bridges for good if she could. Vosk, who has since found the ropes gnawed twice on the side away from town, will not send anyone out alone any more, and he worries over Hallek more than he says. So for now Hallek is back on the terraces, mending retaining walls and resetting steps, work he could do in his sleep. He is grateful and he is bored, and he is ashamed of being bored.
+
+He thinks about the far end a great deal. He knows how a bridge fails: rot, frost, wind, a bad knot, a bad stone. He did not know a bridge could be eaten. He wants to know what lives under that ledge, and he wants to be there when someone finds out, stiff arm or not.
+
+### What he fears
+
+Hallek fears being made careful for the rest of his life. He fears that one day he will reach over an edge and hesitate, and that the hesitating will cost someone more than the bite cost him.
+
+### Hooks
+
+A quest could sit with Hallek on the terrace wall while he finally tells the whole of what he did not see, or carry his description to Lessa so she can match it to the bites she has been counting. Later, someone who has been to the far end and back might bring him a reason to set a new anchor stone there himself.

@@ -51,3 +51,4 @@ A quest could keep watch with Vosk on the far canyon bridge after dark, or carry
 - [Brakka](brakka_kragvar.md): apprentice
 - [Dorrek](dorrek_kragvar.md): cousin
 - [Thrun](thrun_brenna.md): old friend
+- [Hallek](hallek_kragvar.md): mason under him

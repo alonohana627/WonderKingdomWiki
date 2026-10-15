@@ -48,3 +48,4 @@ A quest could settle a count that Hobart and Garrow cannot agree on, find out wh
 ## Relationships
 
 - [Garrow](garrow.md): old friend
+- [Kenwyn](kenwyn.md): old trading partner

@@ -45,3 +45,4 @@ A quest might begin with Ida asking for someone to go down into the old drains w
 
 - [Rhys](rhys.md): captain
 - [Dickon](dickon.md): husband
+- [Tancred](tancred.md): her late father's drain-mending partner

@@ -1,0 +1,33 @@
+Kenwyn is sixty-nine, the last salvager of Bain Harbour, and he will draw you a map of the Saltgrace for nothing. He will draw it on a scrap of sailcloth, on a slate, on the back of your hand if you hold still, and every plank will be in the right place. He is weathered, wry and generous with what he knows, with a face like an old hull and a laugh like a hull scraping on shingle. He has never been frightened of the sea in his life, and this spring, for the first time, he is, and he is very annoyed about it.
+
+### The salvagers' steps
+
+Kenwyn was born in a fisherman's cottage on the Waterfront, the only son of parents long since dead, and was meant for the boats, but he was seasick every morning of his first year at sea and never got over it. At twenty-two he went instead to old Hendra, the salvager, a tough, cheerful woman who worked the wrecks along the coast and the one great wreck under the harbour's own south cliff. She taught him to read a tide to the minute, to tell sound timber from rotten by the ring of a hammer, and to never, ever go into a wreck without knowing the way out. When she died, thirty-eight years ago, she left him her lamps, her bars and her place at the top of the salvagers' steps, and he has worked from there ever since.
+
+There were other salvagers once. One by one they went to the shipyard or the boats or their graves, and for the last twenty years or so there has only been Kenwyn.
+
+### The Saltgrace
+
+Under the south cliff, below the Waterfront, the sea has hollowed out the Bellcaves, which boom like a bell at every high tide. Deep inside them lies the wreck of the Saltgrace, a great trading ship of the harbour's early days, driven into the caves in a storm long ago and wedged there ever since, her decks tilted down into dark water. Kenwyn has worked her for more than forty years, going in at low tide by the salvagers' steps from the beach and coming out with old iron and timber so seasoned it rings like stone. He knows every plank of her. He has names for her hatches and her ladders, and he talks to her while he works.
+
+He has never been everywhere in her. The lowest hold is always flooded, and the purser's cabin, deep in the holds, lies under water at all but the lowest tides of the year; he has stood at its door twice and never got it open. Burned into some of her timbers is a stamp he has never been able to place, a mark he has seen nowhere else in the harbour, and has wondered about for forty years.
+
+And there has always been something in the Saltgrace that did not like being disturbed. The old salvagers said so, and Hendra said so, and Kenwyn has felt it: the water in the lowest hold moving when nothing moved it, and once, years ago, a length of grey body as thick as a mast sliding past a broken hatch. He calls it the Holdfast, because it has never once let go of the ship, and he has always left it alone.
+
+### This spring
+
+This spring he went in at the first low tide of the year and found the wreck full. Crabs crusted with barnacles were nesting in the holds, eels were striking from the bilges, and things moved behind the portholes that he did not stop to look at. He came out unhurt, which he puts down to Hendra's rule about the way out, and he has not gone back in.
+
+He sits at the top of the salvagers' steps instead, not far from where Tristram's old boat lies under its sailcloth, watching the tide go in and out of the Bellcaves and telling anyone who will listen that he knows that ship better than his own kitchen. It is true. It does him no good.
+
+### Hobart
+
+His oldest trading partner is Hobart, who keeps the harbour warehouses. For forty years Kenwyn has brought his iron and timber to Hobart's sheds, and for forty years Hobart has weighed every piece himself and disagreed with Kenwyn's figures, and they have settled somewhere in the middle over a mug of something. Kenwyn says Hobart is the only honest man in the harbour and the only one who cannot count. Hobart, who hears that remark only with his left ear, has never once heard it.
+
+### What he wants and fears
+
+Kenwyn wants the Saltgrace back, and he wants to work her a few more years before his knees decide for him. He fears that the wreck he has known all his life has become something else while he was not looking, and that the sea he trusted has changed its mind about him.
+
+### Hooks
+
+A quest could take Kenwyn's map into the wreck, find the stamp he has wondered about for forty years and set it beside some other mark in the harbour, or reach the purser's cabin he never got open. And anyone strong enough might, one day, go down to the lowest hold and meet the Holdfast, though Kenwyn will tell them plainly that he would not.

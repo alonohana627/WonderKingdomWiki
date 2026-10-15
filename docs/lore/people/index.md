@@ -6,13 +6,13 @@ Everyone in Wonder Kingdom's first release, town by town.
 
 | Town | People |
 |---|---|
-| [Selsior](selsior/index.md) | 100 |
-| [Kaldemor](kaldemor/index.md) | 40 |
-| [Midbarium](midbarium/index.md) | 25 |
-| [Fairy Forest](fairy-forest/index.md) | 35 |
-| [Urbanograd](urbanograd/index.md) | 60 |
+| [Selsior](selsior/index.md) | 101 |
+| [Kaldemor](kaldemor/index.md) | 41 |
+| [Midbarium](midbarium/index.md) | 26 |
+| [Fairy Forest](fairy-forest/index.md) | 36 |
+| [Urbanograd](urbanograd/index.md) | 61 |
 | [Cavelor](cavelor/index.md) | 15 |
-| [Bain Harbour](bain-harbour/index.md) | 45 |
+| [Bain Harbour](bain-harbour/index.md) | 46 |
 | [Goa Harbour](goa-harbour/index.md) | 45 |
 
 ## Who leads where

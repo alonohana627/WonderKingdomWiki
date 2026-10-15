@@ -2,7 +2,7 @@
 
 # People of Kaldemor
 
-The 40 people of [Kaldemor](../../towns/kaldemor.md) in the game's first release.
+The 41 people of [Kaldemor](../../towns/kaldemor.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -43,6 +43,7 @@ The 40 people of [Kaldemor](../../towns/kaldemor.md) in the game's first release
 | [Percy](percy.md) | Wheelwright |
 | [Winnie](winnie.md) | Weaver |
 | [Ned](ned.md) | Cobbler |
+| [Mott](mott.md) | Travelling Pedlar |
 | [Old Marta](marta.md) | Grocer |
 | [Hilda](hilda.md) | Storage Keeper |
 | [Hattie](hattie.md) | Beekeeper |

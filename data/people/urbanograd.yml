@@ -518,6 +518,14 @@ npcs:
     age: child
     personality: Eager, earnest and always out of breath. Tick salutes everyone, including the cat.
     story: Knox's son runs messages from the gate to the rest of the city and dreams of being an adventurer like Hatch. He keeps a notebook of every traveler's strange story.
+  - id: leland
+    name: Leland
+    title: Keeper of the Low Door
+    role: worker
+    place: Great Hall
+    age: elder
+    personality: Quiet, careful and endlessly curious about what lies under things, he talks to stone as if it might answer. He keeps a chalk map of everything he has dug.
+    story: Leland is an old well-digger who knows more about what lies under Urbanograd's streets than anyone alive. When the iron door under the Great Hall is opened, the Open Table names him its keeper, and he keeps the door, the ropes and a growing map of Low Grad.
 
 relationships:
   # Great Hall
@@ -596,3 +604,4 @@ relationships:
   - [prism, lux_lune, friend, friend]
   - [patch, dagny_roe, healer, friend]
   - [brindle, rook_tallow, captain who reports to the Table, friend]
+  - [leland, hex_dunmore, old customer and friend, the locksmith he asks about old doors]

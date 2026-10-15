@@ -48,3 +48,4 @@ Aspen would like someone to write his story down properly before he forgets whic
 - [Lyra](lyra_singer.md): granddaughter
 - [Oriel](oriel_treewright.md): old friend
 - [Sefa](sefa_child.md): friend
+- [Corisande](corisande_key.md): old neighbour on the Lantern Paths

@@ -2,7 +2,7 @@
 
 # People of Selsior
 
-The 100 people of [Selsior](../../towns/selsior.md) in the game's first release.
+The 101 people of [Selsior](../../towns/selsior.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -93,6 +93,7 @@ The 100 people of [Selsior](../../towns/selsior.md) in the game's first release.
 | [Lucan](lucan.md) | Bargemaster |
 | [Aldith](aldith.md) | Herb Wife of the Riverside |
 | [Tristan](tristan.md) | River Scout |
+| [Tancred](tancred.md) | Retired Drain-Mender |
 | [Aldous](aldous.md) | Keeper of the Royal Vault |
 | [Emmeline](emmeline.md) | Flower Seller |
 | [Piers](piers.md) | Pie Seller |

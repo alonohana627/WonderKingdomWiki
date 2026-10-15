@@ -47,3 +47,4 @@ A quest might solve the returned box, find the traveler who bought it, or carry 
 ## Relationships
 
 - [Velvet](velvet.md): friend
+- [Leland](leland.md): old customer and friend

@@ -268,3 +268,13 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - How the spear was moved while Thorne held it is left unexplained.
 - Knows Seren has noticed the tricks and let them be.
 - After Thorne, has a list of targets; the Grove Council is on it.
+
+## Corisande (corisande_key)
+
+- Age 81. Lives in a tree home halfway along the Lantern Paths. Never married, no children; no heir for the key.
+- The key: dark bronze, as long as her hand, bow shaped like a curled leaf; worn on a cord round her neck.
+- Grandmother Eglantine (dead) kept it, wore it outside her dress, said it was "kept for when it is wanted"; mother Melusine (dead) had it from Eglantine. Whether anyone kept it before Eglantine is unknown. No family papers about it.
+- Corisande took the key when Melusine died, 54 years ago, at 27. Has never been through the door.
+- Checks the old wing's door every morning before the Grove School opens; does not touch the lock; chases off students daring each other to touch it. Lately hears faint rustling like pages behind the door on still nights; told nobody.
+- Kept bees on the Lantern Paths and sold honey for most of her life; hives now empty (unsteady hands). Small gift (can make a candle lean).
+- Neighbour of Aspen for many years; Aspen has never asked her about the key.
