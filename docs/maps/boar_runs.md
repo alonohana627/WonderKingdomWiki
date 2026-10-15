@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Far Slopes |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Hunting |
 | Levels | 34-38 |

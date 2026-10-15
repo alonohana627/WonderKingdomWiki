@@ -24,8 +24,18 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [Marram Cove](../maps/marram_cove.md) | Town | - | - | - |
+
+### The Royal Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Chalk Downs](../maps/chalk_downs.md) | Road | 13 | 4 | [Scrub Wolf](../monsters/scrub_wolf.md) |
 | [Baysight Hill](../maps/baysight_hill.md) | Road | 15 | 5 | [Bluff Wildcat](../monsters/bluff_wildcat.md) |
+
+### The Southern Coastal Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Dune Reach](../maps/dune_reach.md) | Road | 17 | 6 | [Dune Cat](../monsters/dune_cat.md) |
 | [The Long Sands](../maps/long_sands.md) | Road | 19 | 7 | [Grey Tom](../monsters/grey_tom.md) |
 

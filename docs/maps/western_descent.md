@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Stonefang Pass |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Road |
 | Levels | 17-21 |

@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Stonecap Keep |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Hunting |
 | Levels | 57-61 |

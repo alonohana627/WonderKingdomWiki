@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | World Tree Road |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Road |
 | Levels | 11-15 |

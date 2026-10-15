@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Far Slopes |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Boss |
 | Levels | 50 |

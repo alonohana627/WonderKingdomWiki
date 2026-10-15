@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Deepwood |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Hunting |
 | Levels | 40 |

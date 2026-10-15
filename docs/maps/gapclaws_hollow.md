@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Saltface |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Boss |
 | Levels | 50 |

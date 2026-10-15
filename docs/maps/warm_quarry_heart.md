@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Low Grad |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Boss |
 | Levels | 45 |

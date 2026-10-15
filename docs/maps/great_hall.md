@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Midbarium |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Town |
 | Town | [Midbarium](../towns/midbarium.md) |

@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Rootbound Wing |
 | Region | [Fairy Forest](../world/index.md#fairy-forest) |
 | Kind | Dungeon |
 | Levels | 20-24 |

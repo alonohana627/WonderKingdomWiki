@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Royal Road |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Road |
 | Levels | 13 |

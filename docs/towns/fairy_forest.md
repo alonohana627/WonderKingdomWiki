@@ -20,12 +20,17 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Heart Tree, Council Chamber](../maps/heart_tree_chamber.md) | Town | - | 0 | - |
 | [The Old Records](../maps/old_records.md) | Town | - | 0 | - |
 
-### Roads
+### Eastern Forest Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Forest's Hem](../maps/forests_hem.md) | Road | 9-11 | 3 | [Bubbling](../monsters/bubbling.md), [Slime](../monsters/slime.md) |
 | [The Glimmer Path](../maps/glimmer_path.md) | Road | 9-12 | 4 | [Slime](../monsters/slime.md), [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+
+### Royal Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Bloomwood](../maps/bloomwood.md) | Road | 11-13 | 5 | [Glimmerwing](../monsters/glimmerwing.md), [Bubbling](../monsters/bubbling.md) |
 | [The Bloomwood, South](../maps/bloomwood_south.md) | Road | 13-17 | 6 | [Crowned Glimmerwing](../monsters/crowned_glimmerwing.md), [Glimmerwing](../monsters/glimmerwing.md) |
 

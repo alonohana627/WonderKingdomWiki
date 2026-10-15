@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Fairy Forest |
 | Region | [Fairy Forest](../world/index.md#fairy-forest) |
 | Kind | Boss |
 | Levels | 50 |

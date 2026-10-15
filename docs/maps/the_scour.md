@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Forest Jaw |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Boss |
 | Levels | 70 |

@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Boarwood |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Boss |
 | Levels | 30 |

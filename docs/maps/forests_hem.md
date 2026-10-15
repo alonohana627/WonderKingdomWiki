@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Eastern Forest Road |
 | Region | [Fairy Forest](../world/index.md#fairy-forest) |
 | Kind | Road |
 | Levels | 9-11 |

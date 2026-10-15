@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Royal Road |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Road |
 | Levels | 15-17 |

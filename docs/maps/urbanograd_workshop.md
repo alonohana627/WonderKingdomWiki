@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Workshops Row |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Town |
 | Town | [Urbanograd](../towns/urbanograd.md) |

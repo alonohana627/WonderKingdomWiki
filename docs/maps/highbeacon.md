@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Beacon Downs |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Boss |
 | Levels | 70 |

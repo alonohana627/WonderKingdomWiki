@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Old Cut |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Boss |
 | Levels | 30 |

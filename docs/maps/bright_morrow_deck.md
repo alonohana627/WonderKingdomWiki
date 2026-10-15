@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Out Past the Headland |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Run |
 | Difficulty | 15 |

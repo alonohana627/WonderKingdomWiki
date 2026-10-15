@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Royal Road |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Road |
 | Levels | 17-18 |

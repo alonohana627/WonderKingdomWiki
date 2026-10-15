@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Bain Harbour |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Run |
 | Difficulty | 18 |

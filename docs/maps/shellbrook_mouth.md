@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Verdant Coast Road |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Road |
 | Levels | 9-12 |

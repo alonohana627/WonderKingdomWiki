@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Urbanograd |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Town |
 | Town | [Urbanograd](../towns/urbanograd.md) |

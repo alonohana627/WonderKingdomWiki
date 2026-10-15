@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Long Reach |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Boss |
 | Levels | 50 |

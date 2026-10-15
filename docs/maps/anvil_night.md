@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Saltface |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Run |
 | Town | [Goa Harbour](../towns/goa_harbour.md) |

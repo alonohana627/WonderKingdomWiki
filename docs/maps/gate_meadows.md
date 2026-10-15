@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Walkers' Road |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Road |
 | Levels | 16-17 |
