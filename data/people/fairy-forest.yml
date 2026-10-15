@@ -335,6 +335,14 @@ npcs:
     sells: Woven baskets and glade-flower garlands
     personality: Kind, practical and welcoming, Halcy remembers everyone's name after one meeting.
     story: Halcy was among the first of the Children to settle in Fairy Forest and helps newer arrivals find their way. Calyra counts Halcy as a friend and sometimes asks for advice over a basket of flowers.
+  - id: corisande_key
+    name: Corisande
+    title: Keeper of the Old Wing's Key
+    role: resident
+    place: Lantern Paths
+    age: elder
+    personality: Proud, a little prickly and quietly lonely, she has kept a duty nobody remembers giving her. She is hurt that nobody ever asked her to use it.
+    story: Corisande keeps the key to the Grove School's sealed oldest wing, as her mother and grandmother did, though nobody, Corisande included, remembers why her family was given it. She has never been through the door.
 
 relationships:
   - [eldest_calyra, thessaly_councillor, old rival and friend, old rival and friend]
@@ -380,3 +388,4 @@ relationships:
   - [orla_child, thorne_guard, secret prankster, target]
   - [halcy_child, niv_child, guide, friend]
   - [sefa_child, lumi_child, friend, friend]
+  - [corisande_key, aspen_elder, old neighbour on the Lantern Paths, old neighbour on the Lantern Paths]

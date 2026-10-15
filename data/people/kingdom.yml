@@ -13,23 +13,23 @@
 towns:
   selsior:
     name: Selsior
-    count: 100
+    count: 101
     places: [Palace, Plaza, Knights' Court, Crown Market, Selsior Gate, Royal Vault, Theatre Row, Scholars' Quarter, Old Quarter, Riverside]
   kaldemor:
     name: Kaldemor
-    count: 40
+    count: 41
     places: [Town Square, Kaldemor Market, Kaldemor Park, Farms, Workshops]
   midbarium:
     name: Midbarium
-    count: 25
+    count: 26
     places: [Great Hall, Terraces, Kragvar Quarter, Tolmach Camps, Uskari Rim, Brenna House, Trading Post]
   fairy-forest:
     name: Fairy Forest
-    count: 35
+    count: 36
     places: [Heart Tree, Grove School, Lantern Paths, Children's Glade, Herb Gardens, Forest Edge]
   urbanograd:
     name: Urbanograd
-    count: 60
+    count: 61
     places: [Great Hall, Lantern Square, Workshops Row, Night Market, Rooftops, Old Barracks Theatre, Gate Walk]
   cavelor:
     name: Cavelor
@@ -37,7 +37,7 @@ towns:
     places: [Oath Hall, Deep Watch, Root Gardens, Archive, Upper Stair]
   bain-harbour:
     name: Bain Harbour
-    count: 45
+    count: 46
     places: [Harbour Hall, Docks, Shipyard, Fish Market, Lighthouse, Waterfront, Merchant Street]
   goa-harbour:
     name: Goa Harbour

@@ -1,0 +1,27 @@
+Tancred is seventy-seven, a retired drain-mender of the old quarters, and he knows Selsior by its smells and its echoes. Blindfold him at any grating between the plaza and the river and he will tell you which lane you are in from the way the air comes up through it: wet brick here, old lime there, the river close by on the turn of the tide. He is gruff, patient and very fond of a long silence, and he trusts a lantern more than any map, including the good ones.
+
+### Under the lanes
+
+He went down into the old drains at eighteen, carrying buckets for the drain-menders of those days, and he never really came back up. The drains beneath the old quarters are older than the streets above them, and below them lie older works still: walls, arches and the great pillared cisterns of the first fortress-town, which the city simply built over as it grew. Tancred learned them all with a lantern and a pole, by walking them, by listening to the water and by getting lost exactly once, which he says is the right number of times.
+
+At twenty-five he was paired with a young drain-mender named Osgood, and the two of them worked the old drains side by side for thirty years. Osgood was the talker and Tancred was the listener, and between them they cleared every channel, mended every collapse and worked every sluice in the old quarters. Osgood drew a map of the drains in chalk and ink, which Tancred teased him about for thirty years, and which his daughter Ida keeps still. Osgood's little girl carried their lamp on the short jobs, and Tancred taught her which gratings carry a voice and which swallow it. She is the night watchwoman of the old quarters now, and she still knows.
+
+Osgood died twenty-two years ago, when Ida was sixteen. Tancred worked on alone, with whatever young help the city gave him, until his knees gave out seven years ago, and then he climbed up out of the drains for good and has missed them every day since.
+
+### Steps Lane
+
+Tancred lives in Steps Lane, the steep lane of the old quarters with steps instead of cobbles, two doors up from the house where Ida grew up. His wife, Winsome, who kept a pie stall at the bottom of the lane and called him her mole, died eleven years ago. They had no children, and he says, gruffly, that he did not need any, having had the loan of Osgood's.
+
+At the bottom of the lane is an old iron grating, the heaviest in the quarter, over the channel where he and Osgood used to go down. Nobody gave him the keeping of it. He simply took it on. He sweeps the leaves off it, oils its hinge, and sits on the step beside it most evenings with his pipe, listening. He still has the key to the sluice gear in the cisterns below, on a cord round his neck, because nobody ever asked for it back.
+
+### What he hears
+
+For some months now Tancred has not liked what he hears beneath that grating. The water sounds wrong. There is a scraping that comes and goes, slow and heavy, and a dull knocking deep down, like someone patiently taking a wall apart. The rats he used to hear by the hundred have gone quiet, and Lettice the rat catcher says they are moving up into the cellars. Ida has told him about the scratching that keeps pace with her on her rounds, and he has not told her what he thinks, because he does not know what he thinks. He knows only that nothing he ever met in fifty years below the lanes sounded like that.
+
+### What he wants and fears
+
+Tancred wants to go down one more time, and knows his knees will not let him. He fears that whatever is down there is in the cisterns, where the water is deep and the pillars are old, and that Ida, who is as brave as her father was and twice as stubborn, will go and look without him.
+
+### Hooks
+
+A quest might begin the morning the Steps Lane grating is found pushed up from below, with Tancred standing over it in his slippers. Anyone going down with Osgood's map will want Tancred first: he knows how to work the old sluice in the cisterns, which the map does not show, and he will tell them, at length and with a long silence in the middle, to trust the lantern over the map.

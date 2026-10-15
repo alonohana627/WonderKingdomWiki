@@ -2,7 +2,7 @@
 
 # People of Urbanograd
 
-The 60 people of [Urbanograd](../../towns/urbanograd.md) in the game's first release.
+The 61 people of [Urbanograd](../../towns/urbanograd.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -56,6 +56,7 @@ The 60 people of [Urbanograd](../../towns/urbanograd.md) in the game's first rel
 | [Prism](prism.md) | Light-Painter from the Forest |
 | [Patch](patch.md) | Herbalist of the Gate Walk |
 | [Tick](tick.md) | Gate Messenger |
+| [Leland](leland.md) | Keeper of the Low Door |
 | [Dyna](dyna_wick.md) | Tailor of Loud Clothes |
 | [Hester 'Ladle' Cray](juniper_cray.md) | Skewer Seller |
 | [Velvet](velvet.md) | Trader of Curios |

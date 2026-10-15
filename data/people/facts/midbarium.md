@@ -151,3 +151,11 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Workshop open on the rim. Best staves from twisted trees low in the canyon valleys; those valleys are now red on Skarra's map; wood stock at a lifetime low.
 - Agrees with Vosk that nobody else's rope is quite good enough.
 - Made Ketta a new bow and left it at her fire without a word.
+
+## Hallek (hallek_kragvar)
+
+- Age 36. Born in the Kragvar Quarter. Father (unnamed, dead) a terrace mason, died of a winter cough when Hallek was small; mother (unnamed, dead) cut terrace steps, died 6 years ago. Never married, no children. Lives alone in a narrow stone house near the top of the quarter.
+- Has cut anchor-stone seats and set anchor stones for the bridges under Vosk for 12 years. Vosk checks his work every time.
+- The bite: earlier this year, before the ropes were first found gnawed, while resetting a frost-loosened anchor stone at the far end of the far canyon bridge (the Far Anchor ledge). Reached over the lip for the lashing ring below; bitten on the forearm through his sleeve (a short row of deep punctures). Felt claws, smelled wet rope and old straw, heard it go down the cliff fast. Never saw it.
+- Walked home across the bridge; Lessa cleaned the bite with rimwort; 3 days' fever. Arm now stiff in the mornings and weak lifting above the shoulder.
+- Kept off the bridges for now; mending terrace walls and steps. Checks every rope twice since. Knows of the gnawed ropes (the quarter knows Vosk doubled the lashings).

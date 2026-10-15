@@ -47,3 +47,4 @@ One of the travellers on Molly's folded list, a pedlar who stops every summer on
 
 - [Hilda](hilda.md): sister
 - [Jem](jem.md): fiddler
+- [Mott](mott.md): summer guest

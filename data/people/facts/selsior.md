@@ -704,3 +704,11 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - Wife (unnamed) died young. Only child: daughter Elswyth (invented, dead), raised above the stables; married a riverman (unnamed) and lived in Riverside. Both drowned 15 years ago when their barge overturned in a spring flood. So Aylwin's mother was Wystan's daughter.
 - Told Pim not to salute near the horses.
 - Text implies (does not state) that Wystan has noticed Aylwin and Elinor; "who knows" remains formally unset.
+
+## Tancred (tancred)
+
+- Age 77. Went down into the old drains at 18 carrying buckets for the drain-menders of the day. Retired 7 years ago (knees), at 70.
+- Ida's father is named Osgood (dead). Tancred and Osgood worked the old drains as partners for 30 years, from when Tancred was 25 until Osgood died 22 years ago (Ida was 16). Osgood drew the chalk-and-ink map of the drains that Ida keeps. Tancred taught young Ida which gratings carry a voice.
+- Lives in Steps Lane (the steep stepped lane of the old quarters), two doors up from the house where Ida grew up. Wife Winsome (dead 11 years) kept a pie stall at the bottom of the lane; called him her mole. No children.
+- Keeps the heavy iron grating at the bottom of Steps Lane (self-appointed): sweeps, oils its hinge, sits by it evenings with his pipe. Still wears the key to the sluice gear in the Cisterns on a cord round his neck. Knows how to work the old cistern sluice, which Osgood's map does not show.
+- Hears beneath it for some months: wrong-sounding water, a slow heavy scraping, a dull deep knocking "like someone taking a wall apart"; the rats have gone quiet. Has not told Ida what he thinks (he does not know).

@@ -2,7 +2,7 @@
 
 # People of Fairy Forest
 
-The 35 people of [Fairy Forest](../../towns/fairy-forest.md) in the game's first release.
+The 36 people of [Fairy Forest](../../towns/fairy-forest.md) in the game's first release.
 
 | Name | Role |
 |---|---|
@@ -38,6 +38,7 @@ The 35 people of [Fairy Forest](../../towns/fairy-forest.md) in the game's first
 | [Niv](niv_child.md) | Glade Dweller |
 | [Orla](orla_child.md) | Glade Dweller |
 | [Halcy](halcy_child.md) | Garland Weaver |
+| [Corisande](corisande_key.md) | Keeper of the Old Wing's Key |
 | [Galen](galen_wandseller.md) | Staff and Wand Seller |
 | [Celandine](celandine_herbalist.md) | Herbalist |
 | [Vesper](vesper_lanternseller.md) | Lantern Seller |
