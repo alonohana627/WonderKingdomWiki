@@ -464,3 +464,10 @@ Written by NPC lore writers so later writers stay consistent. Not shown on the w
 - 40 years ago, digging a well in the yard behind the Great Hall kitchens, his shaft broke into a vault: dark water, pillar tops, a vaulted roof (the Floodwells). He only lowered a lantern; the Open Table of the day, after argument, told him to cap it (stone slab and ring bolt). This is "Leland's old well shaft".
 - Hex has made the latches for his well covers for 20 years; Hex looked through the iron door's keyhole with him and called the lock "Aristocrat, and very proud of it". He does not mind Hex's riddles.
 - As Keeper: adds to the map each evening from what those who go down tell him; asks each "what did the stone feel like?" Fears the warm stone (underground stone is always cool, in his experience).
+
+
+## Builder dialogue made canon (loremaster, 2026-10-15)
+
+- The Lost Bow: a faded Walker constellation on Starling's old chart; Ozzie thinks it was named for something the Walkers left behind in Selsior.
+- Leland's old well shaft (40 years ago, behind the Great Hall kitchens) broke through into the vaulted roof of Low Grad's Undercroft and was capped by order of the Open Table of the day; once Low Grad is opened, the cap comes off and the shaft becomes a second way down (rope and winch). Leland has dug for about sixty years.
+- Hex, opening the Aristocrat lock, is the one who suggests the Table name Leland Keeper of the Low Door.
