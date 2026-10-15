@@ -14,7 +14,7 @@ The other reason is the iron door. Under the Great Hall, behind the kitchens, is
 
 ### Keeper of the Low Door
 
-When the Open Table at last agrees to open that door, there is really only one person it can name to keep it. Leland is Keeper of the Low Door. He keeps the door, the ropes and the map, and he adds to the map every evening, in chalk, from what the people who go down tell him: the old keep's halls, the flooded cisterns, the long tunnels running out under the hills, and the quarry at the bottom where the stone is warm. He lets anyone with the nerve go down, as often as they like, and he asks every one of them the same question when they come back up: what did the stone feel like?
+When the Open Table at last agrees to open that door, there is really only one person it can name to keep it. It was Hex, kneeling at the lock with his picks, who said aloud that the Table should name Leland its keeper, and nobody argued. Leland is Keeper of the Low Door. He keeps the door, the ropes and the map, and he adds to the map every evening, in chalk, from what the people who go down tell him: the old keep's halls, the flooded cisterns, the long tunnels running out under the hills, and the quarry at the bottom where the stone is warm. He lets anyone with the nerve go down, as often as they like, and he asks every one of them the same question when they come back up: what did the stone feel like?
 
 ### What he wants and fears
 
