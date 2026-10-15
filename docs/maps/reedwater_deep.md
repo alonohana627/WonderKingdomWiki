@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Bristlewood |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Hunting |
 | Levels | 47 |

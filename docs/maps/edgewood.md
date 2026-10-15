@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Northern Woodland Trail |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Road |
 | Levels | 18 |

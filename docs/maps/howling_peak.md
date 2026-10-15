@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The High Ridges |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Boss |
 | Levels | 30 |

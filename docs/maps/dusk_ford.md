@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Western Merchant Road |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Road |
 | Levels | 19-20 |

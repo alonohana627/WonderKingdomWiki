@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Beacon Downs |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Hunting |
 | Levels | 54 |

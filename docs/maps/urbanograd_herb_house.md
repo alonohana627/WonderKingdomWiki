@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Gate Walk |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Town |
 | Town | [Urbanograd](../towns/urbanograd.md) |

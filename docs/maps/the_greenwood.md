@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Royal Road |
 | Region | [The Royal Road](../world/index.md#royal-road) |
 | Kind | Road |
 | Levels | 10-12 |

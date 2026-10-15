@@ -22,20 +22,29 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Old Barracks Yard](../maps/urbanograd_theatre_yard.md) | Town | - | - | - |
 | [Urbanograd](../maps/urbanograd.md) | Town | - | - | - |
 
-### Fields
+### The Walkers' Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Halfway Stone](../maps/halfway_stone.md) | Road | 14-15 | 3 | [Stack Rat](../monsters/stack_rat.md), [Pool Octopus](../monsters/pool_octopus.md) |
 | [Gate Meadows](../maps/gate_meadows.md) | Road | 16-17 | 4 | [Verge Adder](../monsters/verge_adder.md), [Young Gloomeye](../monsters/young_gloomeye.md) |
+
+### Stonefang Pass
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [Seepwater Foothills](../maps/seepwater_foothills.md) | Road | 17-18 | 4 | [Bog-Lurcher](../monsters/bog_lurcher.md), [Seep Toad](../monsters/seep_toad.md) |
 | [Western Descent](../maps/western_descent.md) | Road | 17-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Axe Stump](../monsters/axe_stump.md) |
+
+### Fields
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Outworks: Outer Ditch](../maps/outworks_ditch.md) | Hunting | 22-25 | 6 | [Gloomeye](../monsters/gloomeye.md), [Lampbat](../monsters/lampbat.md) |
 | [The Outworks: Tower Cellars](../maps/outworks_cellars.md) | Hunting | 22 | 7 | [Lampbat](../monsters/lampbat.md) |
 | [The Outworks: Flooded Cellars](../maps/outworks_deep_cellars.md) | Hunting | 22-28 | 8 | [Ditch Rat](../monsters/ditch_rat.md), [Lampbat](../monsters/lampbat.md), [Gloomeye](../monsters/gloomeye.md) |
 | [Bristlewood Edge](../maps/bristlewood_edge.md) | Hunting | 33-37 | 10 | [Bristle Boar](../monsters/bristle_boar.md), [Barkback](../monsters/barkback.md) |
 | [The Silent Cutting](../maps/silent_cutting.md) | Hunting | 37 | 11 | [Barkback](../monsters/barkback.md) |
-| [Hatch's Camp](../maps/hatchs_camp.md) | Road | - | 12 | - |
 | [The Tusk Path](../maps/tusk_path.md) | Hunting | 33-42 | 12 | [Bristle Boar](../monsters/bristle_boar.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
 | [The Reedwater Bottoms](../maps/reedwater_bottoms.md) | Hunting | 42-47 | 13 | [Reed-Lurker](../monsters/reed_lurker.md), [Ironhide Hog](../monsters/ironhide_hog.md) |
 | [Reedwater Bottoms: Zip's Bank](../maps/reedwater_deep.md) | Hunting | 47 | 14 | [Reed-Lurker](../monsters/reed_lurker.md) |
@@ -61,6 +70,12 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Low Grad: the Floodwells](../maps/lowgrad_floodwells.md) | Dungeon | 45 | 12 | [Floodwell Eel](../monsters/floodwell_eel.md) |
 | [Low Grad: the Deep Roads](../maps/lowgrad_deep_roads.md) | Dungeon | 45 | 14 | [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) |
 | [Low Grad: the Warm Quarry](../maps/lowgrad_warm_quarry.md) | Dungeon | 45 | 16 | [Darkstone Golem](../monsters/darkstone_golem.md) |
+
+### The Bristlewood
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [Hatch's Camp](../maps/hatchs_camp.md) | Road | - | 12 | - |
 
 ## Theme dungeon
 

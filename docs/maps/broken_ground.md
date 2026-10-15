@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The High Ridges |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Hunting |
 | Levels | 26-28 |

@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Selsior Downs |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Boss |
 | Levels | 30 |

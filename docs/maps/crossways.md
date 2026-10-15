@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Holm Wood |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Hunting |
 | Levels | 57 |

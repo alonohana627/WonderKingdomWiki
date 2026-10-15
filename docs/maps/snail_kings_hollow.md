@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Kaldemor |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Boss |
 | Levels | 15 |

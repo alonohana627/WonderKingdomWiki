@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Southern Coastal Road |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Town |
 | Town | [Bain Harbour](../towns/bain_harbour.md) |

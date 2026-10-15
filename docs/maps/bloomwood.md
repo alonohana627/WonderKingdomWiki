@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Royal Road |
 | Region | [Fairy Forest](../world/index.md#fairy-forest) |
 | Kind | Road |
 | Levels | 11-13 |

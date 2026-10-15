@@ -30,6 +30,22 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Last Stand](../maps/gauntlet_holdout.md) | Run | - | 3 | - |
 | [The Training Yard](../maps/gauntlet_yard.md) | Run | - | 3 | - |
 
+### Royal Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
+| [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
+| [The Greenwood](../maps/the_greenwood.md) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
+
+### Verdant Coast Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 | [Orchard Pig](../monsters/orchard_pig.md), [Orchard Snail](../monsters/orchard_snail.md) |
+| [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-12 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
+
 ### Boarwood
 
 | Map | Kind | Levels | Difficulty | Monsters |
@@ -38,17 +54,6 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Last Stile](../maps/the_last_stile.md) | Hunting | - | 4 | - |
 | [The Deep Boarwood](../maps/boarwood_deep.md) | Hunting | 27 | 5 | [Tusker](../monsters/tusker.md) |
 | [Stilebrook Farm](../maps/stilebrook_farm.md) | Boss | 30 | 6 | - |
-
-### Road
-
-| Map | Kind | Levels | Difficulty | Monsters |
-|---|---|---|---|---|
-| [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
-| [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 | [Orchard Pig](../monsters/orchard_pig.md), [Orchard Snail](../monsters/orchard_snail.md) |
-| [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
-| [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
-| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-12 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
-| [The Greenwood](../maps/the_greenwood.md) | Road | 10-12 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md) |
 
 ### Deepwood
 

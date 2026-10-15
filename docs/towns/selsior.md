@@ -65,13 +65,18 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Terraced Cuts](../maps/terraced_cuts.md) | Hunting | 58 | 18 | [Quarry Golem](../monsters/quarry_golem.md) |
 | [The Deep Cut](../maps/deep_cut.md) | Hunting | 63-67 | 20 | [Dark Quarry Golem](../monsters/dark_quarry_golem.md), [Cut Golem](../monsters/cut_golem.md) |
 
-### Road
+### World Tree Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Hedge Lanes](../maps/hedge_lanes.md) | Road | 7-9 | 3 | [Slime](../monsters/slime.md), [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
 | [The Waystone Meadows](../maps/waystone_meadows.md) | Road | 11-15 | 4 | [Ribbon Pig](../monsters/ribbon_pig.md), [Green Mushroom](../monsters/green_mushroom.md), [Horny Mushroom](../monsters/horny_mushroom.md) |
 | [The Rootlands](../maps/rootlands.md) | Road | 10-21 | 5 | [Dark Stump](../monsters/dark_stump.md), [Stump](../monsters/stump.md), [Axe Stump](../monsters/axe_stump.md) |
+
+### Quarry Landing
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Quarry Landing](../maps/quarry_landing.md) | Road | - | 9 | - |
 
 ## Theme dungeon

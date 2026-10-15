@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Strandwood |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Hunting |
 | Levels | 24-27 |

@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Sounding Caves |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Dungeon |
 | Levels | 20 |

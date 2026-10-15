@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Kaldemor Gauntlet |
 | Region | [Kaldemor](../world/index.md#kaldemor) |
 | Kind | Run |
 | Difficulty | 3 |

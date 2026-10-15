@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Wreck of the Saltgrace |
 | Region | [Bain Harbour](../world/index.md#bain-harbour) |
 | Kind | Dungeon |
 | Levels | 22-28 |

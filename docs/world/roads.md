@@ -6,7 +6,7 @@ The roads between the towns, and the maps you cross on each.
 
 | Road | From | To | Maps | Levels |
 |---|---|---|---|---|
-| Royal Road | [Selsior](../towns/selsior.md) | [Midbarium](../towns/midbarium.md) | - | - |
+| Royal Road | [Selsior](../towns/selsior.md) | [Midbarium](../towns/midbarium.md) | [The Canyon Road](../maps/canyon_road.md), [The South Path](../maps/south_path.md) | 15-17 |
 | Royal Road | [Selsior](../towns/selsior.md) | [Urbanograd](../towns/urbanograd.md) | [Gate Meadows](../maps/gate_meadows.md), [The Halfway Stone](../maps/halfway_stone.md) | 14-17 |
 | Royal Road | [Selsior](../towns/selsior.md) | [Kaldemor](../towns/kaldemor.md) | [The Greenwood](../maps/the_greenwood.md), [The Crossing](../maps/the_crossing.md), [Kaldemor Woods](../maps/kaldemor_woods.md), [Kaldemor Hills](../maps/kaldemor_hills.md) | 2-12 |
 | Royal Road | [Selsior](../towns/selsior.md) | [Fairy Forest](../towns/fairy_forest.md) | [The Bloomwood, South](../maps/bloomwood_south.md), [The Bloomwood](../maps/bloomwood.md) | 11-17 |
@@ -14,7 +14,7 @@ The roads between the towns, and the maps you cross on each.
 | Royal Road | [Selsior](../towns/selsior.md) | [Goa Harbour](../towns/goa_harbour.md) | [Saltwood Road](../maps/saltwood_road.md), [Gorse Downs](../maps/gorse_downs.md) | 11-18 |
 | World Tree Road | [Selsior](../towns/selsior.md) | The World Tree | [The Hedge Lanes](../maps/hedge_lanes.md), [The Waystone Meadows](../maps/waystone_meadows.md), [The Rootlands](../maps/rootlands.md) | 7-21 |
 | Stonefang Pass | [Midbarium](../towns/midbarium.md) | [Urbanograd](../towns/urbanograd.md) | [Seepwater Foothills](../maps/seepwater_foothills.md), [Western Descent](../maps/western_descent.md) | 17-21 |
-| Northern Woodland Trail | [Midbarium](../towns/midbarium.md) | [Fairy Forest](../towns/fairy_forest.md) | - | - |
+| Northern Woodland Trail | [Midbarium](../towns/midbarium.md) | [Fairy Forest](../towns/fairy_forest.md) | [The North Ridge](../maps/north_ridge.md), [The Edgewood](../maps/edgewood.md), [The Young Woods](../maps/young_woods.md) | 17-19 |
 | Eastern Forest Road | [Fairy Forest](../towns/fairy_forest.md) | [Kaldemor](../towns/kaldemor.md) | [The Glimmer Path](../maps/glimmer_path.md), [The Forest's Hem](../maps/forests_hem.md) | 9-12 |
 | Western Merchant Road | [Goa Harbour](../towns/goa_harbour.md) | [Urbanograd](../towns/urbanograd.md) | [Seaward Woods](../maps/seaward_woods.md), [Dusk Ford](../maps/dusk_ford.md) | 17-20 |
 | Verdant Coast Road | [Kaldemor](../towns/kaldemor.md) | [Bain Harbour](../towns/bain_harbour.md) | [The Cider Lanes](../maps/cider_lanes.md), [The Greenmarsh](../maps/the_greenmarsh.md), [Shellbrook Mouth](../maps/shellbrook_mouth.md) | 8-12 |

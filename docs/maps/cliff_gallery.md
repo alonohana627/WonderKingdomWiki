@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Dustfall Cave |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Dungeon |
 | Levels | 22-24 |

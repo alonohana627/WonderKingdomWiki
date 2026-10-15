@@ -1136,6 +1136,8 @@ class Wiki:
     def map_page(self, mid, m):
         b = [f"# {m['name']}\n"]
         facts = [["Region", self.region(m["region"])], ["Kind", m["purpose"].title()]]
+        if m.get("street") and m["street"] != m["name"]:
+            facts.insert(0, ["Part of", m["street"]])
         if self.level_range([mid]) != "-":
             facts.append(["Levels", self.level_range([mid])])
         if m.get("difficulty"):
@@ -1364,9 +1366,22 @@ class Wiki:
         return f"{min(levels)}" if min(levels) == max(levels) else f"{min(levels)}-{max(levels)}"
 
     def map_area(self, mid):
-        """The folder a town keeps a map in (town, fields, roads, a dungeon's name...)."""
+        """A road map's road (its street), else the folder a town keeps the map in (town, fields, a dungeon's name...)."""
+        m = self.maps[mid]
+        if m.get("purpose") == "road" and m.get("street"):
+            return m["street"]
         parts = self.paths["maps"].get(mid, ())
         return parts[0] if len(parts) > 1 else ""
+
+    def road_maps(self, r):
+        """A world-map road's maps: those it lists, else the road maps that name it as their street in its two places."""
+        maps = [m for m in r.get("maps", []) if m in self.maps]
+        if maps or not r.get("name"):
+            return maps
+        bare = lambda t: re.sub(r"^the ", "", (t or "").lower()).strip()
+        return sorted((m for m, x in self.maps.items() if x.get("purpose") == "road" and bare(x.get("street")) == bare(r["name"])
+                       and x.get("region") in (r["from"], r["to"])),
+                      key=lambda m: (self.maps[m].get("difficulty") or 0, self.maps[m]["name"]))
 
     def people_page(self, nid):
         """The lore page of a game NPC in the wiki's people registry, from docs/ (one level down)."""
@@ -1446,7 +1461,7 @@ class Wiki:
         area_order = sorted(areas, key=lambda a: (a != "town", min((self.maps[m].get("difficulty") or 0) for m in areas[a]), a))
         for a in area_order:
             ms = sorted(areas[a], key=lambda m: (self.maps[m].get("difficulty") or 0, self.maps[m]["name"]))
-            b.append(f"### {a.replace('_', ' ').title() or name}\n")
+            b.append(f"### {(a if ' ' in a or a[:1].isupper() else a.replace('_', ' ').title()) or name}\n")
             b.append(table(["Map", "Kind", "Levels", "Difficulty", "Monsters"], [
                 [self.map(m), (self.maps[m].get("purpose") or "-").title(), self.level_range([m]), self.maps[m].get("difficulty", "-"),
                  ", ".join(self.mob(x) for x in dict.fromkeys(s["mob"] for s in self.maps[m].get("spawns", []) if s.get("mob"))) or "-"]
@@ -1634,7 +1649,7 @@ class Wiki:
         b = ["# Roads of Veligor\n", "The roads between the towns, and the maps you cross on each.\n"]
         rows = []
         for r in v["roads"]:
-            maps = [m for m in r.get("maps", []) if m in self.maps]
+            maps = self.road_maps(r)
             rows.append([r.get("name") or "(unnamed)", place(r["from"]), place(r["to"]),
                          ", ".join(self.map(m) for m in maps) or "-", self.level_range(maps)])
         b.append(table(["Road", "From", "To", "Maps", "Levels"], rows))

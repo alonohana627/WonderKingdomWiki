@@ -35,14 +35,24 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Below the Anvil, at Night](../maps/anvil_night.md) | Run | - | - | - |
 | [Caddoc's Trap, at Night](../maps/caddocs_trap_night.md) | Run | - | - | - |
 
-### Roads
+### The Royal Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [Gorse Downs](../maps/gorse_downs.md) | Road | 11-16 | 4 | [Ribbon Pig](../monsters/ribbon_pig.md), [Ditch Eye](../monsters/ditch_eye.md) |
 | [Saltwood Road](../maps/saltwood_road.md) | Road | 17-18 | 5 | [Dark Stump](../monsters/dark_stump.md), [Zombie Mushroom](../monsters/zombie_mushroom.md) |
+
+### The Western Merchant Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [Seaward Woods](../maps/seaward_woods.md) | Road | 17-18 | 5 | [Lorang](../monsters/lorang.md), [Lupin](../monsters/lupin.md) |
 | [Dusk Ford](../maps/dusk_ford.md) | Road | 19-20 | 6 | [Ligator](../monsters/ligator.md), [Jr. Necki](../monsters/jr_necki.md) |
+
+### Goa Harbour
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
 | [The Gullwalk](../maps/gullwalk.md) | Road | 17-19 | 6 | [Kestrel](../monsters/kestrel.md), [Lorang](../monsters/lorang.md) |
 
 ### Fields

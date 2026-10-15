@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Forest Jaw |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Hunting |
 | Levels | 61-66 |

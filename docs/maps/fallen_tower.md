@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Outworks |
 | Region | [Urbanograd](../world/index.md#urbanograd) |
 | Kind | Boss |
 | Levels | 30 |

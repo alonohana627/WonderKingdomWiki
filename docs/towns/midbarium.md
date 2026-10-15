@@ -22,11 +22,6 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Old War Camp](../maps/old_war_camp.md) | Town | - | - | - |
-| [The Canyon Road](../maps/canyon_road.md) | Road | 15 | 5 | [Dust Boggle](../monsters/dust_boggle.md) |
-| [The North Ridge](../maps/north_ridge.md) | Road | 17 | 6 | [Ridge Stump](../monsters/ridge_stump.md) |
-| [The South Path](../maps/south_path.md) | Road | 15-17 | 6 | [Ridge Stump](../monsters/ridge_stump.md), [Dust Boggle](../monsters/dust_boggle.md) |
-| [The Edgewood](../maps/edgewood.md) | Road | 18 | 7 | [Edge Lizard](../monsters/edge_lizard.md) |
-| [The Young Woods](../maps/young_woods.md) | Road | 19 | 7 | [Snapping Lizard](../monsters/snapping_lizard.md) |
 | [Windworn Hill](../maps/windworn_hill.md) | Hunting | 22 | 8 | [Gnarled Stump](../monsters/gnarled_stump.md) |
 | [The Long Ridge](../maps/long_ridge.md) | Hunting | 21-22 | 9 | [Axe Stump](../monsters/axe_stump.md), [Gnarled Stump](../monsters/gnarled_stump.md) |
 | [The Broken Ground](../maps/broken_ground.md) | Hunting | 26-28 | 10 | [Dark Axe Stump](../monsters/dark_axe_stump.md), [Pale Stump](../monsters/pale_stump.md) |
@@ -50,6 +45,21 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Deserted Ridge](../maps/deserted_ridge.md) | Hunting | 65 | 25 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md) |
 | [The Red Ravine](../maps/red_ravine.md) | Hunting | 65-67 | 27 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md), [Stone Hulk](../monsters/stone_hulk.md) |
 | [The Rootdrinker's Hollow](../maps/rootdrinkers_hollow.md) | Boss | 70 | 30 | - |
+
+### The Royal Road
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [The Canyon Road](../maps/canyon_road.md) | Road | 15 | 5 | [Dust Boggle](../monsters/dust_boggle.md) |
+| [The South Path](../maps/south_path.md) | Road | 15-17 | 6 | [Ridge Stump](../monsters/ridge_stump.md), [Dust Boggle](../monsters/dust_boggle.md) |
+
+### The Northern Woodland Trail
+
+| Map | Kind | Levels | Difficulty | Monsters |
+|---|---|---|---|---|
+| [The North Ridge](../maps/north_ridge.md) | Road | 17 | 6 | [Ridge Stump](../monsters/ridge_stump.md) |
+| [The Edgewood](../maps/edgewood.md) | Road | 18 | 7 | [Edge Lizard](../monsters/edge_lizard.md) |
+| [The Young Woods](../maps/young_woods.md) | Road | 19 | 7 | [Snapping Lizard](../monsters/snapping_lizard.md) |
 
 ## Theme dungeon
 

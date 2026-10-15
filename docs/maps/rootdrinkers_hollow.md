@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Withered Reach |
 | Region | [Midbarium](../world/index.md#midbarium) |
 | Kind | Boss |
 | Levels | 70 |

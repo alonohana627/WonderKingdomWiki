@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Goa Harbour |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Town |
 | Town | [Goa Harbour](../towns/goa_harbour.md) |

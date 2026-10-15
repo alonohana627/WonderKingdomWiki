@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | The Strandwood |
 | Region | [Goa Harbour](../world/index.md#goa-harbour) |
 | Kind | Boss |
 | Levels | 30 |

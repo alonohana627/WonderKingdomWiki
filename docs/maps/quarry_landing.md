@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Quarry Landing |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Road |
 | Difficulty | 9 |

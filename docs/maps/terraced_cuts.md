@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Upstream Quarries |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Hunting |
 | Levels | 58 |

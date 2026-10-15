@@ -4,6 +4,7 @@
 
 |  |  |
 |---|---|
+| Part of | Selsior |
 | Region | [Selsior](../world/index.md#selsior) |
 | Kind | Town |
 | Town | [Selsior](../towns/selsior.md) |
