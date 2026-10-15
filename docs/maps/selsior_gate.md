@@ -11,14 +11,14 @@
 
 ## Exits
 
-- [Royal Plaza](../maps/selsior.md)
-- [The Gate Inn](../maps/gate_inn.md)
 - [The Greenwood](../maps/the_greenwood.md)
 - [The Chalk Downs](../maps/chalk_downs.md)
 - [The Bloomwood, South](../maps/bloomwood_south.md)
 - [The Canyon Road](../maps/canyon_road.md)
 - [The Halfway Stone](../maps/halfway_stone.md)
 - [Gorse Downs](../maps/gorse_downs.md)
+- [Royal Plaza](../maps/selsior.md)
+- [The Gate Inn](../maps/gate_inn.md)
 
 ## NPCs
 

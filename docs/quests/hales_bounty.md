@@ -20,6 +20,7 @@
 
 - 100 EXP
 - 200 mesos
+- [Copper Ore](../items/copper_ore.md) x2
 
 The first time you complete it instead: 150 EXP, 300 mesos, +30 standing with Kaldemor
 

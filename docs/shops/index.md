@@ -16,12 +16,12 @@ Shops sell items for their price times the shop's markup, and buy anything sella
 | [Galen's Staves and Scrolls](../shops/galens_shop.md) | [Galen](../npcs/galen_wandseller.md) | [Galen's Staves and Scrolls](../maps/galens_shop.md) | 10 |
 | [Halcy's Baskets and Garlands](../shops/halcys_garlands.md) | [Halcy](../npcs/halcy_child.md) | [Children's Glade](../maps/childrens_glade.md) | 1 |
 | [Vesper's Lights](../shops/vesper_lights.md) | [Vesper](../npcs/vesper_lanternseller.md) | [Fairy Forest](../maps/fairy_forest.md) | 3 |
-| [Brodie's Fish](../shops/brodies_fish.md) | [Brodie](../npcs/brodie_fishmonger.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
+| [Brodie's Fish](../shops/brodies_fish.md) | [Brodie](../npcs/brodie_fishmonger.md) | [The Lantern Market](../maps/lantern_market.md) | 4 |
 | [Elspeth's Remedies](../shops/elspeths_remedies.md) | [Elspeth](../npcs/elspeth_healer.md) | [Elspeth's House](../maps/elspeths_house.md) | 5 |
 | [The Gap Inn](../shops/gap_inn.md) | [Bethoc](../npcs/bethoc_innkeeper.md) | [The Gap Inn](../maps/gap_inn.md) | 3 |
-| [Greer's Furs](../shops/greers_furs.md) | [Greer](../npcs/greer_furs.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
+| [Greer's Furs](../shops/greers_furs.md) | [Greer](../npcs/greer_furs.md) | [The Lantern Market](../maps/lantern_market.md) | 4 |
 | [Gwenna's Outfitting](../shops/gwennas_outfitting.md) | [Gwenna](../npcs/gwenna_outfitter.md) | [Gwenna's Outfitters](../maps/gwennas_outfitters.md) | 11 |
-| [Morag's Wool](../shops/morags_wool.md) | [Morag](../npcs/morag_wool.md) | [Goa Harbour](../maps/goa_harbour.md) | 4 |
+| [Morag's Wool](../shops/morags_wool.md) | [Morag](../npcs/morag_wool.md) | [The Lantern Market](../maps/lantern_market.md) | 4 |
 | [Marta's General Store](../shops/grocer.md) | [Old Marta](../npcs/marta.md) | [Old Marta's Store](../maps/martas_store.md) | 9 |
 | [Bram's Potions](../shops/potions.md) | [Bram](../npcs/bram.md) | [Kaldemor Market](../maps/kaldemor_market.md) | 7 |
 | [Gareth's Smithy](../shops/smith.md) | [Gareth](../npcs/gareth.md) | [Gareth's Smithy](../maps/gareths_smithy.md) | 25 |
@@ -35,7 +35,7 @@ Shops sell items for their price times the shop's markup, and buy anything sella
 | [Jasper's Curiosities](../shops/jasper_curios.md) | [Jasper](../npcs/jasper.md) | [Crown Market](../maps/selsior_market.md) | 6 |
 | [Margery's Bakery](../shops/margery_bakery.md) | [Margery](../npcs/margery.md) | [Crown Market](../maps/selsior_market.md) | 3 |
 | [Piers's Pies](../shops/piers_pies.md) | [Piers](../npcs/piers.md) | [Royal Plaza](../maps/selsior.md) | 3 |
-| [Prudence's Reagents](../shops/prudence_reagents.md) | [Prudence](../npcs/prudence.md) | [Scholars' Quarter](../maps/selsior_scholars.md) | 5 |
+| [Prudence's Reagents](../shops/prudence_reagents.md) | [Prudence](../npcs/prudence.md) | [Prudence's Workshop](../maps/alchemists_workshop.md) | 5 |
 | [Rosalind's Herbs](../shops/rosalind_herbs.md) | [Rosalind](../npcs/rosalind.md) | [Crown Market](../maps/selsior_market.md) | 7 |
 | [Vessa's Armour](../shops/selsior_armour.md) | [Vessa](../npcs/vessa.md) | [Selene's Forge](../maps/selenes_forge.md) | 65 |
 | [Selene's Arms](../shops/selsior_arms.md) | [Selene](../npcs/selene.md) | [Selene's Forge](../maps/selenes_forge.md) | 35 |

@@ -21,6 +21,7 @@
 
 - 120 EXP
 - 200 mesos
+- [Copper Ore](../items/copper_ore.md) x5
 - Recipe: [Bronze Axe](../items/bronze_axe.md) ([Smithing](../professions/smithing.md))
 - +20 standing with Kaldemor
 

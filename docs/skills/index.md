@@ -43,9 +43,33 @@ Skill numbers come from formulas of the skill level; each table below works them
 | [Capital Eyes](../skills/passives.md#capital-eyes) | Passive | Passive | 1 | You see the capital the way its guards do: where a hand is going before it moves. |
 | [Pathfinder](../skills/passives.md#pathfinder) | Passive | Passive | 1 | Five finds have taught you what a hidden place looks like from the outside. |
 | [Highland Lungs](../skills/passives.md#highland-lungs) | Passive | Passive | 1 | You have walked the high ridges until the thin air stopped bothering you. |
-| [Warden-Friend](../skills/passives.md#warden-friend) | Passive | Passive | 1 | The wardens of the sea count you as one of their own, and it steadies you. |
-| [Cave Sense](../skills/passives.md#cave-sense) | Passive | Passive | 1 | You know which way the water moves in a dark place, and which way out. |
-| [Brush and Sinew](../skills/passives.md#brush-and-sinew) | Passive | Passive | 1 | Two hundred foxes taught you to watch the dust, not the fox. |
-| [Climbers' Grip](../skills/passives.md#climbers-grip) | Passive | Passive | 1 | You have pulled enough newts off the cliffs to keep your own feet on them. |
-| [Salt-Hardened](../skills/passives.md#salt-hardened) | Passive | Passive | 1 | Stone and weed and salt water have made you hard to move. |
-| [Gap Inn Regular](../skills/passives.md#gap-inn-regular) | Passive | Passive | 1 | Bethoc keeps a bowl of stew back for you, and a seat by the fire. |
+| [Gnarlwood Grip](../skills/passives.md#midbarium-gnarlwood-grip) | Passive | Passive | 1 | Old Gnarl's heartwood taught your hands what holding on means. |
+| [Grimhorn's Hide](../skills/passives.md#midbarium-grimhorn-hide) | Passive | Passive | 1 | You stood against the raider of the herds, and something of its hide stayed with you. |
+| [Greywater Spring](../skills/passives.md#midbarium-rootdrinker-spring) | Passive | Passive | 1 | The water runs again in the cleft, and you carry a little of its patience. |
+| [Frost Fang](../skills/passives.md#midbarium-frost-fang) | Passive | Passive | 1 | Hollowmaw's cold went into the bone of your sword arm and stayed there. |
+| [Friend of the Four Families](../skills/passives.md#midbarium-four-families) | Passive | Passive | 1 | The Old One spoke your name in council, and all four families stood for it. |
+| [Hive Ward](../skills/passives.md#selsior-hive-ward) | Passive | Passive | 1 | You stood under Queen Amberwing's dive and walked away. Your feet stay quick. |
+| [River Grip](../skills/passives.md#selsior-river-grip) | Passive | Passive | 1 | You held your ground when the Heron Pool heaved. Longjaw taught your arms what weight is. |
+| [Quarry Stone](../skills/passives.md#selsior-quarry-stone) | Passive | Passive | 1 | Old Cairn's falling face could not bury you. Some of the First Cut's stone stays in your bones. |
+| [Drain Sense](../skills/passives.md#selsior-drain-sense) | Passive | Passive | 1 | You heard the Delver dig before it erupted. You still listen to the ground. |
+| [Quill's Grit](../skills/passives.md#kaldemor-quills-grit) | Passive | Passive | 1 | You ran Quill's whole Gauntlet, and he nodded. Once. |
+| [Tuskhide](../skills/passives.md#kaldemor-tuskhide) | Passive | Passive | 1 | Gnarltusk's charge taught you how to take a blow and stay up. |
+| [Spore Sight](../skills/passives.md#kaldemor-spore-sight) | Passive | Passive | 1 | You learned to see through the Bluecap Mother's spore clouds. |
+| [Crownbreaker](../skills/passives.md#kaldemor-crownbreaker) | Passive | Passive | 1 | You brought the Cap King down from his tower. |
+| [Good Neighbour](../skills/passives.md#kaldemor-good-neighbour) | Passive | Passive | 1 | Dottie's lamb came home, and the lane will not forget who helped. |
+| [Brushtail's Cunning](../skills/passives.md#goa-brushtails-cunning) | Passive | Passive | 1 | You learned to watch the dust, not the fox, and your feet learned it too. |
+| [The Gapclaw's Scar](../skills/passives.md#goa-gapclaws-scar) | Passive | Passive | 1 | Torva has one like it. Every fisher in the Gap Inn knows what it means. |
+| [The Undertow's Pull](../skills/passives.md#goa-undertows-pull) | Passive | Passive | 1 | You stood in the Scour when the water turned, and did not go with it. |
+| [Ink Sight](../skills/passives.md#goa-ink-sight) | Passive | Passive | 1 | You know which way the water moves in a dark place, and which way out. |
+| [Warden-Friend](../skills/passives.md#goa-warden-friend) | Passive | Passive | 1 | The wardens of the sea count you as one of their own, and it steadies you. |
+| [Night Eyes](../skills/passives.md#urbanograd-night-eyes) | Passive | Passive | 1 | Watching for the Gloamwing's dive in the dark of the Fallen Tower taught your eyes to find a shape against the black. |
+| [Tusk Hide](../skills/passives.md#urbanograd-tusk-hide) | Passive | Passive | 1 | You stood in the Wallow while Hackleback came through the mud at you, and you are harder for it. |
+| [Crest Wind](../skills/passives.md#urbanograd-crest-wind) | Passive | Passive | 1 | The wind on the Highbeacon carried Stormcrest's feathers past you; now it seems to carry you. |
+| [Warm Hands](../skills/passives.md#urbanograd-warm-hands) | Passive | Passive | 1 | A chip of the warm stone rode home in your pocket from the heart of the Warm Quarry. Your hands have not been cold since. |
+| [Lantern Sight](../skills/passives.md#bain-lantern-sight) | Passive | Passive | 1 | You read the Deep Lantern by its lights in the dark. Nothing in deep water hides from you quite so well again. |
+| [Holdfast Grip](../skills/passives.md#bain-holdfast-grip) | Passive | Passive | 1 | You made the Holdfast let go of the Saltgrace. Your own grip has not been the same since. |
+| [Freedom of the Harbour](../skills/passives.md#bain-freedom-of-the-harbour) | Passive | Passive | 1 | The council of Bain Harbour gave you its freedom: every quay and every short cut along the canals is yours. |
+| [Lake Ward](../skills/passives.md#fairy-forest-lake-ward) | Passive | Passive | 1 | You stood in the Blightstone's bitter water until it stopped hurting. |
+| [Crown Grip](../skills/passives.md#fairy-forest-crown-grip) | Passive | Passive | 1 | Old Grizzlemane taught you to hold on when the whole tree shakes. |
+| [Thornproof](../skills/passives.md#fairy-forest-thornproof) | Passive | Passive | 1 | The Knotbriar's thorns found every gap in your guard, and you closed them. |
+| [The Rising Sap](../skills/passives.md#fairy-forest-rising-sap) | Passive | Passive | 1 | You were there when the forest's oldest root woke. Something of it stayed with you. |

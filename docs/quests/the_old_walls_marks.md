@@ -24,6 +24,9 @@
 
 - 80,000 EXP
 - 5,000 mesos
+- [Scroll Paper](../items/scroll_paper.md) x6
+- [Herbal Ink](../items/herbal_ink.md) x5
+- +100 [Honor](../systems/honor.md)
 - +35 standing with Kaldemor
 - +50 standing with [Lottie](../npcs/lottie.md)
 

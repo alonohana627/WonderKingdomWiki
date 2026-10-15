@@ -23,6 +23,8 @@
 
 - 1,200 EXP
 - 900 mesos
+- [Green Cloth](../items/green_cloth.md) x3
+- [Copper Ingot](../items/copper_ingot.md) x2
 - [White Potion](../items/white_potion.md) x5
 - +40 standing with Kaldemor
 

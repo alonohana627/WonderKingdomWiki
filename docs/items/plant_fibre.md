@@ -13,6 +13,9 @@
 
 - Sold at [Isabeau's Cloth](../shops/isabeau_cloth.md) for 4 mesos
 - Gathered from Hay Bale ([Gathering](../professions/gathering.md) level 1)
+- Reward from [Settling In](../quests/settling_in.md)
+- Reward from [The Woodcutter's Sign](../quests/the_woodcutters_sign.md)
+- Reward from [Kaldemor's Pest Watch](../quests/tobins_pest_watch.md)
 
 ## Used for
 

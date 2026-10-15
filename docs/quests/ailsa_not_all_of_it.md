@@ -23,8 +23,10 @@
 - 64,500 EXP
 - 2,700 mesos
 - [Sounding Charm](../items/sounding_lantern_charm.md) x1
+- Passive: [Warden-Friend](../skills/passives.md#goa-warden-friend)
 - +60 standing with Goa Harbour
 - +200 standing with [Ailsa](../npcs/ailsa_tidebook.md)
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

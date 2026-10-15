@@ -24,6 +24,7 @@
 - 48,000 EXP
 - 8,000 mesos
 - [Elixir](../items/elixir.md) x3
+- One of: [Cutlass](../items/cutlass.md), [Steel Sharp Helm](../items/steel_sharp_helm.md), [Mithril War Boots](../items/mithril_war_boots.md)
 - +60 standing with Kaldemor
 
 ??? quote "Dialogue"

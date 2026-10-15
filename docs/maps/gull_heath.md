@@ -14,6 +14,16 @@
 - [Goa Harbour](../maps/goa_harbour.md)
 - [Saltwood Road](../maps/saltwood_road.md)
 - [Seaward Woods](../maps/seaward_woods.md)
+- [Kestra's Rope Loft](../maps/kestras_rope_loft.md)
+- [The Cliff Watch House](../maps/cliff_watch_house.md)
+- [Ysmay's House](../maps/ysmays_house.md)
+
+## NPCs
+
+- [Gorm](../npcs/gorm_stairs.md) (Master of the Stairs)
+- [Hamish](../npcs/hamish_lift.md) (Rope-Lift Keeper)
+- [Ulric](../npcs/ulric_stonecarver.md) (Stonecarver)
+- [Fionn](../npcs/fionn_child.md) (Stair Runner)
 
 ## Discoveries
 

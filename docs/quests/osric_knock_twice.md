@@ -15,7 +15,7 @@
 ## Objectives
 
 1. Defeat 40 [Driftstump](../monsters/driftstump.md)
-2. Look at the last stump in [Goa Harbour](../maps/goa_harbour.md)
+2. Look at the last stump in [Gull Heath](../maps/gull_heath.md)
 
 ## Rewards
 

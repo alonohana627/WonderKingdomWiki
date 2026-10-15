@@ -23,6 +23,8 @@
 - 1,500 EXP
 - 600 mesos
 - [Orange Potion](../items/orange_potion.md) x10
+- One of: [Long Sword](../items/long_sword.md), [Wooden Samurai Sword](../items/samurai_sword.md), [Steel Axe](../items/steel_axe.md)
+- +100 [Honor](../systems/honor.md)
 - +20 standing with Kaldemor
 
 ??? quote "Dialogue"

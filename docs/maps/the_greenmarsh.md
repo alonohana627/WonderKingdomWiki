@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Reed Snake](../monsters/reed_snake.md) | 11 | 3 |
 | [Marsh Slime](../monsters/marsh_slime.md) | 10 | 7 |
 | [Mud Octopus](../monsters/mud_octopus.md) | 10 | 5 |
+| [Reed Snake](../monsters/reed_snake.md) | 11 | 3 |
 
 ## Gathering
 

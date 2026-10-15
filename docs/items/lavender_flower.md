@@ -14,6 +14,7 @@
 - Sold at [Emmeline's Flower Stall](../shops/emmeline_flowers.md) for 12 mesos
 - Sold at [Rosalind's Herbs](../shops/rosalind_herbs.md) for 12 mesos
 - Gathered from Lavender Patch ([Herbalism](../professions/herbalism.md) level 3)
+- Reward from [Rosa's Recipe](../quests/rosas_recipe.md)
 
 ## Used for
 

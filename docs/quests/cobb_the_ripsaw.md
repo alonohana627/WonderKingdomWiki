@@ -26,6 +26,7 @@
 - [Elixir](../items/elixir.md) x4
 - +60 standing with [Cobb](../npcs/cobb.md)
 - +25 standing with Bain Harbour
+- +200 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -22,8 +22,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Orchard Pig](../monsters/orchard_pig.md) | 9 | 9 |
 | [Orchard Snail](../monsters/orchard_snail.md) | 8 | 8 |
+| [Orchard Pig](../monsters/orchard_pig.md) | 9 | 9 |
 
 ## Gathering
 

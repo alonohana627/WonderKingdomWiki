@@ -12,7 +12,6 @@
 ## Exits
 
 - [Urbanograd](../maps/urbanograd.md)
-- [Urbanograd](../maps/urbanograd.md)
 
 ## NPCs
 

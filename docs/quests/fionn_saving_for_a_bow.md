@@ -14,7 +14,7 @@
 
 ## Objectives
 
-1. Reach the last stump in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the last stump in [Gull Heath](../maps/gull_heath.md)
 2. Defeat 50 [Strand Fox](../monsters/strand_fox.md) in [Strandwood Rocks](../maps/strandwood_rocks.md)
 3. Bring 12 [Fox Sinew](../items/fox_sinew.md) (taken)
 

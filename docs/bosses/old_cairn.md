@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 70 | 266,448 | 176,161 | 302 | 700 / 700 |
 
-First clear: +100 standing with Selsior
+First clear: Passive: [Quarry Stone](../skills/passives.md#selsior-quarry-stone), +100 standing with Selsior, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Selsior
 
@@ -70,7 +70,7 @@ Every clear: +10 standing with Selsior
 |---|---|---|---|---|
 | 73 | 266,448 | 176,161 | 302 | 700 / 700 |
 
-First clear: +200 standing with Selsior
+First clear: +200 standing with Selsior, +300 [Honor](../systems/honor.md)
 
 Every clear: +20 standing with Selsior
 

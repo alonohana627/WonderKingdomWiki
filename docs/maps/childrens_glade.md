@@ -12,9 +12,9 @@
 ## Exits
 
 - [Fairy Forest](../maps/fairy_forest.md)
-- [The Glade's Gathering Hall](../maps/glade_elders_hall.md)
 - [A Glade Home](../maps/glade_west_home.md)
 - [The Glade's Story House](../maps/glade_book_house.md)
+- [The Glade's Gathering Hall](../maps/glade_elders_hall.md)
 - [Halcy's Weaving Room](../maps/glade_basket_house.md)
 - [A Glade Home, East](../maps/glade_east_home.md)
 
@@ -22,8 +22,8 @@
 
 - [Lumi](../npcs/lumi_child.md) (Glade Dweller)
 - [Sefa](../npcs/sefa_child.md) (Glade Storyteller)
-- [Niv](../npcs/niv_child.md) (Glade Dweller)
 - [Orla](../npcs/orla_child.md) (Glade Dweller)
+- [Niv](../npcs/niv_child.md) (Glade Dweller)
 - [Halcy](../npcs/halcy_child.md) (Garland Weaver)
 - [Shimmer Songbird](../npcs/glade_songbird.md)
 - [Moonmane](../npcs/glade_unicorn.md)

@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 23,052 | 14,301 | 158 | 180 / 180 |
 
-First clear: +60 standing with Selsior
+First clear: Passive: [Drain Sense](../skills/passives.md#selsior-drain-sense), +60 standing with Selsior, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Selsior
 
@@ -81,7 +81,7 @@ Every clear: +10 standing with Selsior
 |---|---|---|---|---|
 | 33 | 23,052 | 14,301 | 158 | 180 / 180 |
 
-First clear: +120 standing with Selsior
+First clear: +120 standing with Selsior, +300 [Honor](../systems/honor.md)
 
 Every clear: +20 standing with Selsior
 

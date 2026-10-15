@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Greer in the lore](../lore/people/goa-harbour/greer_furs.md) |
 | Services | Shop: [Greer's Furs](../shops/greers_furs.md) |
 

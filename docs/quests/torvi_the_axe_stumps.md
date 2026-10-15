@@ -25,6 +25,7 @@
 - [Gate Watch Saber](../items/gate_watch_saber.md) x1
 - +50 standing with [Torvi Brask](../npcs/torvi_brask.md)
 - +20 standing with Urbanograd
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

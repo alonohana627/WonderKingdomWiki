@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 70 | 175,755 | 2,937 | 325 | 560 / 560 |
 
-First clear: +60 standing with Urbanograd
+First clear: 10,000 mesos, Passive: [Crest Wind](../skills/passives.md#urbanograd-crest-wind), +60 standing with Urbanograd, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Urbanograd
 
@@ -54,7 +54,7 @@ Attacks:
 |---|---|---|---|---|
 | 73 | 175,755 | 2,937 | 325 | 560 / 560 |
 
-First clear: +100 standing with Urbanograd
+First clear: 20,000 mesos, [Marsh Boots](../items/marsh_boots.md) x1, +100 standing with Urbanograd, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Urbanograd
 

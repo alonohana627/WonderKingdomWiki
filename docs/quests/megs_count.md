@@ -21,6 +21,7 @@
 
 - 150,000 EXP
 - 9,000 mesos
+- [Iron Ingot](../items/iron_ingot.md) x6
 - [Spore Draught](../items/spore_draught.md) x10
 - +45 standing with Kaldemor
 

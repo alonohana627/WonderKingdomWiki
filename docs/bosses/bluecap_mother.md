@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 50 | 45,000 | 65,000 | 154 | 300 / 300 |
 
-First clear: +120 standing with Kaldemor
+First clear: [Bluecap Mother's Cap](../items/bluecap_mothers_cap.md) x1, [Bluecap Mother's Spore](../items/bluecap_mother_spore.md) x4, Passive: [Spore Sight](../skills/passives.md#kaldemor-spore-sight), +150 [Honor](../systems/honor.md), +120 standing with Kaldemor
 
 Attacks:
 
@@ -71,7 +71,7 @@ Attacks:
 |---|---|---|---|---|
 | 53 | 45,000 | 65,000 | 175 | 320 / 320 |
 
-First clear: +200 standing with Kaldemor
+First clear: [Elixir](../items/elixir.md) x6, [Iron Ingot](../items/iron_ingot.md) x6, One of: [Gold Hildon Boots](../items/gold_hildon_boots.md), [Blue Magic Cape](../items/blue_magic_cape.md), [Skull Shield](../items/skull_shield.md), +300 [Honor](../systems/honor.md), +200 standing with Kaldemor
 
 Attacks:
 

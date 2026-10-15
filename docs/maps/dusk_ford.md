@@ -14,12 +14,12 @@
 
 ## Exits
 
-- [Seaward Woods](../maps/seaward_woods.md)
 - [Gate Meadows](../maps/gate_meadows.md)
+- [Seaward Woods](../maps/seaward_woods.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Ligator](../monsters/ligator.md) | 19 | 13 |
-| [Jr. Necki](../monsters/jr_necki.md) | 20 | 9 |
+| [Ligator](../monsters/ligator.md) | 19 | 8 |
+| [Jr. Necki](../monsters/jr_necki.md) | 20 | 8 |

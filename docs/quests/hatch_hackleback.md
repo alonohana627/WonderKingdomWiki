@@ -21,8 +21,10 @@
 
 - 40,470 EXP
 - 1,410 mesos
+- [Walkout Cape](../items/walkout_cape.md) x1
 - +80 standing with [Hatch](../npcs/hatch.md)
 - +60 standing with Urbanograd
+- +200 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -21,6 +21,7 @@
 
 - 180 EXP
 - 200 mesos
+- [Scroll Paper](../items/scroll_paper.md) x2
 - Recipe: [Orange Potion](../items/orange_potion.md) ([Alchemy](../professions/alchemy.md))
 - +15 standing with Kaldemor
 

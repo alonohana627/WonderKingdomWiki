@@ -20,8 +20,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Rooting Piglet](../monsters/rooting_piglet.md) | 21 | 10 |
 | [Hedge Boar](../monsters/hedge_boar.md) | 22 | 10 |
+| [Rooting Piglet](../monsters/rooting_piglet.md) | 21 | 10 |
 
 ## Gathering
 

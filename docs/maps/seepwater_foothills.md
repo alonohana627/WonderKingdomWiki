@@ -14,16 +14,16 @@
 
 ## Exits
 
-- [Gate Meadows](../maps/gate_meadows.md)
 - [Western Descent](../maps/western_descent.md)
+- [Gate Meadows](../maps/gate_meadows.md)
 - [The Carters' Hut](../maps/carters_hut.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Bog-Lurcher](../monsters/bog_lurcher.md) | 18 | 11 |
 | [Seep Toad](../monsters/seep_toad.md) | 17 | 10 |
+| [Bog-Lurcher](../monsters/bog_lurcher.md) | 18 | 11 |
 
 ## Gathering
 

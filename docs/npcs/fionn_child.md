@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Gull Heath](../maps/gull_heath.md) |
 | Story | [Fionn in the lore](../lore/people/goa-harbour/fionn_child.md) |
 | Services | Quests |
 

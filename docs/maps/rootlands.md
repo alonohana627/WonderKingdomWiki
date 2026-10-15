@@ -20,8 +20,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Dark Stump](../monsters/dark_stump.md) | 17 | 8 |
 | [Stump](../monsters/stump.md) | 10 | 3 |
+| [Dark Stump](../monsters/dark_stump.md) | 17 | 8 |
 | [Axe Stump](../monsters/axe_stump.md) | 21 | 4 |
 
 ## Gathering

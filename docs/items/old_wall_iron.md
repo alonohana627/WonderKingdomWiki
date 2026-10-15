@@ -14,6 +14,7 @@
 - Dropped by [The Cap King](../monsters/cap_king.md), [The Cap King](../bosses/cap_king.md) (Normal) (100% x2-5)
 - Dropped by [The Cap King](../bosses/cap_king.md) (Hard) (100% x4-8)
 - Dropped by [Crowncap](../monsters/crowncap.md) (40%)
+- Reward from [The Keep Bounty](../quests/the_keep_bounty.md)
 
 ## Used for
 

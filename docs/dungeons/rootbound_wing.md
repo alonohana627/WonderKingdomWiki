@@ -13,7 +13,7 @@
 
 | Map | Monsters |
 |---|---|
-| [The Hushed Grove](../maps/hushed_grove.md) | [Flying Book](../monsters/flying_book.md), [Dust Wisp](../monsters/dust_wisp.md) |
+| [The Hushed Grove](../maps/hushed_grove.md) | [Dust Wisp](../monsters/dust_wisp.md), [Flying Book](../monsters/flying_book.md) |
 | [The Stilled Grove](../maps/stilled_grove.md) | [Ink Imp](../monsters/ink_imp.md), [Snapping Book](../monsters/snapping_book.md) |
 | [The Shadowed Grove](../maps/shadowed_grove.md) | [Flying Book](../monsters/flying_book.md), [Snapping Book](../monsters/snapping_book.md), [Ink Imp](../monsters/ink_imp.md) |
 | [The Old Reading Room](../maps/old_reading_room.md) | - |

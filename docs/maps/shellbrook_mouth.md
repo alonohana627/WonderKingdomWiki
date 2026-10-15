@@ -22,9 +22,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
+| [Shingle Crab](../monsters/shingle_crab.md) | 12 | 7 |
 | [Breaker Crab](../monsters/breaker_crab.md) | 17 | 9 |
 | [Orchard Pig](../monsters/orchard_pig.md) | 9 | 4 |
-| [Shingle Crab](../monsters/shingle_crab.md) | 12 | 7 |
 
 ## Gathering
 

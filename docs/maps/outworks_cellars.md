@@ -21,4 +21,4 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Lampbat](../monsters/lampbat.md) | 22 | 32 |
+| [Lampbat](../monsters/lampbat.md) | 22 | 24 |

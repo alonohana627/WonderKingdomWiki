@@ -21,9 +21,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) | 57 | 8 |
-| [Wallcreeper Cap](../monsters/wallcreeper_cap.md) | 61 | 7 |
 | [Spore Puff](../monsters/spore_puff.md) | 55 | 3 |
+| [Wallcreeper Cap](../monsters/wallcreeper_cap.md) | 61 | 7 |
+| [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) | 57 | 8 |
 
 ## Gathering
 

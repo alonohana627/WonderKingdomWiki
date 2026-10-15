@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 40 | 41,360 | 29,760 | 141 | 240 / 240 |
 
-First clear: +80 standing with Goa Harbour
+First clear: Passive: [Ink Sight](../skills/passives.md#goa-ink-sight), +80 standing with Goa Harbour, +150 [Honor](../systems/honor.md)
 
 ### Phases
 

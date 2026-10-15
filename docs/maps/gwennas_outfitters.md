@@ -11,7 +11,7 @@
 
 ## Exits
 
-- [Goa Harbour](../maps/goa_harbour.md)
+- [The Lantern Market](../maps/lantern_market.md)
 
 ## NPCs
 

@@ -22,6 +22,7 @@
 - 70,000 EXP
 - 5,000 mesos
 - [Elixir](../items/elixir.md) x3
+- One of: [Gold Brist](../items/gold_brist.md), [Gold Hildon Boots](../items/gold_hildon_boots.md)
 - +35 standing with Kaldemor
 
 ??? quote "Dialogue"

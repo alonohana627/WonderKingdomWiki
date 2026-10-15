@@ -23,6 +23,7 @@
 - 1,200 mesos
 - +60 standing with [Hex](../npcs/hex_dunmore.md)
 - +25 standing with Urbanograd
+- +100 [Honor](../systems/honor.md)
 - Sets `lowgrad.open`
 
 ??? quote "Dialogue"

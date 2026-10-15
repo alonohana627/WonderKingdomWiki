@@ -12,8 +12,6 @@
 ## Exits
 
 - [The Docks](../maps/bain_docks.md)
-- [The Dock Office](../maps/bain_dock_office.md)
-- [The Dock Office](../maps/bain_dock_office.md)
 
 ## NPCs
 

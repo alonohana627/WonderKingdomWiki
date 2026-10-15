@@ -14,9 +14,9 @@
 | Map | Monsters |
 |---|---|
 | [The Mouths](../maps/sounding_mouths.md) | [Cave Crab](../monsters/cave_crab.md), [Glowjelly](../monsters/glowjelly.md) |
-| [Gwenna's Drop](../maps/gwennas_drop.md) | [Blind Bat](../monsters/blind_bat.md), [Cave Crab](../monsters/cave_crab.md), [Cave Octopus](../monsters/cave_octopus.md) |
-| [The Long Echo](../maps/long_echo.md) | [Blind Bat](../monsters/blind_bat.md), [Glowjelly](../monsters/glowjelly.md), [Cave Octopus](../monsters/cave_octopus.md) |
-| [The Still Pool](../maps/still_pool.md) | [Cave Octopus](../monsters/cave_octopus.md), [Glowjelly](../monsters/glowjelly.md), [Blind Bat](../monsters/blind_bat.md) |
+| [Gwenna's Drop](../maps/gwennas_drop.md) | [Cave Crab](../monsters/cave_crab.md), [Blind Bat](../monsters/blind_bat.md), [Cave Octopus](../monsters/cave_octopus.md) |
+| [The Long Echo](../maps/long_echo.md) | [Glowjelly](../monsters/glowjelly.md), [Cave Octopus](../monsters/cave_octopus.md), [Blind Bat](../monsters/blind_bat.md) |
+| [The Still Pool](../maps/still_pool.md) | [Glowjelly](../monsters/glowjelly.md), [Blind Bat](../monsters/blind_bat.md), [Cave Octopus](../monsters/cave_octopus.md) |
 | [The Inkmother's Pool](../maps/inkmothers_pool.md) | - |
 
 ## Bosses

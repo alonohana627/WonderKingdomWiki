@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 50 | 86,333 | 1,297 | 235 | 400 / 400 |
 
-First clear: +60 standing with Urbanograd
+First clear: 5,000 mesos, Passive: [Tusk Hide](../skills/passives.md#urbanograd-tusk-hide), +60 standing with Urbanograd, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Urbanograd
 
@@ -54,7 +54,7 @@ Attacks:
 |---|---|---|---|---|
 | 53 | 86,333 | 1,297 | 235 | 400 / 400 |
 
-First clear: +100 standing with Urbanograd
+First clear: 10,000 mesos, [Tuskbreaker](../items/tuskbreaker.md) x1, +100 standing with Urbanograd, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Urbanograd
 

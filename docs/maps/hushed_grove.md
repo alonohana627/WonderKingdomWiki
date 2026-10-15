@@ -21,5 +21,5 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Flying Book](../monsters/flying_book.md) | 24 | 13 |
 | [Dust Wisp](../monsters/dust_wisp.md) | 20 | 15 |
+| [Flying Book](../monsters/flying_book.md) | 24 | 13 |

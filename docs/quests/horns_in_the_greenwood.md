@@ -23,6 +23,7 @@
 - 1,000 mesos
 - [Orange Potion](../items/orange_potion.md) x10
 - [White Potion](../items/white_potion.md) x5
+- One of: [Single Earring](../items/single_earring.md), [Moon Bunny Epaulette](../items/moon_bunny_epaulette.md)
 - +25 standing with Kaldemor
 
 ??? quote "Dialogue"

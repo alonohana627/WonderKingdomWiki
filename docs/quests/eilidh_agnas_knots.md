@@ -14,7 +14,7 @@
 
 ## Objectives
 
-1. Reach the highest bridge in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the highest bridge in [Gull Heath](../maps/gull_heath.md)
 2. Talk to [Agna](../npcs/agna_netmender.md)
 3. Bring 20 [Fox Sinew](../items/fox_sinew.md) (taken)
 

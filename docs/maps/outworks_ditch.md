@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Gloomeye](../monsters/gloomeye.md) | 25 | 7 |
-| [Lampbat](../monsters/lampbat.md) | 22 | 16 |
+| [Lampbat](../monsters/lampbat.md) | 22 | 14 |
+| [Gloomeye](../monsters/gloomeye.md) | 25 | 9 |
 
 ## Gathering
 

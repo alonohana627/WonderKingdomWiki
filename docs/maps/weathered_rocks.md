@@ -21,6 +21,6 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Swollen Dark Stump](../monsters/swollen_dark_stump.md) | 57 | 25 |
-| [Raider Boar](../monsters/raider_boar.md) | 55 | 12 |
 | [Swollen Stump](../monsters/swollen_stump.md) | 52 | 3 |
+| [Raider Boar](../monsters/raider_boar.md) | 55 | 12 |
+| [Swollen Dark Stump](../monsters/swollen_dark_stump.md) | 57 | 25 |

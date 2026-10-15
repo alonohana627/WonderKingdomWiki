@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Wrack Boar](../monsters/wrack_boar.md) | 22 | 10 |
-| [Driftstump](../monsters/driftstump.md) | 24 | 4 |
+| [Wrack Boar](../monsters/wrack_boar.md) | 22 | 12 |
+| [Driftstump](../monsters/driftstump.md) | 24 | 10 |
 
 ## Gathering
 

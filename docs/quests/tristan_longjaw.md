@@ -25,6 +25,7 @@
 - [Elixir](../items/elixir.md) x5
 - +40 standing with Selsior
 - +150 standing with [Tristan](../npcs/tristan.md)
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

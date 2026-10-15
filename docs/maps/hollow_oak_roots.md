@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Cold Eye](../monsters/cold_eye.md) | 37 | 13 |
 | [Curse Eye](../monsters/curse_eye.md) | 34 | 8 |
+| [Cold Eye](../monsters/cold_eye.md) | 37 | 13 |
 
 ## Gathering
 

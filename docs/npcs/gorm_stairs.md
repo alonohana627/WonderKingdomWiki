@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Gull Heath](../maps/gull_heath.md) |
 | Story | [Gorm in the lore](../lore/people/goa-harbour/gorm_stairs.md) |
 | Services | Run: [Below the Anvil](../runs/gorms_night_work.md), Quests |
 

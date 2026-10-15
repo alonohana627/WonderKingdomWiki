@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 70 | 326,900 | 117,480 | 259 | 420 / 420 |
 
-First clear: +120 standing with Goa Harbour
+First clear: Passive: [The Undertow's Pull](../skills/passives.md#goa-undertows-pull), +120 standing with Goa Harbour, +150 [Honor](../systems/honor.md)
 
 ### Phases
 
@@ -75,7 +75,7 @@ First clear: +120 standing with Goa Harbour
 |---|---|---|---|---|
 | 74 | 326,900 | 117,480 | 259 | 420 / 420 |
 
-First clear: +160 standing with Goa Harbour
+First clear: +160 standing with Goa Harbour, +300 [Honor](../systems/honor.md)
 
 ### Phases
 

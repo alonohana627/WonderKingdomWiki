@@ -194,23 +194,262 @@ Formulas (x is the skill level, division rounds down): Max HP = `25 * x`
 
 Formulas (x is the skill level, division rounds down): Max HP = `60 * x`
 
-## Warden-Friend {#warden-friend}
+## Gnarlwood Grip {#midbarium-gnarlwood-grip}
 
-*The wardens of the sea count you as one of their own, and it steadies you.*
+*Old Gnarl's heartwood taught your hands what holding on means.*
 
 |  |  |
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: Friend of the Wardens (See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow.) |
 
-| Level | Max HP |
+| Level | STR |
 |---|---|
-| 1 | 60 |
+| 1 | 3 |
 
-Formulas (x is the skill level, division rounds down): Max HP = `60 * x`
+Formulas (x is the skill level, division rounds down): STR = `3`
 
-## Cave Sense {#cave-sense}
+## Grimhorn's Hide {#midbarium-grimhorn-hide}
+
+*You stood against the raider of the herds, and something of its hide stayed with you.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Defense |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): Defense = `5`
+
+## Greywater Spring {#midbarium-rootdrinker-spring}
+
+*The water runs again in the cleft, and you carry a little of its patience.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | DEX |
+|---|---|
+| 1 | 4 |
+
+Formulas (x is the skill level, division rounds down): DEX = `4`
+
+## Frost Fang {#midbarium-frost-fang}
+
+*Hollowmaw's cold went into the bone of your sword arm and stayed there.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 2 |
+
+Formulas (x is the skill level, division rounds down): STR = `2`
+
+## Friend of the Four Families {#midbarium-four-families}
+
+*The Old One spoke your name in council, and all four families stood for it.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): STR = `5`
+
+## Hive Ward {#selsior-hive-ward}
+
+*You stood under Queen Amberwing's dive and walked away. Your feet stay quick.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | DEX |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`
+
+## River Grip {#selsior-river-grip}
+
+*You held your ground when the Heron Pool heaved. Longjaw taught your arms what weight is.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## Quarry Stone {#selsior-quarry-stone}
+
+*Old Cairn's falling face could not bury you. Some of the First Cut's stone stays in your bones.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Defense |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): Defense = `5 * x`
+
+## Drain Sense {#selsior-drain-sense}
+
+*You heard the Delver dig before it erupted. You still listen to the ground.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Critical Rate |
+|---|---|
+| 1 | 2 |
+
+Formulas (x is the skill level, division rounds down): Critical Rate = `2 * x`
+
+## Quill's Grit {#kaldemor-quills-grit}
+
+*You ran Quill's whole Gauntlet, and he nodded. Once.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## Tuskhide {#kaldemor-tuskhide}
+
+*Gnarltusk's charge taught you how to take a blow and stay up.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Defense |
+|---|---|
+| 1 | 4 |
+
+Formulas (x is the skill level, division rounds down): Defense = `4 * x`
+
+## Spore Sight {#kaldemor-spore-sight}
+
+*You learned to see through the Bluecap Mother's spore clouds.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | DEX |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`
+
+## Crownbreaker {#kaldemor-crownbreaker}
+
+*You brought the Cap King down from his tower.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): STR = `5 * x`
+
+## Good Neighbour {#kaldemor-good-neighbour}
+
+*Dottie's lamb came home, and the lane will not forget who helped.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | LUK |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): LUK = `3 * x`
+
+## Brushtail's Cunning {#goa-brushtails-cunning}
+
+*You learned to watch the dust, not the fox, and your feet learned it too.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | DEX |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`
+
+## The Gapclaw's Scar {#goa-gapclaws-scar}
+
+*Torva has one like it. Every fisher in the Gap Inn knows what it means.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## The Undertow's Pull {#goa-undertows-pull}
+
+*You stood in the Scour when the water turned, and did not go with it.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 5 |
+
+Formulas (x is the skill level, division rounds down): STR = `5 * x`
+
+## Ink Sight {#goa-ink-sight}
 
 *You know which way the water moves in a dark place, and which way out.*
 
@@ -218,74 +457,189 @@ Formulas (x is the skill level, division rounds down): Max HP = `60 * x`
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: The First True Map (Help Lachlan finish the first true map of the Sounding Caves.) |
 
-| Level | Defense |
+| Level | LUK |
 |---|---|
-| 1 | 6 |
+| 1 | 3 |
 
-Formulas (x is the skill level, division rounds down): Defense = `6 * x`
+Formulas (x is the skill level, division rounds down): LUK = `3 * x`
 
-## Brush and Sinew {#brush-and-sinew}
+## Warden-Friend {#goa-warden-friend}
 
-*Two hundred foxes taught you to watch the dust, not the fox.*
+*The wardens of the sea count you as one of their own, and it steadies you.*
 
 |  |  |
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: Brush and Sinew (Defeat 200 Strand Foxes.) |
 
-| Level | Critical Rate |
+| Level | DEX |
 |---|---|
-| 1 | 1 |
+| 1 | 4 |
 
-Formulas (x is the skill level, division rounds down): Critical Rate = `x`
+Formulas (x is the skill level, division rounds down): DEX = `4 * x`
 
-## Climbers' Grip {#climbers-grip}
+## Night Eyes {#urbanograd-night-eyes}
 
-*You have pulled enough newts off the cliffs to keep your own feet on them.*
+*Watching for the Gloamwing's dive in the dark of the Fallen Tower taught your eyes to find a shape against the black.*
 
 |  |  |
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: Climbers' Bane (Defeat 300 Sea Newts.) |
+
+| Level | DEX |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`
+
+## Tusk Hide {#urbanograd-tusk-hide}
+
+*You stood in the Wallow while Hackleback came through the mud at you, and you are harder for it.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## Crest Wind {#urbanograd-crest-wind}
+
+*The wind on the Highbeacon carried Stormcrest's feathers past you; now it seems to carry you.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Speed |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): Speed = `3 * x`
+
+## Warm Hands {#urbanograd-warm-hands}
+
+*A chip of the warm stone rode home in your pocket from the heart of the Warm Quarry. Your hands have not been cold since.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | LUK |
+|---|---|
+| 1 | 4 |
+
+Formulas (x is the skill level, division rounds down): LUK = `4 * x`
+
+## Lantern Sight {#bain-lantern-sight}
+
+*You read the Deep Lantern by its lights in the dark. Nothing in deep water hides from you quite so well again.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | DEX |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`
+
+## Holdfast Grip {#bain-holdfast-grip}
+
+*You made the Holdfast let go of the Saltgrace. Your own grip has not been the same since.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## Freedom of the Harbour {#bain-freedom-of-the-harbour}
+
+*The council of Bain Harbour gave you its freedom: every quay and every short cut along the canals is yours.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
+
+| Level | Speed |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): Speed = `3 * x`
+
+## Lake Ward {#fairy-forest-lake-ward}
+
+*You stood in the Blightstone's bitter water until it stopped hurting.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
 
 | Level | Max HP |
 |---|---|
-| 1 | 40 |
+| 1 | 30 |
 
-Formulas (x is the skill level, division rounds down): Max HP = `40 * x`
+Formulas (x is the skill level, division rounds down): Max HP = `30 * x`
 
-## Salt-Hardened {#salt-hardened}
+## Crown Grip {#fairy-forest-crown-grip}
 
-*Stone and weed and salt water have made you hard to move.*
+*Old Grizzlemane taught you to hold on when the whole tree shakes.*
 
 |  |  |
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: Salt and Stone (Defeat 300 Wrackgolems.) |
+
+| Level | STR |
+|---|---|
+| 1 | 3 |
+
+Formulas (x is the skill level, division rounds down): STR = `3 * x`
+
+## Thornproof {#fairy-forest-thornproof}
+
+*The Knotbriar's thorns found every gap in your guard, and you closed them.*
+
+|  |  |
+|---|---|
+| Kind | Passive |
+| Max level | 1 |
 
 | Level | Defense |
 |---|---|
-| 1 | 8 |
+| 1 | 5 |
 
-Formulas (x is the skill level, division rounds down): Defense = `8 * x`
+Formulas (x is the skill level, division rounds down): Defense = `5 * x`
 
-## Gap Inn Regular {#gap-inn-regular}
+## The Rising Sap {#fairy-forest-rising-sap}
 
-*Bethoc keeps a bowl of stew back for you, and a seat by the fire.*
+*You were there when the forest's oldest root woke. Something of it stayed with you.*
 
 |  |  |
 |---|---|
 | Kind | Passive |
 | Max level | 1 |
-| Gained from | Accomplishment: A Regular at the Gap (Hand in each of Bethoc's three sighting boards.) |
 
-| Level | Max MP |
+| Level | DEX |
 |---|---|
-| 1 | 40 |
+| 1 | 3 |
 
-Formulas (x is the skill level, division rounds down): Max MP = `40 * x`
+Formulas (x is the skill level, division rounds down): DEX = `3 * x`

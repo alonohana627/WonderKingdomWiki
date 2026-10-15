@@ -22,6 +22,7 @@
 
 - 32,000 EXP
 - 6,000 mesos
+- [Wild Spore](../items/wild_spore.md) x6
 - [Bluecap Poultice](../items/bluecap_poultice.md) x5
 - Recipe: [Bluecap Poultice](../items/bluecap_poultice.md) ([Alchemy](../professions/alchemy.md))
 - +40 standing with Kaldemor

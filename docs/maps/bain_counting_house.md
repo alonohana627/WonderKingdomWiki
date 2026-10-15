@@ -11,7 +11,7 @@
 
 ## Exits
 
-- [Bain Harbour](../maps/bain_harbour.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 
 ## NPCs
 

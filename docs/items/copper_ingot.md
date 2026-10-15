@@ -12,6 +12,10 @@
 ## How to get
 
 - Made with [Smithing](../professions/smithing.md) (level 1)
+- Reward from [Brass and Tin](../quests/brass_and_tin.md)
+- Reward from [Shiny Things](../quests/shiny_things.md)
+- Reward from [The Cart That Never Came](../quests/the_cart_that_never_came.md)
+- Reward from [The Clock Stopped](../quests/the_clock_stopped.md)
 
 ## Used for
 

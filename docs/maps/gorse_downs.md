@@ -14,14 +14,14 @@
 
 ## Exits
 
-- [Saltwood Road](../maps/saltwood_road.md)
 - [Selsior Gate](../maps/selsior_gate.md)
+- [Saltwood Road](../maps/saltwood_road.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Ribbon Pig](../monsters/ribbon_pig.md) | 11 | 8 |
+| [Ribbon Pig](../monsters/ribbon_pig.md) | 11 | 9 |
 | [Ditch Eye](../monsters/ditch_eye.md) | 16 | 8 |
 
 ## Gathering

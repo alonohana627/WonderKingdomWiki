@@ -22,8 +22,10 @@
 - 4,742 EXP
 - 720 mesos
 - [Purser's Chain](../items/pursers_chain.md) x1
+- Passive: [Holdfast Grip](../skills/passives.md#bain-holdfast-grip)
 - +100 standing with [Kenwyn](../npcs/kenwyn.md)
 - +25 standing with Bain Harbour
+- +100 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

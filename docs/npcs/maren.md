@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Bain Harbour](../towns/bain_harbour.md) |
-| Where | [Bain Harbour](../maps/bain_harbour.md) |
+| Where | [Merchant Street](../maps/bain_merchant_street.md) |
 | Story | [Maren in the lore](../lore/people/bain-harbour/maren.md) |
 | Services | Quests |
 

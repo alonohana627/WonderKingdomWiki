@@ -14,11 +14,11 @@
 - [Kaldemor](../maps/kaldemor.md)
 - [Kaldemor](../maps/kaldemor.md)
 - [Mushroom Park](../maps/kaldemor_park.md)
+- [Gareth's Smithy](../maps/gareths_smithy.md)
 - [Hilda's Storehouse](../maps/hildas_storehouse.md)
 - [Old Marta's Store](../maps/martas_store.md)
 - [Bess's Apothecary](../maps/bess_apothecary.md)
 - [The Sleepy Snail](../maps/the_sleepy_snail.md)
-- [Gareth's Smithy](../maps/gareths_smithy.md)
 
 ## NPCs
 

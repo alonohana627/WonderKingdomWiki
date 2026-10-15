@@ -25,6 +25,8 @@
 - 4,500 EXP
 - 1,500 mesos
 - [White Potion](../items/white_potion.md) x10
+- One of: [Viking Sword](../items/viking_sword.md), [Two-handed Sword](../items/two_handed_sword.md), [Mithril Viking Helm](../items/mithril_viking_helm.md), [Brown High Boots](../items/brown_high_boots.md)
+- +200 [Honor](../systems/honor.md)
 - +40 standing with Kaldemor
 
 ??? quote "Dialogue"

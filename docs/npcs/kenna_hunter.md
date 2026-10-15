@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Kenna in the lore](../lore/people/goa-harbour/kenna_hunter.md) |
 | Services | Quests |
 

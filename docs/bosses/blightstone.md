@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 26,658 | 12,530 | 139 | 180 / 180 |
 
-First clear: [Mossleaf Shield](../items/mossleaf_shield.md) x1, +60 standing with Fairy Forest
+First clear: [Mossleaf Shield](../items/mossleaf_shield.md) x1, Passive: [Lake Ward](../skills/passives.md#fairy-forest-lake-ward), +60 standing with Fairy Forest, +150 [Honor](../systems/honor.md)
 
 ### Phases
 
@@ -59,7 +59,7 @@ First clear: [Mossleaf Shield](../items/mossleaf_shield.md) x1, +60 standing wit
 |---|---|---|---|---|
 | 33 | 26,658 | 12,530 | 139 | 180 / 180 |
 
-First clear: +100 standing with Fairy Forest
+First clear: +100 standing with Fairy Forest, +300 [Honor](../systems/honor.md)
 
 ### Phases
 

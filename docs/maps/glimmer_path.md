@@ -22,8 +22,8 @@
 | Monster | Level | Number |
 |---|---|---|
 | [Slime](../monsters/slime.md) | 9 | 11 |
-| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 5 |
 | [Stump](../monsters/stump.md) | 10 | 2 |
+| [Green Mushroom](../monsters/green_mushroom.md) | 12 | 5 |
 
 ## Gathering
 

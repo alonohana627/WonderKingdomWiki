@@ -23,6 +23,7 @@
 
 - 6,000 EXP
 - 2,000 mesos
+- [Plant Fibre](../items/plant_fibre.md) x6
 - [Hunter's Bento](../items/hunters_bento.md) x5
 - +40 standing with Kaldemor
 

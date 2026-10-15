@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Caddoc in the lore](../lore/people/goa-harbour/caddoc_trapper.md) |
 | Services | Run: [Caddoc's Night Trap](../runs/caddocs_night.md), Quests |
 

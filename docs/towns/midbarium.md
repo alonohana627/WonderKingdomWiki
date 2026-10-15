@@ -48,8 +48,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Ash Mesa](../maps/ash_mesa.md) | Boss | 50 | 18 | - |
 | [The Dry Hills](../maps/dry_hills.md) | Hunting | 52 | 20 | [Swollen Stump](../monsters/swollen_stump.md) |
 | [The Grey Road](../maps/grey_road.md) | Hunting | 52-55 | 21 | [Swollen Stump](../monsters/swollen_stump.md), [Raider Boar](../monsters/raider_boar.md) |
-| [The Lonely Rocks](../maps/lonely_rocks.md) | Hunting | 55-57 | 22 | [Swollen Dark Stump](../monsters/swollen_dark_stump.md), [Raider Boar](../monsters/raider_boar.md) |
-| [The Weathered Rocks](../maps/weathered_rocks.md) | Hunting | 52-57 | 23 | [Swollen Dark Stump](../monsters/swollen_dark_stump.md), [Raider Boar](../monsters/raider_boar.md), [Swollen Stump](../monsters/swollen_stump.md) |
+| [The Lonely Rocks](../maps/lonely_rocks.md) | Hunting | 55-57 | 22 | [Raider Boar](../monsters/raider_boar.md), [Swollen Dark Stump](../monsters/swollen_dark_stump.md) |
+| [The Weathered Rocks](../maps/weathered_rocks.md) | Hunting | 52-57 | 23 | [Swollen Stump](../monsters/swollen_stump.md), [Raider Boar](../monsters/raider_boar.md), [Swollen Dark Stump](../monsters/swollen_dark_stump.md) |
 | [The War Camp Ruins](../maps/war_camp_ruins.md) | Hunting | 60-62 | 24 | [War Mask](../monsters/war_mask.md), [Bone Hound](../monsters/bone_hound.md) |
 | [The Deserted Ridge](../maps/deserted_ridge.md) | Hunting | 65 | 25 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md) |
 | [The Red Ravine](../maps/red_ravine.md) | Hunting | 65-67 | 27 | [Swollen Axe Stump](../monsters/swollen_axe_stump.md), [Stone Hulk](../monsters/stone_hulk.md) |
@@ -60,7 +60,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
 | [The Canyon Road](../maps/canyon_road.md) | Road | 15 | 5 | [Dust Boggle](../monsters/dust_boggle.md) |
-| [The South Path](../maps/south_path.md) | Road | 15-17 | 6 | [Ridge Stump](../monsters/ridge_stump.md), [Dust Boggle](../monsters/dust_boggle.md) |
+| [The South Path](../maps/south_path.md) | Road | 15-17 | 6 | [Dust Boggle](../monsters/dust_boggle.md), [Ridge Stump](../monsters/ridge_stump.md) |
 
 ### The Northern Woodland Trail
 
@@ -210,6 +210,19 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [Rootwood Axe](../items/rootwood_axe.md) | Weapon | 60 | Attack +164 |
 | [Rootwood Greatsword](../items/rootwood_greatsword.md) | Weapon | 60 | Attack +175 |
 | [Rootwood Helm](../items/rootwood_helm.md) | Hat | 60 | Defense +51, Max HP +100 |
+
+## Accomplishments
+
+| Accomplishment | Goal | Reward |
+|---|---|---|
+| The Gathering | Walk Midbarium's patrols from the roads to the gathering of the four families. | +100 standing with Midbarium |
+| Beast Breaker | Defeat Old Gnarl, Grimhorn and the Rootdrinker. | +100 [Honor](../systems/honor.md) |
+| Old Gnarl Felled | Defeat Old Gnarl on Howling Peak. | - |
+| Grimhorn Brought Down | Defeat Grimhorn on the Ash Mesa. | - |
+| The Springs Run Again | Defeat the Rootdrinker in its hollow. | - |
+| The Cave Is Held | Defeat Hollowmaw at the bottom of the Dustfall Cave. | - |
+| Highland Scholar | Defeat every kind of monster that lives in Midbarium's lands. | [Travel Ration](../items/travel_ration.md) x20 |
+| Midbarium Completed | Finish the patrols, break the beasts, hold the cave and know every creature of the highlands. | +500 [Honor](../systems/honor.md), +150 standing with Midbarium |
 
 ## Discoveries
 

@@ -12,5 +12,3 @@
 ## Exits
 
 - [Bain Harbour](../maps/bain_harbour.md)
-- [Wilmot's House](../maps/bain_ropemakers_house.md)
-- [Wilmot's House](../maps/bain_ropemakers_house.md)

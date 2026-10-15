@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 50 | 110,000 | 60,000 | 210 | 300 / 300 |
 
-First clear: +60 standing with Midbarium
+First clear: Passive: [Grimhorn's Hide](../skills/passives.md#midbarium-grimhorn-hide), +60 standing with Midbarium, +150 [Honor](../systems/honor.md)
 
 Every clear: 12,000 EXP
 
@@ -59,7 +59,7 @@ Attacks:
 |---|---|---|---|---|
 | 53 | 110,000 | 60,000 | 210 | 300 / 300 |
 
-First clear: +100 standing with Midbarium
+First clear: +100 standing with Midbarium, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Midbarium
 

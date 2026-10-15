@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Bristle Boar](../monsters/bristle_boar.md) | 33 | 5 |
-| [Barkback](../monsters/barkback.md) | 37 | 15 |
+| [Bristle Boar](../monsters/bristle_boar.md) | 33 | 8 |
+| [Barkback](../monsters/barkback.md) | 37 | 12 |
 
 ## Gathering
 

@@ -20,4 +20,4 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Darkstone Golem](../monsters/darkstone_golem.md) | 45 | 26 |
+| [Darkstone Golem](../monsters/darkstone_golem.md) | 45 | 20 |

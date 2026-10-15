@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | 45 | 63,938 | 999 | 212 | 360 / 360 |
 
-First clear: +60 standing with Urbanograd
+First clear: 4,000 mesos, Passive: [Warm Hands](../skills/passives.md#urbanograd-warm-hands), +60 standing with Urbanograd, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Urbanograd
 
@@ -53,7 +53,7 @@ Attacks:
 |---|---|---|---|---|
 | 48 | 63,938 | 999 | 212 | 360 / 360 |
 
-First clear: +100 standing with Urbanograd
+First clear: 8,000 mesos, [Walkout Katar](../items/walkout_katar.md) x1, +100 standing with Urbanograd, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Urbanograd
 

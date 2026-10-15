@@ -14,7 +14,7 @@
 
 ## Objectives
 
-1. Reach the Lantern Market square in [Goa Harbour](../maps/goa_harbour.md)
+1. Reach the Lantern Market square in [The Lantern Market](../maps/lantern_market.md)
 2. Bring 20 [Shore Crab Claw](../items/shore_crab_claw.md) (taken)
 
 ## Rewards

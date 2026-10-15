@@ -24,6 +24,7 @@
 - 130,000 EXP
 - 8,000 mesos
 - [Elixir](../items/elixir.md) x5
+- One of: [Bronze Crusader Helm](../items/bronze_crusader_helm.md), [Blue Shouldermail](../items/blue_shouldermail.md), [Blue Shouldermail Pants](../items/blue_shouldermail_pants.md)
 - +45 standing with Kaldemor
 
 ??? quote "Dialogue"

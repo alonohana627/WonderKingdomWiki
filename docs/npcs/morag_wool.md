@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Morag in the lore](../lore/people/goa-harbour/morag_wool.md) |
 | Services | Shop: [Morag's Wool](../shops/morags_wool.md) |
 

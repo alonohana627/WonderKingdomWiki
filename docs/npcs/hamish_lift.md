@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [Gull Heath](../maps/gull_heath.md) |
 | Story | [Hamish in the lore](../lore/people/goa-harbour/hamish_lift.md) |
 | Services | Storage, Quests |
 

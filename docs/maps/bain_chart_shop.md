@@ -11,9 +11,7 @@
 
 ## Exits
 
-- [Bain Harbour](../maps/bain_harbour.md)
-- [Ambrose's Chart Shop](../maps/bain_chart_shop.md)
-- [Ambrose's Chart Shop](../maps/bain_chart_shop.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 
 ## NPCs
 

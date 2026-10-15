@@ -22,6 +22,7 @@
 - [Elixir](../items/elixir.md) x5
 - +40 standing with Midbarium
 - +30 standing with [Hask](../npcs/old_one_hask.md)
+- +200 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 24,880 | 14,320 | 107 | 180 / 180 |
 
-First clear: +60 standing with Goa Harbour
+First clear: Passive: [Brushtail's Cunning](../skills/passives.md#goa-brushtails-cunning), +60 standing with Goa Harbour, +150 [Honor](../systems/honor.md)
 
 ### Phases
 
@@ -65,7 +65,7 @@ First clear: +60 standing with Goa Harbour
 |---|---|---|---|---|
 | 33 | 24,880 | 14,320 | 107 | 180 / 180 |
 
-First clear: +100 standing with Goa Harbour
+First clear: +100 standing with Goa Harbour, +300 [Honor](../systems/honor.md)
 
 ### Phases
 

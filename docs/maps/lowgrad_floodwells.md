@@ -21,4 +21,4 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Floodwell Eel](../monsters/floodwell_eel.md) | 45 | 26 |
+| [Floodwell Eel](../monsters/floodwell_eel.md) | 45 | 20 |

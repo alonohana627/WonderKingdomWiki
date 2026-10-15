@@ -23,9 +23,11 @@
 - 67,500 EXP
 - 3,000 mesos
 - [Elixir](../items/elixir.md) x2
+- Passive: [Friend of the Four Families](../skills/passives.md#midbarium-four-families)
 - One of: [Rootwood Greatsword](../items/rootwood_greatsword.md), [Rootwood Axe](../items/rootwood_axe.md), [Heartwood Shield](../items/heartwood_shield.md), [Rootwood Helm](../items/rootwood_helm.md)
 - +100 standing with Midbarium
 - +30 standing with [Hask](../npcs/old_one_hask.md)
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

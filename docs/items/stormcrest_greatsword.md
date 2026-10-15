@@ -18,3 +18,4 @@
 ## How to get
 
 - Dropped by [Stormcrest](../monsters/stormcrest.md) (12%)
+- Reward from [Dates and Lists](../quests/starling_dates_and_lists.md)

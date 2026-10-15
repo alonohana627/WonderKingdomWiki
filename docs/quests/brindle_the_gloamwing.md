@@ -21,8 +21,10 @@
 
 - 8,750 EXP
 - 840 mesos
+- [Lamplighter's Cutlass](../items/lamplighters_cutlass.md) x1
 - +80 standing with [Brindle](../npcs/brindle.md)
 - +50 standing with Urbanograd
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

@@ -11,7 +11,7 @@
 
 ## Exits
 
-- [Goa Harbour](../maps/goa_harbour.md)
+- [Gull Heath](../maps/gull_heath.md)
 
 ## NPCs
 

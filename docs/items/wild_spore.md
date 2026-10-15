@@ -12,6 +12,8 @@
 ## How to get
 
 - Gathered from Wild Spore Patch ([Herbalism](../professions/herbalism.md) level 1)
+- Reward from [Bites That Will Not Close](../quests/bites_that_will_not_close.md)
+- Reward from [Spores for Two](../quests/spores_for_two.md)
 
 ## Used for
 

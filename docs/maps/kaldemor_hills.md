@@ -22,9 +22,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
+| [Pig](../monsters/pig.md) | 7 | 7 |
 | [Orange Mushroom](../monsters/orange_mushroom.md) | 8 | 10 |
 | [Stump](../monsters/stump.md) | 10 | 3 |
-| [Pig](../monsters/pig.md) | 7 | 7 |
 
 ## Gathering
 

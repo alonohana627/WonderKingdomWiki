@@ -21,4 +21,4 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) | 45 | 25 |
+| [Tunnel Bat](../monsters/lowgrad_tunnel_bat.md) | 45 | 22 |

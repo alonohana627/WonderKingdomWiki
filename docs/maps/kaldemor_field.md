@@ -15,18 +15,18 @@
 ## Exits
 
 - [Kaldemor](../maps/kaldemor.md)
-- [Kaldemor](../maps/kaldemor.md)
 - [The Cider Lanes](../maps/cider_lanes.md)
+- [Kaldemor](../maps/kaldemor.md)
 - [The Forest's Hem](../maps/forests_hem.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Shroom](../monsters/shroom.md) | 2 | 3 |
-| [Red Snail](../monsters/red_snail.md) | 4 | 4 |
-| [Blue Snail](../monsters/blue_snail.md) | 2 | 9 |
 | [Snail](../monsters/snail.md) | 1 | 12 |
+| [Blue Snail](../monsters/blue_snail.md) | 2 | 9 |
+| [Red Snail](../monsters/red_snail.md) | 4 | 4 |
+| [Shroom](../monsters/shroom.md) | 2 | 3 |
 
 ## Gathering
 

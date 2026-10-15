@@ -12,6 +12,9 @@
 ## How to get
 
 - Made with [Smithing](../professions/smithing.md) (level 5)
+- Reward from [Brass and Tin](../quests/brass_and_tin.md)
+- Reward from [Shells for the Wall](../quests/shells_for_the_wall.md)
+- Reward from [The Broken Line](../quests/the_broken_line.md)
 
 ## Used for
 

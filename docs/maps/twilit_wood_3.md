@@ -24,8 +24,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Deep Spring Sprite](../monsters/deep_spring_sprite.md) | 68 | 13 |
 | [Blue Spring Sprite](../monsters/blue_spring_sprite.md) | 66 | 15 |
+| [Deep Spring Sprite](../monsters/deep_spring_sprite.md) | 68 | 13 |
 
 ## Gathering
 

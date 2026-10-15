@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Wild Bee](../monsters/wild_bee.md) | 21 | 17 |
 | [Downs Boar](../monsters/downs_boar.md) | 24 | 3 |
+| [Wild Bee](../monsters/wild_bee.md) | 21 | 17 |
 
 ## Gathering
 

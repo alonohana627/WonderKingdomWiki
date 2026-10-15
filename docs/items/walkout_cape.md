@@ -20,3 +20,4 @@
 - Dropped by [Hackleback](../monsters/hackleback.md) (15%)
 - Dropped by [Millstone Ram](../monsters/millstone_ram.md) (0.09%)
 - Sold at [Dyna's Loud Clothes](../shops/urbanograd_dyna.md) for 4,800 mesos
+- Reward from [Hackleback](../quests/hatch_hackleback.md)

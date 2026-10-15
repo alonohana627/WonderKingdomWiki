@@ -25,6 +25,7 @@
 - 1,380 mesos
 - +150 standing with [Juniper](../npcs/juniper_adventurer.md)
 - +50 standing with Fairy Forest
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

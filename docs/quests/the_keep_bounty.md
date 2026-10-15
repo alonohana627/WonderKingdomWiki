@@ -20,6 +20,7 @@
 
 - 60,000 EXP
 - 6,000 mesos
+- [Old Wall Iron](../items/old_wall_iron.md) x2
 
 The first time you complete it instead: 90,000 EXP, 9,000 mesos, +40 standing with Kaldemor
 

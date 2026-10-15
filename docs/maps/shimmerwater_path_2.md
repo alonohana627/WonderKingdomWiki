@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Shimmer Slime](../monsters/fairy_slime.md) | 22 | 22 |
 | [Firefly Slime](../monsters/firefly_slime.md) | 19 | 8 |
+| [Shimmer Slime](../monsters/fairy_slime.md) | 22 | 22 |
 
 ## Gathering
 

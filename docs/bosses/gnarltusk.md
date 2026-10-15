@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 22,000 | 9,000 | 94 | 40 / 40 |
 
-First clear: +80 standing with Kaldemor
+First clear: [Gnarltusk's Tusk](../items/gnarltusks_tusk.md) x1, [Curved Tusk](../items/curved_tusk.md) x6, Passive: [Tuskhide](../skills/passives.md#kaldemor-tuskhide), +150 [Honor](../systems/honor.md), +80 standing with Kaldemor
 
 Attacks:
 
@@ -66,7 +66,7 @@ Attacks:
 |---|---|---|---|---|
 | 32 | 22,000 | 9,000 | 115 | 60 / 60 |
 
-First clear: +150 standing with Kaldemor
+First clear: [Elixir](../items/elixir.md) x5, [Iron Ingot](../items/iron_ingot.md) x5, One of: [Silver Master Sergeant](../items/silver_master_sergeant.md), [Emerald Battle Greaves](../items/emerald_battle_greaves.md), [Cross Shield](../items/cross_shield.md), +300 [Honor](../systems/honor.md), +150 standing with Kaldemor
 
 Attacks:
 

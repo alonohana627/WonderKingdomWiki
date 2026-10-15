@@ -34,8 +34,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1-4 | 1 | [Shroom](../monsters/shroom.md), [Red Snail](../monsters/red_snail.md), [Blue Snail](../monsters/blue_snail.md), [Snail](../monsters/snail.md) |
-| [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 7-10 | 2 | [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md), [Pig](../monsters/pig.md) |
+| [Kaldemor Field](../maps/kaldemor_field.md) | Hunting | 1-4 | 1 | [Snail](../monsters/snail.md), [Blue Snail](../monsters/blue_snail.md), [Red Snail](../monsters/red_snail.md), [Shroom](../monsters/shroom.md) |
+| [Kaldemor Hills](../maps/kaldemor_hills.md) | Hunting | 7-10 | 2 | [Pig](../monsters/pig.md), [Orange Mushroom](../monsters/orange_mushroom.md), [Stump](../monsters/stump.md) |
 | [The Snail King's Hollow](../maps/snail_kings_hollow.md) | Boss | 15 | 3 | - |
 
 ### Runs
@@ -50,23 +50,23 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 | [Orange Mushroom](../monsters/orange_mushroom.md), [Shroom](../monsters/shroom.md) |
+| [Kaldemor Woods](../maps/kaldemor_woods.md) | Road | 2-8 | 4 | [Shroom](../monsters/shroom.md), [Orange Mushroom](../monsters/orange_mushroom.md) |
 | [The Crossing](../maps/the_crossing.md) | Road | 7-11 | 5 | [Pig](../monsters/pig.md), [Ribbon Pig](../monsters/ribbon_pig.md), [Stump](../monsters/stump.md) |
-| [The Greenwood](../maps/the_greenwood.md) | Road | 10-15 | 6 | [Horny Mushroom](../monsters/horny_mushroom.md), [Stump](../monsters/stump.md), [Green Mushroom](../monsters/green_mushroom.md) |
+| [The Greenwood](../maps/the_greenwood.md) | Road | 10-15 | 6 | [Green Mushroom](../monsters/green_mushroom.md), [Stump](../monsters/stump.md), [Horny Mushroom](../monsters/horny_mushroom.md) |
 
 ### Verdant Coast Road
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 | [Orchard Pig](../monsters/orchard_pig.md), [Orchard Snail](../monsters/orchard_snail.md) |
-| [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 | [Reed Snake](../monsters/reed_snake.md), [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md) |
-| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-17 | 6 | [Breaker Crab](../monsters/breaker_crab.md), [Orchard Pig](../monsters/orchard_pig.md), [Shingle Crab](../monsters/shingle_crab.md) |
+| [The Cider Lanes](../maps/cider_lanes.md) | Road | 8-9 | 4 | [Orchard Snail](../monsters/orchard_snail.md), [Orchard Pig](../monsters/orchard_pig.md) |
+| [The Greenmarsh](../maps/the_greenmarsh.md) | Road | 10-11 | 5 | [Marsh Slime](../monsters/marsh_slime.md), [Mud Octopus](../monsters/mud_octopus.md), [Reed Snake](../monsters/reed_snake.md) |
+| [Shellbrook Mouth](../maps/shellbrook_mouth.md) | Road | 9-17 | 6 | [Shingle Crab](../monsters/shingle_crab.md), [Breaker Crab](../monsters/breaker_crab.md), [Orchard Pig](../monsters/orchard_pig.md) |
 
 ### Boarwood
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Boarwood](../maps/boarwood.md) | Hunting | 21-22 | 4 | [Rooting Piglet](../monsters/rooting_piglet.md), [Hedge Boar](../monsters/hedge_boar.md) |
+| [The Boarwood](../maps/boarwood.md) | Hunting | 21-22 | 4 | [Hedge Boar](../monsters/hedge_boar.md), [Rooting Piglet](../monsters/rooting_piglet.md) |
 | [The Last Stile](../maps/the_last_stile.md) | Hunting | - | 4 | - |
 | [The Deep Boarwood](../maps/boarwood_deep.md) | Hunting | 27 | 5 | [Tusker](../monsters/tusker.md) |
 | [Stilebrook Farm](../maps/stilebrook_farm.md) | Boss | 30 | 6 | - |
@@ -75,7 +75,7 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 
 | Map | Kind | Levels | Difficulty | Monsters |
 |---|---|---|---|---|
-| [The Humming Trail](../maps/humming_trail.md) | Hunting | 31-33 | 6 | [Hoarder Shroom](../monsters/hoarder_shroom.md), [Horny Mushroom](../monsters/deepwood_horny.md) |
+| [The Humming Trail](../maps/humming_trail.md) | Hunting | 31-33 | 6 | [Horny Mushroom](../monsters/deepwood_horny.md), [Hoarder Shroom](../monsters/hoarder_shroom.md) |
 | [Windflower Glade](../maps/windflower_glade.md) | Hunting | 33-35 | 7 | [Windflower Cap](../monsters/windflower_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom.md) |
 | [The Bluecap Groves](../maps/bluecap_groves.md) | Hunting | 40 | 8 | [Bluecap](../monsters/bluecap.md) |
 | [The Bluecap Groves](../maps/bluecap_groves_deep.md) | Hunting | 40 | 8 | [Bluecap](../monsters/bluecap.md) |
@@ -89,8 +89,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 | [The Keep Road](../maps/keep_road.md) | Hunting | 53 | 10 | [Capguard](../monsters/capguard.md) |
 | [The Keep Road](../maps/keep_road_2.md) | Hunting | 53-55 | 11 | [Capguard](../monsters/capguard.md), [Spore Puff](../monsters/spore_puff.md) |
 | [The Battlements](../maps/battlements_1.md) | Hunting | 55-57 | 12 | [Spore Puff](../monsters/spore_puff.md), [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) |
-| [The Battlements](../maps/battlements_2.md) | Hunting | 55-61 | 12 | [Hoarder Shroom](../monsters/hoarder_shroom_keep.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Spore Puff](../monsters/spore_puff.md) |
-| [The Battlements](../maps/battlements_3.md) | Hunting | 57-61 | 12 | [Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) |
+| [The Battlements](../maps/battlements_2.md) | Hunting | 55-61 | 12 | [Spore Puff](../monsters/spore_puff.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md), [Hoarder Shroom](../monsters/hoarder_shroom_keep.md) |
+| [The Battlements](../maps/battlements_3.md) | Hunting | 57-61 | 12 | [Hoarder Shroom](../monsters/hoarder_shroom_keep.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md) |
 | [The Inner Ward](../maps/inner_ward_1.md) | Hunting | 61-66 | 13 | [Crowncap](../monsters/crowncap.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md) |
 | [The Inner Ward](../maps/inner_ward_2.md) | Hunting | 61-66 | 13 | [Crowncap](../monsters/crowncap.md), [Wallcreeper Cap](../monsters/wallcreeper_cap.md) |
 | [The Crown Tower](../maps/crown_tower.md) | Boss | 70 | 14 | - |
@@ -226,6 +226,8 @@ Maps are grouped by the part of the town's lands they belong to. Levels are thos
 |---|---|---|
 | Welcome Home | Finish Kaldemor's story: every errand for the mayor, the baker and the clockkeeper. | Passive: [Kaldemor Stride](../skills/passives.md#kaldemor-stride) |
 | Bounty Hunter | Collect Ranger Hale's bounty. | Passive: [Field Hardened](../skills/passives.md#field-hardened) |
+| The Long Road | See every one of Kaldemor's troubles through: the last snail line, the Bluecap Mother, the Cap King, and Dottie's lamb brought home. | +150 [Honor](../systems/honor.md) |
+| Kaldemor's Own | Finish everything Kaldemor asks of you: its errands, its bounty and its long road. | +500 [Honor](../systems/honor.md) |
 
 ## Discoveries
 

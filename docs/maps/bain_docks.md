@@ -11,10 +11,10 @@
 
 ## Exits
 
-- [The Union Warehouse](../maps/bain_warehouse.md)
+- [Merchant Street](../maps/bain_merchant_street.md)
 - [The Customs House](../maps/bain_customs_house.md)
 - [The Dock Office](../maps/bain_dock_office.md)
-- [Bain Harbour](../maps/bain_harbour.md)
+- [The Union Warehouse](../maps/bain_warehouse.md)
 
 ## NPCs
 

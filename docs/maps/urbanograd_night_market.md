@@ -15,11 +15,11 @@
 
 ## NPCs
 
+- [Saucer](../npcs/saucer.md) (Tea Stall Keeper)
 - [Moth](../npcs/moth_kessel.md) (Keeper of the Night Market Stalls)
 - [Hester 'Ladle' Cray](../npcs/juniper_cray.md) (Skewer Seller)
 - [Crumb](../npcs/crumb.md) (Baker from the Farmlands)
 - [Remy Marlo](../npcs/kesh_marlo.md) (Smoked Fish Seller)
-- [Saucer](../npcs/saucer.md) (Tea Stall Keeper)
 - [Glim](../npcs/glim_kessel.md) (Paper Lantern Seller)
 - [Velvet](../npcs/velvet.md) (Trader of Curios)
 - [Nix](../npcs/nix.md) (Mask Maker)

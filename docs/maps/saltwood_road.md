@@ -14,16 +14,16 @@
 
 ## Exits
 
-- [Gull Heath](../maps/gull_heath.md)
 - [Gorse Downs](../maps/gorse_downs.md)
+- [Gull Heath](../maps/gull_heath.md)
 - [Strandwood Edge](../maps/strandwood_edge.md)
 
 ## Monsters
 
 | Monster | Level | Number |
 |---|---|---|
-| [Dark Stump](../monsters/dark_stump.md) | 17 | 14 |
-| [Zombie Mushroom](../monsters/zombie_mushroom.md) | 18 | 3 |
+| [Zombie Mushroom](../monsters/zombie_mushroom.md) | 18 | 8 |
+| [Dark Stump](../monsters/dark_stump.md) | 17 | 9 |
 
 ## Gathering
 

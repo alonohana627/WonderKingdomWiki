@@ -15,7 +15,7 @@
 ## Objectives
 
 1. Defeat 50 [Strand Fox](../monsters/strand_fox.md)
-2. Look at the prints at the last stump in [Goa Harbour](../maps/goa_harbour.md)
+2. Look at the prints at the last stump in [Gull Heath](../maps/gull_heath.md)
 
 ## Rewards
 

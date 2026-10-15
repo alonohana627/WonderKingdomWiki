@@ -22,6 +22,7 @@
 
 - 900 EXP
 - 600 mesos
+- [Copper Ore](../items/copper_ore.md) x4
 - [Orange Potion](../items/orange_potion.md) x10
 - +20 standing with Kaldemor
 

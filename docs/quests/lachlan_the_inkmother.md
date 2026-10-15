@@ -23,6 +23,7 @@
 - [Sounding Charm](../items/sounding_lantern_charm.md) x1
 - +50 standing with Goa Harbour
 - +200 standing with [Lachlan](../npcs/lachlan_adventurer.md)
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

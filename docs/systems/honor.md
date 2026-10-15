@@ -11,3 +11,119 @@ Honor is how the whole kingdom regards you, for deeds done for Wonder Kingdom ra
 | Defender | 1,500 | a Defender of the Kingdom |
 | Champion | 4,000 | a Champion of the Kingdom |
 | Hero of the Kingdom | 8,000 | a Hero of the Kingdom |
+
+## Where it comes from
+
+| Source | Honor |
+|---|---|
+| [The Clock Stopped](../quests/the_clock_stopped.md) | 100 |
+| [Quill's Test](../quests/quills_test.md) | 100 |
+| [The King in the Hollow](../quests/the_king_in_the_hollow.md) | 150 |
+| [Shells for the Wall](../quests/shells_for_the_wall.md) | 100 |
+| [The Last Snail Line](../quests/the_last_snail_line.md) | 200 |
+| [Home Again](../quests/home_again.md) | 200 |
+| [Where the King Came From](../quests/where_the_king_came_from.md) | 150 |
+| [The Old Wall's Marks](../quests/the_old_walls_marks.md) | 100 |
+| [Said Out Loud](../quests/said_out_loud.md) | 300 |
+| [Queen of the Downs](../quests/edric_queen_of_the_downs.md) | 100 |
+| [The Delver](../quests/ida_the_delver.md) | 150 |
+| [Longjaw](../quests/tristan_longjaw.md) | 150 |
+| [Old Cairn](../quests/edric_old_cairn.md) | 300 |
+| [The Blightstone](../quests/the_blightstone.md) | 100 |
+| [Old Grizzlemane](../quests/the_torn_crown.md) | 150 |
+| [The Knotbriar](../quests/the_knotbriar.md) | 200 |
+| [The Sap Rises](../quests/the_sap_rises.md) | 300 |
+| [The Bootbreaker](../quests/keziah_the_bootbreaker.md) | 100 |
+| [The Ripsaw](../quests/cobb_the_ripsaw.md) | 200 |
+| [The Deep Lantern](../quests/harbour_master_quenna_the_deep_lantern.md) | 300 |
+| [The Council Hears It](../quests/harbour_master_quenna_the_council_hears_it.md) | 200 |
+| [The Holdfast](../quests/kenwyn_the_holdfast.md) | 100 |
+| [The Inkmother](../quests/lachlan_the_inkmother.md) | 150 |
+| [Old Brushtail](../quests/torva_old_brushtail.md) | 100 |
+| [The Gapclaw](../quests/torva_the_gapclaw.md) | 150 |
+| [The Undertow](../quests/iska_the_undertow.md) | 250 |
+| [Not All of It](../quests/ailsa_not_all_of_it.md) | 300 |
+| [The First Report](../quests/hask_the_first_report.md) | 100 |
+| [The Second Report](../quests/hask_the_second_report.md) | 200 |
+| [The Gathering](../quests/hask_the_gathering.md) | 300 |
+| [Axes on the Descent](../quests/torvi_the_axe_stumps.md) | 100 |
+| [The Gloamwing](../quests/brindle_the_gloamwing.md) | 150 |
+| [Hackleback](../quests/hatch_hackleback.md) | 200 |
+| [Stormcrest](../quests/perch_stormcrest.md) | 250 |
+| [Dates and Lists](../quests/starling_dates_and_lists.md) | 300 |
+| [The Aristocrat Lock](../quests/hex_the_aristocrat_lock.md) | 100 |
+| [A Chip of Warm Stone](../quests/tinsel_a_chip_of_warm_stone.md) | 150 |
+| Accomplishment: The Harbour Kept (See Bain Harbour through: the Bootbreaker, the Ripsaw and the Deep Lantern put down, the council told, and the Saltgrace freed.) | 500 |
+| Accomplishment: Sawbill Season (Defeat 400 sawbills of the Outer Cut, of any kind.) | 100 |
+| Accomplishment: Lights Out (Defeat 500 lanternshades in the Holm Wood.) | 150 |
+| Accomplishment: Crab Catcher (Defeat 300 crabs of the Old Cut: bootcrabs and ironbacks.) | 100 |
+| Accomplishment: Keeper of the Lake (Defeat 400 of Shimmerwater's sick creatures.) | 100 |
+| Accomplishment: The Oak Cleared (Defeat 500 of the eyes and lupins of the High Shore and the Hollow Oak.) | 100 |
+| Accomplishment: Walker in the Gloaming (Defeat 600 of the creatures of the Deepening and the Twilit Wood.) | 100 |
+| Accomplishment: Friend of the Forest (Fairy Forest's story, its creatures and its old wing, all seen through.) | 500 |
+| Accomplishment: Friend of the Wardens (See all three of Goa Harbour's bands through to their ends: Old Brushtail, the Gapclaw and the Undertow.) | 500 |
+| Accomplishment: The First True Map (Help Lachlan finish the first true map of the Sounding Caves.) | 200 |
+| Accomplishment: Brush and Sinew (Defeat 200 Strand Foxes.) | 100 |
+| Accomplishment: Climbers' Bane (Defeat 300 Sea Newts.) | 100 |
+| Accomplishment: Salt and Stone (Defeat 300 Wrackgolems.) | 100 |
+| Accomplishment: A Regular at the Gap (Hand in each of Bethoc's three sighting boards.) | 150 |
+| Accomplishment: The Long Road (See every one of Kaldemor's troubles through: the last snail line, the Bluecap Mother, the Cap King, and Dottie's lamb brought home.) | 150 |
+| Accomplishment: Kaldemor's Own (Finish everything Kaldemor asks of you: its errands, its bounty and its long road.) | 500 |
+| Accomplishment: Beast Breaker (Defeat Old Gnarl, Grimhorn and the Rootdrinker.) | 100 |
+| Accomplishment: Midbarium Completed (Finish the patrols, break the beasts, hold the cave and know every creature of the highlands.) | 500 |
+| Accomplishment: The Capital's Thanks (See Selsior through its troubles: the Downs' great hive, the thing in the Long Reach, the waking quarries and the Delver under the Old Quarter.) | 500 |
+| Accomplishment: The Whole City (See Old Grad's story through: the Gate Watch's nights, Hatch's hunt, Perch's message carried to the Highbeacon, Starling's lists, and the warm stone brought up from Low Grad.) | 500 |
+| [Queen Amberwing](../bosses/queen_amberwing.md) (Normal, first clear) | 150 |
+| [Queen Amberwing](../bosses/queen_amberwing.md) (Hard, first clear) | 300 |
+| [The Delver](../bosses/delver.md) (Normal, first clear) | 150 |
+| [The Delver](../bosses/delver.md) (Hard, first clear) | 300 |
+| [Longjaw](../bosses/longjaw.md) (Normal, first clear) | 150 |
+| [Longjaw](../bosses/longjaw.md) (Hard, first clear) | 300 |
+| [Old Cairn, the Ancient of the Quarries](../bosses/old_cairn.md) (Normal, first clear) | 150 |
+| [Old Cairn, the Ancient of the Quarries](../bosses/old_cairn.md) (Hard, first clear) | 300 |
+| [The Snail King](../bosses/snail_king.md) (Normal, first clear) | 100 |
+| [The Snail King](../bosses/snail_king.md) (Hard, first clear) | 200 |
+| [Gnarltusk](../bosses/gnarltusk.md) (Normal, first clear) | 150 |
+| [Gnarltusk](../bosses/gnarltusk.md) (Hard, first clear) | 300 |
+| [The Bluecap Mother](../bosses/bluecap_mother.md) (Normal, first clear) | 150 |
+| [The Bluecap Mother](../bosses/bluecap_mother.md) (Hard, first clear) | 300 |
+| [The Cap King](../bosses/cap_king.md) (Normal, first clear) | 150 |
+| [The Cap King](../bosses/cap_king.md) (Hard, first clear) | 300 |
+| [Hollowmaw](../bosses/hollowmaw.md) (Normal, first clear) | 150 |
+| [Old Gnarl](../bosses/old_gnarl.md) (Normal, first clear) | 150 |
+| [Old Gnarl](../bosses/old_gnarl.md) (Hard, first clear) | 300 |
+| [Grimhorn](../bosses/grimhorn.md) (Normal, first clear) | 150 |
+| [Grimhorn](../bosses/grimhorn.md) (Hard, first clear) | 300 |
+| [The Rootdrinker](../bosses/rootdrinker.md) (Normal, first clear) | 150 |
+| [The Rootdrinker](../bosses/rootdrinker.md) (Hard, first clear) | 300 |
+| [The Blightstone](../bosses/blightstone.md) (Normal, first clear) | 150 |
+| [The Blightstone](../bosses/blightstone.md) (Hard, first clear) | 300 |
+| [The Unbound](../bosses/the_unbound.md) (Normal, first clear) | 150 |
+| [The Unbound](../bosses/the_unbound.md) (Hard, first clear) | 300 |
+| [Old Grizzlemane](../bosses/old_grizzlemane.md) (Normal, first clear) | 150 |
+| [Old Grizzlemane](../bosses/old_grizzlemane.md) (Hard, first clear) | 300 |
+| [The Knotbriar](../bosses/knotbriar.md) (Normal, first clear) | 150 |
+| [The Knotbriar](../bosses/knotbriar.md) (Hard, first clear) | 300 |
+| [The Gloamwing](../bosses/gloamwing.md) (Normal, first clear) | 150 |
+| [The Gloamwing](../bosses/gloamwing.md) (Hard, first clear) | 300 |
+| [The Warmstone Colossus](../bosses/warmstone_colossus.md) (Normal, first clear) | 150 |
+| [The Warmstone Colossus](../bosses/warmstone_colossus.md) (Hard, first clear) | 300 |
+| [Hackleback](../bosses/hackleback.md) (Normal, first clear) | 150 |
+| [Hackleback](../bosses/hackleback.md) (Hard, first clear) | 300 |
+| [Stormcrest](../bosses/stormcrest.md) (Normal, first clear) | 150 |
+| [Stormcrest](../bosses/stormcrest.md) (Hard, first clear) | 300 |
+| [The Bootbreaker](../bosses/bootbreaker.md) (Normal, first clear) | 150 |
+| [The Bootbreaker](../bosses/bootbreaker.md) (Hard, first clear) | 300 |
+| [The Holdfast](../bosses/holdfast.md) (Normal, first clear) | 100 |
+| [The Holdfast](../bosses/holdfast.md) (Hard, first clear) | 200 |
+| [The Ripsaw](../bosses/ripsaw.md) (Normal, first clear) | 150 |
+| [The Ripsaw](../bosses/ripsaw.md) (Hard, first clear) | 300 |
+| [The Deep Lantern](../bosses/deep_lantern.md) (Normal, first clear) | 150 |
+| [The Deep Lantern](../bosses/deep_lantern.md) (Hard, first clear) | 300 |
+| [Old Brushtail](../bosses/old_brushtail.md) (Normal, first clear) | 150 |
+| [Old Brushtail](../bosses/old_brushtail.md) (Hard, first clear) | 300 |
+| [The Inkmother](../bosses/inkmother.md) (Normal, first clear) | 150 |
+| [The Gapclaw](../bosses/gapclaw.md) (Normal, first clear) | 150 |
+| [The Gapclaw](../bosses/gapclaw.md) (Hard, first clear) | 300 |
+| [The Undertow](../bosses/undertow.md) (Normal, first clear) | 150 |
+| [The Undertow](../bosses/undertow.md) (Hard, first clear) | 300 |

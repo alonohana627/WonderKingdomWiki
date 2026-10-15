@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | 30 | 34,398 | 358 | 145 | 240 / 240 |
 
-First clear: +60 standing with Urbanograd
+First clear: 2,000 mesos, Passive: [Night Eyes](../skills/passives.md#urbanograd-night-eyes), +60 standing with Urbanograd, +150 [Honor](../systems/honor.md)
 
 Every clear: +10 standing with Urbanograd
 
@@ -54,7 +54,7 @@ Attacks:
 |---|---|---|---|---|
 | 33 | 34,398 | 358 | 145 | 240 / 240 |
 
-First clear: +100 standing with Urbanograd
+First clear: 4,000 mesos, [Dyna's Patchwork Coat](../items/dynas_patchwork_coat.md) x1, +100 standing with Urbanograd, +300 [Honor](../systems/honor.md)
 
 Every clear: +15 standing with Urbanograd
 

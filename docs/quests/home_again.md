@@ -23,6 +23,8 @@
 
 - 40,000 EXP
 - 6,000 mesos
+- Passive: [Good Neighbour](../skills/passives.md#kaldemor-good-neighbour)
+- +200 [Honor](../systems/honor.md)
 - +80 standing with Kaldemor
 
 ??? quote "Dialogue"

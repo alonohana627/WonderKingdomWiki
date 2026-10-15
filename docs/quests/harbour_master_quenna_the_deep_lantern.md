@@ -27,6 +27,7 @@
 - [Elixir](../items/elixir.md) x5
 - +60 standing with [Quenna](../npcs/harbour_master_quenna.md)
 - +25 standing with Bain Harbour
+- +300 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

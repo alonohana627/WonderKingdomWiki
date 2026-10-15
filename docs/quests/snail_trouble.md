@@ -22,6 +22,7 @@
 
 - 60 EXP
 - 100 mesos
+- [Copper Ore](../items/copper_ore.md) x3
 - +20 standing with Kaldemor
 
 ??? quote "Dialogue"

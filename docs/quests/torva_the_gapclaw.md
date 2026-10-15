@@ -25,6 +25,7 @@
 - [Sea-Herb Salve](../items/sea_herb_salve.md) x5
 - +60 standing with Goa Harbour
 - +200 standing with [Torva](../npcs/torva_hunter.md)
+- +150 [Honor](../systems/honor.md)
 
 ??? quote "Dialogue"
 

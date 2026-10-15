@@ -7,7 +7,7 @@
 |  |  |
 |---|---|
 | Town | [Goa Harbour](../towns/goa_harbour.md) |
-| Where | [Goa Harbour](../maps/goa_harbour.md) |
+| Where | [The Lantern Market](../maps/lantern_market.md) |
 | Story | [Brodie in the lore](../lore/people/goa-harbour/brodie_fishmonger.md) |
 | Services | Shop: [Brodie's Fish](../shops/brodies_fish.md) |
 

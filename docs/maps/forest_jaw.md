@@ -20,8 +20,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Jaw Crab](../monsters/jaw_crab.md) | 56 | 11 |
-| [Saltdead Stump](../monsters/saltdead_stump.md) | 52 | 6 |
+| [Jaw Crab](../monsters/jaw_crab.md) | 56 | 12 |
+| [Saltdead Stump](../monsters/saltdead_stump.md) | 52 | 12 |
 
 ## Gathering
 
