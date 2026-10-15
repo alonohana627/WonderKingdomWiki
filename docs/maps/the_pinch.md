@@ -25,8 +25,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Ironback Crab](../monsters/ironback_crab.md) | 28 | 9 |
-| [Bootcrab](../monsters/bootcrab.md) | 22 | 5 |
+| [Ironback Crab](../monsters/ironback_crab.md) | 28 | 13 |
+| [Bootcrab](../monsters/bootcrab.md) | 22 | 7 |
 
 ## Discoveries
 

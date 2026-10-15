@@ -21,8 +21,8 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Spitting Sawbill](../monsters/spitting_sawbill.md) | 43 | 9 |
-| [Sawbill](../monsters/sawbill.md) | 38 | 4 |
+| [Spitting Sawbill](../monsters/spitting_sawbill.md) | 43 | 14 |
+| [Sawbill](../monsters/sawbill.md) | 38 | 6 |
 
 ## Gathering
 
