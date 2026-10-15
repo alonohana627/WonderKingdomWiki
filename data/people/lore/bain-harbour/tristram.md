@@ -12,6 +12,12 @@ Captain Corwin of the Heron is his regular employer. Corwin is the most careful 
 
 On shore he works with Keziah, the sword for hire who sails with Captain Seraphine. They met in her first week in the harbour, when the same captain turned them both down on the same morning, and that afternoon they cleared the rocks below the headland of crabs big enough to take a boot off. She watches everything and he waits for everything, and they have been partners since. She is the only person who can make him laugh on purpose. He has noticed that she goes grey as a sail every time she steps aboard a ship. He has not mentioned it, and he will not.
 
+### The spear
+
+On the docks Tristram is the man Warriors are sent to when they want to fight with a spear. He has never called himself a teacher, and he has never had a pupil for long, but he has spent his life with a long shaft in his hands at the bow of a moving ship, and that is the whole of what the Spearman's way asks: reach, patience and knowing exactly where you stand. A Warrior who has reached the thirtieth year of their training and asks him to teach it gets a long look, a nod and a harpoon to hold for an hour without moving.
+
+The trial comes after the hour. Tristram sends the Warrior along the Inner Cut to the ironback crabs in the timber ponds, then into the holds of the old wreck after the mimics that hide among the cargo, and last out to the Outer Cut, where the sawbill fry run in the shallows faster than a blade can follow. He does not care how many they kill. He cares whether they kept the reach, struck from where they stood, and never let anything come inside the point. When it is done he says "good" once, which from Tristram is a speech, and Keziah, who has seen it, says the Warrior should take it as a medal.
+
 ### Nerissa
 
 Tristram's sweetheart is Nerissa, the pearl diver, who is fearless, quiet and happiest underwater. They suit each other: neither of them says more than they need to, and they can sit together on the harbour wall for an evening without saying anything at all. On her last dive beyond the harbour wall, Nerissa saw something move in the dark below the reef, and she has not gone down since. She will not say why, even to him. Tristram has not pressed her. It frightens him more than anything he has seen from the bow, because he has never known her afraid of the water.
