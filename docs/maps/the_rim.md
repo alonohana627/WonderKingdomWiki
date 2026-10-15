@@ -24,9 +24,9 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Whipshade](../monsters/whipshade.md) | 57 | 5 |
-| [Glimshade](../monsters/glimshade.md) | 66 | 4 |
-| [Hookshade](../monsters/hookshade.md) | 62 | 4 |
+| [Whipshade](../monsters/whipshade.md) | 57 | 6 |
+| [Glimshade](../monsters/glimshade.md) | 66 | 5 |
+| [Hookshade](../monsters/hookshade.md) | 62 | 5 |
 
 ## Discoveries
 

@@ -22,7 +22,7 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Whipshade](../monsters/whipshade.md) | 57 | 11 |
+| [Whipshade](../monsters/whipshade.md) | 57 | 14 |
 
 ## Gathering
 

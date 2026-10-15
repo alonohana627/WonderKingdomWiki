@@ -21,7 +21,7 @@
 
 | Monster | Level | Number |
 |---|---|---|
-| [Glimshade](../monsters/glimshade.md) | 66 | 9 |
+| [Glimshade](../monsters/glimshade.md) | 66 | 18 |
 
 ## Gathering
 
